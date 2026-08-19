@@ -3,66 +3,86 @@
 
   "hipercompetencia": [
     {
-      "tema": "Dólar y mercado cambiario",
+      "tema": "El dólar y las nuevas medidas económicas",
       "prioridad": 1,
-      "total_notas": 8,
+      "total_notas": 18,
       "cantidad_medios": 5,
+
       "cobertura": {
-        "Perfil": 1,
-        "La Nación": 2,
-        "Clarín": 2,
-        "Cronista": 1,
-        "Ámbito": 2
+        "Perfil": 2,
+        "La Nación": 4,
+        "Clarín": 5,
+        "Infobae": 4,
+        "Ámbito": 3
       },
-      "insight": "Es una de las temáticas con mayor volumen y presencia de medios. La competencia concentra varias publicaciones sobre el mismo eje.",
+
+      "por_que_importa": "Es uno de los temas con mayor volumen de cobertura del día y atraviesa la agenda económica y de servicios.",
+
+      "insight": "La competencia está abordando el tema desde cotización, medidas oficiales, impacto en los mercados y recomendaciones para ahorristas.",
+
+      "accion_sugerida": "Buscar un enfoque diferencial centrado en cómo las medidas impactan concretamente en empresas, consumidores o ahorristas.",
+
+      "enfoques_sugeridos": [
+        "Qué cambió y cómo impacta en el bolsillo",
+        "Qué opciones tienen hoy los ahorristas",
+        "Las claves para entender la nueva medida"
+      ],
+
       "ejemplos": [
         {
+          "medio": "Clarín",
+          "titulo": "Dólar hoy: las claves que siguen los mercados tras las nuevas medidas",
+          "link": "https://www.clarin.com/"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles",
+          "titulo": "Qué esperan los analistas para el dólar después de los anuncios",
           "link": "https://www.lanacion.com.ar/"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Dólar hoy: cuál es el precio en bancos y casas de cambio",
+          "titulo": "Los mercados reaccionan a las nuevas decisiones económicas",
           "link": "https://www.ambito.com/"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles",
-          "link": "https://www.cronista.com/"
         }
       ]
     },
 
     {
-      "tema": "Política nacional",
+      "tema": "La agenda política del Gobierno",
       "prioridad": 2,
-      "total_notas": 7,
+      "total_notas": 14,
       "cantidad_medios": 5,
+
       "cobertura": {
-        "Perfil": 0,
-        "La Nación": 2,
-        "Clarín": 2,
-        "Página 12": 1,
-        "Ámbito": 1,
-        "Infobae": 1
+        "Perfil": 3,
+        "La Nación": 3,
+        "Clarín": 3,
+        "Página 12": 2,
+        "Infobae": 3
       },
-      "insight": "La temática presenta una cobertura amplia de la competencia mientras Perfil no registra publicaciones en el conjunto analizado.",
+
+      "por_que_importa": "La actividad política concentra publicaciones de los principales medios y genera múltiples enfoques sobre un mismo hecho.",
+
+      "insight": "Hay alta competencia, pero los medios están priorizando declaraciones, internas y consecuencias políticas.",
+
+      "accion_sugerida": "Identificar un ángulo propio que aporte contexto y permita diferenciar la cobertura de Perfil.",
+
+      "enfoques_sugeridos": [
+        "Quiénes ganan y quiénes pierden con la decisión",
+        "Las claves políticas detrás del anuncio",
+        "Qué puede pasar en los próximos días"
+      ],
+
       "ejemplos": [
         {
-          "medio": "Clarín",
-          "titulo": "El Gobierno analiza nuevas medidas políticas",
-          "link": "https://www.clarin.com/"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El oficialismo define su estrategia",
-          "link": "https://www.lanacion.com.ar/"
-        },
-        {
           "medio": "Infobae",
-          "titulo": "Las claves políticas de la jornada",
+          "titulo": "El Gobierno prepara nuevos anuncios y crece la expectativa política",
           "link": "https://www.infobae.com/"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "La nueva discusión que atraviesa al oficialismo",
+          "link": "https://www.pagina12.com.ar/"
         }
       ]
     }
@@ -70,30 +90,81 @@
 
   "perfil_pierde": [
     {
-      "tema": "Economía y actividad",
-      "total_notas": 6,
+      "tema": "Energía y Vaca Muerta",
+      "prioridad": 1,
+      "total_notas": 11,
+      "cantidad_medios": 5,
+
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 2,
-        "Clarín": 1,
-        "Cronista": 2
+        "La Nación": 3,
+        "Clarín": 2,
+        "Cronista": 3,
+        "Ámbito": 2
       },
-      "brecha_perfil": 4,
-      "medios_que_mas_publicaron": [
-        "La Nación",
-        "Cronista"
+
+      "por_que_importa": "Es una temática económica y productiva con presencia sostenida en varios medios.",
+
+      "insight": "Perfil tiene una producción menor frente al volumen conjunto de los competidores.",
+
+      "accion_sugerida": "Preparar una nota explicativa sobre el impacto de las inversiones y los cambios regulatorios en proyectos energéticos.",
+
+      "enfoques_sugeridos": [
+        "Qué proyectos avanzan y cuáles están en riesgo",
+        "Cómo impactan las inversiones en la economía",
+        "El nuevo escenario para Vaca Muerta"
       ],
-      "insight": "Perfil registra una producción menor que los principales competidores en esta temática.",
+
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "La economía enfrenta nuevos desafíos",
-          "link": "https://www.lanacion.com.ar/"
+          "medio": "Cronista",
+          "titulo": "Las inversiones que cambian el escenario energético",
+          "link": "https://www.cronista.com/"
         },
         {
-          "medio": "Cronista",
-          "titulo": "Las empresas anticipan cambios en la actividad",
-          "link": "https://www.cronista.com/"
+          "medio": "La Nación",
+          "titulo": "Vaca Muerta y los nuevos proyectos que mira el mercado",
+          "link": "https://www.lanacion.com.ar/"
+        }
+      ]
+    },
+
+    {
+      "tema": "Salud y avances científicos",
+      "prioridad": 2,
+      "total_notas": 9,
+      "cantidad_medios": 4,
+
+      "cobertura": {
+        "Perfil": 0,
+        "Infobae": 3,
+        "Página 12": 2,
+        "Clarín": 2,
+        "La Nación": 2
+      },
+
+      "por_que_importa": "Los avances científicos permiten desarrollar notas explicativas con potencial de interés general.",
+
+      "insight": "Perfil no aparece entre los medios que desarrollaron esta temática.",
+
+      "accion_sugerida": "Crear una nota que explique el avance científico y sus posibles consecuencias para pacientes y tratamientos.",
+
+      "enfoques_sugeridos": [
+        "Qué descubrieron los científicos",
+        "Para qué enfermedades podría servir",
+        "Qué falta para que llegue a los pacientes"
+      ],
+
+      "ejemplos": [
+        {
+          "medio": "Infobae",
+          "titulo": "El avance científico que abre nuevas posibilidades para la medicina",
+          "link": "https://www.infobae.com/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Una investigación que genera expectativa entre los especialistas",
+          "link": "https://www.clarin.com/"
         }
       ]
     }
@@ -101,30 +172,41 @@
 
   "sin_cobertura_perfil": [
     {
-      "tema": "Energía y Vaca Muerta",
-      "total_notas": 4,
+      "tema": "Tecnología y nuevos desarrollos de inteligencia artificial",
+      "prioridad": 1,
+      "total_notas": 7,
+      "cantidad_medios": 4,
+
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
+        "Infobae": 3,
+        "La Nación": 2,
         "Clarín": 1,
-        "Ámbito": 2
+        "Cronista": 1
       },
-      "medios_que_cubrieron": [
-        "La Nación",
-        "Clarín",
-        "Ámbito"
+
+      "por_que_importa": "Es una temática con aplicaciones concretas para usuarios y empresas.",
+
+      "insight": "Varios medios publicaron sobre el tema mientras Perfil no registra cobertura en este conjunto de datos.",
+
+      "accion_sugerida": "Buscar un enfoque práctico que explique cómo la novedad puede afectar el trabajo, el consumo o la vida cotidiana.",
+
+      "enfoques_sugeridos": [
+        "Qué cambia para los usuarios",
+        "Cómo funciona la nueva herramienta",
+        "Quiénes pueden beneficiarse"
       ],
-      "insight": "Perfil no registra publicaciones sobre una temática que sí aparece en distintos medios de la competencia.",
+
       "ejemplos": [
         {
-          "medio": "Ámbito",
-          "titulo": "Vaca Muerta: nuevas inversiones y proyectos",
-          "link": "https://www.ambito.com/"
+          "medio": "Infobae",
+          "titulo": "La nueva herramienta de inteligencia artificial que sorprende a los usuarios",
+          "link": "https://www.infobae.com/"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Vaca Muerta suma nuevos anuncios",
-          "link": "https://www.lanacion.com.ar/"
+          "medio": "Cronista",
+          "titulo": "Las empresas aceleran la incorporación de inteligencia artificial",
+          "link": "https://www.cronista.com/"
         }
       ]
     }
@@ -132,26 +214,40 @@
 
   "oportunidades": [
     {
-      "tema": "Nueva tecnología médica",
-      "tipo": "Ciencia y salud",
-      "total_notas": 3,
+      "tema": "Consumo y precios cotidianos",
+      "tipo": "Servicio",
+
+      "total_notas": 4,
+
       "cobertura": {
         "Perfil": 0,
+        "Clarín": 2,
         "Infobae": 1,
-        "Página 12": 1,
         "Ámbito": 1
       },
-      "motivo_oportunidad": "La temática aparece en pocos medios y puede permitir desarrollar un enfoque propio a partir de la información disponible en las publicaciones analizadas.",
+
+      "por_que_importa": "El tema tiene impacto directo en la vida cotidiana y permite desarrollar contenidos de utilidad.",
+
+      "motivo_oportunidad": "Perfil no tiene cobertura y la competencia todavía presenta un volumen limitado, lo que deja espacio para un enfoque propio.",
+
+      "accion_sugerida": "Desarrollar una guía clara con precios, cambios y recomendaciones para los consumidores.",
+
+      "enfoques_sugeridos": [
+        "Cuánto cuesta ahora y qué cambió",
+        "Qué productos aumentaron más",
+        "Cómo ahorrar frente a los nuevos precios"
+      ],
+
       "ejemplos": [
         {
-          "medio": "Infobae",
-          "titulo": "Una nueva tecnología médica genera expectativas",
-          "link": "https://www.infobae.com/"
+          "medio": "Clarín",
+          "titulo": "Los precios que cambiaron esta semana y cómo impactan en el bolsillo",
+          "link": "https://www.clarin.com/"
         },
         {
-          "medio": "Página 12",
-          "titulo": "Avances científicos que podrían cambiar la medicina",
-          "link": "https://www.pagina12.com.ar/"
+          "medio": "Ámbito",
+          "titulo": "El consumo enfrenta nuevos cambios en los precios",
+          "link": "https://www.ambito.com/"
         }
       ]
     }
@@ -159,63 +255,89 @@
 
   "discover": [
     {
-      "tema": "Nueva tecnología médica",
+      "tema": "Un avance científico con impacto en tratamientos médicos",
+
       "tipo_de_oportunidad": "Ciencia y salud",
+
+      "total_notas": 5,
+
       "cobertura": {
         "Perfil": 0,
-        "Infobae": 1,
-        "Página 12": 1,
-        "Ámbito": 1
+        "Infobae": 2,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Página 12": 1
       },
+
+      "por_que_importa": "Combina ciencia, salud y una posible aplicación concreta para las personas.",
+
+      "motivo": "La temática permite desarrollar una explicación accesible a partir de un avance científico observado en los RSS.",
+
+      "accion_sugerida": "Explicar qué ocurrió, cómo funciona el avance y qué implicancias podría tener.",
+
+      "enfoques_sugeridos": [
+        "El descubrimiento explicado de manera simple",
+        "Qué podría cambiar para los pacientes",
+        "Qué dicen los especialistas sobre el avance"
+      ],
+
       "ejemplos": [
         {
           "medio": "Infobae",
-          "titulo": "Una nueva tecnología médica genera expectativas",
+          "titulo": "El avance científico que abre una nueva puerta para la medicina",
           "link": "https://www.infobae.com/"
         },
         {
-          "medio": "Página 12",
-          "titulo": "Avances científicos que podrían cambiar la medicina",
-          "link": "https://www.pagina12.com.ar/"
+          "medio": "La Nación",
+          "titulo": "La investigación que genera expectativa entre los científicos",
+          "link": "https://www.lanacion.com.ar/"
         }
-      ],
-      "motivo": "Combina ciencia, salud y novedad, con un tema que puede resultar de interés para una audiencia amplia."
+      ]
     }
   ],
 
   "fortalezas_perfil": [
     {
-      "tema": "Tema donde Perfil lidera",
-      "perfil": 4,
-      "competencia_total": 2,
+      "tema": "Análisis político",
+
+      "perfil": 5,
+
+      "competencia_total": 8,
+
       "diferencia": 2,
+
       "cobertura": {
-        "Perfil": 4,
-        "La Nación": 1,
-        "Clarín": 1
+        "Perfil": 5,
+        "La Nación": 2,
+        "Clarín": 2,
+        "Infobae": 2,
+        "Página 12": 2
       },
-      "insight": "Perfil registra mayor cantidad de publicaciones que el conjunto de competidores analizados en esta temática."
+
+      "por_que_importa": "Perfil tiene una presencia destacada dentro de esta temática.",
+
+      "insight": "La producción propia supera individualmente a cada uno de los competidores analizados."
     }
   ],
 
   "prioridades_del_dia": [
     {
       "prioridad": 1,
-      "tema": "Política nacional",
-      "motivo": "La competencia publicó varias notas mientras Perfil no registra cobertura.",
-      "accion_sugerida": "Revisar si existe una oportunidad de cobertura propia sobre el tema."
+      "tema": "Energía y Vaca Muerta",
+      "motivo": "Perfil presenta una cobertura menor frente a varios competidores.",
+      "accion_sugerida": "Publicar una nota explicativa con foco en inversiones, proyectos y consecuencias económicas."
     },
     {
       "prioridad": 2,
-      "tema": "Dólar y mercado cambiario",
-      "motivo": "Es una de las temáticas con mayor volumen de publicaciones.",
-      "accion_sugerida": "Evaluar un enfoque diferencial respecto de la cobertura existente."
+      "tema": "Avances científicos y salud",
+      "motivo": "Perfil no registra cobertura mientras otros medios desarrollaron el tema.",
+      "accion_sugerida": "Preparar una nota explicativa que traduzca el avance científico para una audiencia general."
     },
     {
       "prioridad": 3,
-      "tema": "Energía y Vaca Muerta",
-      "motivo": "Perfil no registra cobertura y varios competidores sí publicaron.",
-      "accion_sugerida": "Analizar si corresponde incorporar el tema a la agenda del día."
+      "tema": "Tecnología e inteligencia artificial",
+      "motivo": "Existe cobertura en la competencia y Perfil no aparece en la temática.",
+      "accion_sugerida": "Buscar un enfoque práctico sobre el impacto de la tecnología en usuarios y empresas."
     }
   ]
 }
