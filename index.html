@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Radar Competencia Perfil</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="header">
+    <div>
+      <div class="logo">PERFIL</div>
+      <h1>Radar de competencia</h1>
+      <p id="fecha">Cargando análisis...</p>
+    </div>
+
+    <div class="header-status">
+      <span class="status-dot"></span>
+      Análisis actualizado
+    </div>
+  </header>
+
+
+  <main class="container">
+
+    <!-- RESUMEN -->
+    <section class="stats" id="stats">
+      <div class="stat-card">
+        <span>Temas hipercompetidos</span>
+        <strong id="total-hiper">-</strong>
+      </div>
+
+      <div class="stat-card danger">
+        <span>Brechas de Perfil</span>
+        <strong id="total-brechas">-</strong>
+      </div>
+
+      <div class="stat-card warning">
+        <span>Sin cobertura</span>
+        <strong id="total-sin-cobertura">-</strong>
+      </div>
+
+      <div class="stat-card success">
+        <span>Oportunidades</span>
+        <strong id="total-oportunidades">-</strong>
+      </div>
+    </section>
+
+
+    <!-- PRIORIDADES -->
+    <section class="section">
+      <div class="section-header">
+        <div>
+          <span class="eyebrow">QUÉ MIRAR HOY</span>
+          <h2>Prioridades editoriales</h2>
+        </div>
+      </div>
+
+      <div id="prioridades" class="prioridades-grid"></div>
+    </section>
+
+
+    <!-- TABS -->
+    <section class="section">
+
+      <div class="tabs">
+
+        <button class="tab active" data-tab="hipercompetencia">
+          🔥 Hipercompetencia
+        </button>
+
+        <button class="tab" data-tab="perfil_pierde">
+          🚨 Perfil pierde
+        </button>
+
+        <button class="tab" data-tab="sin_cobertura_perfil">
+          ⚠️ Sin cobertura
+        </button>
+
+        <button class="tab" data-tab="oportunidades">
+          💡 Oportunidades
+        </button>
+
+        <button class="tab" data-tab="discover">
+          📈 Audiencia
+        </button>
+
+        <button class="tab" data-tab="fortalezas_perfil">
+          💪 Fortalezas
+        </button>
+
+      </div>
+
+
+      <div id="contenido"></div>
+
+    </section>
+
+  </main>
+
+
+  <script src="app.js"></script>
+
+</body>
+</html>
