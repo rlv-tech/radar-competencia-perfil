@@ -2,7 +2,11 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
 
   <title>Radar Competencia Perfil</title>
 
@@ -11,97 +15,203 @@
 
 <body>
 
-  <header class="header">
-    <div>
-      <div class="logo">PERFIL</div>
-      <h1>Radar de competencia</h1>
-      <p id="fecha">Cargando análisis...</p>
+  <!-- =====================================
+       HEADER
+  ====================================== -->
+
+  <header>
+
+    <div class="header-content">
+
+      <h1>🚨 Radar Competencia Perfil</h1>
+
+      <p>
+        Reporte automático de estrategia editorial y brechas de cobertura
+      </p>
+
     </div>
 
-    <div class="header-status">
-      <span class="status-dot"></span>
-      Análisis actualizado
-    </div>
   </header>
 
 
-  <main class="container">
+  <!-- =====================================
+       CONTENIDO PRINCIPAL
+  ====================================== -->
 
-    <!-- RESUMEN -->
-    <section class="stats" id="stats">
-      <div class="stat-card">
-        <span>Temas hipercompetidos</span>
-        <strong id="total-hiper">-</strong>
+  <main>
+
+    <!-- FECHA -->
+
+    <div id="fecha" class="fecha">
+      Cargando análisis...
+    </div>
+
+
+    <!-- =====================================
+         RESUMEN
+    ====================================== -->
+
+    <section id="resumen-section">
+
+      <h2 class="section-title">
+        📊 Resumen del análisis
+      </h2>
+
+      <div id="resumen" class="cards-grid">
       </div>
 
-      <div class="stat-card danger">
-        <span>Brechas de Perfil</span>
-        <strong id="total-brechas">-</strong>
-      </div>
-
-      <div class="stat-card warning">
-        <span>Sin cobertura</span>
-        <strong id="total-sin-cobertura">-</strong>
-      </div>
-
-      <div class="stat-card success">
-        <span>Oportunidades</span>
-        <strong id="total-oportunidades">-</strong>
-      </div>
     </section>
 
 
-    <!-- PRIORIDADES -->
-    <section class="section">
-      <div class="section-header">
-        <div>
-          <span class="eyebrow">QUÉ MIRAR HOY</span>
-          <h2>Prioridades editoriales</h2>
-        </div>
+    <!-- =====================================
+         HIPERCOMPETENCIA
+    ====================================== -->
+
+    <section id="hipercompetencia-section">
+
+      <h2 class="section-title">
+        🔥 Temas que concentran la competencia
+      </h2>
+
+      <div
+        id="hipercompetencia"
+        class="cards-grid"
+      >
       </div>
 
-      <div id="prioridades" class="prioridades-grid"></div>
     </section>
 
 
-    <!-- TABS -->
-    <section class="section">
+    <!-- =====================================
+         PERFIL PIERDE
+    ====================================== -->
 
-      <div class="tabs">
+    <section id="perfil-pierde-section">
 
-        <button class="tab active" data-tab="hipercompetencia">
-          🔥 Hipercompetencia
-        </button>
+      <h2 class="section-title">
+        🚨 Brechas donde Perfil pierde
+      </h2>
 
-        <button class="tab" data-tab="perfil_pierde">
-          🚨 Perfil pierde
-        </button>
-
-        <button class="tab" data-tab="sin_cobertura_perfil">
-          ⚠️ Sin cobertura
-        </button>
-
-        <button class="tab" data-tab="oportunidades">
-          💡 Oportunidades
-        </button>
-
-        <button class="tab" data-tab="discover">
-          📈 Audiencia
-        </button>
-
-        <button class="tab" data-tab="fortalezas_perfil">
-          💪 Fortalezas
-        </button>
-
+      <div
+        id="perfil-pierde"
+        class="cards-grid"
+      >
       </div>
 
+    </section>
 
-      <div id="contenido"></div>
+
+    <!-- =====================================
+         SIN COBERTURA
+    ====================================== -->
+
+    <section id="sin-cobertura-section">
+
+      <h2 class="section-title">
+        ⚠️ Temas sin cobertura de Perfil
+      </h2>
+
+      <div
+        id="sin-cobertura"
+        class="cards-grid"
+      >
+      </div>
+
+    </section>
+
+
+    <!-- =====================================
+         OPORTUNIDADES
+    ====================================== -->
+
+    <section id="oportunidades-section">
+
+      <h2 class="section-title">
+        💡 Oportunidades de cobertura
+      </h2>
+
+      <div
+        id="oportunidades"
+        class="cards-grid"
+      >
+      </div>
+
+    </section>
+
+
+    <!-- =====================================
+         DISCOVER
+    ====================================== -->
+
+    <section id="discover-section">
+
+      <h2 class="section-title">
+        📈 Oportunidades de contenido amplio
+      </h2>
+
+      <div
+        id="discover"
+        class="cards-grid"
+      >
+      </div>
+
+    </section>
+
+
+    <!-- =====================================
+         FORTALEZAS
+    ====================================== -->
+
+    <section id="fortalezas-section">
+
+      <h2 class="section-title">
+        💪 Fortalezas de Perfil
+      </h2>
+
+      <div
+        id="fortalezas"
+        class="cards-grid"
+      >
+      </div>
+
+    </section>
+
+
+    <!-- =====================================
+         PRIORIDADES DEL DÍA
+    ====================================== -->
+
+    <section id="prioridades-section">
+
+      <h2 class="section-title">
+        🎯 Prioridades del día
+      </h2>
+
+      <div
+        id="prioridades"
+        class="prioridades"
+      >
+      </div>
 
     </section>
 
   </main>
 
+
+  <!-- =====================================
+       FOOTER
+  ====================================== -->
+
+  <footer>
+
+    Radar Competencia Perfil · Análisis automático basado exclusivamente en los RSS procesados
+
+  </footer>
+
+
+  <!-- =====================================
+       JAVASCRIPT
+  ====================================== -->
 
   <script src="app.js"></script>
 
