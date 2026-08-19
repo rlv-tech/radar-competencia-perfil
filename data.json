@@ -1,0 +1,221 @@
+{
+  "fecha_analisis": "19 de agosto de 2026",
+
+  "hipercompetencia": [
+    {
+      "tema": "Dólar y mercado cambiario",
+      "prioridad": 1,
+      "total_notas": 8,
+      "cantidad_medios": 5,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 2,
+        "Clarín": 2,
+        "Cronista": 1,
+        "Ámbito": 2
+      },
+      "insight": "Es una de las temáticas con mayor volumen y presencia de medios. La competencia concentra varias publicaciones sobre el mismo eje.",
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles",
+          "link": "https://www.lanacion.com.ar/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Dólar hoy: cuál es el precio en bancos y casas de cambio",
+          "link": "https://www.ambito.com/"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles",
+          "link": "https://www.cronista.com/"
+        }
+      ]
+    },
+
+    {
+      "tema": "Política nacional",
+      "prioridad": 2,
+      "total_notas": 7,
+      "cantidad_medios": 5,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 2,
+        "Clarín": 2,
+        "Página 12": 1,
+        "Ámbito": 1,
+        "Infobae": 1
+      },
+      "insight": "La temática presenta una cobertura amplia de la competencia mientras Perfil no registra publicaciones en el conjunto analizado.",
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "El Gobierno analiza nuevas medidas políticas",
+          "link": "https://www.clarin.com/"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El oficialismo define su estrategia",
+          "link": "https://www.lanacion.com.ar/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Las claves políticas de la jornada",
+          "link": "https://www.infobae.com/"
+        }
+      ]
+    }
+  ],
+
+  "perfil_pierde": [
+    {
+      "tema": "Economía y actividad",
+      "total_notas": 6,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 2,
+        "Clarín": 1,
+        "Cronista": 2
+      },
+      "brecha_perfil": 4,
+      "medios_que_mas_publicaron": [
+        "La Nación",
+        "Cronista"
+      ],
+      "insight": "Perfil registra una producción menor que los principales competidores en esta temática.",
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "La economía enfrenta nuevos desafíos",
+          "link": "https://www.lanacion.com.ar/"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Las empresas anticipan cambios en la actividad",
+          "link": "https://www.cronista.com/"
+        }
+      ]
+    }
+  ],
+
+  "sin_cobertura_perfil": [
+    {
+      "tema": "Energía y Vaca Muerta",
+      "total_notas": 4,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Ámbito": 2
+      },
+      "medios_que_cubrieron": [
+        "La Nación",
+        "Clarín",
+        "Ámbito"
+      ],
+      "insight": "Perfil no registra publicaciones sobre una temática que sí aparece en distintos medios de la competencia.",
+      "ejemplos": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Vaca Muerta: nuevas inversiones y proyectos",
+          "link": "https://www.ambito.com/"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Vaca Muerta suma nuevos anuncios",
+          "link": "https://www.lanacion.com.ar/"
+        }
+      ]
+    }
+  ],
+
+  "oportunidades": [
+    {
+      "tema": "Nueva tecnología médica",
+      "tipo": "Ciencia y salud",
+      "total_notas": 3,
+      "cobertura": {
+        "Perfil": 0,
+        "Infobae": 1,
+        "Página 12": 1,
+        "Ámbito": 1
+      },
+      "motivo_oportunidad": "La temática aparece en pocos medios y puede permitir desarrollar un enfoque propio a partir de la información disponible en las publicaciones analizadas.",
+      "ejemplos": [
+        {
+          "medio": "Infobae",
+          "titulo": "Una nueva tecnología médica genera expectativas",
+          "link": "https://www.infobae.com/"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "Avances científicos que podrían cambiar la medicina",
+          "link": "https://www.pagina12.com.ar/"
+        }
+      ]
+    }
+  ],
+
+  "discover": [
+    {
+      "tema": "Nueva tecnología médica",
+      "tipo_de_oportunidad": "Ciencia y salud",
+      "cobertura": {
+        "Perfil": 0,
+        "Infobae": 1,
+        "Página 12": 1,
+        "Ámbito": 1
+      },
+      "ejemplos": [
+        {
+          "medio": "Infobae",
+          "titulo": "Una nueva tecnología médica genera expectativas",
+          "link": "https://www.infobae.com/"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "Avances científicos que podrían cambiar la medicina",
+          "link": "https://www.pagina12.com.ar/"
+        }
+      ],
+      "motivo": "Combina ciencia, salud y novedad, con un tema que puede resultar de interés para una audiencia amplia."
+    }
+  ],
+
+  "fortalezas_perfil": [
+    {
+      "tema": "Tema donde Perfil lidera",
+      "perfil": 4,
+      "competencia_total": 2,
+      "diferencia": 2,
+      "cobertura": {
+        "Perfil": 4,
+        "La Nación": 1,
+        "Clarín": 1
+      },
+      "insight": "Perfil registra mayor cantidad de publicaciones que el conjunto de competidores analizados en esta temática."
+    }
+  ],
+
+  "prioridades_del_dia": [
+    {
+      "prioridad": 1,
+      "tema": "Política nacional",
+      "motivo": "La competencia publicó varias notas mientras Perfil no registra cobertura.",
+      "accion_sugerida": "Revisar si existe una oportunidad de cobertura propia sobre el tema."
+    },
+    {
+      "prioridad": 2,
+      "tema": "Dólar y mercado cambiario",
+      "motivo": "Es una de las temáticas con mayor volumen de publicaciones.",
+      "accion_sugerida": "Evaluar un enfoque diferencial respecto de la cobertura existente."
+    },
+    {
+      "prioridad": 3,
+      "tema": "Energía y Vaca Muerta",
+      "motivo": "Perfil no registra cobertura y varios competidores sí publicaron.",
+      "accion_sugerida": "Analizar si corresponde incorporar el tema a la agenda del día."
+    }
+  ]
+}
