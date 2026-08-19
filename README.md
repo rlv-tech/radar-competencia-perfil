@@ -1,0 +1,1 @@
+# radar-competencia-perfil
