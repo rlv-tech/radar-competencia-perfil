@@ -1,0 +1,353 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f6f8;
+  color: #202124;
+}
+
+.header {
+  background: #6286B1;
+  color: white;
+  padding: 35px 7%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  opacity: 0.8;
+}
+
+.header h1 {
+  margin: 8px 0;
+  font-size: 32px;
+}
+
+.header p {
+  margin: 0;
+  opacity: 0.85;
+}
+
+.header-status {
+  background: rgba(255,255,255,0.15);
+  padding: 12px 18px;
+  border-radius: 20px;
+  font-size: 13px;
+}
+
+.status-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: #8fd19e;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.container {
+  max-width: 1400px;
+  margin: auto;
+  padding: 35px 25px 70px;
+}
+
+
+/* =========================
+   TARJETAS SUPERIORES
+========================= */
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-bottom: 45px;
+}
+
+.stat-card {
+  background: white;
+  padding: 22px;
+  border-radius: 12px;
+  border-left: 5px solid #6286B1;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+.stat-card span {
+  display: block;
+  color: #5f6368;
+  font-size: 13px;
+}
+
+.stat-card strong {
+  display: block;
+  font-size: 34px;
+  margin-top: 8px;
+  color: #385A7C;
+}
+
+.stat-card.danger {
+  border-left-color: #C94C4C;
+}
+
+.stat-card.warning {
+  border-left-color: #B98520;
+}
+
+.stat-card.success {
+  border-left-color: #4D8B63;
+}
+
+
+/* =========================
+   SECCIONES
+========================= */
+
+.section {
+  margin-bottom: 50px;
+}
+
+.eyebrow {
+  color: #6286B1;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.section h2 {
+  margin: 5px 0 20px;
+  font-size: 25px;
+}
+
+
+/* =========================
+   PRIORIDADES
+========================= */
+
+.prioridades-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.prioridad-card {
+  background: white;
+  border-radius: 12px;
+  padding: 22px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+.prioridad-numero {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #6286B1;
+  color: white;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.prioridad-card h3 {
+  margin: 0 0 10px;
+  color: #385A7C;
+}
+
+.prioridad-card p {
+  color: #5f6368;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.accion {
+  background: #EAF0F6;
+  padding: 12px;
+  border-radius: 7px;
+  font-size: 13px;
+  margin-top: 15px;
+}
+
+
+/* =========================
+   TABS
+========================= */
+
+.tabs {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+}
+
+.tab {
+  border: none;
+  background: white;
+  padding: 11px 17px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #5f6368;
+}
+
+.tab:hover {
+  background: #EAF0F6;
+}
+
+.tab.active {
+  background: #6286B1;
+  color: white;
+}
+
+
+/* =========================
+   TEMAS
+========================= */
+
+.temas-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.tema-card {
+  background: white;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.06);
+}
+
+.tema-card h3 {
+  margin-top: 0;
+  color: #385A7C;
+  font-size: 20px;
+}
+
+.metricas {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 15px 0;
+}
+
+.metrica {
+  background: #EAF0F6;
+  padding: 8px 12px;
+  border-radius: 7px;
+  font-size: 12px;
+}
+
+.cobertura {
+  margin-top: 20px;
+}
+
+.cobertura h4,
+.insight h4,
+.ejemplos h4 {
+  font-size: 12px;
+  color: #385A7C;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.medio-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 13px;
+}
+
+.medio-row strong {
+  color: #6286B1;
+}
+
+
+/* =========================
+   INSIGHTS
+========================= */
+
+.insight {
+  margin-top: 20px;
+  background: #EAF0F6;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.insight p {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+
+/* =========================
+   EJEMPLOS
+========================= */
+
+.ejemplos {
+  margin-top: 20px;
+}
+
+.ejemplo {
+  border-top: 1px solid #eee;
+  padding: 12px 0;
+}
+
+.ejemplo-medio {
+  font-size: 11px;
+  color: #6286B1;
+  font-weight: bold;
+}
+
+.ejemplo a {
+  display: block;
+  color: #202124;
+  text-decoration: none;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.ejemplo a:hover {
+  color: #6286B1;
+}
+
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 900px) {
+
+  .stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .prioridades-grid,
+  .temas-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+}
+
+@media (max-width: 550px) {
+
+  .stats {
+    grid-template-columns: 1fr;
+  }
+
+  .container {
+    padding: 25px 15px;
+  }
+
+}
