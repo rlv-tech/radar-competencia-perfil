@@ -2,7 +2,12 @@ async function cargarDashboard() {
 
   try {
 
-    const response = await fetch('data.json');
+    const response = await fetch(
+      'data.json?t=' + new Date().getTime(),
+      {
+        cache: 'no-store'
+      }
+    );
 
     if (!response.ok) {
       throw new Error('No se pudo cargar data.json');
