@@ -1,13 +1,63 @@
 {
-  "fecha_analisis": "21 de agosto de 2026",
+  "fecha_analisis": "24 de agosto de 2026",
   "hipercompetencia": [
     {
-      "tema": "Investigación judicial contra Fernando Cerimedo por ataque y granja de bots",
+      "tema": "Reunión de Gabinete de Javier Milei en Casa Rosada tras 45 días",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 11,
-      "cantidad_medios": 6,
+      "total_notas": 8,
+      "cantidad_medios": 7,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 2,
+        "Clarín": 2,
+        "Infobae": 1,
+        "TN": 1,
+        "Página 12": 1,
+        "Ámbito": 0,
+        "Cronista": 1
+      },
+      "por_que_importa": "Es el regreso institucional del Presidente a la Casa Rosada tras un largo período de ausencia y marca el inicio de una semana clave para las reformas económicas en el Congreso.",
+      "insight": "Casi todos los medios cubren el hecho con transmisiones 'minuto a minuto' y enfoques centrados en la agenda legislativa de la semana.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Diferenciar la cobertura con un análisis de los ministros presentes y ausentes y el impacto real que espera el Ejecutivo en Diputados.",
+      "enfoques_sugeridos": [
+        "Radiografía del gabinete actual: quiénes ganaron peso en los 45 días sin reuniones",
+        "El mapa de las leyes económicas que Milei quiere destrabar en el Congreso esta semana"
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Milei volvió a reunir al Gabinete después de 45 días y busca aprobar leyes económicas en el regreso de las sesiones de Diputados",
+          "link": "https://www.perfil.com/noticias/politica/milei-vuelve-a-la-rosada-para-reunir-al-gabinete-y-buscara-que-en-la-vuelta-de-las-sesiones-diputados-apruebe-sus-leyes-economicas.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Milei se reúne con el Gabinete en Casa Rosada después de 45 días: discuten las reformas del Congreso",
+          "link": "https://www.clarin.com/politica/milei-vuelve-reunir-gabinete-casa-rosada-despues-45-dias-mira-reformas-congreso_0_LV3fJiG36N.html"
+        }
+      ]
+    },
+    {
+      "tema": "El dólar mayorista y blue superan la barrera de los $1.500",
+      "prioridad": 2,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 13,
+      "cantidad_medios": 7,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
@@ -18,46 +68,45 @@
         "Clarín": 1,
         "Infobae": 1,
         "TN": 1,
-        "Ámbito": 2,
-        "Página 12": 3,
-        "Cronista": 0
+        "Ámbito": 3,
+        "Cronista": 4
       },
-      "por_que_importa": "Es un tema que cruza política, justicia y tecnología (uso de bots), involucrando a un exasesor presidencial en un hecho de violencia.",
-      "insight": "Perfil lidera en el detalle técnico de la causa (chats y hallazgo de bots), mientras que Página 12 y Ámbito se centran en la acusación fiscal y la reacción del Presidente. La competencia está moviendo la noticia con actualizaciones de los allanamientos en Bolivia y Argentina.",
+      "por_que_importa": "La superación de la barrera psicológica de los $1.500 en el mercado mayorista genera presión sobre las tasas de interés y la inflación esperada.",
+      "insight": "Ámbito y Cronista lideran en volumen, enfocándose en las dudas del mercado sobre las tasas y el riesgo país, mientras Perfil mantiene cotizaciones estáticas.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener la primicia sobre el contenido de los chats y realizar un análisis sobre el funcionamiento técnico de la 'minigranja de bots' detectada.",
+      "accion_sugerida": "Producir un análisis sobre por qué el BCRA permite este deslizamiento y qué implica para los ahorristas la nueva brecha cambiaria.",
       "enfoques_sugeridos": [
-        "Radiografía de la minigranja de bots: cómo operaba el sistema de Cerimedo.",
-        "Cronología del ataque a Nadia Beller y los chats que complican al exasesor."
+        "Dólar a 1500: el impacto en los precios de productos importados y la canasta básica",
+        "Dudas en la City: por qué el mercado testea la resistencia del Gobierno con el dólar"
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Detuvieron a dos sospechosos por el ataque a Nadia Beller y encontraron una “minigranja de bots” en un allanamiento a Cerimedo",
-          "link": "https://www.perfil.com/noticias/judiciales/detuvieron-a-dos-sospechosos-por-el-ataque-a-nadia-beller-y-encontraron-una-minigranja-de-bots-en-un-allanamiento-a-cerimedo.phtml"
+          "titulo": "A cuánto cotiza el dólar blue hoy, lunes 24 de agosto",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-24-de-agosto.phtml"
         },
         {
-          "medio": "Página 12",
-          "titulo": "“La eliminamos o estamos jodidos”: el mensaje hallado en el celular de Cerimedo",
-          "link": "https://www.pagina12.com.ar/2026/08/21/la-eliminamos-o-estamos-jodidos-el-mensaje-hallado-en-el-celular-de-cerimedo/"
+          "medio": "Ámbito",
+          "titulo": "El dólar mayorista supera la barrera de los $1.500 y crecen las dudas sobre las tasas",
+          "link": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-prueba-la-barrera-1500-y-crecen-las-dudas-las-tasas-n6314018"
         },
         {
-          "medio": "TN",
-          "titulo": "La Policía de Bolivia detuvo a dos sospechosos por el intento de femicidio contra la expareja de Fernando Cerimedo",
-          "link": "https://tn.com.ar/politica/2026/08/21/allanaron-una-casa-de-cambio-y-otras-propiedades-vinculadas-a-cerimedo-detuvieron-a-dos-personas-y-hay-un-exmilitar-profugo/"
+          "medio": "Cronista",
+          "titulo": "Riesgo país en cuenta regresiva: bajó a 500 puntos, suben los bonos y los ADR en Nueva York",
+          "link": "https://www.cronista.com/finanzas-mercados/riesgo-pais-en-cuenta-regresiva-toco-500-puntos-suben-los-bonos-y-los-adr-en-nueva-york/"
         }
       ]
     },
     {
-      "tema": "Impacto y récords del fenómeno El Niño 2026-2027",
-      "prioridad": 2,
+      "tema": "Declaraciones judiciales por el caso Nadia Beller y Fernando Cerimedo en Bolivia",
+      "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 10,
-      "cantidad_medios": 5,
+      "total_notas": 6,
+      "cantidad_medios": 6,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
@@ -65,232 +114,219 @@
       "cobertura": {
         "Perfil": 1,
         "La Nación": 1,
-        "Clarín": 5,
-        "Infobae": 2,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "Las proyecciones climáticas advierten sobre un 2027 récord en calor y riesgos de inundaciones masivas en zonas productivas.",
-      "insight": "Clarín está dominando la cobertura con un enfoque de servicio y riesgo regional (ciudades bajo el agua), mientras Perfil tiene un enfoque más general sobre la intensidad récord del fenómeno.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Producir un informe especial sobre el impacto de las inundaciones en las provincias del Litoral, conectando con las notas de NEA ya publicadas.",
-      "enfoques_sugeridos": [
-        "El Niño en Buenos Aires: las ciudades con mayor riesgo de inundación este verano.",
-        "Guía de preparación para productores: cómo mitigar el impacto del Súper Niño."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "El Niño 2026 alcanza una intensidad récord y podría convertir a 2027 en el año más caluroso de la historia",
-          "link": "https://www.perfil.com/noticias/sociedad/el-nino-2026-alcanza-una-intensidad-record-y-podria-convertir-a-2027-en-el-ano-mas-caluroso-de-la-historia.phtml"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "¿Pueden quedar ciudades bonaerenses bajo el agua por el \"Súper Niño\"?",
-          "link": "https://www.clarin.com/sociedad/pueden-quedar-ciudades-bonaerenses-agua-super-nino-provincia-prepara-peor_0_GOgv70hWMr.html"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Hidroituango podrá aumentar el llenado del embalse para prepararse para el fenómeno El Niño: esto dijo el ministro de Ambiente",
-          "link": "https://www.infobae.com/colombia/2026/08/21/hidroituango-podra-aumentar-el-llenado-del-embalse-para-prepararse-para-el-fenomeno-el-nino-esto-dijo-el-ministro-de-ambiente/"
-        }
-      ]
-    },
-    {
-      "tema": "Aumento de la morosidad y endeudamiento de las familias",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 8,
-      "cantidad_medios": 6,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 2,
-        "La Nación": 1,
         "Clarín": 1,
-        "Ámbito": 2,
-        "Cronista": 1,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 1,
         "Página 12": 1
       },
-      "por_que_importa": "Es un indicador crítico de la situación social que afecta el consumo y la estabilidad del sistema financiero.",
-      "insight": "Perfil tiene una ventaja con datos regionales de Corrientes, pero la competencia (Clarín/Página 12) está nacionalizando el tema mediante declaraciones políticas de Kicillof contra el modelo de Milei.",
+      "por_que_importa": "Es un caso de repercusión internacional que vincula a un consultor cercano al oficialismo con un ataque violento en el extranjero.",
+      "insight": "Perfil tiene una ventaja competitiva con la entrevista a Evo Morales, pero los competidores están siguiendo más de cerca el minuto a minuto de la declaración de los sicarios detenidos.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Unificar los datos regionales de Perfil con el panorama nacional para crear una nota de análisis sobre el 'estrés' crediticio proyectado para 2027.",
+      "accion_sugerida": "Reforzar la cobertura de los testimonios de los detenidos en Bolivia para no perder la primicia judicial.",
       "enfoques_sugeridos": [
-        "El mapa de la deuda familiar: qué provincias están más asfixiadas económicamente.",
-        "Fintech vs. Bancos: la pelea por el control de la mora en un mercado recesivo."
+        "Caso Beller: qué confesaron los sicarios sobre la autoría intelectual del ataque",
+        "La conexión Cerimedo: las pruebas que maneja la justicia boliviana contra el consultor"
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Advierten que el 92% de las familias tiene deudas e impulsan leyes de protección",
-          "link": "https://www.perfil.com/noticias/nea/advierten-que-el-92-de-las-familias-tiene-deudas-e-impulsan-leyes-de-proteccion.phtml"
+          "titulo": "Evo Morales: \"Cerimedo quería culparme a mí del asesinato de su mujer\"",
+          "link": "https://www.perfil.com/noticias/modo-fontevecchia/evo-morales-cerimedo-queria-culparme-a-mi-del-asesinato-de-su-mujer-modof.phtml"
         },
         {
           "medio": "Clarín",
-          "titulo": "\"Sí hay una pistola en la cabeza\": Kicillof en una cruzada contra Milei por el endeudamiento y la morosidad de las familias",
-          "link": "https://www.clarin.com/politica/pistola-cabeza-kicillof-cruzada-milei-endeudamiento-morosidad-familias_0_KZl9eQ58r8.html"
+          "titulo": "Declaran dos detenidos por el ataque a Nadia Beller en Santa Cruz de la Sierra",
+          "link": "https://www.clarin.com/politica/declaran-detenidos-ataque-nadia-beller-santa-cruz-sierra_0_eJcSZVe1n3.html"
         },
         {
           "medio": "Ámbito",
-          "titulo": "La morosidad frena la mitad del crédito en pesos y el mercado advierte por más episodios de \"estrés\" en 2027",
-          "link": "https://www.ambito.com/economia/la-morosidad-frena-la-mitad-del-credito-pesos-y-el-mercado-advierte-mas-episodios-estres-2027-n6313106"
+          "titulo": "Caso Fernando Cerimedo: declaran dos detenidos en Bolivia por el ataque a Nadia Beller",
+          "link": "https://www.ambito.com/informacion-general/caso-fernando-cerimedo-declaran-dos-detenidos-bolivia-el-ataque-nadia-beller-n6314039"
         }
       ]
     }
   ],
   "perfil_pierde": [
     {
-      "tema": "Salud, Psicología y Calidad de Vida (Servicio)",
+      "tema": "Adjudicación y privatización de rutas nacionales por 20 años",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 18,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 18,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 15,
-        "Clarín": 3
-      },
-      "por_que_importa": "Es contenido de alta permanencia y utilidad que genera fidelidad de audiencia y responde a búsquedas de bienestar.",
-      "insight": "La Nación tiene una producción industrial de entrevistas con expertos (neurólogos, psicólogos, nutricionistas). Perfil no tiene presencia en esta temática hoy, perdiendo una gran oportunidad de tráfico de nicho.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Desarrollar una columna de 'Bienestar' con expertos que analicen temas de salud mental y longevidad.",
-      "enfoques_sugeridos": [
-        "Longevidad activa: consejos de neurólogos para mantener el cerebro joven.",
-        "Cómo gestionar la ansiedad en 5 minutos: técnicas avaladas por la psicología."
-      ],
-      "medios_que_mas_publicaron": [
-        "La Nación",
-        "Clarín"
-      ],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Conrado Estol, neurólogo: “Dos tercios de las personas llegan y pasan sus últimos 10 años de vida en mal o muy mal estado de salud”",
-          "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-dos-tercios-de-las-personas-llegan-y-pasan-sus-ultimos-10-anos-de-vida-en-nid19082026/"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Gabriel Rolón, psicólogo: “Hay que construir felicidad en el presente, en la eternidad del aquí y ahora, aunque sea imperfecta \"",
-          "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-hay-que-construir-felicidad-en-el-presente-en-la-eternidad-del-aqui-y-ahora-nid19082026/"
-        }
-      ]
-    },
-    {
-      "tema": "Muerte de niño de 6 años en Santa Fe (Caso Izan)",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
+      "total_notas": 4,
       "cantidad_medios": 4,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
-      "brecha_perfil": 6,
+      "brecha_perfil": 4,
       "cobertura": {
         "Perfil": 0,
         "La Nación": 1,
-        "Clarín": 0,
-        "TN": 4,
+        "Ámbito": 1,
+        "Cronista": 1,
         "Página 12": 1
       },
-      "por_que_importa": "Es un caso policial de alto impacto emocional con detalles estremecedores sobre la salud mental de la acusada.",
-      "insight": "TN está cubriendo el minuto a minuto con videos y testimonios, mientras Perfil ha ignorado el caso por completo hoy.",
+      "por_que_importa": "Es una medida de infraestructura de largo plazo que afecta la logística nacional y el costo de transporte en ocho corredores viales.",
+      "insight": "Toda la competencia económica y generalista cubrió la adjudicación de 4000 km de rutas, mientras Perfil solo tiene una nota regional tangencial sobre Misiones.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar una nota sobre el estado de la causa y los resultados de la autopsia revelados por la justicia santafesina.",
+      "accion_sugerida": "Publicar el listado completo de los corredores adjudicados y las empresas ganadoras.",
       "enfoques_sugeridos": [
-        "Crónica de una tragedia anunciada: los mensajes previos al hallazgo de Izan.",
-        "Qué reveló la autopsia del nene de 6 años muerto en Santa Fe."
+        "Mapa de peajes: qué rutas nacionales pasan a manos privadas y cuánto durará el contrato",
+        "Quién es quién en la adjudicación de los corredores viales de Caputo"
       ],
       "medios_que_mas_publicaron": [
-        "TN",
         "La Nación",
+        "Ámbito",
+        "Cronista",
         "Página 12"
       ],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
-          "medio": "TN",
-          "titulo": "“Izan tiene el diablo adentro”: la frase que dijo la mujer acusada de matar a su hijo de 6 años en Santa Fe",
-          "link": "https://tn.com.ar/policiales/2026/08/21/izan-tiene-el-diablo-adentro-la-frase-que-dijo-la-mujer-acusada-de-matar-a-su-hijo-de-6-anos-en-santa-fe/"
+          "medio": "La Nación",
+          "titulo": "El Gobierno adjudicó a empresas privadas ocho corredores de rutas nacionales por 20 años",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-adjudico-a-empresas-privadas-ocho-corredores-de-rutas-nacionales-por-20-anos-nid24082026/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El Gobierno adjudicó ocho corredores viales de casi 4.000 kms y avanza con la concesión de rutas nacionales por 20 años",
+          "link": "https://www.ambito.com/economia/el-gobierno-adjudico-ocho-corredores-viales-casi-4000-kms-y-avanza-la-concesion-rutas-nacionales-20-anos-n6313995"
+        }
+      ]
+    },
+    {
+      "tema": "Servicio sobre el eclipse lunar de agosto y cómo verlo en Argentina",
+      "prioridad": 2,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 6,
+      "cantidad_medios": 3,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 5,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 3,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "Clarín": 0
+      },
+      "por_que_importa": "Es un evento astronómico de alto interés para la audiencia general que genera tráfico de búsqueda constante.",
+      "insight": "La Nación atomizó el tema con tres notas (horarios, cómo verlo, por qué cambia de color), capturando todo el interés de búsqueda.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Realizar una guía rápida visual con los mejores puntos de observación en Argentina.",
+      "enfoques_sugeridos": [
+        "Guía para el eclipse lunar: a qué hora mirar el cielo este lunes en cada provincia",
+        "Por qué la Luna se teñirá de rojo: la ciencia detrás del eclipse de agosto"
+      ],
+      "medios_que_mas_publicaron": [
+        "La Nación",
+        "Ámbito",
+        "Página 12"
+      ],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Eclipse lunar 2026: cuándo es, dónde podrá verse y por qué “la luna se teñirá de rojo”",
+          "link": "https://www.lanacion.com.ar/ciencia/eclipse-lunar-2026-cuando-es-donde-podra-verse-y-por-que-la-luna-se-tenira-de-rojo-nid21082026/"
         },
         {
           "medio": "Página 12",
-          "titulo": "Qué reveló la autopsia del nene hallado muerto en Santa Fe",
-          "link": "https://www.pagina12.com.ar/2026/08/21/que-revelo-la-autopsia-del-nene-hallado-muerto-en-santa-fe/"
+          "titulo": "Eclipse lunar: cuándo y dónde podrá verse en Argentina",
+          "link": "https://www.pagina12.com.ar/2026/08/23/eclipse-lunar-cuando-y-donde-podra-verse-en-argentina/"
         }
       ]
     }
   ],
   "sin_cobertura_perfil": [
     {
-      "tema": "Cierre de Aeroparque por obras y traslado de vuelos",
+      "tema": "Derrumbe de ventas en supermercados en 22 provincias",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 5,
-      "cantidad_medios": 4,
+      "total_notas": 1,
+      "cantidad_medios": 1,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
-        "Cronista": 3,
-        "Página 12": 1
+        "Ámbito": 1,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0
       },
-      "por_que_importa": "Es información de servicio vital para miles de pasajeros que verán afectados sus traslados la próxima semana.",
-      "insight": "Cronista y La Nación ya informan sobre los días exactos de cierre y el operativo de Ezeiza. Perfil no tiene la información de servicio activa.",
+      "por_que_importa": "Es un dato económico crítico que contradice el discurso oficial de recuperación del consumo y muestra una disparidad federal preocupante.",
+      "insight": "Ámbito detectó una tendencia federal que los medios nacionales aún no explotaron.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar una guía útil para pasajeros sobre el cierre de Aeroparque y cómo llegar a Ezeiza.",
+      "accion_sugerida": "Relevar datos de cámaras de comercio provinciales para contrastar con los de Ámbito.",
       "enfoques_sugeridos": [
-        "Aeroparque cierra por obras: el cronograma de vuelos afectados día por día.",
-        "Guía para pasajeros: cómo operar con el traslado de vuelos a Ezeiza."
+        "Consumo en rojo: las 5 provincias donde más cayeron las ventas de supermercados",
+        "La brecha del consumo: por qué el interior sufre más la caída de ventas que el AMBA"
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [
-        "La Nación",
-        "Cronista",
-        "Página 12"
+        "Ámbito"
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "Obras en Aeroparque: cuáles son los días de la semana que viene en los que no habrá actividad y qué pasará con los vuelos",
-          "link": "https://www.lanacion.com.ar/economia/obras-en-aeroparque-cuales-son-los-dias-de-la-semana-que-viene-en-los-que-no-habra-actividad-y-que-nid21082026/"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "Es oficial | Cierra Aeroparque el próximo martes y miércoles: trasladarán vuelos a Ezeiza",
-          "link": "https://www.cronista.com/informacion-gral/es-oficial-cierra-aeroparque-el-proximo-martes-y-miercoles-trasladaran-vuelos-a-ezeiza/"
+          "medio": "Ámbito",
+          "titulo": "Consumo en alerta: las ventas en supermercados están por debajo del promedio histórico en 22 provincias",
+          "link": "https://www.ambito.com/economia/consumo-alerta-las-ventas-supermercados-estan-debajo-del-promedio-historico-22-provincias-n6314098"
         }
       ]
     },
     {
-      "tema": "Venta de inmuebles estratégicos del Estado",
+      "tema": "Crédito educativo y apertura de plazas universitarias tras examen UNAM",
       "prioridad": 2,
       "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 2,
+      "cantidad_medios": 1,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 0,
+        "Infobae": 2
+      },
+      "por_que_importa": "Aunque es una noticia de origen regional, toca el tema de la educación superior y la exclusión universitaria, de alto interés para familias.",
+      "insight": "Infobae está cubriendo nichos de educación que Perfil ignora.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Evaluar si existen medidas similares de 'cupos remanentes' en universidades nacionales.",
+      "enfoques_sugeridos": [
+        "El dilema del ingreso universitario: alternativas para quienes no entran en las grandes facultades"
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [
+        "Infobae"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Infobae",
+          "titulo": "México abre 37.503 plazas en universidades tras el polémico examen para la UNAM",
+          "link": "https://www.infobae.com/america/agencias/2026/08/24/mexico-abre-37503-plazas-en-universidades-tras-el-polemico-examen-para-la-unam/"
+        }
+      ]
+    }
+  ],
+  "oportunidades": [
+    {
+      "tema": "Investigación del CONICET sobre tipos ocultos de hígado graso",
+      "prioridad": 1,
+      "tipo": "Salud/Ciencia",
       "tipo_de_oportunidad": "",
       "total_notas": 2,
       "cantidad_medios": 2,
@@ -300,161 +336,110 @@
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 0,
-        "Página 12": 1,
-        "Cronista": 1
+        "Infobae": 1,
+        "La Nación": 1
       },
-      "por_que_importa": "Es una medida del Gobierno que impacta en el patrimonio público y genera debate político sobre las privatizaciones.",
-      "insight": "Se detectó la venta de un predio estratégico en Ushuaia y otros tres inmuebles. La cobertura es incipiente.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Investigar qué otros inmuebles están en la lista de venta y el valor de mercado de los predios en cuestión.",
-      "enfoques_sugeridos": [
-        "Remate oficial: los 4 inmuebles del Estado que el Gobierno puso a la venta.",
-        "Ushuaia: el impacto urbano de la venta del predio estratégico estatal."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [
-        "Página 12",
-        "Cronista"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Página 12",
-          "titulo": "El Gobierno vende cuatro inmuebles del Estado, entre ellos un predio estratégico en Ushuaia",
-          "link": "https://www.pagina12.com.ar/2026/08/21/el-gobierno-vende-cuatro-inmuebles-del-estado-entre-ellos-un-predio-estrategico-en-ushuaia/"
-        }
-      ]
-    }
-  ],
-  "oportunidades": [
-    {
-      "tema": "Ciencia y Sismos: Falla de San Andrés y Placa de Nazca",
-      "prioridad": 2,
-      "tipo": "Explicativo / Ciencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 3,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 3,
-        "La Nación": 2,
-        "Página 12": 1
-      },
-      "por_que_importa": "El sismo en Perú despertó interés por la geología regional y los riesgos de un terremoto mayor (Big One).",
+      "por_que_importa": "Es una noticia de salud basada en ciencia local con impacto directo en la prevención de enfermedades graves.",
       "insight": "",
       "motivo": "",
-      "motivo_oportunidad": "Perfil ya tiene una base de 3 notas de ciencia sobre el tema. Existe interés orgánico tras el temblor en Perú.",
-      "accion_sugerida": "Crear un video explicativo corto o una infografía sobre la interacción de las placas en Sudamérica.",
+      "motivo_oportunidad": "La cobertura es baja y permite un enfoque de servicio con entrevistas a los investigadores.",
+      "accion_sugerida": "Entrevistar a los científicos del CONICET para una nota explicativa sobre síntomas.",
       "enfoques_sugeridos": [
-        "¿Se puede 'activar' la falla de San Andrés por un sismo en el Sur?",
-        "Placa de Nazca: por qué es la zona más peligrosa para Sudamérica."
+        "Hígado graso silencioso: el avance del CONICET para detectar casos graves a tiempo",
+        "Cómo saber si tenés hígado graso: las nuevas señales que identificó la ciencia argentina"
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
-          "medio": "Perfil",
-          "titulo": "Placa de Nazca: Colombia y otros 3 países de Sudamérica sobre una de las zonas sísmicas más activas del planeta",
-          "link": "https://www.perfil.com/noticias/ciencia/placa-de-nazca-colombia-y-otros-3-paises-de-sudamerica-a50-sobre-una-de-las-zonas-sismicas-mas-activas-del-planeta.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Apophis, el asteroide del tamaño de la Torre Eiffel que se acercará a la Tierra",
-          "link": "https://www.lanacion.com.ar/sociedad/apophis-el-asteroide-del-tamano-de-la-torre-eiffel-que-se-acercara-a-la-tierra-nid20082026/"
+          "medio": "Infobae",
+          "titulo": "Hígado graso: investigadores del CONICET identificaron subtipos ocultos que anticipan formas graves de la enfermedad",
+          "link": "https://www.infobae.com/salud/ciencia/2026/08/24/higado-graso-investigadores-del-conicet-identificaron-subtipos-ocultos-que-anticipan-formas-graves-de-la-enfermedad/"
         }
       ]
     }
   ],
   "discover": [
     {
-      "tema": "Realeza: El regreso de Harry y Meghan al Reino Unido",
+      "tema": "Robot humanoide chino supera el récord de Usain Bolt",
       "prioridad": 1,
       "tipo": "",
-      "tipo_de_oportunidad": "Entretenimiento / Celebridades",
-      "total_notas": 5,
-      "cantidad_medios": 5,
+      "tipo_de_oportunidad": "Tecnología/Curiosidades",
+      "total_notas": 3,
+      "cantidad_medios": 3,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Ámbito": 1,
-        "Infobae": 1
+        "TN": 1,
+        "Página 12": 1
       },
-      "por_que_importa": "Es un tema de interés global con alta tracción en audiencias masivas.",
+      "por_que_importa": "Es un contenido visualmente impactante y disruptivo que genera curiosidad tecnológica.",
       "insight": "",
-      "motivo": "Todos los medios publicaron una nota. Perfil puede diferenciarse con un enfoque en la logística del regreso.",
+      "motivo": "Perfil ya publicó una nota general, pero puede explotar el ángulo comparativo con la anatomía humana.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Actualizar con detalles sobre la residencia donde se instalarán y la reacción de la Casa Real.",
+      "accion_sugerida": "Crear un video corto para redes comparando los movimientos del robot con los de Bolt.",
       "enfoques_sugeridos": [
-        "El plan de Harry y Meghan: qué hay detrás de la mudanza al Reino Unido.",
-        "La llamada inesperada que forzó el regreso de los Duques de Sussex."
+        "Humano vs Robot: por qué las máquinas ya corren más rápido que el hombre récord",
+        "El fin de los límites físicos: qué tecnología usa el robot que venció a Bolt"
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Harry y Meghan vuelven a vivir al Reino Unido: dónde se instalarán y qué pasará con sus hijos",
-          "link": "https://www.perfil.com/noticias/protagonistas/harry-y-meghan-vuelven-a-vivir-al-reino-unido-donde-se-instalaran-y-que-pasara-con-sus-hijos.phtml"
+          "titulo": "China reúne a más de 2.000 robots humanoides en la segunda edición de los Juegos Mundiales",
+          "link": "https://www.perfil.com/noticias/sociedad/china-reune-a-mas-de-2000-robots-humanoides-en-la-segunda-edicion-de-los-juegos-mundiales.phtml"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Revelan por qué Harry y Meghan se mudan al Reino Unido: la llamada inesperada que alarmó a la Casa Real",
-          "link": "https://www.clarin.com/mundo/revelan-harry-meghan-mudan-reino-unido-llamada-inesperada-alarmo-casa-real_0_qmgSFpu1Kt.html"
+          "medio": "TN",
+          "titulo": "Un robot más rápido que Usain Bolt",
+          "link": "https://tn.com.ar/videos/internacional/2026/08/24/un-robot-mas-rapido-que-usain-bolt/"
         }
       ]
     }
   ],
   "fortalezas_perfil": [
     {
-      "tema": "Actualidad de Córdoba y NEA",
+      "tema": "Controversia por el menú de los presos en Chubut (Asado vs Carne)",
       "prioridad": "",
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 0,
       "cantidad_medios": 0,
-      "perfil": 10,
-      "competencia_total": 5,
-      "diferencia": 5,
+      "perfil": 1,
+      "competencia_total": 1,
+      "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 10,
-        "La Nación": 2,
+        "Perfil": 1,
         "Clarín": 1,
-        "Cronista": 2
+        "TN": 0,
+        "Ámbito": 0,
+        "La Nación": 0
       },
-      "por_que_importa": "La capilaridad regional es un valor distintivo de Perfil frente a los medios nacionales tradicionales.",
-      "insight": "Perfil tiene una cobertura exhaustiva de la política de Córdoba (juicio González, misoginia Milei) y economía del NEA (deuda Corrientes).",
+      "por_que_importa": "Es un tema de política provincial con alta carga emocional y debate sobre seguridad y derechos que Perfil capturó temprano.",
+      "insight": "Perfil logró la respuesta directa del gobernador, posicionándose como referente en este conflicto local.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Destacar estas notas en la home nacional para mostrar profundidad federal.",
+      "accion_sugerida": "Seguir la respuesta judicial del juez que intimó al gobernador para mantener la exclusividad.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Diputada cordobesa: \"Milei usa la misoginia para ocultar el fracaso de su modelo\"",
-          "link": "https://www.perfil.com/noticias/cordoba/diputada-cordobesa-milei-usa-la-misoginia-para-ocultar-el-fracaso-de-su-modelo.phtml"
-        },
-        {
-          "medio": "Perfil",
-          "titulo": "La falta de obra pública nacional frena la construcción y golpea el empleo en Corrientes",
-          "link": "https://www.perfil.com/noticias/nea/la-falta-de-obra-publica-nacional-frena-la-construccion-y-golpea-el-empleo-en-corrientes.phtml"
+          "titulo": "\"No vamos a acatar la medida de darles asado a los presos\": la respuesta del gobernador de Chubut a la intimación de un juez",
+          "link": "https://www.perfil.com/noticias/politica/no-vamos-a-acatar-la-medida-de-darles-asado-a-los-presos-la-respuesta-del-gobernador-de-chubut-a-la-intimacion-de-un-juez.phtml"
         }
       ]
     }
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Caso Cerimedo: Chats y Allanamiento",
+      "tema": "Crisis de consumo y endeudamiento familiar para alimentos",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -467,18 +452,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Afecta el núcleo de la estrategia digital del oficialismo y tiene derivaciones judiciales graves.",
+      "por_que_importa": "Es la contraparte social del ajuste económico y afecta a la mayoría de la audiencia.",
       "insight": "",
-      "motivo": "Perfil tiene información exclusiva sobre la 'minigranja de bots'. Es el tema del día con mayor competencia.",
+      "motivo": "Varios medios (Clarín, P12, LN) están cubriendo el cruce entre CAME y el Gobierno.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un análisis de los chats revelados.",
+      "accion_sugerida": "Nota de servicio: cómo evitar el sobreendeudamiento con tarjetas en compras de supermercado.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Morosidad y Deuda Familiar",
+      "tema": "Concesión de 4000 km de rutas nacionales",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -491,18 +476,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Es la base del descontento social actual por la pérdida de poder adquisitivo.",
+      "por_que_importa": "Es una de las privatizaciones/concesiones más grandes del año.",
       "insight": "",
-      "motivo": "Brecha de cobertura importante y alta prioridad editorial por el impacto social.",
+      "motivo": "Brecha de cobertura total frente a todos los competidores.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Cruzar datos de Corrientes con el panorama nacional.",
+      "accion_sugerida": "Publicar nota explicativa con el listado de rutas afectadas.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Cierre de Aeroparque",
+      "tema": "Guerra comercial Trump vs Canadá y sanciones a Irán",
       "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -515,11 +500,11 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Es información de servicio esencial para la audiencia.",
+      "por_que_importa": "Impacta en los precios del acero, autos y petróleo a nivel global.",
       "insight": "",
-      "motivo": "Perfil tiene 0 notas y la competencia ya está informando sobre el caos operativo de la próxima semana.",
+      "motivo": "Alto volumen de notas en Clarín y Ámbito.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar guía de vuelos afectados.",
+      "accion_sugerida": "Análisis del impacto para Argentina de un dólar más fuerte por tensión global.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
@@ -527,386 +512,370 @@
     }
   ],
   "analisis_completo": {
-    "fecha_analisis": "21 de agosto de 2026",
+    "fecha_analisis": "24 de agosto de 2026",
     "hipercompetencia": [
       {
-        "tema": "Investigación judicial contra Fernando Cerimedo por ataque y granja de bots",
+        "tema": "Reunión de Gabinete de Javier Milei en Casa Rosada tras 45 días",
         "prioridad": 1,
-        "total_notas": 11,
-        "cantidad_medios": 6,
+        "total_notas": 8,
+        "cantidad_medios": 7,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 2,
+          "Clarín": 2,
+          "Infobae": 1,
+          "TN": 1,
+          "Página 12": 1,
+          "Ámbito": 0,
+          "Cronista": 1
+        },
+        "por_que_importa": "Es el regreso institucional del Presidente a la Casa Rosada tras un largo período de ausencia y marca el inicio de una semana clave para las reformas económicas en el Congreso.",
+        "insight": "Casi todos los medios cubren el hecho con transmisiones 'minuto a minuto' y enfoques centrados en la agenda legislativa de la semana.",
+        "accion_sugerida": "Diferenciar la cobertura con un análisis de los ministros presentes y ausentes y el impacto real que espera el Ejecutivo en Diputados.",
+        "enfoques_sugeridos": [
+          "Radiografía del gabinete actual: quiénes ganaron peso en los 45 días sin reuniones",
+          "El mapa de las leyes económicas que Milei quiere destrabar en el Congreso esta semana"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Milei volvió a reunir al Gabinete después de 45 días y busca aprobar leyes económicas en el regreso de las sesiones de Diputados",
+            "link": "https://www.perfil.com/noticias/politica/milei-vuelve-a-la-rosada-para-reunir-al-gabinete-y-buscara-que-en-la-vuelta-de-las-sesiones-diputados-apruebe-sus-leyes-economicas.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
+            "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Milei se reúne con el Gabinete en Casa Rosada después de 45 días: discuten las reformas del Congreso",
+            "link": "https://www.clarin.com/politica/milei-vuelve-reunir-gabinete-casa-rosada-despues-45-dias-mira-reformas-congreso_0_LV3fJiG36N.html"
+          }
+        ]
+      },
+      {
+        "tema": "El dólar mayorista y blue superan la barrera de los $1.500",
+        "prioridad": 2,
+        "total_notas": 13,
+        "cantidad_medios": 7,
         "cobertura": {
           "Perfil": 2,
           "La Nación": 1,
           "Clarín": 1,
           "Infobae": 1,
           "TN": 1,
-          "Ámbito": 2,
-          "Página 12": 3,
-          "Cronista": 0
+          "Ámbito": 3,
+          "Cronista": 4
         },
-        "por_que_importa": "Es un tema que cruza política, justicia y tecnología (uso de bots), involucrando a un exasesor presidencial en un hecho de violencia.",
-        "insight": "Perfil lidera en el detalle técnico de la causa (chats y hallazgo de bots), mientras que Página 12 y Ámbito se centran en la acusación fiscal y la reacción del Presidente. La competencia está moviendo la noticia con actualizaciones de los allanamientos en Bolivia y Argentina.",
-        "accion_sugerida": "Mantener la primicia sobre el contenido de los chats y realizar un análisis sobre el funcionamiento técnico de la 'minigranja de bots' detectada.",
+        "por_que_importa": "La superación de la barrera psicológica de los $1.500 en el mercado mayorista genera presión sobre las tasas de interés y la inflación esperada.",
+        "insight": "Ámbito y Cronista lideran en volumen, enfocándose en las dudas del mercado sobre las tasas y el riesgo país, mientras Perfil mantiene cotizaciones estáticas.",
+        "accion_sugerida": "Producir un análisis sobre por qué el BCRA permite este deslizamiento y qué implica para los ahorristas la nueva brecha cambiaria.",
         "enfoques_sugeridos": [
-          "Radiografía de la minigranja de bots: cómo operaba el sistema de Cerimedo.",
-          "Cronología del ataque a Nadia Beller y los chats que complican al exasesor."
+          "Dólar a 1500: el impacto en los precios de productos importados y la canasta básica",
+          "Dudas en la City: por qué el mercado testea la resistencia del Gobierno con el dólar"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Detuvieron a dos sospechosos por el ataque a Nadia Beller y encontraron una “minigranja de bots” en un allanamiento a Cerimedo",
-            "link": "https://www.perfil.com/noticias/judiciales/detuvieron-a-dos-sospechosos-por-el-ataque-a-nadia-beller-y-encontraron-una-minigranja-de-bots-en-un-allanamiento-a-cerimedo.phtml"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "“La eliminamos o estamos jodidos”: el mensaje hallado en el celular de Cerimedo",
-            "link": "https://www.pagina12.com.ar/2026/08/21/la-eliminamos-o-estamos-jodidos-el-mensaje-hallado-en-el-celular-de-cerimedo/"
-          },
-          {
-            "medio": "TN",
-            "titulo": "La Policía de Bolivia detuvo a dos sospechosos por el intento de femicidio contra la expareja de Fernando Cerimedo",
-            "link": "https://tn.com.ar/politica/2026/08/21/allanaron-una-casa-de-cambio-y-otras-propiedades-vinculadas-a-cerimedo-detuvieron-a-dos-personas-y-hay-un-exmilitar-profugo/"
-          }
-        ]
-      },
-      {
-        "tema": "Impacto y récords del fenómeno El Niño 2026-2027",
-        "prioridad": 2,
-        "total_notas": 10,
-        "cantidad_medios": 5,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 5,
-          "Infobae": 2,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "Cronista": 0
-        },
-        "por_que_importa": "Las proyecciones climáticas advierten sobre un 2027 récord en calor y riesgos de inundaciones masivas en zonas productivas.",
-        "insight": "Clarín está dominando la cobertura con un enfoque de servicio y riesgo regional (ciudades bajo el agua), mientras Perfil tiene un enfoque más general sobre la intensidad récord del fenómeno.",
-        "accion_sugerida": "Producir un informe especial sobre el impacto de las inundaciones en las provincias del Litoral, conectando con las notas de NEA ya publicadas.",
-        "enfoques_sugeridos": [
-          "El Niño en Buenos Aires: las ciudades con mayor riesgo de inundación este verano.",
-          "Guía de preparación para productores: cómo mitigar el impacto del Súper Niño."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "El Niño 2026 alcanza una intensidad récord y podría convertir a 2027 en el año más caluroso de la historia",
-            "link": "https://www.perfil.com/noticias/sociedad/el-nino-2026-alcanza-una-intensidad-record-y-podria-convertir-a-2027-en-el-ano-mas-caluroso-de-la-historia.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "¿Pueden quedar ciudades bonaerenses bajo el agua por el \"Súper Niño\"?",
-            "link": "https://www.clarin.com/sociedad/pueden-quedar-ciudades-bonaerenses-agua-super-nino-provincia-prepara-peor_0_GOgv70hWMr.html"
-          },
-          {
-            "medio": "Infobae",
-            "titulo": "Hidroituango podrá aumentar el llenado del embalse para prepararse para el fenómeno El Niño: esto dijo el ministro de Ambiente",
-            "link": "https://www.infobae.com/colombia/2026/08/21/hidroituango-podra-aumentar-el-llenado-del-embalse-para-prepararse-para-el-fenomeno-el-nino-esto-dijo-el-ministro-de-ambiente/"
-          }
-        ]
-      },
-      {
-        "tema": "Aumento de la morosidad y endeudamiento de las familias",
-        "prioridad": 2,
-        "total_notas": 8,
-        "cantidad_medios": 6,
-        "cobertura": {
-          "Perfil": 2,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Ámbito": 2,
-          "Cronista": 1,
-          "Página 12": 1
-        },
-        "por_que_importa": "Es un indicador crítico de la situación social que afecta el consumo y la estabilidad del sistema financiero.",
-        "insight": "Perfil tiene una ventaja con datos regionales de Corrientes, pero la competencia (Clarín/Página 12) está nacionalizando el tema mediante declaraciones políticas de Kicillof contra el modelo de Milei.",
-        "accion_sugerida": "Unificar los datos regionales de Perfil con el panorama nacional para crear una nota de análisis sobre el 'estrés' crediticio proyectado para 2027.",
-        "enfoques_sugeridos": [
-          "El mapa de la deuda familiar: qué provincias están más asfixiadas económicamente.",
-          "Fintech vs. Bancos: la pelea por el control de la mora en un mercado recesivo."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Advierten que el 92% de las familias tiene deudas e impulsan leyes de protección",
-            "link": "https://www.perfil.com/noticias/nea/advierten-que-el-92-de-las-familias-tiene-deudas-e-impulsan-leyes-de-proteccion.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "\"Sí hay una pistola en la cabeza\": Kicillof en una cruzada contra Milei por el endeudamiento y la morosidad de las familias",
-            "link": "https://www.clarin.com/politica/pistola-cabeza-kicillof-cruzada-milei-endeudamiento-morosidad-familias_0_KZl9eQ58r8.html"
+            "titulo": "A cuánto cotiza el dólar blue hoy, lunes 24 de agosto",
+            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-24-de-agosto.phtml"
           },
           {
             "medio": "Ámbito",
-            "titulo": "La morosidad frena la mitad del crédito en pesos y el mercado advierte por más episodios de \"estrés\" en 2027",
-            "link": "https://www.ambito.com/economia/la-morosidad-frena-la-mitad-del-credito-pesos-y-el-mercado-advierte-mas-episodios-estres-2027-n6313106"
+            "titulo": "El dólar mayorista supera la barrera de los $1.500 y crecen las dudas sobre las tasas",
+            "link": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-prueba-la-barrera-1500-y-crecen-las-dudas-las-tasas-n6314018"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Riesgo país en cuenta regresiva: bajó a 500 puntos, suben los bonos y los ADR en Nueva York",
+            "link": "https://www.cronista.com/finanzas-mercados/riesgo-pais-en-cuenta-regresiva-toco-500-puntos-suben-los-bonos-y-los-adr-en-nueva-york/"
+          }
+        ]
+      },
+      {
+        "tema": "Declaraciones judiciales por el caso Nadia Beller y Fernando Cerimedo en Bolivia",
+        "prioridad": 3,
+        "total_notas": 6,
+        "cantidad_medios": 6,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 1
+        },
+        "por_que_importa": "Es un caso de repercusión internacional que vincula a un consultor cercano al oficialismo con un ataque violento en el extranjero.",
+        "insight": "Perfil tiene una ventaja competitiva con la entrevista a Evo Morales, pero los competidores están siguiendo más de cerca el minuto a minuto de la declaración de los sicarios detenidos.",
+        "accion_sugerida": "Reforzar la cobertura de los testimonios de los detenidos en Bolivia para no perder la primicia judicial.",
+        "enfoques_sugeridos": [
+          "Caso Beller: qué confesaron los sicarios sobre la autoría intelectual del ataque",
+          "La conexión Cerimedo: las pruebas que maneja la justicia boliviana contra el consultor"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Evo Morales: \"Cerimedo quería culparme a mí del asesinato de su mujer\"",
+            "link": "https://www.perfil.com/noticias/modo-fontevecchia/evo-morales-cerimedo-queria-culparme-a-mi-del-asesinato-de-su-mujer-modof.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Declaran dos detenidos por el ataque a Nadia Beller en Santa Cruz de la Sierra",
+            "link": "https://www.clarin.com/politica/declaran-detenidos-ataque-nadia-beller-santa-cruz-sierra_0_eJcSZVe1n3.html"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Caso Fernando Cerimedo: declaran dos detenidos en Bolivia por el ataque a Nadia Beller",
+            "link": "https://www.ambito.com/informacion-general/caso-fernando-cerimedo-declaran-dos-detenidos-bolivia-el-ataque-nadia-beller-n6314039"
           }
         ]
       }
     ],
     "perfil_pierde": [
       {
-        "tema": "Salud, Psicología y Calidad de Vida (Servicio)",
+        "tema": "Adjudicación y privatización de rutas nacionales por 20 años",
         "prioridad": 1,
-        "total_notas": 18,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 15,
-          "Clarín": 3
-        },
-        "brecha_perfil": 18,
-        "medios_que_mas_publicaron": [
-          "La Nación",
-          "Clarín"
-        ],
-        "por_que_importa": "Es contenido de alta permanencia y utilidad que genera fidelidad de audiencia y responde a búsquedas de bienestar.",
-        "insight": "La Nación tiene una producción industrial de entrevistas con expertos (neurólogos, psicólogos, nutricionistas). Perfil no tiene presencia en esta temática hoy, perdiendo una gran oportunidad de tráfico de nicho.",
-        "accion_sugerida": "Desarrollar una columna de 'Bienestar' con expertos que analicen temas de salud mental y longevidad.",
-        "enfoques_sugeridos": [
-          "Longevidad activa: consejos de neurólogos para mantener el cerebro joven.",
-          "Cómo gestionar la ansiedad en 5 minutos: técnicas avaladas por la psicología."
-        ],
-        "titulos_sugeridos": [
-          "El secreto de la longevidad: los hábitos que recomiendan los expertos para vivir 100 años",
-          "Salud mental: 5 ejercicios prácticos para recuperar la calma en el día a día"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Conrado Estol, neurólogo: “Dos tercios de las personas llegan y pasan sus últimos 10 años de vida en mal o muy mal estado de salud”",
-            "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-dos-tercios-de-las-personas-llegan-y-pasan-sus-ultimos-10-anos-de-vida-en-nid19082026/"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Gabriel Rolón, psicólogo: “Hay que construir felicidad en el presente, en la eternidad del aquí y ahora, aunque sea imperfecta \"",
-            "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-hay-que-construir-felicidad-en-el-presente-en-la-eternidad-del-aqui-y-ahora-nid19082026/"
-          }
-        ]
-      },
-      {
-        "tema": "Muerte de niño de 6 años en Santa Fe (Caso Izan)",
-        "prioridad": 2,
-        "total_notas": 6,
+        "total_notas": 4,
         "cantidad_medios": 4,
         "cobertura": {
           "Perfil": 0,
           "La Nación": 1,
-          "Clarín": 0,
-          "TN": 4,
+          "Ámbito": 1,
+          "Cronista": 1,
           "Página 12": 1
         },
-        "brecha_perfil": 6,
+        "brecha_perfil": 4,
         "medios_que_mas_publicaron": [
-          "TN",
           "La Nación",
+          "Ámbito",
+          "Cronista",
           "Página 12"
         ],
-        "por_que_importa": "Es un caso policial de alto impacto emocional con detalles estremecedores sobre la salud mental de la acusada.",
-        "insight": "TN está cubriendo el minuto a minuto con videos y testimonios, mientras Perfil ha ignorado el caso por completo hoy.",
-        "accion_sugerida": "Publicar una nota sobre el estado de la causa y los resultados de la autopsia revelados por la justicia santafesina.",
+        "por_que_importa": "Es una medida de infraestructura de largo plazo que afecta la logística nacional y el costo de transporte en ocho corredores viales.",
+        "insight": "Toda la competencia económica y generalista cubrió la adjudicación de 4000 km de rutas, mientras Perfil solo tiene una nota regional tangencial sobre Misiones.",
+        "accion_sugerida": "Publicar el listado completo de los corredores adjudicados y las empresas ganadoras.",
         "enfoques_sugeridos": [
-          "Crónica de una tragedia anunciada: los mensajes previos al hallazgo de Izan.",
-          "Qué reveló la autopsia del nene de 6 años muerto en Santa Fe."
+          "Mapa de peajes: qué rutas nacionales pasan a manos privadas y cuánto durará el contrato",
+          "Quién es quién en la adjudicación de los corredores viales de Caputo"
         ],
         "titulos_sugeridos": [
-          "Tragedia en Santa Fe: los detalles de la autopsia del niño de 6 años",
-          "Caso Izan: la perturbadora frase de la madre que conmociona a la justicia"
+          "El Gobierno privatizó 4.000 kilómetros de rutas: quiénes son los nuevos concesionarios",
+          "Vuelven las concesiones por 20 años: el plan oficial para las rutas nacionales"
         ],
         "ejemplos": [
           {
-            "medio": "TN",
-            "titulo": "“Izan tiene el diablo adentro”: la frase que dijo la mujer acusada de matar a su hijo de 6 años en Santa Fe",
-            "link": "https://tn.com.ar/policiales/2026/08/21/izan-tiene-el-diablo-adentro-la-frase-que-dijo-la-mujer-acusada-de-matar-a-su-hijo-de-6-anos-en-santa-fe/"
+            "medio": "La Nación",
+            "titulo": "El Gobierno adjudicó a empresas privadas ocho corredores de rutas nacionales por 20 años",
+            "link": "https://www.lanacion.com.ar/economia/el-gobierno-adjudico-a-empresas-privadas-ocho-corredores-de-rutas-nacionales-por-20-anos-nid24082026/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "El Gobierno adjudicó ocho corredores viales de casi 4.000 kms y avanza con la concesión de rutas nacionales por 20 años",
+            "link": "https://www.ambito.com/economia/el-gobierno-adjudico-ocho-corredores-viales-casi-4000-kms-y-avanza-la-concesion-rutas-nacionales-20-anos-n6313995"
+          }
+        ]
+      },
+      {
+        "tema": "Servicio sobre el eclipse lunar de agosto y cómo verlo en Argentina",
+        "prioridad": 2,
+        "total_notas": 6,
+        "cantidad_medios": 3,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 3,
+          "Ámbito": 1,
+          "Página 12": 1,
+          "Clarín": 0
+        },
+        "brecha_perfil": 5,
+        "medios_que_mas_publicaron": [
+          "La Nación",
+          "Ámbito",
+          "Página 12"
+        ],
+        "por_que_importa": "Es un evento astronómico de alto interés para la audiencia general que genera tráfico de búsqueda constante.",
+        "insight": "La Nación atomizó el tema con tres notas (horarios, cómo verlo, por qué cambia de color), capturando todo el interés de búsqueda.",
+        "accion_sugerida": "Realizar una guía rápida visual con los mejores puntos de observación en Argentina.",
+        "enfoques_sugeridos": [
+          "Guía para el eclipse lunar: a qué hora mirar el cielo este lunes en cada provincia",
+          "Por qué la Luna se teñirá de rojo: la ciencia detrás del eclipse de agosto"
+        ],
+        "titulos_sugeridos": [
+          "Eclipse lunar en Argentina: los horarios clave para no perderse el fenómeno",
+          "Todo lo que tenés que saber para ver el eclipse lunar de hoy en vivo"
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Eclipse lunar 2026: cuándo es, dónde podrá verse y por qué “la luna se teñirá de rojo”",
+            "link": "https://www.lanacion.com.ar/ciencia/eclipse-lunar-2026-cuando-es-donde-podra-verse-y-por-que-la-luna-se-tenira-de-rojo-nid21082026/"
           },
           {
             "medio": "Página 12",
-            "titulo": "Qué reveló la autopsia del nene hallado muerto en Santa Fe",
-            "link": "https://www.pagina12.com.ar/2026/08/21/que-revelo-la-autopsia-del-nene-hallado-muerto-en-santa-fe/"
+            "titulo": "Eclipse lunar: cuándo y dónde podrá verse en Argentina",
+            "link": "https://www.pagina12.com.ar/2026/08/23/eclipse-lunar-cuando-y-donde-podra-verse-en-argentina/"
           }
         ]
       }
     ],
     "sin_cobertura_perfil": [
       {
-        "tema": "Cierre de Aeroparque por obras y traslado de vuelos",
+        "tema": "Derrumbe de ventas en supermercados en 22 provincias",
         "prioridad": 1,
-        "total_notas": 5,
-        "cantidad_medios": 4,
+        "total_notas": 1,
+        "cantidad_medios": 1,
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 1,
-          "Cronista": 3,
-          "Página 12": 1
+          "Ámbito": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0
         },
         "medios_que_cubrieron": [
-          "La Nación",
-          "Cronista",
-          "Página 12"
+          "Ámbito"
         ],
-        "por_que_importa": "Es información de servicio vital para miles de pasajeros que verán afectados sus traslados la próxima semana.",
-        "insight": "Cronista y La Nación ya informan sobre los días exactos de cierre y el operativo de Ezeiza. Perfil no tiene la información de servicio activa.",
-        "accion_sugerida": "Publicar una guía útil para pasajeros sobre el cierre de Aeroparque y cómo llegar a Ezeiza.",
+        "por_que_importa": "Es un dato económico crítico que contradice el discurso oficial de recuperación del consumo y muestra una disparidad federal preocupante.",
+        "insight": "Ámbito detectó una tendencia federal que los medios nacionales aún no explotaron.",
+        "accion_sugerida": "Relevar datos de cámaras de comercio provinciales para contrastar con los de Ámbito.",
         "enfoques_sugeridos": [
-          "Aeroparque cierra por obras: el cronograma de vuelos afectados día por día.",
-          "Guía para pasajeros: cómo operar con el traslado de vuelos a Ezeiza."
+          "Consumo en rojo: las 5 provincias donde más cayeron las ventas de supermercados",
+          "La brecha del consumo: por qué el interior sufre más la caída de ventas que el AMBA"
         ],
         "titulos_sugeridos": [
-          "Aeroparque cierra por obras: todo lo que tenés que saber si volás la semana que viene",
-          "Traslado de vuelos: Aeroparque suspende actividades y Ezeiza absorberá la demanda"
+          "Alerta en las góndolas: el consumo cae en 22 provincias y marca mínimos históricos",
+          "Supermercados en crisis: el mapa del derrumbe de ventas en todo el país"
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Obras en Aeroparque: cuáles son los días de la semana que viene en los que no habrá actividad y qué pasará con los vuelos",
-            "link": "https://www.lanacion.com.ar/economia/obras-en-aeroparque-cuales-son-los-dias-de-la-semana-que-viene-en-los-que-no-habra-actividad-y-que-nid21082026/"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "Es oficial | Cierra Aeroparque el próximo martes y miércoles: trasladarán vuelos a Ezeiza",
-            "link": "https://www.cronista.com/informacion-gral/es-oficial-cierra-aeroparque-el-proximo-martes-y-miercoles-trasladaran-vuelos-a-ezeiza/"
+            "medio": "Ámbito",
+            "titulo": "Consumo en alerta: las ventas en supermercados están por debajo del promedio histórico en 22 provincias",
+            "link": "https://www.ambito.com/economia/consumo-alerta-las-ventas-supermercados-estan-debajo-del-promedio-historico-22-provincias-n6314098"
           }
         ]
       },
       {
-        "tema": "Venta de inmuebles estratégicos del Estado",
+        "tema": "Crédito educativo y apertura de plazas universitarias tras examen UNAM",
         "prioridad": 2,
         "total_notas": 2,
-        "cantidad_medios": 2,
+        "cantidad_medios": 1,
         "cobertura": {
           "Perfil": 0,
-          "Página 12": 1,
-          "Cronista": 1
+          "Infobae": 2
         },
         "medios_que_cubrieron": [
-          "Página 12",
-          "Cronista"
+          "Infobae"
         ],
-        "por_que_importa": "Es una medida del Gobierno que impacta en el patrimonio público y genera debate político sobre las privatizaciones.",
-        "insight": "Se detectó la venta de un predio estratégico en Ushuaia y otros tres inmuebles. La cobertura es incipiente.",
-        "accion_sugerida": "Investigar qué otros inmuebles están en la lista de venta y el valor de mercado de los predios en cuestión.",
+        "por_que_importa": "Aunque es una noticia de origen regional, toca el tema de la educación superior y la exclusión universitaria, de alto interés para familias.",
+        "insight": "Infobae está cubriendo nichos de educación que Perfil ignora.",
+        "accion_sugerida": "Evaluar si existen medidas similares de 'cupos remanentes' en universidades nacionales.",
         "enfoques_sugeridos": [
-          "Remate oficial: los 4 inmuebles del Estado que el Gobierno puso a la venta.",
-          "Ushuaia: el impacto urbano de la venta del predio estratégico estatal."
+          "El dilema del ingreso universitario: alternativas para quienes no entran en las grandes facultades"
         ],
         "titulos_sugeridos": [
-          "El Gobierno pone en venta cuatro inmuebles públicos: cuáles son y dónde quedan",
-          "Avanza el remate de bienes del Estado: el plan para los terrenos de Ushuaia"
+          "Segunda oportunidad universitaria: cómo acceder a las 37.000 nuevas vacantes"
         ],
         "ejemplos": [
           {
-            "medio": "Página 12",
-            "titulo": "El Gobierno vende cuatro inmuebles del Estado, entre ellos un predio estratégico en Ushuaia",
-            "link": "https://www.pagina12.com.ar/2026/08/21/el-gobierno-vende-cuatro-inmuebles-del-estado-entre-ellos-un-predio-estrategico-en-ushuaia/"
+            "medio": "Infobae",
+            "titulo": "México abre 37.503 plazas en universidades tras el polémico examen para la UNAM",
+            "link": "https://www.infobae.com/america/agencias/2026/08/24/mexico-abre-37503-plazas-en-universidades-tras-el-polemico-examen-para-la-unam/"
           }
         ]
       }
     ],
     "oportunidades": [
       {
-        "tema": "Ciencia y Sismos: Falla de San Andrés y Placa de Nazca",
-        "tipo": "Explicativo / Ciencia",
-        "prioridad": 2,
-        "total_notas": 6,
-        "cantidad_medios": 3,
+        "tema": "Investigación del CONICET sobre tipos ocultos de hígado graso",
+        "prioridad": 1,
+        "total_notas": 2,
+        "cantidad_medios": 2,
         "cobertura": {
-          "Perfil": 3,
-          "La Nación": 2,
-          "Página 12": 1
+          "Perfil": 0,
+          "Infobae": 1,
+          "La Nación": 1
         },
-        "por_que_importa": "El sismo en Perú despertó interés por la geología regional y los riesgos de un terremoto mayor (Big One).",
-        "motivo_oportunidad": "Perfil ya tiene una base de 3 notas de ciencia sobre el tema. Existe interés orgánico tras el temblor en Perú.",
-        "accion_sugerida": "Crear un video explicativo corto o una infografía sobre la interacción de las placas en Sudamérica.",
+        "por_que_importa": "Es una noticia de salud basada en ciencia local con impacto directo en la prevención de enfermedades graves.",
+        "tipo": "Salud/Ciencia",
+        "motivo_oportunidad": "La cobertura es baja y permite un enfoque de servicio con entrevistas a los investigadores.",
+        "accion_sugerida": "Entrevistar a los científicos del CONICET para una nota explicativa sobre síntomas.",
         "enfoques_sugeridos": [
-          "¿Se puede 'activar' la falla de San Andrés por un sismo en el Sur?",
-          "Placa de Nazca: por qué es la zona más peligrosa para Sudamérica."
+          "Hígado graso silencioso: el avance del CONICET para detectar casos graves a tiempo",
+          "Cómo saber si tenés hígado graso: las nuevas señales que identificó la ciencia argentina"
         ],
         "titulos_sugeridos": [
-          "Ciencia: Cómo la Placa de Nazca moldea el riesgo sísmico en Argentina y Perú",
-          "Alerta mundial: Por qué los científicos temen que se despierte la Falla de San Andrés"
+          "Avance argentino: científicos del CONICET descubren cómo anticipar el hígado graso grave",
+          "La dieta no alcanza: el nuevo hallazgo del CONICET sobre el hígado graso"
         ],
         "ejemplos": [
           {
-            "medio": "Perfil",
-            "titulo": "Placa de Nazca: Colombia y otros 3 países de Sudamérica sobre una de las zonas sísmicas más activas del planeta",
-            "link": "https://www.perfil.com/noticias/ciencia/placa-de-nazca-colombia-y-otros-3-paises-de-sudamerica-a50-sobre-una-de-las-zonas-sismicas-mas-activas-del-planeta.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Apophis, el asteroide del tamaño de la Torre Eiffel que se acercará a la Tierra",
-            "link": "https://www.lanacion.com.ar/sociedad/apophis-el-asteroide-del-tamano-de-la-torre-eiffel-que-se-acercara-a-la-tierra-nid20082026/"
+            "medio": "Infobae",
+            "titulo": "Hígado graso: investigadores del CONICET identificaron subtipos ocultos que anticipan formas graves de la enfermedad",
+            "link": "https://www.infobae.com/salud/ciencia/2026/08/24/higado-graso-investigadores-del-conicet-identificaron-subtipos-ocultos-que-anticipan-formas-graves-de-la-enfermedad/"
           }
         ]
       }
     ],
     "discover": [
       {
-        "tema": "Realeza: El regreso de Harry y Meghan al Reino Unido",
-        "tipo_de_oportunidad": "Entretenimiento / Celebridades",
+        "tema": "Robot humanoide chino supera el récord de Usain Bolt",
         "prioridad": 1,
-        "total_notas": 5,
-        "cantidad_medios": 5,
+        "total_notas": 3,
+        "cantidad_medios": 3,
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Ámbito": 1,
-          "Infobae": 1
+          "TN": 1,
+          "Página 12": 1
         },
-        "por_que_importa": "Es un tema de interés global con alta tracción en audiencias masivas.",
-        "motivo": "Todos los medios publicaron una nota. Perfil puede diferenciarse con un enfoque en la logística del regreso.",
-        "accion_sugerida": "Actualizar con detalles sobre la residencia donde se instalarán y la reacción de la Casa Real.",
+        "por_que_importa": "Es un contenido visualmente impactante y disruptivo que genera curiosidad tecnológica.",
+        "tipo_de_oportunidad": "Tecnología/Curiosidades",
+        "motivo": "Perfil ya publicó una nota general, pero puede explotar el ángulo comparativo con la anatomía humana.",
+        "accion_sugerida": "Crear un video corto para redes comparando los movimientos del robot con los de Bolt.",
         "enfoques_sugeridos": [
-          "El plan de Harry y Meghan: qué hay detrás de la mudanza al Reino Unido.",
-          "La llamada inesperada que forzó el regreso de los Duques de Sussex."
+          "Humano vs Robot: por qué las máquinas ya corren más rápido que el hombre récord",
+          "El fin de los límites físicos: qué tecnología usa el robot que venció a Bolt"
         ],
         "titulos_sugeridos": [
-          "Harry y Meghan vuelven al Reino Unido: los detalles secretos de su nueva casa",
-          "Reconciliación o tregua: el impacto del regreso de Harry en la familia real"
+          "Más rápido que Usain Bolt: el impactante video del robot que batió el récord de 100 metros",
+          "La ciencia de la velocidad: cómo el robot humanoide chino logró superar a Bolt"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Harry y Meghan vuelven a vivir al Reino Unido: dónde se instalarán y qué pasará con sus hijos",
-            "link": "https://www.perfil.com/noticias/protagonistas/harry-y-meghan-vuelven-a-vivir-al-reino-unido-donde-se-instalaran-y-que-pasara-con-sus-hijos.phtml"
+            "titulo": "China reúne a más de 2.000 robots humanoides en la segunda edición de los Juegos Mundiales",
+            "link": "https://www.perfil.com/noticias/sociedad/china-reune-a-mas-de-2000-robots-humanoides-en-la-segunda-edicion-de-los-juegos-mundiales.phtml"
           },
           {
-            "medio": "Clarín",
-            "titulo": "Revelan por qué Harry y Meghan se mudan al Reino Unido: la llamada inesperada que alarmó a la Casa Real",
-            "link": "https://www.clarin.com/mundo/revelan-harry-meghan-mudan-reino-unido-llamada-inesperada-alarmo-casa-real_0_qmgSFpu1Kt.html"
+            "medio": "TN",
+            "titulo": "Un robot más rápido que Usain Bolt",
+            "link": "https://tn.com.ar/videos/internacional/2026/08/24/un-robot-mas-rapido-que-usain-bolt/"
           }
         ]
       }
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Actualidad de Córdoba y NEA",
-        "perfil": 10,
-        "competencia_total": 5,
-        "diferencia": 5,
+        "tema": "Controversia por el menú de los presos en Chubut (Asado vs Carne)",
+        "perfil": 1,
+        "competencia_total": 1,
+        "diferencia": 0,
         "cobertura": {
-          "Perfil": 10,
-          "La Nación": 2,
+          "Perfil": 1,
           "Clarín": 1,
-          "Cronista": 2
+          "TN": 0,
+          "Ámbito": 0,
+          "La Nación": 0
         },
-        "por_que_importa": "La capilaridad regional es un valor distintivo de Perfil frente a los medios nacionales tradicionales.",
-        "insight": "Perfil tiene una cobertura exhaustiva de la política de Córdoba (juicio González, misoginia Milei) y economía del NEA (deuda Corrientes).",
-        "accion_sugerida": "Destacar estas notas en la home nacional para mostrar profundidad federal.",
+        "por_que_importa": "Es un tema de política provincial con alta carga emocional y debate sobre seguridad y derechos que Perfil capturó temprano.",
+        "insight": "Perfil logró la respuesta directa del gobernador, posicionándose como referente en este conflicto local.",
+        "accion_sugerida": "Seguir la respuesta judicial del juez que intimó al gobernador para mantener la exclusividad.",
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Diputada cordobesa: \"Milei usa la misoginia para ocultar el fracaso de su modelo\"",
-            "link": "https://www.perfil.com/noticias/cordoba/diputada-cordobesa-milei-usa-la-misoginia-para-ocultar-el-fracaso-de-su-modelo.phtml"
-          },
-          {
-            "medio": "Perfil",
-            "titulo": "La falta de obra pública nacional frena la construcción y golpea el empleo en Corrientes",
-            "link": "https://www.perfil.com/noticias/nea/la-falta-de-obra-publica-nacional-frena-la-construccion-y-golpea-el-empleo-en-corrientes.phtml"
+            "titulo": "\"No vamos a acatar la medida de darles asado a los presos\": la respuesta del gobernador de Chubut a la intimación de un juez",
+            "link": "https://www.perfil.com/noticias/politica/no-vamos-a-acatar-la-medida-de-darles-asado-a-los-presos-la-respuesta-del-gobernador-de-chubut-a-la-intimacion-de-un-juez.phtml"
           }
         ]
       }
@@ -914,35 +883,38 @@
     "prioridades_del_dia": [
       {
         "prioridad": 1,
-        "tema": "Caso Cerimedo: Chats y Allanamiento",
-        "categoria": "Judiciales",
-        "motivo": "Perfil tiene información exclusiva sobre la 'minigranja de bots'. Es el tema del día con mayor competencia.",
-        "por_que_importa": "Afecta el núcleo de la estrategia digital del oficialismo y tiene derivaciones judiciales graves.",
-        "accion_sugerida": "Publicar un análisis de los chats revelados.",
+        "tema": "Crisis de consumo y endeudamiento familiar para alimentos",
+        "categoria": "Economía/Sociedad",
+        "motivo": "Varios medios (Clarín, P12, LN) están cubriendo el cruce entre CAME y el Gobierno.",
+        "por_que_importa": "Es la contraparte social del ajuste económico y afecta a la mayoría de la audiencia.",
+        "accion_sugerida": "Nota de servicio: cómo evitar el sobreendeudamiento con tarjetas en compras de supermercado.",
         "titulos_sugeridos": [
-          "Exclusivo: Los chats que revelan cómo operaba la granja de bots de Cerimedo"
+          "El drama de las cuotas: por qué cada vez más familias se endeudan para comprar comida",
+          "CAME le responde a Milei: los datos detrás del consumo que preocupa al comercio"
         ]
       },
       {
         "prioridad": 2,
-        "tema": "Morosidad y Deuda Familiar",
-        "categoria": "Economía",
-        "motivo": "Brecha de cobertura importante y alta prioridad editorial por el impacto social.",
-        "por_que_importa": "Es la base del descontento social actual por la pérdida de poder adquisitivo.",
-        "accion_sugerida": "Cruzar datos de Corrientes con el panorama nacional.",
+        "tema": "Concesión de 4000 km de rutas nacionales",
+        "categoria": "Política/Economía",
+        "motivo": "Brecha de cobertura total frente a todos los competidores.",
+        "por_que_importa": "Es una de las privatizaciones/concesiones más grandes del año.",
+        "accion_sugerida": "Publicar nota explicativa con el listado de rutas afectadas.",
         "titulos_sugeridos": [
-          "Alerta familias: Por qué el 92% ya no puede pagar sus deudas"
+          "Rutas nacionales privadas: los 8 corredores que el Gobierno entregó por 20 años",
+          "El mapa del nuevo sistema de peajes: qué cambia en las rutas de todo el país"
         ]
       },
       {
         "prioridad": 3,
-        "tema": "Cierre de Aeroparque",
-        "categoria": "Sociedad / Servicio",
-        "motivo": "Perfil tiene 0 notas y la competencia ya está informando sobre el caos operativo de la próxima semana.",
-        "por_que_importa": "Es información de servicio esencial para la audiencia.",
-        "accion_sugerida": "Publicar guía de vuelos afectados.",
+        "tema": "Guerra comercial Trump vs Canadá y sanciones a Irán",
+        "categoria": "Internacionales",
+        "motivo": "Alto volumen de notas en Clarín y Ámbito.",
+        "por_que_importa": "Impacta en los precios del acero, autos y petróleo a nivel global.",
+        "accion_sugerida": "Análisis del impacto para Argentina de un dólar más fuerte por tensión global.",
         "titulos_sugeridos": [
-          "Caos aéreo: Aeroparque cierra 3 días y trasladan los vuelos a Ezeiza"
+          "Trump escala la guerra comercial: aranceles del 50% y tensión total con Canadá",
+          "Ofensiva financiera contra Irán: cómo el conflicto externo puede mover el precio del crudo"
         ]
       }
     ]
