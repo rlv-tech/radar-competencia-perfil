@@ -1,40 +1,45 @@
 {
-  "fecha_analisis": "Mon, 24 Aug 2026",
+  "fecha_analisis": "2026-08-24",
   "hipercompetencia": [
     {
-      "tema": "Dólar y cotizaciones de moneda extranjera en Argentina",
+      "tema": "Cotización del dólar, riesgo país y situación de depósitos bancarios",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 26,
+      "total_notas": 48,
       "cantidad_medios": 8,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 3,
-        "La Nación": 1,
-        "Clarín": 8,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 6,
+        "Perfil": 8,
+        "La Nación": 2,
+        "Clarín": 9,
+        "Infobae": 2,
+        "TN": 2,
+        "Ámbito": 13,
         "Página 12": 1,
-        "Cronista": 5
+        "Cronista": 11
       },
-      "por_que_importa": "Es el tema con mayor volumen de notas y presencia de todos los medios analizados, reflejando una alta sensibilidad económica por la superación del techo de $1.500.",
-      "insight": "La cobertura está traccionada por servicios de cotización minuto a minuto, con Clarín y Ámbito liderando el volumen informativo frente a un Perfil que se mantiene en un segundo plano con notas de servicio básicas.",
+      "por_que_importa": "Es el tema de mayor volumen del día, con el dólar blue superando los $1.500 y el riesgo país en descenso.",
+      "insight": "Ámbito y Cronista lideran la cobertura técnica financiera, mientras Clarín y Perfil siguen de cerca el pulso del blue.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Implementar un tablero de actualización en tiempo real y sumar análisis sobre la brecha cambiaria y su impacto en precios.",
+      "accion_sugerida": "Mantener la actualización minuto a minuto para no ceder posicionamiento frente a medios económicos especializados.",
       "enfoques_sugeridos": [
-        "El impacto del dólar a $1500 en las expectativas inflacionarias del segundo semestre.",
-        "Análisis de la baja del riesgo país en contraste con la subida del blue.",
-        "Comparativa de la cotización del dólar oficial vs blue tras el aumento de $5."
+        "Dólar blue arriba de $1500: el impacto en la brecha y la caída del riesgo país local.",
+        "Mercados en alerta: por qué suben los bonos mientras el Banco Nación ajusta el oficial.",
+        "Riesgo país camino a los 500 puntos: qué factores impulsan la recuperación de los ADR."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "A cuánto cotiza el dólar blue hoy, lunes 24 de agosto",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-24-de-agosto.phtml"
+        },
         {
           "medio": "Clarín",
           "titulo": "Sube el dólar: arrancó la semana por encima del \"techo\" de $1.500 mientras baja el riesgo país",
@@ -42,46 +47,46 @@
         },
         {
           "medio": "Ámbito",
-          "titulo": "El dólar mayorista ya supera la barrera de los $1.500 y crecen las dudas sobre las tasas",
-          "link": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-prueba-la-barrera-1500-y-crecen-las-dudas-las-tasas-n6314018"
+          "titulo": "El riesgo país cae y se enfila a perforar los 500 puntos, mientras los ADRs avanzan de la mano de los bancos",
+          "link": "https://www.ambito.com/finanzas/el-riesgo-pais-apunta-quebrar-los-500-puntos-y-los-adrs-operan-dispares-n6314102"
         },
         {
           "medio": "Cronista",
-          "titulo": "El dólar oficial sube $ 10 en la primera rueda de la semana: a cuánto cotiza este lunes",
-          "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-lunes-24-de-agosto/"
+          "titulo": "Riesgo país en cuenta regresiva: bajó a 500 puntos, suben los bonos y los ADR en Nueva York",
+          "link": "https://www.cronista.com/finanzas-mercados/riesgo-pais-en-cuenta-regresiva-toco-500-puntos-suben-los-bonos-y-los-adr-en-nueva-york/"
         }
       ]
     },
     {
-      "tema": "Reunión de Gabinete de Javier Milei en Casa Rosada",
+      "tema": "Reunión de Gabinete y agenda legislativa de Javier Milei",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 7,
+      "total_notas": 13,
+      "cantidad_medios": 8,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 1,
+        "La Nación": 2,
         "Clarín": 2,
         "Infobae": 1,
         "TN": 2,
-        "Ámbito": 0,
+        "Ámbito": 1,
         "Página 12": 1,
-        "Cronista": 1
+        "Cronista": 3
       },
-      "por_que_importa": "Marca el regreso de la actividad de gabinete tras 45 días y el inicio de una semana legislativa clave para las leyes económicas.",
-      "insight": "Casi todos los medios nacionales cubrieron el hecho, destacando la excepcionalidad de la reunión después de un largo período sin encuentros grupales en la Rosada.",
+      "por_que_importa": "Marca el retorno de la actividad central en Casa Rosada tras un largo periodo sin reuniones de gabinete presenciales.",
+      "insight": "El enfoque gira en torno a la reactivación de las negociaciones por leyes económicas en Diputados.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en los proyectos específicos que el Ejecutivo enviará a Diputados tras esta cumbre.",
+      "accion_sugerida": "Profundizar en los detalles de las leyes económicas que el Gobierno priorizará en esta nueva etapa.",
       "enfoques_sugeridos": [
-        "Las leyes económicas prioritarias que Milei busca destrabar en Diputados.",
-        "Análisis del mensaje político de volver a reunir al gabinete tras 45 días.",
-        "Detalles de la cumbre con legisladores posterior a la reunión de ministros."
+        "El regreso de Milei a la Rosada: las leyes económicas que el Gobierno busca acelerar.",
+        "Gabinete reactivado: los planes de Milei para destrabar la agenda parlamentaria hoy.",
+        "Retorno tras 45 días: quiénes ganan peso en la mesa de decisiones de Javier Milei."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
@@ -89,284 +94,257 @@
         {
           "medio": "Perfil",
           "titulo": "Milei volvió a reunir al Gabinete después de 45 días y busca aprobar leyes económicas en el regreso de las sesiones de Diputados",
-          "link": "https://www.perfil.com/noticias/politica/milei-vuelve-la-rosada-para-reunir-al-gabinete-y-buscara-que-en-la-vuelta-de-las-sesiones-diputados-apruebe-sus-leyes-economicas.phtml"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Milei se reunió durante tres horas con su Gabinete y puso el foco en las reformas que buscan impulsar en el Congreso",
-          "link": "https://tn.com.ar/politica/2026/08/24/milei-se-reunio-durante-tres-horas-con-su-gabinete-y-puso-el-foco-en-las-reformas-que-buscan-impulsar-en-el-congreso/"
+          "link": "https://www.perfil.com/noticias/politica/milei-vuelve-a-la-rosada-para-reunir-al-gabinete-y-buscara-que-en-la-vuelta-de-las-sesiones-diputados-apruebe-sus-leyes-economicas.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/"
+          "titulo": "Javier Milei volvió a la Casa Rosada tras 24 días y reunió al gabinete por casi tres horas",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-volvio-a-la-casa-rosada-tras-23-dias-y-reune-al-gabinete-nid24082026/"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Javier Milei reunió a su Gabinete y se pone al frente de la negociación por las reformas",
+          "link": "https://www.cronista.com/economia-politica/javier-milei-reunio-a-su-gabinete-y-se-pone-al-frente-de-la-negociacion-por-las-reformas/"
         }
       ]
     },
     {
-      "tema": "Escándalo Fernando Cerimedo y ataque a Nadia Beller",
+      "tema": "Endeudamiento de hogares y proyecto para limitar tasas en billeteras virtuales",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 7,
+      "total_notas": 10,
+      "cantidad_medios": 6,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 3,
+        "Perfil": 2,
         "La Nación": 1,
         "Clarín": 2,
         "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "Cronista": 0
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 3,
+        "Cronista": 2
       },
-      "por_que_importa": "Es un caso judicial con ramificaciones internacionales (Bolivia, México, Brasil) y políticas por la vinculación de los involucrados con el oficialismo.",
-      "insight": "Perfil lidera la cobertura con tres notas, abordando tanto el seguimiento judicial en Bolivia como el impacto en la opinión pública y redes sociales.",
+      "por_que_importa": "La oposición busca presionar al Gobierno con un tema sensible que afecta el consumo y las finanzas familiares.",
+      "insight": "Página 12 lidera con un enfoque social, mientras Cronista analiza el impacto en el sistema financiero.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener el seguimiento de las declaraciones de los detenidos en Santa Cruz de la Sierra y el estado de salud de Nadia Beller.",
+      "accion_sugerida": "Analizar la viabilidad legislativa del proyecto y el posible impacto en empresas de tecnología financiera.",
       "enfoques_sugeridos": [
-        "La repercusión regional del caso Cerimedo: el impacto en México y Brasil.",
-        "Declaraciones de los cómplices detenidos en Bolivia por el ataque a tiros.",
-        "La respuesta de Evo Morales a las acusaciones de Cerimedo."
+        "Consumo bajo presión: las claves del proyecto para topear tasas en billeteras virtuales.",
+        "Guerra por el crédito: el plan de la oposición para limitar costos en pagos digitales.",
+        "Endeudamiento familiar: el impacto de las tasas en la mesa de los argentinos hoy."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Encuesta: el escándalo de Fernando Cerimedo reactivó la preocupación por ANDIS y tuvo repercusión en México y Brasil",
-          "link": "https://www.perfil.com/noticias/politica/que-paso-con-el-caso-fernando-cerimedo-en-las-redes-5597-publicaciones-muestran-cinco-conversaciones-nacionales-y-una-red-que-quedo-oculta.phtml"
+          "titulo": "Unión por la Patria presentó un proyecto para limitar las tasas en billeteras virtuales",
+          "link": "https://www.perfil.com/noticias/nea/union-por-la-patria-presento-un-proyecto-para-limitar-las-tasas-en-billeteras-virtuales.phtml"
         },
         {
           "medio": "Clarín",
-          "titulo": "El socio de Cerimedo despega a Milei del consultor detenido en Bolivia: \"El Presidente habla conmigo\"",
-          "link": "https://www.clarin.com/politica/socio-cerimedo-despega-milei-consultor-detenido-bolivia-presidente-habla-conmigo_0_Hf0MINTADN.html"
+          "titulo": "Endeudamiento familiar: la oposición se junta para presionar a Javier Milei en el Congreso",
+          "link": "https://www.clarin.com/politica/endeudamiento-familiar-oposicion-junta-presionar-javier-milei-congreso_0_Pe9Pj6VBP0.html"
         },
         {
           "medio": "Página 12",
-          "titulo": "Nadia Beller denunció la sospechosa visita de un hombre de campera amarilla a su habitación en el hospital",
-          "link": "https://www.pagina12.com.ar/2026/08/24/nadia-beller-denuncio-la-sospechosa-visita-de-un-hombre-de-campera-amarilla-a-su-habitacion-en-el-hospital/"
+          "titulo": "“Las familias se endeudan para comer”",
+          "link": "https://www.pagina12.com.ar/2026/08/23/las-familias-se-endeudan-para-comer/"
         }
       ]
     },
     {
-      "tema": "Ofensiva económica de EE.UU. contra Irán",
-      "prioridad": 2,
+      "tema": "Estrenos de series y películas: Netflix, Apple TV+ y HBO Max",
+      "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 4,
+      "total_notas": 10,
+      "cantidad_medios": 5,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
+        "La Nación": 0,
+        "Clarín": 2,
         "Infobae": 1,
         "TN": 0,
-        "Ámbito": 2,
+        "Ámbito": 3,
+        "Página 12": 3,
         "Cronista": 1
       },
-      "por_que_importa": "Es el tema internacional más relevante del día por su impacto en los mercados financieros y el precio del petróleo.",
-      "insight": "Aunque Perfil no tiene cobertura, medios como Ámbito y Cronista destacan la magnitud de la 'ofensiva financiera' y la posible reacción de China.",
+      "por_que_importa": "Es un contenido de alta demanda de consumo para audiencias digitales interesadas en entretenimiento.",
+      "insight": "Página 12 y Ámbito dominan el volumen de recomendaciones culturales del lunes.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Elaborar una nota de análisis sobre el impacto que este conflicto puede tener en la economía argentina, especialmente en el sector energético.",
+      "accion_sugerida": "Generar guías de servicio sobre qué ver en plataformas, enfocadas en las tendencias locales de búsqueda.",
       "enfoques_sugeridos": [
-        "El 'Día D' de las sanciones: cómo EE.UU. planea aislar financieramente a Irán.",
-        "La advertencia de China frente a las sanciones estadounidenses a sus negocios.",
-        "Impacto en el mercado del petróleo ante la tensión en el estrecho de Ormuz."
+        "De El Eternauta a Dark Matter: guía de los estrenos que llegan al streaming esta semana.",
+        "Qué ver hoy: las series de Netflix y HBO Max que lideran las tendencias en Argentina.",
+        "Maratón de agosto: los lanzamientos imprescindibles en Apple TV+ y otras plataformas."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
+          "medio": "Clarín",
+          "titulo": "Los estrenos de Netflix Argentina esta semana: qué series y películas ver del 24 al 30 de agosto",
+          "link": "https://www.clarin.com/espectaculos/los-estrenos-de-netflix-argentina-esta-semana-que-series-y-peliculas-ver-del-24-al-30-de-agosto_0_HsYEWvvM5l.html"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "“Dark Matter”, por Apple TV+: juego de pesadilla existencial",
+          "link": "https://www.pagina12.com.ar/2026/08/24/dark-matter-por-apple-tv-juego-de-pesadilla-existencial/"
+        },
+        {
           "medio": "Ámbito",
-          "titulo": "Arranca el Día D: EEUU lanza una ofensiva económica total para aislar a Irán",
-          "link": "https://www.ambito.com/mundo/arranca-el-dia-d-eeuu-lanza-una-ofensiva-economica-total-aislar-iran-n6314007"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "EE.UU. lanzará “la mayor ofensiva financiera” contra Irán, que promete una dura reacción: el petróleo espera",
-          "link": "https://www.cronista.com/internacionales/eeuu-lanzara-la-mayor-ofesniva-financiera-contra-iran-que-promete-una-dura-reaccion-el-petroleo-espera/"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Irán aumenta la presión sobre Ormuz ante el inminente anuncio de sanciones de EE.UU.",
-          "link": "https://www.lanacion.com.ar/el-mundo/iran-aumenta-la-presion-sobre-ormuz-ante-el-inminente-anuncio-de-sanciones-de-eeuu-nid24082026/"
+          "titulo": "HBO Max estrenó la esperada nueva temporada de la serie juvenil que enamoró a todos",
+          "link": "https://www.ambito.com/espectaculos/hbo-max-estreno-la-esperada-nueva-temporada-la-serie-juvenil-que-enamoro-todos-n6313965"
         }
       ]
     }
   ],
   "perfil_pierde": [
     {
-      "tema": "Dólar y cotizaciones de moneda extranjera en Argentina",
-      "prioridad": 1,
+      "tema": "Clima extremo: frío polar, nieve y alertas meteorológicas en Argentina",
+      "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 26,
-      "cantidad_medios": 8,
+      "total_notas": 15,
+      "cantidad_medios": 5,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 5,
       "cobertura": {
-        "Perfil": 3,
-        "La Nación": 1,
-        "Clarín": 8,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 6,
+        "Perfil": 1,
+        "La Nación": 3,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 3,
+        "Ámbito": 0,
         "Página 12": 1,
-        "Cronista": 5
+        "Cronista": 6
       },
-      "por_que_importa": "Es la principal preocupación económica del lector y la brecha con los competidores especializados es significativa en términos de frecuencia de actualización.",
-      "insight": "Perfil se limita a cotizaciones de moneda (blue, euro, Córdoba) mientras que la competencia analiza la superación de techos psicológicos y dudas sobre tasas.",
+      "por_que_importa": "Es información de servicio esencial con alertas vigentes por frío extremo y vientos en múltiples provincias.",
+      "insight": "Cronista lidera la cobertura de alertas regionales con seis notas, quintuplicando la presencia de Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Diversificar los títulos de las notas de dólar para captar búsquedas sobre 'dólar mayorista' y 'brecha cambiaria'.",
+      "accion_sugerida": "Incrementar la producción de notas de servicio regionales y mapas interactivos de alertas del SMN.",
       "enfoques_sugeridos": [
-        "Análisis de por qué el dólar mayorista rompió la barrera de los $1.500.",
-        "El impacto en los ahorristas del dólar planchado según especialistas.",
-        "Evolución del dólar MEP y CCL en la apertura de la semana."
+        "Súper Niño y frío extremo: el mapa de las alertas meteorológicas en toda la Argentina.",
+        "Alerta amarilla en San Juan y Mendoza: cuándo llega el viento zonda y qué precauciones tomar.",
+        "Diluvio de agua helada: las zonas que esperan granizo y nieve para el cierre de agosto."
       ],
       "medios_que_mas_publicaron": [
-        "Clarín",
-        "Ámbito",
-        "Cronista"
+        "Cronista",
+        "TN",
+        "La Nación"
       ],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
-          "medio": "Clarín",
-          "titulo": "Sube el dólar: arrancó la semana por encima del \"techo\" de $1.500 mientras baja el riesgo país",
-          "link": "https://www.clarin.com/economia/sube-dolar-arranco-semana-encima-techo-1500-baja-riesgo-pais_0_fmnW465crP.html"
+          "medio": "Cronista",
+          "titulo": "Se aproxima un diluvio de agua helada este lunes 24: tormentas con granizo y fuertes ráfagas de viento en Mendoza, Neuquén y Río Negro",
+          "link": "https://www.cronista.com/informacion-gral/se-aproxima-un-diluvio-of-agua-helada-este-lunes-24-tormentas-con-granizo-y-fuertes-rafagas-de-viento-en-mendoza-neuquen-y-rio-negro-2/"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "El dólar mayorista ya supera la barrera de los $1.500 y crecen las dudas sobre las tasas",
-          "link": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-prueba-la-barrera-1500-y-crecen-las-dudas-las-tasas-n6314018"
+          "medio": "La Nación",
+          "titulo": "Hay alerta amarilla por frío extremo para este lunes 24 de agosto: las provincias afectadas",
+          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-para-este-lunes-24-de-agosto-las-provincias-afectadas-nid23082026/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Clima en Ciudad Autónoma de Buenos Aires hoy lunes 24 de agosto: cielo claro y frío",
+          "link": "https://tn.com.ar/clima/alertas/2026/08/24/clima-en-ciudad-autonoma-de-buenos-aires-hoy-lunes-24-de-agosto-cielo-claro-y-frio/"
         }
       ]
     },
     {
-      "tema": "Guerra en Ucrania e Independencia de Ucrania",
+      "tema": "Guerra comercial Trump: aranceles del 50% a Canadá",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 3,
+      "total_notas": 5,
+      "cantidad_medios": 4,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
-      "brecha_perfil": 4,
+      "brecha_perfil": 2,
       "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 2,
-        "Infobae": 4
+        "Perfil": 1,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 3,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "Cronista": 0
       },
-      "por_que_importa": "Se conmemora el Día de la Independencia en un contexto de guerra recrudecida y uso de nuevas tecnologías (IA) en el frente.",
-      "insight": "Infobae domina la agenda internacional de guerra con despachos de agencias y notas propias, mientras Perfil ignora el aniversario y las nuevas amenazas rusas.",
+      "por_que_importa": "Impacta en la dinámica del comercio global y la relación de los aliados de Estados Unidos en el T-MEC.",
+      "insight": "Infobae profundiza en la reacción de México (Sheinbaum), mientras Perfil se mantiene en la noticia general.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar una nota sobre el 35.º aniversario de la independencia de Ucrania bajo fuego y la mediación del Vaticano mencionada por otros medios.",
+      "accion_sugerida": "Analizar cómo esta medida contra Canadá podría repercutir en posibles acuerdos comerciales con Argentina.",
       "enfoques_sugeridos": [
-        "Drones con IA: la nueva frontera del terror en la guerra de Ucrania.",
-        "La misión diplomática del Vaticano en Moscú para abrir canales de diálogo.",
-        "Ayuda militar británica: Londres busca que Ucrania fabrique sus propios misiles."
+        "Trump escala la presión sobre Canadá con nuevos aranceles: el riesgo para el Mercosur.",
+        "Aranceles del 50% al acero: la estrategia de Trump para blindar la industria automotriz.",
+        "Conflicto en el T-MEC: por qué la movida de Trump contra Ottawa enciende alarmas globales."
       ],
       "medios_que_mas_publicaron": [
-        "Infobae",
-        "Clarín"
+        "Infobae"
       ],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Infobae",
-          "titulo": "El dolor y la memoria por la guerra marcan el 35.º Día de la Independencia de Ucrania",
-          "link": "https://www.infobae.com/america/agencias/2026/08/24/el-dolor-y-la-memoria-por-la-guerra-marcan-el-35-dia-de-la-independencia-de-ucrania/"
+          "titulo": "Sheinbaum descarta “rompimiento” entre EEUU y Canadá, pero reconoce “desencuentro” en pláticas arancelarias",
+          "link": "https://www.infobae.com/mexico/2026/08/24/sheinbaum-descarta-rompimiento-entre-eeuu-y-canada-pero-reconoce-desencuentro-en-platicas-arancelarias/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Un dron mató a tres ucranianos. Estaba guiado completamente por inteligencia artificial",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/dron-mato-ucranianos-guiado-completamente-inteligencia-artificial_0_FGZpIFGQNI.html"
+          "titulo": "Trump amenaza con aranceles del 50% sobre más productos canadienses: autos, repuestos y acero",
+          "link": "https://www.clarin.com/mundo/trump-amenaza-aranceles-50-productos-canadienses-autos-repuestos-acero_0_G1jWiA7OWk.html"
         }
       ]
     },
     {
-      "tema": "Anuncios y gestión de ANSES",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 4,
-      "cobertura": {
-        "Perfil": 1,
-        "Cronista": 5
-      },
-      "por_que_importa": "Es información de servicio crítica para millones de beneficiarios sobre montos de septiembre y cambios en leyes jubilatorias.",
-      "insight": "Cronista capitaliza el interés por trámites y montos específicos (jubilación a los 50 años, montos máximos), dejando a Perfil solo con el cronograma básico de pagos.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Generar notas de servicio sobre los requisitos para las nuevas modalidades de jubilación mencionadas por la competencia.",
-      "enfoques_sugeridos": [
-        "Paso a paso para jubilarse a los 50 años con 20 años de aportes según la Ley 27.675.",
-        "Quiénes cobrarán el máximo de $498.591 de ANSES en septiembre.",
-        "Cómo verificar los aportes jubilatorios registrados de manera online."
-      ],
-      "medios_que_mas_publicaron": [
-        "Cronista"
-      ],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Cronista",
-          "titulo": "Es oficial por la Ley 27.675 | ANSES permite jubilarse a los 50 años con sólo 20 años de aportes: quiénes pueden acceder",
-          "link": "https://www.cronista.com/informacion-gral/es-oficial-por-la-ley-27675-anses-permite-jubilarse-a-los-50-anos-con-solo-20-anos-de-aportes-quienes-pueden-acceder/"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "Es oficial | ANSES pagará hasta $498.591 en septiembre: quiénes podrán cobrar el máximo",
-          "link": "https://www.cronista.com/informacion-gral/confirmado-anses-pagara-hasta-498591-en-septiembre-quienes-podran-cobrar-el-maximo/"
-        }
-      ]
-    },
-    {
-      "tema": "Investigación espacial: NASA y Misión Artemis",
+      "tema": "Descubrimientos de la NASA y exploración espacial",
       "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 2,
+      "total_notas": 6,
+      "cantidad_medios": 3,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 1,
       "cobertura": {
-        "Perfil": 1,
-        "La Nación": 2
+        "Perfil": 2,
+        "La Nación": 3,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "Cronista": 0
       },
-      "por_que_importa": "La exploración lunar genera fascinación masiva y el plan de Artemis III representa un hito científico sin precedentes.",
-      "insight": "La Nación apuesta por entrevistas y detalles técnicos del plan de vuelo, mientras Perfil se queda con una curiosidad biológica sobre hongos en la Luna.",
+      "por_que_importa": "Atrae audiencias interesadas en ciencia y tecnología con temas de alto potencial visual y narrativo.",
+      "insight": "La Nación destaca con una entrevista exclusiva y detalles técnicos de la misión Artemis III.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Producir una pieza visual sobre las etapas de la misión Artemis III y el rol de las astronautas.",
+      "accion_sugerida": "Reforzar la cobertura con infografías o explicativos sobre la viabilidad de vida en la Luna según los nuevos hallazgos.",
       "enfoques_sugeridos": [
-        "El cronograma de Artemis III: tres cohetes para volver a pisar la Luna.",
-        "La visión de Christina Koch sobre el futuro de la mujer en el espacio.",
-        "Los desafíos técnicos del acoplamiento en órbita lunar."
+        "Misión Artemis y vida en la Luna: los hallazgos biológicos que revolucionan la ciencia.",
+        "La estrella más rápida de la galaxia: el asombroso descubrimiento que desafía a la NASA.",
+        "Sobrevivir en la Luna: el estudio sobre bacterias terrestres que cambia los planes espaciales."
       ],
       "medios_que_mas_publicaron": [
         "La Nación"
@@ -379,9 +357,9 @@
           "link": "https://www.lanacion.com.ar/el-mundo/el-plan-ambicioso-de-la-nasa-para-artemis-iii-tres-cohetes-dos-acoplamientos-en-orbita-y-una-nid23082026/"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Christina Koch, astronauta de Artemis II: “No hay nada que te prepare para la impresionante sensación de ver tu planeta iluminado como si fuera de día”",
-          "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-de-artemis-ii-no-hay-nada-que-te-prepare-para-la-impresionante-sensacion-nid23082026/"
+          "medio": "Clarín",
+          "titulo": "Descubrieron la estrella más rápida de nuestra galaxia: viaja 100.000 veces más rápido que un avión de línea",
+          "link": "https://www.clarin.com/internacional/descubrieron-estrella-rapida-galaxia-viaja-100000-veces-rapido-avion-linea_0_mZ0ZbzcEaH.html"
         }
       ]
     }
@@ -392,35 +370,45 @@
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 3,
+      "total_notas": 6,
+      "cantidad_medios": 4,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
         "Clarín": 1,
-        "Ámbito": 2,
-        "Cronista": 1,
-        "Perfil": 0
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 3,
+        "Página 12": 1,
+        "Cronista": 1
       },
-      "por_que_importa": "Es un evento de altísimo impacto institucional, político y social programado para noviembre, con debates sobre feriados y organización.",
-      "insight": "El Gobierno bonaerense ya está disputando un lugar en la organización mientras se filtran detalles de la agenda en el Vaticano.",
+      "por_que_importa": "Es un evento político y religioso de máxima relevancia para noviembre, con implicancias en la agenda nacional y bonaerense.",
+      "insight": "Ámbito detecta la tensión política por el rol del gobierno bonaerense en la organización de la visita.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Contactar fuentes eclesiásticas y gubernamentales para confirmar si habrá feriados y cuál será el recorrido oficial.",
+      "accion_sugerida": "Cubrir la interna por la logística del viaje y las versiones sobre posibles feriados o asuetos.",
       "enfoques_sugeridos": [
-        "La interna entre Nación y Provincia por el protagonismo en la visita papal.",
-        "Feriados en noviembre: las opciones que baraja el Gobierno ante el arribo de León XIV.",
-        "La agenda del Papa en Luján tras recibir al arzobispo en el Vaticano."
+        "El Papa León XIV en Argentina: la pelea política detrás de la logística de noviembre.",
+        "¿Feriado por el Papa? Las opciones que baraja el Gobierno para la visita histórica.",
+        "El arzobispo de Luján en el Vaticano: los detalles del itinerario papal en Buenos Aires."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [
         "Clarín",
         "Ámbito",
+        "Página 12",
         "Cronista"
       ],
       "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "En la previa a su viaje a la Argentina, el Papa León XIV recibió al arzobispo de Luján en el Vaticano",
+          "link": "https://www.clarin.com/politica/previa-viaje-argentina-papa-leon-xiv-recibio-arzobispo-lujan-vaticano_0_TXLIaQ3ieZ.html"
+        },
         {
           "medio": "Ámbito",
           "titulo": "El Gobierno bonaerense reclama lugar en la organización de la visita del papa León XIV",
@@ -435,30 +423,34 @@
     },
     {
       "tema": "Adjudicación de corredores viales y privatización de rutas",
-      "prioridad": 2,
+      "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
+      "total_notas": 6,
+      "cantidad_medios": 4,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
+        "Perfil": 0,
         "La Nación": 1,
-        "Ámbito": 1,
-        "Cronista": 1,
-        "Perfil": 0
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 3,
+        "Página 12": 0,
+        "Cronista": 2
       },
-      "por_que_importa": "Representa un cambio estructural en la gestión de la obra pública y el transporte de carga por los próximos 20 años.",
-      "insight": "Luis Caputo avanzó con la concesión de 4.000 km de rutas nacionales a empresas privadas, un tema central para la agenda económica de Perfil.",
+      "por_que_importa": "Es un paso clave en el programa de privatizaciones y concesiones del Ministerio de Economía por 20 años.",
+      "insight": "Cronista y Ámbito detallan el reparto del negocio entre las empresas ganadoras para casi 4.000 km de rutas.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Identificar a los grupos empresarios ganadores y analizar si habrá aumentos de peajes inmediatos.",
+      "accion_sugerida": "Publicar un análisis sobre quiénes son los empresarios beneficiados y el impacto esperado en los peajes.",
       "enfoques_sugeridos": [
-        "Quiénes son los nuevos dueños de las rutas nacionales por los próximos 20 años.",
-        "El plan de Caputo para los 4.000 km concesionados: obras y financiamiento.",
-        "Impacto en la logística: cómo afectará la privatización de corredores al transporte."
+        "Privatización de rutas: el mapa de las empresas que controlarán los peajes por 20 años.",
+        "Adiós a las rutas estatales: Caputo adjudicó 4000 km de corredores nacionales.",
+        "El plan vial de Milei: qué cambia para los usuarios con las nuevas concesiones privadas."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [
@@ -474,135 +466,121 @@
         },
         {
           "medio": "Cronista",
-          "titulo": "Privatización de rutas nacionales: Caputo adjudicó otros 3900 km en todo el país, quiénes los controlarán y cuando empiezan las obras",
+          "titulo": "Privatización de rutas: cómo queda repartido el negocio vial tras la adjudicación de 3900 km en todo el país",
           "link": "https://www.cronista.com/economia-politica/privatizacion-de-rutas-nacionales-caputo-adjudico-otros-3900-km-en-todo-el-pais-quienes-los-controlaran/"
         }
       ]
     },
     {
-      "tema": "Traspaso de rutas y ferrocarriles a Río Negro",
+      "tema": "Ofensiva económica de Estados Unidos contra Irán",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 1,
+      "total_notas": 5,
+      "cantidad_medios": 3,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
-        "Ámbito": 2,
-        "Perfil": 0
-      },
-      "por_que_importa": "Es un movimiento político estratégico que involucra a la oposición dialoguista (Weretilneck) y al PRO (Santilli) en la gestión de infraestructura federal.",
-      "insight": "Ámbito destaca la firma conjunta entre Nación y Provincia, lo que indica un avance en la descentralización de servicios que Perfil no ha registrado.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Analizar si este modelo de traspaso se replicará en otras provincias como Córdoba o Santa Fe.",
-      "enfoques_sugeridos": [
-        "El acuerdo Weretilneck-Caputo: Río Negro se hace cargo de sus trenes y rutas.",
-        "El rol de Diego Santilli en el acuerdo de infraestructura con la Patagonia.",
-        "Federalismo fiscal: por qué Nación transfiere la gestión ferroviaria a las provincias."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [
-        "Ámbito"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Ámbito",
-          "titulo": "Diego Santilli y Luis Caputo firman con Alberto Weretilneck el traspaso de rutas y ferrocarriles de Río Negro",
-          "link": "https://www.ambito.com/politica/diego-santilli-y-luis-caputo-firman-alberto-weretilneck-el-traspaso-rutas-y-ferrocarriles-rio-negro-n6313901"
-        }
-      ]
-    },
-    {
-      "tema": "Aumento del costo por Visas H-1B en EE.UU.",
-      "prioridad": 3,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
+        "Perfil": 0,
         "La Nación": 1,
-        "Cronista": 1,
-        "Perfil": 0
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 2,
+        "Página 12": 0,
+        "Cronista": 1
       },
-      "por_que_importa": "Afecta directamente a profesionales argentinos calificados que buscan trabajar en tecnología o ciencia en Estados Unidos.",
-      "insight": "Trump impulsa una tasa de 100.000 dólares para las visas de trabajo calificado, lo que podría cerrar las puertas a la migración laboral de alto nivel.",
+      "por_que_importa": "Es una noticia geopolítica de alto impacto en los precios del petróleo y la estabilidad en Medio Oriente.",
+      "insight": "Ámbito utiliza la terminología 'Día D' para resaltar la magnitud de la ofensiva financiera de EE.UU.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Realizar una nota explicativa sobre cómo este aumento afectará a las empresas tecnológicas argentinas con sede en EE.UU.",
+      "accion_sugerida": "Analizar las repercusiones financieras globales de este aislamiento económico a Teherán.",
       "enfoques_sugeridos": [
-        "La nueva barrera de Trump: trabajar en EE.UU. costará u$s 100.000 más.",
-        "Impacto en el sector IT: qué pasará con las visas H-1B para argentinos.",
-        "El plan republicano para endurecer el acceso a trabajadores extranjeros calificados."
+        "Día D financiero: la ofensiva total de Estados Unidos para aislar a Irán del mercado.",
+        "Trump contra el petróleo iraní: cómo las sanciones aplastantes mueven el precio del barril.",
+        "El fin de las relaciones financieras: el plan de EE.UU. para quebrar la economía de Irán."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [
         "La Nación",
+        "Clarín",
+        "Ámbito",
+        "Cronista"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Arranca el Día D: EEUU lanza una ofensiva económica total para aislar a Irán",
+          "link": "https://www.ambito.com/mundo/arranca-el-dia-d-eeuu-lanza-una-ofensiva-economica-total-aislar-iran-n6314007"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "EE.UU. lanzará “la mayor ofensiva financiera” contra Irán, que promete una dura reacción: el petróleo espera",
+          "link": "https://www.cronista.com/internacionales/eeuu-lanzara-la-mayor-ofesniva-financiera-contra-iran-que-promete-una-dura-reaccion-el-petroleo-espera/"
+        }
+      ]
+    },
+    {
+      "tema": "Sismos y réplicas en Costa Rica",
+      "prioridad": 3,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 4,
+      "cantidad_medios": 4,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "Cronista": 1
+      },
+      "por_que_importa": "Es un fenómeno natural de impacto regional con múltiples réplicas que genera interés por desastres naturales.",
+      "insight": "La cobertura es uniforme pero persistente en medios de noticias generales.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un breve sobre la situación de los argentinos en la zona y el estado de alerta sísmica.",
+      "enfoques_sugeridos": [
+        "Terror en San José: el video de los fuertes sismos que sacudieron la capital de Costa Rica.",
+        "Cadena de réplicas: por qué Costa Rica sufrió más de 30 temblores en pocas horas hoy.",
+        "Alerta sísmica en Centroamérica: los daños tras el terremoto de magnitud 5 en Costa Rica."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [
+        "La Nación",
+        "Clarín",
+        "Ámbito",
         "Cronista"
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Trump busca convertir en permanente la polémica tasa de más de 100.000 dólares para las visas H-1B",
-          "link": "https://www.lanacion.com.ar/el-mundo/trump-busca-convertir-en-permanente-la-polemica-tasa-de-mas-de-100000-dolares-para-las-visas-h-1b-nid24082026/"
+          "titulo": "Dos fuertes terremotos afectaron a Costa Rica",
+          "link": "https://www.lanacion.com.ar/el-mundo/dos-fuertes-terremotos-afectaron-a-costa-rica-nid24082026/"
         },
         {
-          "medio": "Cronista",
-          "titulo": "Visas más caras: Trump quiere cobrar una tasa de u$s 100.000 que puede endurecer el acceso a EE.UU.",
-          "link": "https://www.cronista.com/internacionales/que-son-las-visas-h-1b-y-por-que-donald-trump-busca-imponerles-una-tasa-de-us-100000/"
+          "medio": "Ámbito",
+          "titulo": "Un sismo de magnitud 5 sacudio Costa Rica y activo una cadena de casi 30 replicas",
+          "link": "https://www.ambito.com/mundo/un-sismo-magnitud-5-sacudio-costa-rica-y-activo-una-cadena-casi-30-replicas-n6314168"
         }
       ]
     }
   ],
   "oportunidades": [
     {
-      "tema": "Plan Nacional para la atención del Autismo",
+      "tema": "Femicidio Luciana Ojeda: muerte en Paraguay del imputado",
       "prioridad": 2,
-      "tipo": "Servicio",
+      "tipo": "Judiciales",
       "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "Cronista": 1
-      },
-      "por_que_importa": "Es una medida de salud pública que afecta a miles de familias y busca unificar criterios de atención a nivel nacional.",
-      "insight": "",
-      "motivo": "",
-      "motivo_oportunidad": "La existencia de seis ejes de monitoreo permanente ofrece material para una nota de servicio detallada.",
-      "accion_sugerida": "Producir una guía con los seis ejes del plan y cómo los padres pueden acceder a la atención unificada.",
-      "enfoques_sugeridos": [
-        "Los seis ejes del nuevo Plan Nacional de Autismo: qué cambia en la atención médica.",
-        "Cómo funcionará el monitoreo permanente de pacientes en todo el país.",
-        "Unificación de criterios: el impacto para las obras sociales y prepagas."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Cronista",
-          "titulo": "El plan oficial para el autismo: seis ejes, monitoreo permanente y el intento de unificar criterios de atención",
-          "link": "https://www.cronista.com/informacion-gral/el-plan-oficial-para-el-autismo-seis-ejes-monitoreo-permanente-y-el-intento-de-unificar-criterios-de-atencion/"
-        }
-      ]
-    },
-    {
-      "tema": "Aumento de la morosidad y endeudamiento familiar",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
+      "total_notas": 3,
       "cantidad_medios": 3,
       "perfil": 0,
       "competencia_total": 0,
@@ -610,39 +588,43 @@
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
+        "La Nación": 0,
         "Clarín": 1,
-        "Página 12": 1,
-        "Cronista": 1
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "Cronista": 0
       },
-      "por_que_importa": "El 60% de los hogares tiene deudas, lo que representa una crisis de consumo y estabilidad financiera familiar.",
+      "por_que_importa": "Es un caso de alto impacto con un giro dramático internacional (muerte del polaco acusado).",
       "insight": "",
       "motivo": "",
-      "motivo_oportunidad": "La convergencia de datos de CAME y la presión opositora en el Congreso genera un escenario de alta relevancia social.",
-      "accion_sugerida": "Publicar el método que recomiendan expertos para salir de deudas, contrastándolo con los datos de morosidad récord.",
+      "motivo_oportunidad": "El cierre abrupto de la causa penal por la muerte del sospechoso abre interrogantes judiciales.",
+      "accion_sugerida": "Investigar los antecedentes del sospechoso en Argentina y cómo sigue la causa para la familia de la víctima.",
       "enfoques_sugeridos": [
-        "Seis de cada diez hogares deben dinero: el mapa de la morosidad en Argentina.",
-        "Presión en el Congreso: los proyectos para frenar el endeudamiento de las familias.",
-        "Métodos expertos: cómo reorganizar las deudas cuando el salario no alcanza."
+        "Misterio en Paraguay: el polaco acusado de femicidio en Córdoba que murió en un hotel.",
+        "Justicia inconclusa: qué pasará con la causa Luciana Ojeda tras la muerte del imputado.",
+        "El rastro del sospechoso: cómo el presunto femicida polaco logró cruzar a Paraguay."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Esteban Paulón sobre el aumento de la morosidad: “6 de cada 10 hogares en Argentina le deben algo a alguien”",
-          "link": "https://www.perfil.com/noticias/canal-e/esteban-paulon-sobre-el-aumento-de-la-morosidad-6-de-cada-10-hogares-en-argentina-le-deben-algo-a-alguien.phtml"
+          "titulo": "Caso Luciana Ojeda: hallaron muerto en Paraguay a imputado por presunto femicidio en Córdoba",
+          "link": "https://www.perfil.com/noticias/cordoba/hallaron-muerto-en-paraguay-a-imputado-por-presunto-femicidio-en-cordoba.phtml"
         },
         {
-          "medio": "Cronista",
-          "titulo": "El método que recomiendan los expertos para salir de las deudas y llegar a fin de mes",
-          "link": "https://www.cronista.com/finanzas-mercados/el-metodo-que-recomiendan-los-expertos-para-salir-de-las-deudas-y-llegar-a-fin-de-mes/"
+          "medio": "TN",
+          "titulo": "Misterio en Paraguay: encontraron muerto en un hotel a un ciudadano polaco acusado por el femicidio de una mujer en Córdoba",
+          "link": "https://tn.com.ar/policiales/2026/08/24/misterio-en-paraguay-encontraron-muerto-en-un-hotel-a-un-ciudadano-polaco-acusado-por-el-femicidio-de-una-mujer-en-cordoba/"
         }
       ]
     },
     {
-      "tema": "Inauguraciones y ampliaciones de Centros Comerciales",
-      "prioridad": 2,
-      "tipo": "",
+      "tema": "Plan Nacional de Autismo y salud pública",
+      "prioridad": 3,
+      "tipo": "Salud",
       "tipo_de_oportunidad": "",
       "total_notas": 3,
       "cantidad_medios": 2,
@@ -651,254 +633,208 @@
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
-        "La Nación": 1,
-        "Cronista": 2,
-        "Perfil": 0
-      },
-      "por_que_importa": "Las inversiones de u$s 12 a u$s 60 millones en shoppings señalan una apuesta por el consumo físico de marcas internacionales.",
-      "insight": "",
-      "motivo": "",
-      "motivo_oportunidad": "La llegada de marcas globales (Victoria's Secret) y la remodelación de Unicenter son hitos de negocios subexplotados en Perfil.",
-      "accion_sugerida": "Realizar un informe sobre la transformación del retail: por qué los shoppings apuestan a la ampliación pese a la crisis.",
-      "enfoques_sugeridos": [
-        "Inversión millonaria: el plan para convertir a Unicenter en uno de los mejores del mundo.",
-        "Marcas globales en el interior: el desembarco de Victoria's Secret y su impacto.",
-        "El fenómeno del 'shopping de lujo': por qué crecen los espacios para marcas importadas."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Llega Victoria’s Secret al interior del país en un shopping que invertirá US$12 millones en su ampliación por la demanda de marcas de afuera",
-          "link": "https://www.lanacion.com.ar/propiedades/llega-victorias-secret-al-interior-del-pais-en-un-shopping-que-invertira-us12-millones-en-su-nid24082026/"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "Ampliarán el shopping más grande e icónico del país: van a poner 60 millones de dólares para que Unicenter sea uno de los mejores del mundo",
-          "link": "https://www.cronista.com/informacion-gral/cambia-el-shopping-mas-grande-e-iconico-del-pais-van-a-poner-60-millones-de-dolares-para-que-unicenter-sea-uno-de-los-mejores-del-mundo/"
-        }
-      ]
-    },
-    {
-      "tema": "Longevidad y envejecimiento saludable",
-      "prioridad": 3,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 3,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "La Nación": 2,
-        "Clarín": 1,
-        "Ámbito": 1,
-        "Perfil": 0
-      },
-      "por_que_importa": "La transición demográfica hacia sociedades más longevas es una tendencia global que requiere información de salud preventiva.",
-      "insight": "",
-      "motivo": "",
-      "motivo_oportunidad": "Las entrevistas con neurólogos y expertos sobre 'vivir más y mejor' tienen un alto potencial de interés en lectores adultos.",
-      "accion_sugerida": "Entrevistar a especialistas locales sobre hábitos que garantizan una vejez autónoma.",
-      "enfoques_sugeridos": [
-        "El arte de vivir mejor: consejos de neurólogos para evitar el deterioro en los últimos años.",
-        "Longevidad irreversible: cómo debe prepararse la sociedad para un mundo de adultos mayores.",
-        "Herramientas para la circulación: el rol de las medias de compresión con el paso de los años."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Conrado Estol, neurólogo: “Dos tercios de las personas llegan y pasan sus últimos 10 años de vida en mal o muy mal estado de salud”",
-          "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-dos-tercios-de-las-personas-llegan-y-pasan-sus-ultimos-10-anos-de-vida-en-nid19082026/"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Longevidad: el arte de aprender a vivir más y mejor",
-          "link": "https://www.lanacion.com.ar/salud/longevidad-el-arte-de-aprender-a-vivir-mas-y-mejor-nid24082026/"
-        }
-      ]
-    }
-  ],
-  "discover": [
-    {
-      "tema": "Desarrollo Personal y Psicología",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "Estilo de vida",
-      "total_notas": 15,
-      "cantidad_medios": 3,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "La Nación": 13,
-        "Infobae": 1,
-        "TN": 1,
-        "Perfil": 0
-      },
-      "por_que_importa": "Es un nicho de contenido altamente compartible que aborda la salud mental y las relaciones humanas.",
-      "insight": "",
-      "motivo": "La dominancia absoluta de La Nación con entrevistas a expertos internacionales (Robbins, Brooks) sugiere un interés masivo en temas de bienestar.",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Crear una sección de entrevistas cortas con psicólogos locales sobre 'reinvención' y 'manejo de frustraciones'.",
-      "enfoques_sugeridos": [
-        "La ciencia de la felicidad: por qué aprender algo nuevo nos mantiene jóvenes.",
-        "Relaciones imperfectas: la caída del mito de la 'media naranja' según psicólogos.",
-        "Hacerse 'mala sangre': cómo la filosofía estoica ayuda a mitigar el estrés diario."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Arthur Brooks, catedrático de Harvard: “Las personas más felices son las que nunca dejan de aprender”",
-          "link": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-las-personas-mas-felices-son-las-que-nunca-dejan-de-aprender-nid22082026/"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Gabriel Rolón, psicólogo: “A toda media naranja le falta al menos un gajo, porque esa ilusión de completud no está”",
-          "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-a-toda-media-naranja-le-falta-al-menos-un-gajo-porque-esa-ilusion-de-nid22082026/"
-        }
-      ]
-    },
-    {
-      "tema": "La Catedral de La Plata elegida la más linda del mundo en Instagram",
-      "prioridad": 3,
-      "tipo": "",
-      "tipo_de_oportunidad": "Interés general",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
         "Perfil": 1,
-        "La Nación": 1
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "Cronista": 1
       },
-      "por_que_importa": "Es un contenido visual y de orgullo local que genera interacción positiva en redes sociales.",
+      "por_que_importa": "Es un anuncio de política pública que afecta a miles de familias y profesionales de la salud.",
       "insight": "",
-      "motivo": "Haberse impuesto a catedrales europeas en una votación popular es un ángulo narrativo fuerte de 'David vs Goliat'.",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Galería de fotos de los detalles arquitectónicos que la llevaron a ganar el 'mundial' de Instagram.",
+      "motivo": "",
+      "motivo_oportunidad": "Permite un enfoque de servicio y testimonios que diferencie la noticia oficial.",
+      "accion_sugerida": "Desarrollar una guía práctica sobre los seis ejes del plan y entrevistar a asociaciones de padres.",
       "enfoques_sugeridos": [
-        "Orgullo platense: las fotos de la catedral que venció a los gigantes europeos.",
-        "Arquitectura gótica en Argentina: secretos de la Catedral de La Plata.",
-        "El Mundial de Iglesias: cómo fue la votación que coronó al templo bonaerense."
+        "Plan Nacional de Autismo: las 5 claves de la nueva estrategia de salud pública hoy.",
+        "Salud y TEA: qué cambia para las familias con el nuevo protocolo de atención unificada.",
+        "Monitoreo y apoyo: los desafíos para implementar el plan de autismo en todo el país."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "La Catedral de La Plata fue elegida la más linda del mundo",
-          "link": "https://www.perfil.com/noticias/sociedad/la-catedral-de-la-plata-fue-elegida-la-mas-linda-del-mundo.phtml"
-        }
-      ]
-    },
-    {
-      "tema": "Fenómeno climático Santa Rosa y diluvios en Buenos Aires",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "Servicio",
-      "total_notas": 6,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "La Nación": 1,
-        "Cronista": 5,
-        "Perfil": 0
-      },
-      "por_que_importa": "El clima es uno de los temas con mayor búsqueda orgánica antes de eventos extremos.",
-      "insight": "",
-      "motivo": "La recurrencia de términos como 'Santa Rosa' y 'diluvio histórico' en Cronista indica una estrategia de SEO agresiva que Perfil debe emular.",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Actualizar el pronóstico para el AMBA con énfasis en la llegada de la tormenta de Santa Rosa.",
-      "enfoques_sugeridos": [
-        "¿Se adelanta la tormenta de Santa Rosa? Cuándo llegan las lluvias fuertes al AMBA.",
-        "Temperaturas de 20 °C y luego diluvio: la montaña rusa del clima esta semana.",
-        "Alertas por ráfagas: recomendaciones ante el temporal en Buenos Aires."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
+          "titulo": "Salud lanzó un Plan Nacional para mejorar la atención de las personas con autismo",
+          "link": "https://www.perfil.com/noticias/salud/salud-lanzo-un-plan-national-para-mejorar-la-atencion-de-las-personas-con-autismo.phtml"
+        },
         {
           "medio": "Cronista",
-          "titulo": "Vuelve un gran diluvio a Buenos Aires y se adelanta Santa Rosa: cuándo llegarán las lluvias extremas",
-          "link": "https://www.cronista.com/informacion-gral/vuelve-un-gran-diluvio-a-buenos-aires-y-se-adelanta-santa-rosa-cuando-llegaran-las-lluvias-extremas/"
+          "titulo": "El plan oficial para el autismo: seis ejes, monitoreo permanente y el intento de unificar criterios de atención",
+          "link": "https://www.cronista.com/informacion-gral/el-plan-oficial-para-el-autismo-seis-ejes-monitoreo-permanente-y-el-intento-de-unificar-criterios-de-atencion/"
         }
       ]
     },
     {
-      "tema": "Desarrollo de robots humanoides de alta velocidad",
-      "prioridad": 3,
-      "tipo": "",
-      "tipo_de_oportunidad": "Tecnología",
-      "total_notas": 2,
-      "cantidad_medios": 2,
+      "tema": "Inseguridad en La Matanza: cifras de homicidios",
+      "prioridad": 2,
+      "tipo": "Sociedad",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
-        "TN": 1,
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 0,
         "Página 12": 1,
-        "Perfil": 0
+        "Cronista": 0
       },
-      "por_que_importa": "Los avances en robótica e inteligencia artificial son temas de vanguardia que atraen audiencias jóvenes.",
+      "por_que_importa": "Refleja una problemática crítica de seguridad en el distrito más poblado del conurbano.",
       "insight": "",
-      "motivo": "La comparación con Usain Bolt es un gancho visual y narrativo muy efectivo para redes sociales y videos cortos.",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un video comparativo o nota sobre los límites de la velocidad robótica actual.",
+      "motivo": "",
+      "motivo_oportunidad": "Perfil no cubrió la noticia mientras Infobae la posiciona con datos comparativos frente a Rosario.",
+      "accion_sugerida": "Elaborar un informe sobre la situación de seguridad en La Matanza con datos propios o de observatorios.",
       "enfoques_sugeridos": [
-        "Robots velocistas: la máquina que ya corre más rápido que el ser humano más veloz.",
-        "El futuro del deporte: ¿competirán robots contra humanos por récords de velocidad?",
-        "Ingeniería de alta velocidad: cómo diseñaron al robot 'Usain Bolt'."
+        "La Matanza al rojo vivo: los datos que la posicionan como zona crítica de homicidios.",
+        "Cifras que alarman: el mapa de la violencia en el distrito con más crímenes del mes.",
+        "Seguridad en crisis: por qué La Matanza ya supera las estadísticas de Rosario hoy."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
+          "medio": "Infobae",
+          "titulo": "En La Matanza hubo 18 asesinatos durante el último mes y supera a Rosario",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/08/24/en-la-matanza-hubo-17-asesinatos-durante-el-ultimo-mes/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La polémica defensa de la familia de los tres ladrones muertos en La Matanza: \"Los están tratando como perros y tenían armas de juguete\"",
+          "link": "https://www.clarin.com/policiales/polemica-defensa-familia-ladrones-muertos-matanza-tratando-perros-armas-juguete_0_bbUhVASqdh.html"
+        }
+      ]
+    },
+    {
+      "tema": "Declaración de Candela Arizaga en la causa contra Facundo Moyano",
+      "prioridad": 3,
+      "tipo": "Judiciales",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 5,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "Cronista": 0
+      },
+      "por_que_importa": "Involucra a figuras públicas y mezcla el ámbito judicial con la repercusión mediática de los Moyano.",
+      "insight": "",
+      "motivo": "",
+      "motivo_oportunidad": "Hay discrepancia entre la negación de la víctima y el mantenimiento de restricciones fiscales.",
+      "accion_sugerida": "Analizar la estrategia legal de Facundo Moyano tras la declaración que niega intimidaciones.",
+      "enfoques_sugeridos": [
+        "Giro en la causa Moyano: por qué la fiscal mantiene restricciones pese a la desmentida.",
+        "Candela Arizaga frente al juez: la trastienda de una declaración que busca alivio legal.",
+        "El clan Moyano en Tribunales: qué hay detrás de la causa por supuesta intimidación."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "“No fui intimidada por los Moyano”: la nueva declaración de Candela Arizaga en la causa contra Facundo Moyano",
+          "link": "https://www.perfil.com/noticias/judiciales/tiene-que-aclarar-unas-cosas-candela-arizaga-vuelve-a-declarar-en-la-causa-contra-facundo-moyano.phtml"
+        },
+        {
           "medio": "TN",
-          "titulo": "Un robot más rápido que Usain Bolt",
-          "link": "https://tn.com.ar/videos/internacional/2026/08/24/un-robot-mas-prapido-que-usain-bolt/"
+          "titulo": "Candela Arizaga negó ante la Justicia haber acusado a Facundo Moyano, pero la fiscal mantendrá las restricciones",
+          "link": "https://tn.com.ar/policiales/2026/08/24/la-influencer-candela-arizaga-ampliara-su-declaracion-tras-el-escandalo-con-facundo-moyano-en-belgrano/"
+        }
+      ]
+    }
+  ],
+  "discover": [
+    {
+      "tema": "Tragedia vial en Alta Gracia, Córdoba",
+      "prioridad": 2,
+      "tipo": "",
+      "tipo_de_oportunidad": "historias humanas",
+      "total_notas": 4,
+      "cantidad_medios": 4,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "Cronista": 0
+      },
+      "por_que_importa": "Es una noticia de alto impacto emocional que suele generar mucho tráfico por interés en las víctimas.",
+      "insight": "",
+      "motivo": "Historias de familias en tragedias viales suelen capturar el interés masivo en plataformas de recomendación.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un perfil sobre la familia afectada y las circunstancias del choque frontal.",
+      "enfoques_sugeridos": [
+        "Dolor en Córdoba: quiénes eran los cuatro familiares que murieron en la ruta C-45.",
+        "Crónica de una fatalidad: el choque frontal que enlutó a una familia de Buenos Aires.",
+        "Tragedia en Alta Gracia: la historia de los tripulantes del auto que volvían de viaje."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Alta Gracia: cuatro muertos por un choque fatal en la ruta C-45",
+          "link": "https://www.perfil.com/noticias/cordoba/alta-gracia-cuatro-muertos-por-un-choque-fatal.phtml"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Volvían a Buenos Aires y sufrieron un brutal choque: quiénes eran los integrantes de la familia que murieron en la ruta 34",
+          "link": "https://tn.com.ar/sociedad/2026/08/24/volvian-a-buenos-aires-y-sufrieron-un-brutal-choque-quienes-eran-los-integrantes-de-la-familia-que-murieron-en-la-ruta-34/"
         }
       ]
     }
   ],
   "fortalezas_perfil": [
     {
-      "tema": "Escándalo Fernando Cerimedo y ataque a Nadia Beller",
+      "tema": "Caso Fernando Cerimedo: investigaciones, ataques y repercusiones",
       "prioridad": "",
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 0,
       "cantidad_medios": 0,
       "perfil": 3,
-      "competencia_total": 6,
+      "competencia_total": 7,
       "diferencia": 1,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 3,
         "La Nación": 1,
-        "Clarín": 2,
+        "Clarín": 1,
+        "Infobae": 1,
         "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1
+        "Ámbito": 2,
+        "Página 12": 1,
+        "Cronista": 0
       },
-      "por_que_importa": "Es un tema judicial-político donde Perfil marca la agenda y profundiza en ángulos que otros medios omiten (redes ocultas, opinión pública).",
-      "insight": "Perfil supera individualmente a Clarín (2) y La Nación (1), posicionándose como el medio de referencia para este caso.",
+      "por_que_importa": "Perfil lidera en volumen de notas sobre un tema que vincula al entorno presidencial con milicias digitales.",
+      "insight": "Mientras otros medios se limitan a la detención en Bolivia, Perfil aporta piezas de opinión y análisis de fondo.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Continuar con la línea de opinión e investigación sobre las 'milicias digitales' mencionada en sus notas.",
+      "accion_sugerida": "Capitalizar la ventaja informativa con un especial sobre las redes de Cerimedo en la región.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
@@ -911,68 +847,7 @@
       ]
     },
     {
-      "tema": "Situación del sistema carcelario y denuncias de presos",
-      "prioridad": "",
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 0,
-      "cantidad_medios": 0,
-      "perfil": 2,
-      "competencia_total": 0,
-      "diferencia": 2,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 2
-      },
-      "por_que_importa": "Es una investigación exclusiva sobre corrupción y narcocriminalidad dentro del sistema penitenciario bonaerense.",
-      "insight": "Perfil es el único medio que reporta las denuncias contra exmiembros de fuerzas de seguridad en el penal de Florencio Varela.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Dar seguimiento a las posibles medidas de la Justicia tras la denuncia de los presos por servidumbre.",
-      "enfoques_sugeridos": [],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Servidumbre y control de los candados del \"engome\": presos denuncian a exmiembros de fuerzas de seguridad también detenidos",
-          "link": "https://www.perfil.com/noticias/policia/florencio-varela-denuncian-a-ex-miembros-de-fuerzas-de-seguridad-que-estan-presos-y-a-autoridades-del-penal-por-presunto-narcotrafico-y-ext.phtml"
-        }
-      ]
-    },
-    {
-      "tema": "Baja de tasas de interés y mercado de bonos",
-      "prioridad": "",
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 0,
-      "cantidad_medios": 0,
-      "perfil": 3,
-      "competencia_total": 2,
-      "diferencia": 1,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 3,
-        "Cronista": 2
-      },
-      "por_que_importa": "Ofrece información de valor para inversores y ahorristas en un contexto de volatilidad financiera.",
-      "insight": "Perfil supera a Cronista en el análisis de bonos soberanos y alternativas de inversión (acciones, commodities).",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Reforzar la sección de inversiones con columnas de especialistas sobre el riesgo electoral vs oportunidad de compra.",
-      "enfoques_sugeridos": [],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "RDE: para los especialistas los bonos soberanos están entre la oportunidad de compra y el riesgo electoral",
-          "link": "https://www.perfil.com/noticias/masperfil/bonos-soberanos-entre-la-oportunidad-de-compra-y-el-riesgo-electoral.phtml"
-        }
-      ]
-    },
-    {
-      "tema": "Crecimiento de depósitos en dólares en Argentina",
+      "tema": "Conflictos en cárceles: dieta de presos en Chubut y denuncias en Florencio Varela",
       "prioridad": "",
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -984,28 +859,39 @@
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 2,
-        "Infobae": 1
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "Cronista": 0
       },
-      "por_que_importa": "Es un dato macroeconómico positivo que sugiere una mayor confianza o respuesta al blanqueo/incentivos del Gobierno.",
-      "insight": "Perfil duplicó la cantidad de notas de Infobae, detallando el crecimiento de u$s 26.541 millones en depósitos.",
+      "por_que_importa": "Perfil logra duplicar a la competencia con dos focos distintos: la dieta en Chubut y denuncias en Varela.",
+      "insight": "La cobertura sobre Florencio Varela es exclusiva de Perfil frente a los medios nacionales relevados.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Analizar la relación entre este crecimiento y la capacidad de otorgar créditos en dólares en el corto plazo.",
+      "accion_sugerida": "Seguir la denuncia sobre exmiembros de fuerzas de seguridad detenidos por presunto narcotráfico.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Ahorro en dólares: los depósitos crecieron u$s26.541 millones y superaron el avance de las colocaciones en pesos",
-          "link": "https://www.perfil.com/noticias/economia/ahorro-dolares-depositos-crecieron-us26541-millones-superaron-ampliamente-avance-colocaciones-pesos-a40.phtml"
+          "titulo": "\"No vamos a acatar la medida de darles asado a los presos\": la respuesta del gobernador de Chubut a la intimación de un juez",
+          "link": "https://www.perfil.com/noticias/politica/no-vamos-a-acatar-la-medida-de-darles-asado-a-los-presos-la-respuesta-del-gobernador-de-chubut-a-la-intimacion-de-un-juez.phtml"
+        },
+        {
+          "medio": "Perfil",
+          "titulo": "Servidumbre y control de los candados del \"engome\": presos denuncian a exmiembros de fuerzas de seguridad también detenidos",
+          "link": "https://www.perfil.com/noticias/policia/florencio-varela-denuncian-a-ex-miembros-de-fuerzas-de-seguridad-que-estan-presos-y-a-autoridades-del-penal-por-presunto-narcotrafico-y-ext.phtml"
         }
       ]
     }
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Dólar y cotizaciones de moneda extranjera en Argentina",
+      "tema": "Reunión de Gabinete y agenda legislativa de Javier Milei",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -1018,18 +904,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Es la variable que define el clima de negocios y la preocupación social del día.",
+      "por_que_importa": "Define el rumbo de las leyes económicas cruciales para el mercado.",
       "insight": "",
-      "motivo": "Máxima hipercompetencia y superación del techo de $1.500.",
+      "motivo": "Es el núcleo político del día; Perfil solo tiene una nota frente a una competencia muy activa.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un informe central sobre el impacto del dólar a $1.500 en las góndolas y la brecha con el oficial.",
+      "accion_sugerida": "Generar al menos dos enfoques complementarios sobre el 'retorno' de Milei al protagonismo en Casa Rosada.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Reunión de Gabinete de Javier Milei en Casa Rosada",
+      "tema": "Visita del Papa León XIV a la Argentina",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -1042,18 +928,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Define la estrategia del oficialismo ante el regreso de las sesiones en Diputados.",
+      "por_que_importa": "Toca fibras políticas, religiosas y genera debate sobre beneficios feriados.",
       "insight": "",
-      "motivo": "Marca el retorno de la actividad de gestión centralizada y la agenda legislativa.",
+      "motivo": "Es una noticia de alto impacto con desarrollo inminente en la agenda nacional que Perfil no cubrió hoy.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Realizar una crónica sobre 'el regreso de Milei a la Rosada' y los ejes de la reunión de 3 horas.",
+      "accion_sugerida": "Publicar urgentemente la información sobre la previa del viaje y la disputa Gobierno-Provincia.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Visita del Papa León XIV a la Argentina",
+      "tema": "Ofensiva económica de Estados Unidos contra Irán",
       "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -1066,11 +952,11 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Es el evento social y religioso más importante del año y genera debates políticos inmediatos.",
+      "por_que_importa": "Es una escalada geopolítica significativa bajo la administración de Trump.",
       "insight": "",
-      "motivo": "Ausencia total de cobertura en Perfil frente a una agenda que ya está en movimiento.",
+      "motivo": "Tema internacional prioritario que afecta variables económicas (petróleo) y donde Perfil no tiene presencia.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Lanzar una nota sobre los preparativos y el reclamo de Kicillof para participar de la organización.",
+      "accion_sugerida": "Elaborar un análisis sobre el impacto de estas sanciones en el mercado energético global.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
@@ -1078,32 +964,37 @@
     }
   ],
   "analisis_completo": {
-    "fecha_analisis": "Mon, 24 Aug 2026",
+    "fecha_analisis": "2026-08-24",
     "hipercompetencia": [
       {
-        "tema": "Dólar y cotizaciones de moneda extranjera en Argentina",
+        "tema": "Cotización del dólar, riesgo país y situación de depósitos bancarios",
         "prioridad": 1,
-        "total_notas": 26,
+        "total_notas": 48,
         "cantidad_medios": 8,
         "cobertura": {
-          "Perfil": 3,
-          "La Nación": 1,
-          "Clarín": 8,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 6,
+          "Perfil": 8,
+          "La Nación": 2,
+          "Clarín": 9,
+          "Infobae": 2,
+          "TN": 2,
+          "Ámbito": 13,
           "Página 12": 1,
-          "Cronista": 5
+          "Cronista": 11
         },
-        "por_que_importa": "Es el tema con mayor volumen de notas y presencia de todos los medios analizados, reflejando una alta sensibilidad económica por la superación del techo de $1.500.",
-        "insight": "La cobertura está traccionada por servicios de cotización minuto a minuto, con Clarín y Ámbito liderando el volumen informativo frente a un Perfil que se mantiene en un segundo plano con notas de servicio básicas.",
-        "accion_sugerida": "Implementar un tablero de actualización en tiempo real y sumar análisis sobre la brecha cambiaria y su impacto en precios.",
+        "por_que_importa": "Es el tema de mayor volumen del día, con el dólar blue superando los $1.500 y el riesgo país en descenso.",
+        "insight": "Ámbito y Cronista lideran la cobertura técnica financiera, mientras Clarín y Perfil siguen de cerca el pulso del blue.",
+        "accion_sugerida": "Mantener la actualización minuto a minuto para no ceder posicionamiento frente a medios económicos especializados.",
         "enfoques_sugeridos": [
-          "El impacto del dólar a $1500 en las expectativas inflacionarias del segundo semestre.",
-          "Análisis de la baja del riesgo país en contraste con la subida del blue.",
-          "Comparativa de la cotización del dólar oficial vs blue tras el aumento de $5."
+          "Dólar blue arriba de $1500: el impacto en la brecha y la caída del riesgo país local.",
+          "Mercados en alerta: por qué suben los bonos mientras el Banco Nación ajusta el oficial.",
+          "Riesgo país camino a los 500 puntos: qué factores impulsan la recuperación de los ADR."
         ],
         "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "A cuánto cotiza el dólar blue hoy, lunes 24 de agosto",
+            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-24-de-agosto.phtml"
+          },
           {
             "medio": "Clarín",
             "titulo": "Sube el dólar: arrancó la semana por encima del \"techo\" de $1.500 mientras baja el riesgo país",
@@ -1111,293 +1002,266 @@
           },
           {
             "medio": "Ámbito",
-            "titulo": "El dólar mayorista ya supera la barrera de los $1.500 y crecen las dudas sobre las tasas",
-            "link": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-prueba-la-barrera-1500-y-crecen-las-dudas-las-tasas-n6314018"
+            "titulo": "El riesgo país cae y se enfila a perforar los 500 puntos, mientras los ADRs avanzan de la mano de los bancos",
+            "link": "https://www.ambito.com/finanzas/el-riesgo-pais-apunta-quebrar-los-500-puntos-y-los-adrs-operan-dispares-n6314102"
           },
           {
             "medio": "Cronista",
-            "titulo": "El dólar oficial sube $ 10 en la primera rueda de la semana: a cuánto cotiza este lunes",
-            "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-lunes-24-de-agosto/"
+            "titulo": "Riesgo país en cuenta regresiva: bajó a 500 puntos, suben los bonos y los ADR en Nueva York",
+            "link": "https://www.cronista.com/finanzas-mercados/riesgo-pais-en-cuenta-regresiva-toco-500-puntos-suben-los-bonos-y-los-adr-en-nueva-york/"
           }
         ]
       },
       {
-        "tema": "Reunión de Gabinete de Javier Milei en Casa Rosada",
+        "tema": "Reunión de Gabinete y agenda legislativa de Javier Milei",
         "prioridad": 1,
-        "total_notas": 9,
-        "cantidad_medios": 7,
+        "total_notas": 13,
+        "cantidad_medios": 8,
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 1,
+          "La Nación": 2,
           "Clarín": 2,
           "Infobae": 1,
           "TN": 2,
-          "Ámbito": 0,
+          "Ámbito": 1,
           "Página 12": 1,
-          "Cronista": 1
+          "Cronista": 3
         },
-        "por_que_importa": "Marca el regreso de la actividad de gabinete tras 45 días y el inicio de una semana legislativa clave para las leyes económicas.",
-        "insight": "Casi todos los medios nacionales cubrieron el hecho, destacando la excepcionalidad de la reunión después de un largo período sin encuentros grupales en la Rosada.",
-        "accion_sugerida": "Profundizar en los proyectos específicos que el Ejecutivo enviará a Diputados tras esta cumbre.",
+        "por_que_importa": "Marca el retorno de la actividad central en Casa Rosada tras un largo periodo sin reuniones de gabinete presenciales.",
+        "insight": "El enfoque gira en torno a la reactivación de las negociaciones por leyes económicas en Diputados.",
+        "accion_sugerida": "Profundizar en los detalles de las leyes económicas que el Gobierno priorizará en esta nueva etapa.",
         "enfoques_sugeridos": [
-          "Las leyes económicas prioritarias que Milei busca destrabar en Diputados.",
-          "Análisis del mensaje político de volver a reunir al gabinete tras 45 días.",
-          "Detalles de la cumbre con legisladores posterior a la reunión de ministros."
+          "El regreso de Milei a la Rosada: las leyes económicas que el Gobierno busca acelerar.",
+          "Gabinete reactivado: los planes de Milei para destrabar la agenda parlamentaria hoy.",
+          "Retorno tras 45 días: quiénes ganan peso en la mesa de decisiones de Javier Milei."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
             "titulo": "Milei volvió a reunir al Gabinete después de 45 días y busca aprobar leyes económicas en el regreso de las sesiones de Diputados",
-            "link": "https://www.perfil.com/noticias/politica/milei-vuelve-la-rosada-para-reunir-al-gabinete-y-buscara-que-en-la-vuelta-de-las-sesiones-diputados-apruebe-sus-leyes-economicas.phtml"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Milei se reunió durante tres horas con su Gabinete y puso el foco en las reformas que buscan impulsar en el Congreso",
-            "link": "https://tn.com.ar/politica/2026/08/24/milei-se-reunio-durante-tres-horas-con-su-gabinete-y-puso-el-foco-en-las-reformas-que-buscan-impulsar-en-el-congreso/"
+            "link": "https://www.perfil.com/noticias/politica/milei-vuelve-a-la-rosada-para-reunir-al-gabinete-y-buscara-que-en-la-vuelta-de-las-sesiones-diputados-apruebe-sus-leyes-economicas.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
-            "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/"
+            "titulo": "Javier Milei volvió a la Casa Rosada tras 24 días y reunió al gabinete por casi tres horas",
+            "link": "https://www.lanacion.com.ar/politica/javier-milei-volvio-a-la-casa-rosada-tras-23-dias-y-reune-al-gabinete-nid24082026/"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Javier Milei reunió a su Gabinete y se pone al frente de la negociación por las reformas",
+            "link": "https://www.cronista.com/economia-politica/javier-milei-reunio-a-su-gabinete-y-se-pone-al-frente-de-la-negociacion-por-las-reformas/"
           }
         ]
       },
       {
-        "tema": "Escándalo Fernando Cerimedo y ataque a Nadia Beller",
+        "tema": "Endeudamiento de hogares y proyecto para limitar tasas en billeteras virtuales",
         "prioridad": 2,
-        "total_notas": 9,
-        "cantidad_medios": 7,
+        "total_notas": 10,
+        "cantidad_medios": 6,
         "cobertura": {
-          "Perfil": 3,
+          "Perfil": 2,
           "La Nación": 1,
           "Clarín": 2,
           "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "Cronista": 0
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 3,
+          "Cronista": 2
         },
-        "por_que_importa": "Es un caso judicial con ramificaciones internacionales (Bolivia, México, Brasil) y políticas por la vinculación de los involucrados con el oficialismo.",
-        "insight": "Perfil lidera la cobertura con tres notas, abordando tanto el seguimiento judicial en Bolivia como el impacto en la opinión pública y redes sociales.",
-        "accion_sugerida": "Mantener el seguimiento de las declaraciones de los detenidos en Santa Cruz de la Sierra y el estado de salud de Nadia Beller.",
+        "por_que_importa": "La oposición busca presionar al Gobierno con un tema sensible que afecta el consumo y las finanzas familiares.",
+        "insight": "Página 12 lidera con un enfoque social, mientras Cronista analiza el impacto en el sistema financiero.",
+        "accion_sugerida": "Analizar la viabilidad legislativa del proyecto y el posible impacto en empresas de tecnología financiera.",
         "enfoques_sugeridos": [
-          "La repercusión regional del caso Cerimedo: el impacto en México y Brasil.",
-          "Declaraciones de los cómplices detenidos en Bolivia por el ataque a tiros.",
-          "La respuesta de Evo Morales a las acusaciones de Cerimedo."
+          "Consumo bajo presión: las claves del proyecto para topear tasas en billeteras virtuales.",
+          "Guerra por el crédito: el plan de la oposición para limitar costos en pagos digitales.",
+          "Endeudamiento familiar: el impacto de las tasas en la mesa de los argentinos hoy."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Encuesta: el escándalo de Fernando Cerimedo reactivó la preocupación por ANDIS y tuvo repercusión en México y Brasil",
-            "link": "https://www.perfil.com/noticias/politica/que-paso-con-el-caso-fernando-cerimedo-en-las-redes-5597-publicaciones-muestran-cinco-conversaciones-nacionales-y-una-red-que-quedo-oculta.phtml"
+            "titulo": "Unión por la Patria presentó un proyecto para limitar las tasas en billeteras virtuales",
+            "link": "https://www.perfil.com/noticias/nea/union-por-la-patria-presento-un-proyecto-para-limitar-las-tasas-en-billeteras-virtuales.phtml"
           },
           {
             "medio": "Clarín",
-            "titulo": "El socio de Cerimedo despega a Milei del consultor detenido en Bolivia: \"El Presidente habla conmigo\"",
-            "link": "https://www.clarin.com/politica/socio-cerimedo-despega-milei-consultor-detenido-bolivia-presidente-habla-conmigo_0_Hf0MINTADN.html"
+            "titulo": "Endeudamiento familiar: la oposición se junta para presionar a Javier Milei en el Congreso",
+            "link": "https://www.clarin.com/politica/endeudamiento-familiar-oposicion-junta-presionar-javier-milei-congreso_0_Pe9Pj6VBP0.html"
           },
           {
             "medio": "Página 12",
-            "titulo": "Nadia Beller denunció la sospechosa visita de un hombre de campera amarilla a su habitación en el hospital",
-            "link": "https://www.pagina12.com.ar/2026/08/24/nadia-beller-denuncio-la-sospechosa-visita-de-un-hombre-de-campera-amarilla-a-su-habitacion-en-el-hospital/"
+            "titulo": "“Las familias se endeudan para comer”",
+            "link": "https://www.pagina12.com.ar/2026/08/23/las-familias-se-endeudan-para-comer/"
           }
         ]
       },
       {
-        "tema": "Ofensiva económica de EE.UU. contra Irán",
-        "prioridad": 2,
-        "total_notas": 6,
-        "cantidad_medios": 4,
+        "tema": "Estrenos de series y películas: Netflix, Apple TV+ y HBO Max",
+        "prioridad": 3,
+        "total_notas": 10,
+        "cantidad_medios": 5,
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
+          "La Nación": 0,
+          "Clarín": 2,
           "Infobae": 1,
           "TN": 0,
-          "Ámbito": 2,
+          "Ámbito": 3,
+          "Página 12": 3,
           "Cronista": 1
         },
-        "por_que_importa": "Es el tema internacional más relevante del día por su impacto en los mercados financieros y el precio del petróleo.",
-        "insight": "Aunque Perfil no tiene cobertura, medios como Ámbito y Cronista destacan la magnitud de la 'ofensiva financiera' y la posible reacción de China.",
-        "accion_sugerida": "Elaborar una nota de análisis sobre el impacto que este conflicto puede tener en la economía argentina, especialmente en el sector energético.",
+        "por_que_importa": "Es un contenido de alta demanda de consumo para audiencias digitales interesadas en entretenimiento.",
+        "insight": "Página 12 y Ámbito dominan el volumen de recomendaciones culturales del lunes.",
+        "accion_sugerida": "Generar guías de servicio sobre qué ver en plataformas, enfocadas en las tendencias locales de búsqueda.",
         "enfoques_sugeridos": [
-          "El 'Día D' de las sanciones: cómo EE.UU. planea aislar financieramente a Irán.",
-          "La advertencia de China frente a las sanciones estadounidenses a sus negocios.",
-          "Impacto en el mercado del petróleo ante la tensión en el estrecho de Ormuz."
+          "De El Eternauta a Dark Matter: guía de los estrenos que llegan al streaming esta semana.",
+          "Qué ver hoy: las series de Netflix y HBO Max que lideran las tendencias en Argentina.",
+          "Maratón de agosto: los lanzamientos imprescindibles en Apple TV+ y otras plataformas."
         ],
         "ejemplos": [
           {
+            "medio": "Clarín",
+            "titulo": "Los estrenos de Netflix Argentina esta semana: qué series y películas ver del 24 al 30 de agosto",
+            "link": "https://www.clarin.com/espectaculos/los-estrenos-de-netflix-argentina-esta-semana-que-series-y-peliculas-ver-del-24-al-30-de-agosto_0_HsYEWvvM5l.html"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "“Dark Matter”, por Apple TV+: juego de pesadilla existencial",
+            "link": "https://www.pagina12.com.ar/2026/08/24/dark-matter-por-apple-tv-juego-de-pesadilla-existencial/"
+          },
+          {
             "medio": "Ámbito",
-            "titulo": "Arranca el Día D: EEUU lanza una ofensiva económica total para aislar a Irán",
-            "link": "https://www.ambito.com/mundo/arranca-el-dia-d-eeuu-lanza-una-ofensiva-economica-total-aislar-iran-n6314007"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "EE.UU. lanzará “la mayor ofensiva financiera” contra Irán, que promete una dura reacción: el petróleo espera",
-            "link": "https://www.cronista.com/internacionales/eeuu-lanzara-la-mayor-ofesniva-financiera-contra-iran-que-promete-una-dura-reaccion-el-petroleo-espera/"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Irán aumenta la presión sobre Ormuz ante el inminente anuncio de sanciones de EE.UU.",
-            "link": "https://www.lanacion.com.ar/el-mundo/iran-aumenta-la-presion-sobre-ormuz-ante-el-inminente-anuncio-de-sanciones-de-eeuu-nid24082026/"
+            "titulo": "HBO Max estrenó la esperada nueva temporada de la serie juvenil que enamoró a todos",
+            "link": "https://www.ambito.com/espectaculos/hbo-max-estreno-la-esperada-nueva-temporada-la-serie-juvenil-que-enamoro-todos-n6313965"
           }
         ]
       }
     ],
     "perfil_pierde": [
       {
-        "tema": "Dólar y cotizaciones de moneda extranjera en Argentina",
-        "prioridad": 1,
-        "total_notas": 26,
-        "cantidad_medios": 8,
+        "tema": "Clima extremo: frío polar, nieve y alertas meteorológicas en Argentina",
+        "prioridad": 2,
+        "total_notas": 15,
+        "cantidad_medios": 5,
         "cobertura": {
-          "Perfil": 3,
-          "La Nación": 1,
-          "Clarín": 8,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 6,
+          "Perfil": 1,
+          "La Nación": 3,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 3,
+          "Ámbito": 0,
           "Página 12": 1,
-          "Cronista": 5
+          "Cronista": 6
         },
         "brecha_perfil": 5,
         "medios_que_mas_publicaron": [
-          "Clarín",
-          "Ámbito",
-          "Cronista"
+          "Cronista",
+          "TN",
+          "La Nación"
         ],
-        "por_que_importa": "Es la principal preocupación económica del lector y la brecha con los competidores especializados es significativa en términos de frecuencia de actualización.",
-        "insight": "Perfil se limita a cotizaciones de moneda (blue, euro, Córdoba) mientras que la competencia analiza la superación de techos psicológicos y dudas sobre tasas.",
-        "accion_sugerida": "Diversificar los títulos de las notas de dólar para captar búsquedas sobre 'dólar mayorista' y 'brecha cambiaria'.",
+        "por_que_importa": "Es información de servicio esencial con alertas vigentes por frío extremo y vientos en múltiples provincias.",
+        "insight": "Cronista lidera la cobertura de alertas regionales con seis notas, quintuplicando la presencia de Perfil.",
+        "accion_sugerida": "Incrementar la producción de notas de servicio regionales y mapas interactivos de alertas del SMN.",
         "enfoques_sugeridos": [
-          "Análisis de por qué el dólar mayorista rompió la barrera de los $1.500.",
-          "El impacto en los ahorristas del dólar planchado según especialistas.",
-          "Evolución del dólar MEP y CCL en la apertura de la semana."
+          "Súper Niño y frío extremo: el mapa de las alertas meteorológicas en toda la Argentina.",
+          "Alerta amarilla en San Juan y Mendoza: cuándo llega el viento zonda y qué precauciones tomar.",
+          "Diluvio de agua helada: las zonas que esperan granizo y nieve para el cierre de agosto."
         ],
         "titulos_sugeridos": [
-          "Dólar a $1.500: las tres razones detrás de la suba del mayorista",
-          "Efecto dólar: qué pasará con las tasas de interés tras el nuevo salto del oficial",
-          "Guía para ahorristas: ¿Conviene comprar blue o MEP con la nueva cotización?"
+          "Frío extremo en Argentina: el mapa de las provincias bajo alerta para este lunes",
+          "Cuándo llega el alivio: qué dice el pronóstico sobre la ola polar y las nevadas"
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Sube el dólar: arrancó la semana por encima del \"techo\" de $1.500 mientras baja el riesgo país",
-            "link": "https://www.clarin.com/economia/sube-dolar-arranco-semana-encima-techo-1500-baja-riesgo-pais_0_fmnW465crP.html"
+            "medio": "Cronista",
+            "titulo": "Se aproxima un diluvio de agua helada este lunes 24: tormentas con granizo y fuertes ráfagas de viento en Mendoza, Neuquén y Río Negro",
+            "link": "https://www.cronista.com/informacion-gral/se-aproxima-un-diluvio-of-agua-helada-este-lunes-24-tormentas-con-granizo-y-fuertes-rafagas-de-viento-en-mendoza-neuquen-y-rio-negro-2/"
           },
           {
-            "medio": "Ámbito",
-            "titulo": "El dólar mayorista ya supera la barrera de los $1.500 y crecen las dudas sobre las tasas",
-            "link": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-prueba-la-barrera-1500-y-crecen-las-dudas-las-tasas-n6314018"
+            "medio": "La Nación",
+            "titulo": "Hay alerta amarilla por frío extremo para este lunes 24 de agosto: las provincias afectadas",
+            "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-para-este-lunes-24-de-agosto-las-provincias-afectadas-nid23082026/"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Clima en Ciudad Autónoma de Buenos Aires hoy lunes 24 de agosto: cielo claro y frío",
+            "link": "https://tn.com.ar/clima/alertas/2026/08/24/clima-en-ciudad-autonoma-de-buenos-aires-hoy-lunes-24-de-agosto-cielo-claro-y-frio/"
           }
         ]
       },
       {
-        "tema": "Guerra en Ucrania e Independencia de Ucrania",
+        "tema": "Guerra comercial Trump: aranceles del 50% a Canadá",
         "prioridad": 2,
-        "total_notas": 7,
-        "cantidad_medios": 3,
+        "total_notas": 5,
+        "cantidad_medios": 4,
         "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 2,
-          "Infobae": 4
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 3,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
         },
-        "brecha_perfil": 4,
+        "brecha_perfil": 2,
         "medios_que_mas_publicaron": [
-          "Infobae",
-          "Clarín"
+          "Infobae"
         ],
-        "por_que_importa": "Se conmemora el Día de la Independencia en un contexto de guerra recrudecida y uso de nuevas tecnologías (IA) en el frente.",
-        "insight": "Infobae domina la agenda internacional de guerra con despachos de agencias y notas propias, mientras Perfil ignora el aniversario y las nuevas amenazas rusas.",
-        "accion_sugerida": "Publicar una nota sobre el 35.º aniversario de la independencia de Ucrania bajo fuego y la mediación del Vaticano mencionada por otros medios.",
+        "por_que_importa": "Impacta en la dinámica del comercio global y la relación de los aliados de Estados Unidos en el T-MEC.",
+        "insight": "Infobae profundiza en la reacción de México (Sheinbaum), mientras Perfil se mantiene en la noticia general.",
+        "accion_sugerida": "Analizar cómo esta medida contra Canadá podría repercutir en posibles acuerdos comerciales con Argentina.",
         "enfoques_sugeridos": [
-          "Drones con IA: la nueva frontera del terror en la guerra de Ucrania.",
-          "La misión diplomática del Vaticano en Moscú para abrir canales de diálogo.",
-          "Ayuda militar británica: Londres busca que Ucrania fabrique sus propios misiles."
+          "Trump escala la presión sobre Canadá con nuevos aranceles: el riesgo para el Mercosur.",
+          "Aranceles del 50% al acero: la estrategia de Trump para blindar la industria automotriz.",
+          "Conflicto en el T-MEC: por qué la movida de Trump contra Ottawa enciende alarmas globales."
         ],
         "titulos_sugeridos": [
-          "Ucrania cumple 35 años de independencia marcada por el dolor y la memoria de la guerra",
-          "Drones con Inteligencia Artificial: la tecnología que está cambiando el frente ucraniano",
-          "El Papa León XIV envía a su diplomacia a Moscú para frenar la escalada en Ucrania"
+          "Guerra comercial 2027: el ambicioso plan arancelario de Trump contra el acero canadiense",
+          "Efecto dominó: cómo impactan las sanciones de Trump a Canadá en los mercados emergentes"
         ],
         "ejemplos": [
           {
             "medio": "Infobae",
-            "titulo": "El dolor y la memoria por la guerra marcan el 35.º Día de la Independencia de Ucrania",
-            "link": "https://www.infobae.com/america/agencias/2026/08/24/el-dolor-y-la-memoria-por-la-guerra-marcan-el-35-dia-de-la-independencia-de-ucrania/"
+            "titulo": "Sheinbaum descarta “rompimiento” entre EEUU y Canadá, pero reconoce “desencuentro” en pláticas arancelarias",
+            "link": "https://www.infobae.com/mexico/2026/08/24/sheinbaum-descarta-rompimiento-entre-eeuu-y-canada-pero-reconoce-desencuentro-en-platicas-arancelarias/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Un dron mató a tres ucranianos. Estaba guiado completamente por inteligencia artificial",
-            "link": "https://www.clarin.com/new-york-times-international-weekly/dron-mato-ucranianos-guiado-completamente-inteligencia-artificial_0_FGZpIFGQNI.html"
+            "titulo": "Trump amenaza con aranceles del 50% sobre más productos canadienses: autos, repuestos y acero",
+            "link": "https://www.clarin.com/mundo/trump-amenaza-aranceles-50-productos-canadienses-autos-repuestos-acero_0_G1jWiA7OWk.html"
           }
         ]
       },
       {
-        "tema": "Anuncios y gestión de ANSES",
-        "prioridad": 2,
-        "total_notas": 6,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "Perfil": 1,
-          "Cronista": 5
-        },
-        "brecha_perfil": 4,
-        "medios_que_mas_publicaron": [
-          "Cronista"
-        ],
-        "por_que_importa": "Es información de servicio crítica para millones de beneficiarios sobre montos de septiembre y cambios en leyes jubilatorias.",
-        "insight": "Cronista capitaliza el interés por trámites y montos específicos (jubilación a los 50 años, montos máximos), dejando a Perfil solo con el cronograma básico de pagos.",
-        "accion_sugerida": "Generar notas de servicio sobre los requisitos para las nuevas modalidades de jubilación mencionadas por la competencia.",
-        "enfoques_sugeridos": [
-          "Paso a paso para jubilarse a los 50 años con 20 años de aportes según la Ley 27.675.",
-          "Quiénes cobrarán el máximo de $498.591 de ANSES en septiembre.",
-          "Cómo verificar los aportes jubilatorios registrados de manera online."
-        ],
-        "titulos_sugeridos": [
-          "Jubilarse a los 50 años: quiénes pueden acceder al beneficio según la nueva ley",
-          "ANSES: los tres cambios clave que llegan en septiembre para los beneficiarios",
-          "Guía ANSES: cómo elegir a un no familiar para el cobro de haberes"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Cronista",
-            "titulo": "Es oficial por la Ley 27.675 | ANSES permite jubilarse a los 50 años con sólo 20 años de aportes: quiénes pueden acceder",
-            "link": "https://www.cronista.com/informacion-gral/es-oficial-por-la-ley-27675-anses-permite-jubilarse-a-los-50-anos-con-solo-20-anos-de-aportes-quienes-pueden-acceder/"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "Es oficial | ANSES pagará hasta $498.591 en septiembre: quiénes podrán cobrar el máximo",
-            "link": "https://www.cronista.com/informacion-gral/confirmado-anses-pagara-hasta-498591-en-septiembre-quienes-podran-cobrar-el-maximo/"
-          }
-        ]
-      },
-      {
-        "tema": "Investigación espacial: NASA y Misión Artemis",
+        "tema": "Descubrimientos de la NASA y exploración espacial",
         "prioridad": 3,
-        "total_notas": 3,
-        "cantidad_medios": 2,
+        "total_notas": 6,
+        "cantidad_medios": 3,
         "cobertura": {
-          "Perfil": 1,
-          "La Nación": 2
+          "Perfil": 2,
+          "La Nación": 3,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
         },
         "brecha_perfil": 1,
         "medios_que_mas_publicaron": [
           "La Nación"
         ],
-        "por_que_importa": "La exploración lunar genera fascinación masiva y el plan de Artemis III representa un hito científico sin precedentes.",
-        "insight": "La Nación apuesta por entrevistas y detalles técnicos del plan de vuelo, mientras Perfil se queda con una curiosidad biológica sobre hongos en la Luna.",
-        "accion_sugerida": "Producir una pieza visual sobre las etapas de la misión Artemis III y el rol de las astronautas.",
+        "por_que_importa": "Atrae audiencias interesadas en ciencia y tecnología con temas de alto potencial visual y narrativo.",
+        "insight": "La Nación destaca con una entrevista exclusiva y detalles técnicos de la misión Artemis III.",
+        "accion_sugerida": "Reforzar la cobertura con infografías o explicativos sobre la viabilidad de vida en la Luna según los nuevos hallazgos.",
         "enfoques_sugeridos": [
-          "El cronograma de Artemis III: tres cohetes para volver a pisar la Luna.",
-          "La visión de Christina Koch sobre el futuro de la mujer en el espacio.",
-          "Los desafíos técnicos del acoplamiento en órbita lunar."
+          "Misión Artemis y vida en la Luna: los hallazgos biológicos que revolucionan la ciencia.",
+          "La estrella más rápida de la galaxia: el asombroso descubrimiento que desafía a la NASA.",
+          "Sobrevivir en la Luna: el estudio sobre bacterias terrestres que cambia los planes espaciales."
         ],
         "titulos_sugeridos": [
-          "Misión Artemis III: el ambicioso plan de la NASA para colonizar la Luna",
-          "Habla Christina Koch: la mujer que verá el planeta Tierra desde la órbita lunar",
-          "Cohetes y acoplamientos: así será la operación espacial más compleja de la década"
+          "Hito espacial: bacterias terrestres podrían sobrevivir en la Luna según la NASA",
+          "Artemis III: el plan maestro para el regreso del hombre a la superficie lunar"
         ],
         "ejemplos": [
           {
@@ -1406,9 +1270,9 @@
             "link": "https://www.lanacion.com.ar/el-mundo/el-plan-ambicioso-de-la-nasa-para-artemis-iii-tres-cohetes-dos-acoplamientos-en-orbita-y-una-nid23082026/"
           },
           {
-            "medio": "La Nación",
-            "titulo": "Christina Koch, astronauta de Artemis II: “No hay nada que te prepare para la impresionante sensación de ver tu planeta iluminado como si fuera de día”",
-            "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-de-artemis-ii-no-hay-nada-que-te-prepare-para-la-impresionante-sensacion-nid23082026/"
+            "medio": "Clarín",
+            "titulo": "Descubrieron la estrella más rápida de nuestra galaxia: viaja 100.000 veces más rápido que un avión de línea",
+            "link": "https://www.clarin.com/internacional/descubrieron-estrella-rapida-galaxia-viaja-100000-veces-rapido-avion-linea_0_mZ0ZbzcEaH.html"
           }
         ]
       }
@@ -1417,32 +1281,42 @@
       {
         "tema": "Visita del Papa León XIV a la Argentina",
         "prioridad": 1,
-        "total_notas": 4,
-        "cantidad_medios": 3,
+        "total_notas": 6,
+        "cantidad_medios": 4,
         "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
           "Clarín": 1,
-          "Ámbito": 2,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 3,
+          "Página 12": 1,
           "Cronista": 1
         },
         "medios_que_cubrieron": [
           "Clarín",
           "Ámbito",
+          "Página 12",
           "Cronista"
         ],
-        "por_que_importa": "Es un evento de altísimo impacto institucional, político y social programado para noviembre, con debates sobre feriados y organización.",
-        "insight": "El Gobierno bonaerense ya está disputando un lugar en la organización mientras se filtran detalles de la agenda en el Vaticano.",
-        "accion_sugerida": "Contactar fuentes eclesiásticas y gubernamentales para confirmar si habrá feriados y cuál será el recorrido oficial.",
+        "por_que_importa": "Es un evento político y religioso de máxima relevancia para noviembre, con implicancias en la agenda nacional y bonaerense.",
+        "insight": "Ámbito detecta la tensión política por el rol del gobierno bonaerense en la organización de la visita.",
+        "accion_sugerida": "Cubrir la interna por la logística del viaje y las versiones sobre posibles feriados o asuetos.",
         "enfoques_sugeridos": [
-          "La interna entre Nación y Provincia por el protagonismo en la visita papal.",
-          "Feriados en noviembre: las opciones que baraja el Gobierno ante el arribo de León XIV.",
-          "La agenda del Papa en Luján tras recibir al arzobispo en el Vaticano."
+          "El Papa León XIV en Argentina: la pelea política detrás de la logística de noviembre.",
+          "¿Feriado por el Papa? Las opciones que baraja el Gobierno para la visita histórica.",
+          "El arzobispo de Luján en el Vaticano: los detalles del itinerario papal en Buenos Aires."
         ],
         "titulos_sugeridos": [
-          "Visita papal: el Gobierno analiza decretar feriado o asueto para noviembre",
-          "Guerra de protocolo: Kicillof reclama participar de la organización de la visita de León XIV",
-          "León XIV en Argentina: los detalles de la cumbre en el Vaticano que definió su viaje"
+          "Operativo Papa León XIV: el Gobierno y la Provincia se disputan la organización",
+          "Noviembre histórico: lo que se sabe de la agenda del Papa en su regreso al país"
         ],
         "ejemplos": [
+          {
+            "medio": "Clarín",
+            "titulo": "En la previa a su viaje a la Argentina, el Papa León XIV recibió al arzobispo de Luján en el Vaticano",
+            "link": "https://www.clarin.com/politica/previa-viaje-argentina-papa-leon-xiv-recibio-arzobispo-lujan-vaticano_0_TXLIaQ3ieZ.html"
+          },
           {
             "medio": "Ámbito",
             "titulo": "El Gobierno bonaerense reclama lugar en la organización de la visita del papa León XIV",
@@ -1457,31 +1331,35 @@
       },
       {
         "tema": "Adjudicación de corredores viales y privatización de rutas",
-        "prioridad": 2,
-        "total_notas": 3,
-        "cantidad_medios": 3,
+        "prioridad": 1,
+        "total_notas": 6,
+        "cantidad_medios": 4,
         "cobertura": {
+          "Perfil": 0,
           "La Nación": 1,
-          "Ámbito": 1,
-          "Cronista": 1
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 3,
+          "Página 12": 0,
+          "Cronista": 2
         },
         "medios_que_cubrieron": [
           "La Nación",
           "Ámbito",
           "Cronista"
         ],
-        "por_que_importa": "Representa un cambio estructural en la gestión de la obra pública y el transporte de carga por los próximos 20 años.",
-        "insight": "Luis Caputo avanzó con la concesión de 4.000 km de rutas nacionales a empresas privadas, un tema central para la agenda económica de Perfil.",
-        "accion_sugerida": "Identificar a los grupos empresarios ganadores y analizar si habrá aumentos de peajes inmediatos.",
+        "por_que_importa": "Es un paso clave en el programa de privatizaciones y concesiones del Ministerio de Economía por 20 años.",
+        "insight": "Cronista y Ámbito detallan el reparto del negocio entre las empresas ganadoras para casi 4.000 km de rutas.",
+        "accion_sugerida": "Publicar un análisis sobre quiénes son los empresarios beneficiados y el impacto esperado en los peajes.",
         "enfoques_sugeridos": [
-          "Quiénes son los nuevos dueños de las rutas nacionales por los próximos 20 años.",
-          "El plan de Caputo para los 4.000 km concesionados: obras y financiamiento.",
-          "Impacto en la logística: cómo afectará la privatización de corredores al transporte."
+          "Privatización de rutas: el mapa de las empresas que controlarán los peajes por 20 años.",
+          "Adiós a las rutas estatales: Caputo adjudicó 4000 km de corredores nacionales.",
+          "El plan vial de Milei: qué cambia para los usuarios con las nuevas concesiones privadas."
         ],
         "titulos_sugeridos": [
-          "Rutas privadas: el Gobierno adjudicó ocho corredores clave a empresas privadas",
-          "Vuelven las concesiones: qué pasará con los peajes en las rutas privatizadas por Caputo",
-          "Mapa de la privatización vial: cuáles son las rutas que dejan de ser estatales"
+          "Rutas nacionales privatizadas: qué empresas se quedaron con los corredores clave",
+          "Concesiones por 20 años: el millonario negocio vial que el Gobierno acaba de adjudicar"
         ],
         "ejemplos": [
           {
@@ -1491,108 +1369,180 @@
           },
           {
             "medio": "Cronista",
-            "titulo": "Privatización de rutas nacionales: Caputo adjudicó otros 3900 km en todo el país, quiénes los controlarán y cuando empiezan las obras",
+            "titulo": "Privatización de rutas: cómo queda repartido el negocio vial tras la adjudicación de 3900 km en todo el país",
             "link": "https://www.cronista.com/economia-politica/privatizacion-de-rutas-nacionales-caputo-adjudico-otros-3900-km-en-todo-el-pais-quienes-los-controlaran/"
           }
         ]
       },
       {
-        "tema": "Traspaso de rutas y ferrocarriles a Río Negro",
+        "tema": "Ofensiva económica de Estados Unidos contra Irán",
         "prioridad": 2,
-        "total_notas": 2,
-        "cantidad_medios": 1,
+        "total_notas": 5,
+        "cantidad_medios": 3,
         "cobertura": {
-          "Ámbito": 2
-        },
-        "medios_que_cubrieron": [
-          "Ámbito"
-        ],
-        "por_que_importa": "Es un movimiento político estratégico que involucra a la oposición dialoguista (Weretilneck) y al PRO (Santilli) en la gestión de infraestructura federal.",
-        "insight": "Ámbito destaca la firma conjunta entre Nación y Provincia, lo que indica un avance en la descentralización de servicios que Perfil no ha registrado.",
-        "accion_sugerida": "Analizar si este modelo de traspaso se replicará en otras provincias como Córdoba o Santa Fe.",
-        "enfoques_sugeridos": [
-          "El acuerdo Weretilneck-Caputo: Río Negro se hace cargo de sus trenes y rutas.",
-          "El rol de Diego Santilli en el acuerdo de infraestructura con la Patagonia.",
-          "Federalismo fiscal: por qué Nación transfiere la gestión ferroviaria a las provincias."
-        ],
-        "titulos_sugeridos": [
-          "Acuerdo federal: Río Negro toma el control de sus rutas y ferrocarriles",
-          "Caputo y Weretilneck firman el traspaso de infraestructura clave para el sur",
-          "Descentralización vial: el nuevo modelo que el Gobierno estrena en Río Negro"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Ámbito",
-            "titulo": "Diego Santilli y Luis Caputo firman con Alberto Weretilneck el traspaso de rutas y ferrocarriles de Río Negro",
-            "link": "https://www.ambito.com/politica/diego-santilli-y-luis-caputo-firman-alberto-weretilneck-el-traspaso-rutas-y-ferrocarriles-rio-negro-n6313901"
-          }
-        ]
-      },
-      {
-        "tema": "Aumento del costo por Visas H-1B en EE.UU.",
-        "prioridad": 3,
-        "total_notas": 2,
-        "cantidad_medios": 2,
-        "cobertura": {
+          "Perfil": 0,
           "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 2,
+          "Página 12": 0,
           "Cronista": 1
         },
         "medios_que_cubrieron": [
           "La Nación",
+          "Clarín",
+          "Ámbito",
           "Cronista"
         ],
-        "por_que_importa": "Afecta directamente a profesionales argentinos calificados que buscan trabajar en tecnología o ciencia en Estados Unidos.",
-        "insight": "Trump impulsa una tasa de 100.000 dólares para las visas de trabajo calificado, lo que podría cerrar las puertas a la migración laboral de alto nivel.",
-        "accion_sugerida": "Realizar una nota explicativa sobre cómo este aumento afectará a las empresas tecnológicas argentinas con sede en EE.UU.",
+        "por_que_importa": "Es una noticia geopolítica de alto impacto en los precios del petróleo y la estabilidad en Medio Oriente.",
+        "insight": "Ámbito utiliza la terminología 'Día D' para resaltar la magnitud de la ofensiva financiera de EE.UU.",
+        "accion_sugerida": "Analizar las repercusiones financieras globales de este aislamiento económico a Teherán.",
         "enfoques_sugeridos": [
-          "La nueva barrera de Trump: trabajar en EE.UU. costará u$s 100.000 más.",
-          "Impacto en el sector IT: qué pasará con las visas H-1B para argentinos.",
-          "El plan republicano para endurecer el acceso a trabajadores extranjeros calificados."
+          "Día D financiero: la ofensiva total de Estados Unidos para aislar a Irán del mercado.",
+          "Trump contra el petróleo iraní: cómo las sanciones aplastantes mueven el precio del barril.",
+          "El fin de las relaciones financieras: el plan de EE.UU. para quebrar la economía de Irán."
         ],
         "titulos_sugeridos": [
-          "Adiós al sueño americano tech: Trump quiere cobrar u$s 100.000 por cada visa de trabajo",
-          "Visas H-1B: las tres claves del impuestazo que prepara EE.UU. para profesionales",
-          "Emigrar como profesional: el nuevo costo que podría paralizar las visas de trabajo"
+          "Ofensiva total: Estados Unidos lanza el mayor bloqueo financiero contra Irán",
+          "Geopolítica y petróleo: las claves de las sanciones que Trump prepara para Teherán"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Ámbito",
+            "titulo": "Arranca el Día D: EEUU lanza una ofensiva económica total para aislar a Irán",
+            "link": "https://www.ambito.com/mundo/arranca-el-dia-d-eeuu-lanza-una-ofensiva-economica-total-aislar-iran-n6314007"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "EE.UU. lanzará “la mayor ofensiva financiera” contra Irán, que promete una dura reacción: el petróleo espera",
+            "link": "https://www.cronista.com/internacionales/eeuu-lanzara-la-mayor-ofesniva-financiera-contra-iran-que-promete-una-dura-reaccion-el-petroleo-espera/"
+          }
+        ]
+      },
+      {
+        "tema": "Sismos y réplicas en Costa Rica",
+        "prioridad": 3,
+        "total_notas": 4,
+        "cantidad_medios": 4,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "Cronista": 1
+        },
+        "medios_que_cubrieron": [
+          "La Nación",
+          "Clarín",
+          "Ámbito",
+          "Cronista"
+        ],
+        "por_que_importa": "Es un fenómeno natural de impacto regional con múltiples réplicas que genera interés por desastres naturales.",
+        "insight": "La cobertura es uniforme pero persistente en medios de noticias generales.",
+        "accion_sugerida": "Publicar un breve sobre la situación de los argentinos en la zona y el estado de alerta sísmica.",
+        "enfoques_sugeridos": [
+          "Terror en San José: el video de los fuertes sismos que sacudieron la capital de Costa Rica.",
+          "Cadena de réplicas: por qué Costa Rica sufrió más de 30 temblores en pocas horas hoy.",
+          "Alerta sísmica en Centroamérica: los daños tras el terremoto de magnitud 5 en Costa Rica."
+        ],
+        "titulos_sugeridos": [
+          "Pánico en Costa Rica: dos terremotos y 30 réplicas sacuden la capital",
+          "Imágenes impactantes: los sismos que pusieron en alerta máxima a San José"
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Trump busca convertir en permanente la polémica tasa de más de 100.000 dólares para las visas H-1B",
-            "link": "https://www.lanacion.com.ar/el-mundo/trump-busca-convertir-en-permanente-la-polemica-tasa-de-mas-de-100000-dolares-para-las-visas-h-1b-nid24082026/"
+            "titulo": "Dos fuertes terremotos afectaron a Costa Rica ",
+            "link": "https://www.lanacion.com.ar/el-mundo/dos-fuertes-terremotos-afectaron-a-costa-rica-nid24082026/"
           },
           {
-            "medio": "Cronista",
-            "titulo": "Visas más caras: Trump quiere cobrar una tasa de u$s 100.000 que puede endurecer el acceso a EE.UU.",
-            "link": "https://www.cronista.com/internacionales/que-son-las-visas-h-1b-y-por-que-donald-trump-busca-imponerles-una-tasa-de-us-100000/"
+            "medio": "Ámbito",
+            "titulo": "Un sismo de magnitud 5 sacudio Costa Rica y activo una cadena de casi 30 replicas",
+            "link": "https://www.ambito.com/mundo/un-sismo-magnitud-5-sacudio-costa-rica-y-activo-una-cadena-casi-30-replicas-n6314168"
           }
         ]
       }
     ],
     "oportunidades": [
       {
-        "tema": "Plan Nacional para la atención del Autismo",
-        "tipo": "Servicio",
+        "tema": "Femicidio Luciana Ojeda: muerte en Paraguay del imputado",
+        "tipo": "Judiciales",
         "prioridad": 2,
-        "total_notas": 2,
+        "total_notas": 3,
+        "cantidad_medios": 3,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
+        },
+        "por_que_importa": "Es un caso de alto impacto con un giro dramático internacional (muerte del polaco acusado).",
+        "motivo_oportunidad": "El cierre abrupto de la causa penal por la muerte del sospechoso abre interrogantes judiciales.",
+        "accion_sugerida": "Investigar los antecedentes del sospechoso en Argentina y cómo sigue la causa para la familia de la víctima.",
+        "enfoques_sugeridos": [
+          "Misterio en Paraguay: el polaco acusado de femicidio en Córdoba que murió en un hotel.",
+          "Justicia inconclusa: qué pasará con la causa Luciana Ojeda tras la muerte del imputado.",
+          "El rastro del sospechoso: cómo el presunto femicida polaco logró cruzar a Paraguay."
+        ],
+        "titulos_sugeridos": [
+          "Caso Luciana Ojeda: hallan muerto en un hotel de Paraguay al principal sospechoso",
+          "Sin juicio: la muerte del acusado polaco deja un vacío en la búsqueda de justicia"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Caso Luciana Ojeda: hallaron muerto en Paraguay a imputado por presunto femicidio en Córdoba",
+            "link": "https://www.perfil.com/noticias/cordoba/hallaron-muerto-en-paraguay-a-imputado-por-presunto-femicidio-en-cordoba.phtml"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Misterio en Paraguay: encontraron muerto en un hotel a un ciudadano polaco acusado por el femicidio de una mujer en Córdoba",
+            "link": "https://tn.com.ar/policiales/2026/08/24/misterio-en-paraguay-encontraron-muerto-en-un-hotel-a-un-ciudadano-polaco-acusado-por-el-femicidio-de-una-mujer-en-cordoba/"
+          }
+        ]
+      },
+      {
+        "tema": "Plan Nacional de Autismo y salud pública",
+        "tipo": "Salud",
+        "prioridad": 3,
+        "total_notas": 3,
         "cantidad_medios": 2,
         "cobertura": {
           "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
           "Cronista": 1
         },
-        "por_que_importa": "Es una medida de salud pública que afecta a miles de familias y busca unificar criterios de atención a nivel nacional.",
-        "motivo_oportunidad": "La existencia de seis ejes de monitoreo permanente ofrece material para una nota de servicio detallada.",
-        "accion_sugerida": "Producir una guía con los seis ejes del plan y cómo los padres pueden acceder a la atención unificada.",
+        "por_que_importa": "Es un anuncio de política pública que afecta a miles de familias y profesionales de la salud.",
+        "motivo_oportunidad": "Permite un enfoque de servicio y testimonios que diferencie la noticia oficial.",
+        "accion_sugerida": "Desarrollar una guía práctica sobre los seis ejes del plan y entrevistar a asociaciones de padres.",
         "enfoques_sugeridos": [
-          "Los seis ejes del nuevo Plan Nacional de Autismo: qué cambia en la atención médica.",
-          "Cómo funcionará el monitoreo permanente de pacientes en todo el país.",
-          "Unificación de criterios: el impacto para las obras sociales y prepagas."
+          "Plan Nacional de Autismo: las 5 claves de la nueva estrategia de salud pública hoy.",
+          "Salud y TEA: qué cambia para las familias con el nuevo protocolo de atención unificada.",
+          "Monitoreo y apoyo: los desafíos para implementar el plan de autismo en todo el país."
         ],
         "titulos_sugeridos": [
-          "Guía del nuevo Plan Nacional de Autismo: los seis puntos clave para las familias",
-          "Salud lanza atención unificada para el autismo: cómo acceder y qué incluye",
-          "Atención del autismo: el plan oficial para monitorear pacientes en tiempo real"
+          "Salud lanzó un Plan Nacional de Autismo: cómo funcionará la nueva red de atención",
+          "Nuevos criterios: los detalles del plan oficial para mejorar la calidad de vida de personas con TEA"
         ],
         "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Salud lanzó un Plan Nacional para mejorar la atención de las personas con autismo",
+            "link": "https://www.perfil.com/noticias/salud/salud-lanzo-un-plan-national-para-mejorar-la-atencion-de-las-personas-con-autismo.phtml"
+          },
           {
             "medio": "Cronista",
             "titulo": "El plan oficial para el autismo: seis ejes, monitoreo permanente y el intento de unificar criterios de atención",
@@ -1601,263 +1551,150 @@
         ]
       },
       {
-        "tema": "Aumento de la morosidad y endeudamiento familiar",
-        "prioridad": 1,
-        "total_notas": 4,
+        "tema": "Inseguridad en La Matanza: cifras de homicidios",
+        "tipo": "Sociedad",
+        "prioridad": 2,
+        "total_notas": 3,
         "cantidad_medios": 3,
         "cobertura": {
-          "Perfil": 1,
+          "Perfil": 0,
+          "La Nación": 0,
           "Clarín": 1,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 0,
           "Página 12": 1,
-          "Cronista": 1
+          "Cronista": 0
         },
-        "por_que_importa": "El 60% de los hogares tiene deudas, lo que representa una crisis de consumo y estabilidad financiera familiar.",
-        "motivo_oportunidad": "La convergencia de datos de CAME y la presión opositora en el Congreso genera un escenario de alta relevancia social.",
-        "accion_sugerida": "Publicar el método que recomiendan expertos para salir de deudas, contrastándolo con los datos de morosidad récord.",
+        "por_que_importa": "Refleja una problemática crítica de seguridad en el distrito más poblado del conurbano.",
+        "motivo_oportunidad": "Perfil no cubrió la noticia mientras Infobae la posiciona con datos comparativos frente a Rosario.",
+        "accion_sugerida": "Elaborar un informe sobre la situación de seguridad en La Matanza con datos propios o de observatorios.",
         "enfoques_sugeridos": [
-          "Seis de cada diez hogares deben dinero: el mapa de la morosidad en Argentina.",
-          "Presión en el Congreso: los proyectos para frenar el endeudamiento de las familias.",
-          "Métodos expertos: cómo reorganizar las deudas cuando el salario no alcanza."
+          "La Matanza al rojo vivo: los datos que la posicionan como zona crítica de homicidios.",
+          "Cifras que alarman: el mapa de la violencia en el distrito con más crímenes del mes.",
+          "Seguridad en crisis: por qué La Matanza ya supera las estadísticas de Rosario hoy."
         ],
         "titulos_sugeridos": [
-          "Hogares en rojo: por qué 6 de cada 10 familias argentinas están endeudadas",
-          "Salarios bajos y mora récord: la trampa del consumo en cuotas para alimentos",
-          "Cómo salir de las deudas: el método de los expertos para familias con mora"
+          "Escalada de violencia: 18 asesinatos en un mes ponen en jaque a La Matanza",
+          "Zonas calientes: el informe que revela el aumento de crímenes en el Conurbano"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Infobae",
+            "titulo": "En La Matanza hubo 18 asesinatos durante el último mes y supera a Rosario",
+            "link": "https://www.infobae.com/sociedad/policiales/2026/08/24/en-la-matanza-hubo-17-asesinatos-durante-el-ultimo-mes/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "La polémica defensa de la familia de los tres ladrones muertos en La Matanza: \"Los están tratando como perros y tenían armas de juguete\"",
+            "link": "https://www.clarin.com/policiales/polemica-defensa-familia-ladrones-muertos-matanza-tratando-perros-armas-juguete_0_bbUhVASqdh.html"
+          }
+        ]
+      },
+      {
+        "tema": "Declaración de Candela Arizaga en la causa contra Facundo Moyano",
+        "tipo": "Judiciales",
+        "prioridad": 3,
+        "total_notas": 5,
+        "cantidad_medios": 5,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
+        },
+        "por_que_importa": "Involucra a figuras públicas y mezcla el ámbito judicial con la repercusión mediática de los Moyano.",
+        "motivo_oportunidad": "Hay discrepancia entre la negación de la víctima y el mantenimiento de restricciones fiscales.",
+        "accion_sugerida": "Analizar la estrategia legal de Facundo Moyano tras la declaración que niega intimidaciones.",
+        "enfoques_sugeridos": [
+          "Giro en la causa Moyano: por qué la fiscal mantiene restricciones pese a la desmentida.",
+          "Candela Arizaga frente al juez: la trastienda de una declaración que busca alivio legal.",
+          "El clan Moyano en Tribunales: qué hay detrás de la causa por supuesta intimidación."
+        ],
+        "titulos_sugeridos": [
+          "Arizaga negó presiones de los Moyano: ¿Se cae la causa contra Facundo?",
+          "Declaración clave: la influencer Arizaga asegura que no fue intimidada por el gremialista"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Esteban Paulón sobre el aumento de la morosidad: “6 de cada 10 hogares en Argentina le deben algo a alguien”",
-            "link": "https://www.perfil.com/noticias/canal-e/esteban-paulon-sobre-el-aumento-de-la-morosidad-6-de-cada-10-hogares-en-argentina-le-deben-algo-a-alguien.phtml"
+            "titulo": "“No fui intimidada por los Moyano”: la nueva declaración de Candela Arizaga en la causa contra Facundo Moyano",
+            "link": "https://www.perfil.com/noticias/judiciales/tiene-que-aclarar-unas-cosas-candela-arizaga-vuelve-a-declarar-en-la-causa-contra-facundo-moyano.phtml"
           },
           {
-            "medio": "Cronista",
-            "titulo": "El método que recomiendan los expertos para salir de las deudas y llegar a fin de mes",
-            "link": "https://www.cronista.com/finanzas-mercados/el-metodo-que-recomiendan-los-expertos-para-salir-de-las-deudas-y-llegar-a-fin-de-mes/"
-          }
-        ]
-      },
-      {
-        "tema": "Inauguraciones y ampliaciones de Centros Comerciales",
-        "prioridad": 2,
-        "total_notas": 3,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "La Nación": 1,
-          "Cronista": 2
-        },
-        "por_que_importa": "Las inversiones de u$s 12 a u$s 60 millones en shoppings señalan una apuesta por el consumo físico de marcas internacionales.",
-        "motivo_oportunidad": "La llegada de marcas globales (Victoria's Secret) y la remodelación de Unicenter son hitos de negocios subexplotados en Perfil.",
-        "accion_sugerida": "Realizar un informe sobre la transformación del retail: por qué los shoppings apuestan a la ampliación pese a la crisis.",
-        "enfoques_sugeridos": [
-          "Inversión millonaria: el plan para convertir a Unicenter en uno de los mejores del mundo.",
-          "Marcas globales en el interior: el desembarco de Victoria's Secret y su impacto.",
-          "El fenómeno del 'shopping de lujo': por qué crecen los espacios para marcas importadas."
-        ],
-        "titulos_sugeridos": [
-          "Apuesta al consumo: invertirán u$s 60 millones para renovar Unicenter",
-          "El regreso de las marcas de afuera: Victoria's Secret llega al interior del país",
-          "Retail en transformación: por qué los shoppings argentinos vuelven a crecer"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Llega Victoria’s Secret al interior del país en un shopping que invertirá US$12 millones en su ampliación por la demanda de marcas de afuera ",
-            "link": "https://www.lanacion.com.ar/propiedades/llega-victorias-secret-al-interior-del-pais-en-un-shopping-que-invertira-us12-millones-en-su-nid24082026/"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "Ampliarán el shopping más grande e icónico del país: van a poner 60 millones de dólares para que Unicenter sea uno de los mejores del mundo",
-            "link": "https://www.cronista.com/informacion-gral/cambia-el-shopping-mas-grande-e-iconico-del-pais-van-a-poner-60-millones-de-dolares-para-que-unicenter-sea-uno-de-los-mejores-del-mundo/"
-          }
-        ]
-      },
-      {
-        "tema": "Longevidad y envejecimiento saludable",
-        "prioridad": 3,
-        "total_notas": 4,
-        "cantidad_medios": 3,
-        "cobertura": {
-          "La Nación": 2,
-          "Clarín": 1,
-          "Ámbito": 1
-        },
-        "por_que_importa": "La transición demográfica hacia sociedades más longevas es una tendencia global que requiere información de salud preventiva.",
-        "motivo_oportunidad": "Las entrevistas con neurólogos y expertos sobre 'vivir más y mejor' tienen un alto potencial de interés en lectores adultos.",
-        "accion_sugerida": "Entrevistar a especialistas locales sobre hábitos que garantizan una vejez autónoma.",
-        "enfoques_sugeridos": [
-          "El arte de vivir mejor: consejos de neurólogos para evitar el deterioro en los últimos años.",
-          "Longevidad irreversible: cómo debe prepararse la sociedad para un mundo de adultos mayores.",
-          "Herramientas para la circulación: el rol de las medias de compresión con el paso de los años."
-        ],
-        "titulos_sugeridos": [
-          "Vivir más y mejor: las cuatro claves de la longevidad según los expertos",
-          "El desafío de envejecer con salud: por qué el proceso es inevitable pero la calidad no",
-          "Neurología del bienestar: cómo preparar el cerebro para una vejez saludable"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Conrado Estol, neurólogo: “Dos tercios de las personas llegan y pasan sus últimos 10 años de vida en mal o muy mal estado de salud”  ",
-            "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-dos-tercios-de-las-personas-llegan-y-pasan-sus-ultimos-10-anos-de-vida-en-nid19082026/"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Longevidad: el arte de aprender a vivir más y mejor",
-            "link": "https://www.lanacion.com.ar/salud/longevidad-el-arte-de-aprender-a-vivir-mas-y-mejor-nid24082026/"
+            "medio": "TN",
+            "titulo": "Candela Arizaga negó ante la Justicia haber acusado a Facundo Moyano, pero la fiscal mantendrá las restricciones",
+            "link": "https://tn.com.ar/policiales/2026/08/24/la-influencer-candela-arizaga-ampliara-su-declaracion-tras-el-escandalo-con-facundo-moyano-en-belgrano/"
           }
         ]
       }
     ],
     "discover": [
       {
-        "tema": "Desarrollo Personal y Psicología",
-        "tipo_de_oportunidad": "Estilo de vida",
-        "prioridad": 1,
-        "total_notas": 15,
-        "cantidad_medios": 3,
-        "cobertura": {
-          "La Nación": 13,
-          "Infobae": 1,
-          "TN": 1
-        },
-        "por_que_importa": "Es un nicho de contenido altamente compartible que aborda la salud mental y las relaciones humanas.",
-        "motivo": "La dominancia absoluta de La Nación con entrevistas a expertos internacionales (Robbins, Brooks) sugiere un interés masivo en temas de bienestar.",
-        "accion_sugerida": "Crear una sección de entrevistas cortas con psicólogos locales sobre 'reinvención' y 'manejo de frustraciones'.",
-        "enfoques_sugeridos": [
-          "La ciencia de la felicidad: por qué aprender algo nuevo nos mantiene jóvenes.",
-          "Relaciones imperfectas: la caída del mito de la 'media naranja' según psicólogos.",
-          "Hacerse 'mala sangre': cómo la filosofía estoica ayuda a mitigar el estrés diario."
-        ],
-        "titulos_sugeridos": [
-          "Psicología de la felicidad: por qué el aprendizaje constante es la clave del bienestar",
-          "El fin de la media naranja: cómo aceptar la imperfección en las parejas actuales",
-          "Estoicismo cotidiano: consejos para que las frustraciones diarias no afecten tu salud"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Arthur Brooks, catedrático de Harvard: “Las personas más felices son las que nunca dejan de aprender” ",
-            "link": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-las-personas-mas-felices-son-las-que-nunca-dejan-de-aprender-nid22082026/"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Gabriel Rolón, psicólogo: “A toda media naranja le falta al menos un gajo, porque esa ilusión de completud no está” ",
-            "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-a-toda-media-naranja-le-falta-al-menos-un-gajo-porque-esa-ilusion-de-nid22082026/"
-          }
-        ]
-      },
-      {
-        "tema": "La Catedral de La Plata elegida la más linda del mundo en Instagram",
-        "tipo_de_oportunidad": "Interés general",
-        "prioridad": 3,
-        "total_notas": 2,
-        "cantidad_medios": 2,
+        "tema": "Tragedia vial en Alta Gracia, Córdoba",
+        "tipo_de_oportunidad": "historias humanas",
+        "prioridad": 2,
+        "total_notas": 4,
+        "cantidad_medios": 4,
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 1
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
         },
-        "por_que_importa": "Es un contenido visual y de orgullo local que genera interacción positiva en redes sociales.",
-        "motivo": "Haberse impuesto a catedrales europeas en una votación popular es un ángulo narrativo fuerte de 'David vs Goliat'.",
-        "accion_sugerida": "Galería de fotos de los detalles arquitectónicos que la llevaron a ganar el 'mundial' de Instagram.",
+        "por_que_importa": "Es una noticia de alto impacto emocional que suele generar mucho tráfico por interés en las víctimas.",
+        "motivo": "Historias de familias en tragedias viales suelen capturar el interés masivo en plataformas de recomendación.",
+        "accion_sugerida": "Publicar un perfil sobre la familia afectada y las circunstancias del choque frontal.",
         "enfoques_sugeridos": [
-          "Orgullo platense: las fotos de la catedral que venció a los gigantes europeos.",
-          "Arquitectura gótica en Argentina: secretos de la Catedral de La Plata.",
-          "El Mundial de Iglesias: cómo fue la votación que coronó al templo bonaerense."
+          "Dolor en Córdoba: quiénes eran los cuatro familiares que murieron en la ruta C-45.",
+          "Crónica de una fatalidad: el choque frontal que enlutó a una familia de Buenos Aires.",
+          "Tragedia en Alta Gracia: la historia de los tripulantes del auto que volvían de viaje."
         ],
         "titulos_sugeridos": [
-          "Mundial de Catedrales: el templo argentino que fue elegido como el más lindo del mundo",
-          "Ni París ni Roma: por qué la Catedral de La Plata es la favorita de los usuarios",
-          "Secretos góticos: las mejores fotos de la catedral más bella del planeta"
+          "Impacto en Córdoba: quiénes eran los cuatro miembros de la familia que murieron hoy",
+          "Regreso fatal: los detalles del violento choque frontal en la ruta de Alta Gracia"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "La Catedral de La Plata fue elegida la más linda del mundo ",
-            "link": "https://www.perfil.com/noticias/sociedad/la-catedral-de-la-plata-fue-elegida-la-mas-linda-del-mundo.phtml"
-          }
-        ]
-      },
-      {
-        "tema": "Fenómeno climático Santa Rosa y diluvios en Buenos Aires",
-        "tipo_de_oportunidad": "Servicio",
-        "prioridad": 2,
-        "total_notas": 6,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "La Nación": 1,
-          "Cronista": 5
-        },
-        "por_que_importa": "El clima es uno de los temas con mayor búsqueda orgánica antes de eventos extremos.",
-        "motivo": "La recurrencia de términos como 'Santa Rosa' y 'diluvio histórico' en Cronista indica una estrategia de SEO agresiva que Perfil debe emular.",
-        "accion_sugerida": "Actualizar el pronóstico para el AMBA con énfasis en la llegada de la tormenta de Santa Rosa.",
-        "enfoques_sugeridos": [
-          "¿Se adelanta la tormenta de Santa Rosa? Cuándo llegan las lluvias fuertes al AMBA.",
-          "Temperaturas de 20 °C y luego diluvio: la montaña rusa del clima esta semana.",
-          "Alertas por ráfagas: recomendaciones ante el temporal en Buenos Aires."
-        ],
-        "titulos_sugeridos": [
-          "Tormenta de Santa Rosa: cuándo llega el diluvio que cambiará el tiempo en Buenos Aires",
-          "Alerta meteorológica: se aproxima un cambio drástico tras el frío polar en el AMBA",
-          "Lluvias extremas: el pronóstico para las próximas 72 horas en la Ciudad"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Cronista",
-            "titulo": "Vuelve un gran diluvio a Buenos Aires y se adelanta Santa Rosa: cuándo llegarán las lluvias extremas",
-            "link": "https://www.cronista.com/informacion-gral/vuelve-un-gran-diluvio-a-buenos-aires-y-se-adelanta-santa-rosa-cuando-llegaran-las-lluvias-extremas/"
-          }
-        ]
-      },
-      {
-        "tema": "Desarrollo de robots humanoides de alta velocidad",
-        "tipo_de_oportunidad": "Tecnología",
-        "prioridad": 3,
-        "total_notas": 2,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "TN": 1,
-          "Página 12": 1
-        },
-        "por_que_importa": "Los avances en robótica e inteligencia artificial son temas de vanguardia que atraen audiencias jóvenes.",
-        "motivo": "La comparación con Usain Bolt es un gancho visual y narrativo muy efectivo para redes sociales y videos cortos.",
-        "accion_sugerida": "Publicar un video comparativo o nota sobre los límites de la velocidad robótica actual.",
-        "enfoques_sugeridos": [
-          "Robots velocistas: la máquina que ya corre más rápido que el ser humano más veloz.",
-          "El futuro del deporte: ¿competirán robots contra humanos por récords de velocidad?",
-          "Ingeniería de alta velocidad: cómo diseñaron al robot 'Usain Bolt'."
-        ],
-        "titulos_sugeridos": [
-          "Más rápido que Usain Bolt: el robot humanoide que rompe todos los récords de velocidad",
-          "Tecnología extrema: presentan el robot capaz de superar la carrera de un humano",
-          "Robótica 2026: el avance que permite a los humanoides correr a velocidades increíbles"
-        ],
-        "ejemplos": [
+            "titulo": "Alta Gracia: cuatro muertos por un choque fatal en la ruta C-45",
+            "link": "https://www.perfil.com/noticias/cordoba/alta-gracia-cuatro-muertos-por-un-choque-fatal.phtml"
+          },
           {
             "medio": "TN",
-            "titulo": "Un robot más rápido que Usain Bolt",
-            "link": "https://tn.com.ar/videos/internacional/2026/08/24/un-robot-mas-prapido-que-usain-bolt/"
+            "titulo": "Volvían a Buenos Aires y sufrieron un brutal choque: quiénes eran los integrantes de la familia que murieron en la ruta 34",
+            "link": "https://tn.com.ar/sociedad/2026/08/24/volvian-a-buenos-aires-y-sufrieron-un-brutal-choque-quienes-eran-los-integrantes-de-la-familia-que-murieron-en-la-ruta-34/"
           }
         ]
       }
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Escándalo Fernando Cerimedo y ataque a Nadia Beller",
+        "tema": "Caso Fernando Cerimedo: investigaciones, ataques y repercusiones",
         "perfil": 3,
-        "competencia_total": 6,
+        "competencia_total": 7,
         "diferencia": 1,
         "cobertura": {
           "Perfil": 3,
           "La Nación": 1,
-          "Clarín": 2,
+          "Clarín": 1,
+          "Infobae": 1,
           "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1
+          "Ámbito": 2,
+          "Página 12": 1,
+          "Cronista": 0
         },
-        "por_que_importa": "Es un tema judicial-político donde Perfil marca la agenda y profundiza en ángulos que otros medios omiten (redes ocultas, opinión pública).",
-        "insight": "Perfil supera individualmente a Clarín (2) y La Nación (1), posicionándose como el medio de referencia para este caso.",
-        "accion_sugerida": "Continuar con la línea de opinión e investigación sobre las 'milicias digitales' mencionada en sus notas.",
+        "por_que_importa": "Perfil lidera en volumen de notas sobre un tema que vincula al entorno presidencial con milicias digitales.",
+        "insight": "Mientras otros medios se limitan a la detención en Bolivia, Perfil aporta piezas de opinión y análisis de fondo.",
+        "accion_sugerida": "Capitalizar la ventaja informativa con un especial sobre las redes de Cerimedo en la región.",
         "ejemplos": [
           {
             "medio": "Perfil",
@@ -1867,61 +1704,33 @@
         ]
       },
       {
-        "tema": "Situación del sistema carcelario y denuncias de presos",
-        "perfil": 2,
-        "competencia_total": 0,
-        "diferencia": 2,
-        "cobertura": {
-          "Perfil": 2
-        },
-        "por_que_importa": "Es una investigación exclusiva sobre corrupción y narcocriminalidad dentro del sistema penitenciario bonaerense.",
-        "insight": "Perfil es el único medio que reporta las denuncias contra exmiembros de fuerzas de seguridad en el penal de Florencio Varela.",
-        "accion_sugerida": "Dar seguimiento a las posibles medidas de la Justicia tras la denuncia de los presos por servidumbre.",
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Servidumbre y control de los candados del \"engome\": presos denuncian a exmiembros de fuerzas de seguridad también detenidos",
-            "link": "https://www.perfil.com/noticias/policia/florencio-varela-denuncian-a-ex-miembros-de-fuerzas-de-seguridad-que-estan-presos-y-a-autoridades-del-penal-por-presunto-narcotrafico-y-ext.phtml"
-          }
-        ]
-      },
-      {
-        "tema": "Baja de tasas de interés y mercado de bonos",
-        "perfil": 3,
-        "competencia_total": 2,
-        "diferencia": 1,
-        "cobertura": {
-          "Perfil": 3,
-          "Cronista": 2
-        },
-        "por_que_importa": "Ofrece información de valor para inversores y ahorristas en un contexto de volatilidad financiera.",
-        "insight": "Perfil supera a Cronista en el análisis de bonos soberanos y alternativas de inversión (acciones, commodities).",
-        "accion_sugerida": "Reforzar la sección de inversiones con columnas de especialistas sobre el riesgo electoral vs oportunidad de compra.",
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "RDE: para los especialistas los bonos soberanos están entre la oportunidad de compra y el riesgo electoral",
-            "link": "https://www.perfil.com/noticias/masperfil/bonos-soberanos-entre-la-oportunidad-de-compra-y-el-riesgo-electoral.phtml"
-          }
-        ]
-      },
-      {
-        "tema": "Crecimiento de depósitos en dólares en Argentina",
+        "tema": "Conflictos en cárceles: dieta de presos en Chubut y denuncias en Florencio Varela",
         "perfil": 2,
         "competencia_total": 1,
         "diferencia": 1,
         "cobertura": {
           "Perfil": 2,
-          "Infobae": 1
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
         },
-        "por_que_importa": "Es un dato macroeconómico positivo que sugiere una mayor confianza o respuesta al blanqueo/incentivos del Gobierno.",
-        "insight": "Perfil duplicó la cantidad de notas de Infobae, detallando el crecimiento de u$s 26.541 millones en depósitos.",
-        "accion_sugerida": "Analizar la relación entre este crecimiento y la capacidad de otorgar créditos en dólares en el corto plazo.",
+        "por_que_importa": "Perfil logra duplicar a la competencia con dos focos distintos: la dieta en Chubut y denuncias en Varela.",
+        "insight": "La cobertura sobre Florencio Varela es exclusiva de Perfil frente a los medios nacionales relevados.",
+        "accion_sugerida": "Seguir la denuncia sobre exmiembros de fuerzas de seguridad detenidos por presunto narcotráfico.",
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Ahorro en dólares: los depósitos crecieron u$s26.541 millones y superaron el avance de las colocaciones en pesos",
-            "link": "https://www.perfil.com/noticias/economia/ahorro-dolares-depositos-crecieron-us26541-millones-superaron-ampliamente-avance-colocaciones-pesos-a40.phtml"
+            "titulo": "\"No vamos a acatar la medida de darles asado a los presos\": la respuesta del gobernador de Chubut a la intimación de un juez ",
+            "link": "https://www.perfil.com/noticias/politica/no-vamos-a-acatar-la-medida-de-darles-asado-a-los-presos-la-respuesta-del-gobernador-de-chubut-a-la-intimacion-de-un-juez.phtml"
+          },
+          {
+            "medio": "Perfil",
+            "titulo": "Servidumbre y control de los candados del \"engome\": presos denuncian a exmiembros de fuerzas de seguridad también detenidos",
+            "link": "https://www.perfil.com/noticias/policia/florencio-varela-denuncian-a-ex-miembros-de-fuerzas-de-seguridad-que-estan-presos-y-a-autoridades-del-penal-por-presunto-narcotrafico-y-ext.phtml"
           }
         ]
       }
@@ -1929,41 +1738,38 @@
     "prioridades_del_dia": [
       {
         "prioridad": 1,
-        "tema": "Dólar y cotizaciones de moneda extranjera en Argentina",
-        "categoria": "Economía",
-        "motivo": "Máxima hipercompetencia y superación del techo de $1.500.",
-        "por_que_importa": "Es la variable que define el clima de negocios y la preocupación social del día.",
-        "accion_sugerida": "Publicar un informe central sobre el impacto del dólar a $1.500 en las góndolas y la brecha con el oficial.",
+        "tema": "Reunión de Gabinete y agenda legislativa de Javier Milei",
+        "categoria": "hipercompetencia",
+        "motivo": "Es el núcleo político del día; Perfil solo tiene una nota frente a una competencia muy activa.",
+        "por_que_importa": "Define el rumbo de las leyes económicas cruciales para el mercado.",
+        "accion_sugerida": "Generar al menos dos enfoques complementarios sobre el 'retorno' de Milei al protagonismo en Casa Rosada.",
         "titulos_sugeridos": [
-          "El dólar rompió el techo de los $1.500: las cuatro alertas que mira el Gobierno",
-          "Salto cambiario: por qué el dólar mayorista subió $10 en un solo día",
-          "Dólar hoy: guía de cotizaciones tras el nuevo récord de la semana"
+          "Milei toma el control: la trastienda del gabinete para blindar la agenda parlamentaria",
+          "El mapa legislativo de Milei: qué leyes económicas espera aprobar tras 45 días de pausa"
         ]
       },
       {
         "prioridad": 2,
-        "tema": "Reunión de Gabinete de Javier Milei en Casa Rosada",
-        "categoria": "Política",
-        "motivo": "Marca el retorno de la actividad de gestión centralizada y la agenda legislativa.",
-        "por_que_importa": "Define la estrategia del oficialismo ante el regreso de las sesiones en Diputados.",
-        "accion_sugerida": "Realizar una crónica sobre 'el regreso de Milei a la Rosada' y los ejes de la reunión de 3 horas.",
+        "tema": "Visita del Papa León XIV a la Argentina",
+        "categoria": "sin_cobertura_perfil",
+        "motivo": "Es una noticia de alto impacto con desarrollo inminente en la agenda nacional que Perfil no cubrió hoy.",
+        "por_que_importa": "Toca fibras políticas, religiosas y genera debate sobre beneficios feriados.",
+        "accion_sugerida": "Publicar urgentemente la información sobre la previa del viaje y la disputa Gobierno-Provincia.",
         "titulos_sugeridos": [
-          "Milei en la Rosada: las leyes clave que el Presidente ordenó destrabar",
-          "Tras 45 días, volvió el Gabinete: quiénes ganan terreno en la mesa chica",
-          "Estrategia legislativa: el plan del Gobierno para aprobar sus reformas económicas"
+          "León XIV en Argentina: el Papa prepara su desembarco en un clima de tensión política",
+          "Feriado papal: el Gobierno analiza días no laborables para la visita de noviembre"
         ]
       },
       {
         "prioridad": 3,
-        "tema": "Visita del Papa León XIV a la Argentina",
-        "categoria": "Política",
-        "motivo": "Ausencia total de cobertura en Perfil frente a una agenda que ya está en movimiento.",
-        "por_que_importa": "Es el evento social y religioso más importante del año y genera debates políticos inmediatos.",
-        "accion_sugerida": "Lanzar una nota sobre los preparativos y el reclamo de Kicillof para participar de la organización.",
+        "tema": "Ofensiva económica de Estados Unidos contra Irán",
+        "categoria": "sin_cobertura_perfil",
+        "motivo": "Tema internacional prioritario que afecta variables económicas (petróleo) y donde Perfil no tiene presencia.",
+        "por_que_importa": "Es una escalada geopolítica significativa bajo la administración de Trump.",
+        "accion_sugerida": "Elaborar un análisis sobre el impacto de estas sanciones en el mercado energético global.",
         "titulos_sugeridos": [
-          "Papa León XIV en Argentina: el cronograma de su histórica visita en noviembre",
-          "León XIV: el Gobierno define si habrá feriado nacional por la llegada del Papa",
-          "Interna por el Papa: el pedido de Kicillof para ser parte de la organización oficial"
+          "Sanciones totales: la ofensiva de Trump que busca quebrar financieramente a Irán",
+          "Impacto crudo: cómo afecta al precio del petróleo el nuevo aislamiento de Teherán"
         ]
       }
     ]
