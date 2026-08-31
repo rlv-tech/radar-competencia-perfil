@@ -1,19 +1,213 @@
 {
-  "fecha_analisis": "Fri, 28 Aug 2026",
+  "fecha_analisis": "Mon, 31 Aug 2026",
   "hipercompetencia": [
     {
-      "tema": "Alianza electoral PRO-LLA",
+      "tema": "Intenciones del Gobierno para el regreso de la Fórmula 1 a Argentina",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 3,
+      "total_notas": 5,
+      "cantidad_medios": 4,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "Cronista": 0
+      },
+      "por_que_importa": "Es una iniciativa política de alto nivel que busca posicionar al país en la escena deportiva internacional utilizando la figura de Franco Colapinto.",
+      "insight": "La cobertura está sumamente concentrada en el discurso de Javier Milei en el congreso de la FIA y su interés explícito en el piloto.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Elaborar un análisis de viabilidad técnica y económica detallando las reformas requeridas para recibir un Gran Premio de F1.",
+      "enfoques_sugeridos": [
+        "Análisis económico de la F1 en Argentina: costo real versus retorno de inversión.",
+        "Reformas en el Autódromo: las obras requeridas para obtener la homologación de la FIA."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Milei habló del regreso de la F1 a Argentina y destacó a Franco Colapinto: “Es una gran promesa”",
+          "link": "https://www.perfil.com/noticias/politica/javier-milei-encabeza-el-acto-en-el-congreso-americano-de-la-federacion-internacional-del-automovil.phtml"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Milei abrió el Congreso de la FIA y pidió que Argentina sea sede de la Fórmula 1: \"Queremos ver a Colapinto en el país\"",
+          "link": "https://www.infobae.com/politica/2026/08/31/milei-abrio-el-congreso-de-la-fia-y-pidio-que-argentina-sea-sede-de-la-formula-1-queremos-ver-a-colapinto-en-el-pais/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Milei encabezó un congreso internacional de automovilismo: “La Argentina cumple con las condiciones para volver a recibir a la F1″",
+          "link": "https://tn.com.ar/politica/2026/08/31/milei-encabeza-un-congreso-internacional-de-automovilismo-mientras-busca-concretar-la-vuelta-de-la-formula-1/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "\"Queremos ver a Colapinto en el país\", ante la FIA Javier Milei ratificó que en la Argentina están todas las condiciones para volver a recibir a la F1",
+          "link": "https://www.ambito.com/politica/queremos-ver-colapinto-el-pais-la-fia-javier-milei-ratifico-que-la-argentina-estan-todas-las-condiciones-volver-recibir-la-f1-n6316701"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Queremos ver a Colapinto en el país\", dijo el Presidente y aseguró que Argentina está preparada para recibir a la Fórmula 1",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-participa-congreso-americano-federacion-internacional-automovil_0_dgWZEhxfWQ.html"
+        }
+      ]
+    }
+  ],
+  "perfil_pierde": [
+    {
+      "tema": "Aumento de salarios y bonos para jubilados, militares y fuerzas de seguridad",
+      "prioridad": 1,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 15,
+      "cantidad_medios": 7,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 1,
+      "cobertura": {
+        "Perfil": 2,
+        "La Nación": 0,
+        "Clarín": 3,
+        "Infobae": 0,
+        "TN": 2,
+        "Ámbito": 2,
+        "Página 12": 3,
+        "Cronista": 3
+      },
+      "por_que_importa": "Es una medida de fuerte impacto socioeconómico que toca el poder adquisitivo de jubilados y el malestar salarial en sectores de seguridad.",
+      "insight": "Varios competidores han fragmentado la cobertura publicando notas individuales para el decreto de los militares y el bono previsional de ANSES.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un informe integrado y guías detalladas sobre los nuevos haberes mínimos de jubilados con el bono de septiembre.",
+      "enfoques_sugeridos": [
+        "Guía de cobro de ANSES: calendario detallado para jubilados en septiembre de 2026.",
+        "El impacto fiscal del nuevo aumento salarial para los militares y fuerzas de seguridad."
+      ],
+      "medios_que_mas_publicaron": [
+        "Clarín",
+        "Página 12",
+        "Cronista"
+      ],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "El Gobierno pagará un nuevo bono a jubilados y pensionados en septiembre: qué suma recibirán",
+          "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-confirmo-que-pagara-un-nuevo-bono-a-jubilados-y-pensionados-en-septiembre-que-suma-recibiran.phtml"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "El Gobierno anunció un aumento para los militares y fuerzas de seguridad, tras los reclamos por bajos salarios",
+          "link": "https://www.clarin.com/politica/gobierno-anuncio-aumento-militares-fuerzas-seguridad_0_Atoaf3BrDN.html"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El Gobierno confirmó que pagará en septiembre un bono de hasta $70.000 para jubilados y pensionados",
+          "link": "https://tn.com.ar/economia/2026/08/31/el-gobierno-confirmo-que-pagara-en-septiembre-un-bono-de-hasta-70000-para-jubilados-y-pensionados/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "ANSES oficializó los montos de septiembre 2026: cuánto aumentan las jubilaciones, pensiones y asignaciones",
+          "link": "https://www.ambito.com/informacion-general/anses-oficializo-los-montos-septiembre-2026-cuanto-aumentan-las-jubilaciones-pensiones-y-asignaciones-n6316710"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Confirmado por el Decreto 824/2026: jubilados y pensionados cobrarán un nuevo bono en septiembre, ¿cuánto cobrarán?",
+          "link": "https://www.cronista.com/economia-politica/confirmado-por-el-decreto-8242026-jubilados-y-pensionados-cobraran-un-nuevo-bono-en-septiembre-cuanto-cobraran/"
+        }
+      ]
+    }
+  ],
+  "sin_cobertura_perfil": [
+    {
+      "tema": "Tensiones geopolíticas y ataques entre Estados Unidos e Irán",
+      "prioridad": 1,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 6,
+      "cantidad_medios": 4,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 1,
+        "Clarín": 3,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 1,
+        "Cronista": 0
+      },
+      "por_que_importa": "Es una escalada armada directa en Oriente Medio que repercute en las bolsas de valores y en la política petrolera mundial.",
+      "insight": "Los competidores directos le han dado cobertura en secciones de política exterior y finanzas, resaltando las declaraciones cruzadas y el ataque militar.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Escribir una nota explicativa sobre los bombardeos de EE.UU. en la isla de Larak y la réplica de Irán.",
+      "enfoques_sugeridos": [
+        "La escalada bélica: los detalles del ataque de EE.UU. a la isla de Larak y la réplica de Irán.",
+        "Efecto financiero global: cómo impactan las tensiones en las principales bolsas del mundo."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [
+        "La Nación",
+        "Clarín",
+        "Infobae",
+        "Página 12"
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Anticipar atentados terroristas",
+          "link": "https://www.lanacion.com.ar/editoriales/anticipar-atentados-terroristas-nid31082026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "\"Caos total\": Donald Trump aseguró que Irán es una nación \"fallida\" y que las autoridades son incapaces de gobernar el país",
+          "link": "https://www.clarin.com/mundo/caos-total-donald-trump-aseguro-iran-nacion-fallida-autoridades-incapaces-gobernar-pais_0_nLVdAGRYlu.html"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Irán afirma que atacó bases de Estados Unidos en Emiratos y Jordania tras los bombardeos estadounidenses a la isla de Larak",
+          "link": "https://www.clarin.com/mundo/iran-afirma-ataco-bases-estados-unidos-emiratos-jordania-bombardeos-estadounidenses-isla-larak_0_O7Yajn8uDO.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Milán cierra plana (-0,01 %) tras los nuevos ataques entre Estados Unidos e Irán",
+          "link": "https://www.infobae.com/america/agencias/2026/08/31/milan-cierra-plana-001-tras-los-nuevos-ataques-entre-estados-unidos-e-iran/"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "EE.UU atacó a Irán por primera vez en un mes",
+          "link": "https://www.pagina12.com.ar/2026/08/30/eeuu-ataco-iran-por-primera-vez-en-un-mes/"
+        }
+      ]
+    },
+    {
+      "tema": "Desalojo de sinagoga en Flores y conflicto entre fieles",
+      "prioridad": 2,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
@@ -21,274 +215,41 @@
         "Página 12": 1,
         "Cronista": 0
       },
-      "por_que_importa": "El rearmado electoral de la centroderecha y las conversaciones entre el oficialismo y el PRO marcan el rumbo político de cara a las próximas elecciones legislativas.",
-      "insight": "Mientras la oposición busca articular un frente de resistencia, los partidos afines al Gobierno debaten los términos de una fusión o alianza estratégica.",
+      "por_que_importa": "Es un suceso de fuerte tensión local en el barrio porteño de Flores con ribetes judiciales, policiales y religiosos.",
+      "insight": "El interés radica en el conflicto interno entre facciones de fieles que impidieron la medida ordenada por la Justicia.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar el análisis político sobre las concesiones territoriales y los liderazgos en pugna dentro de esta alianza en formación.",
+      "accion_sugerida": "Elaborar una nota sobre los motivos judiciales detrás del suspendido desalojo en el templo de Flores.",
       "enfoques_sugeridos": [
-        "El impacto de un acuerdo entre el PRO y La Libertad Avanza en el escenario político.",
-        "La reorganización de los partidos de la oposición frente al avance del oficialismo."
+        "La trastienda del litigio: los motivos detrás del conflicto en la sinagoga de Flores.",
+        "Tensión en Flores: cómo se vivió la resistencia de los fieles para impedir el desalojo."
       ],
       "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
+      "medios_que_cubrieron": [
+        "Clarín",
+        "TN",
+        "Página 12"
+      ],
       "ejemplos": [
         {
-          "medio": "Perfil",
-          "titulo": "El mapa de la nueva oposición: De Bregman a Massot, quién es quién en el incipiente frente contra el Gobierno",
-          "link": "https://www.perfil.com/noticias/politica/el-mapa-de-la-nueva-oposicion-de-bregman-a-massot-quien-es-quien-en-el-incipiente-frente-contra-el-gobierno.phtml"
+          "medio": "Clarín",
+          "titulo": "Tras horas de tensión, suspendieron el desalojo de una sinagoga en Flores que había sido ordenado por un conflicto entre dos grupos de fieles",
+          "link": "https://www.clarin.com/ciudades/desalojan-sinagoga-flores-conflicto-grupos-fieles_0_ev9fPpo3xF.html"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Sin apuro, Ritondo busca el acuerdo PRO-LLA: \"Queremos reelegir donde gobernamos y hacer lo imposible para blindar el cambio\"",
-          "link": "https://www.clarin.com/politica/apuro-ritondo-busca-acuerdo-pro-lla-queremos-reelegir-gobernamos-hacer-imposible-blindar-cambio_0_JfFBgljb0x.html"
+          "medio": "TN",
+          "titulo": "La alegría de un miembro de la comunidad judía que resistió el desalojo de la sinagoga en Flores: “Tengo la chispa divina”",
+          "link": "https://tn.com.ar/policiales/2026/08/31/la-alegria-de-un-miembro-de-la-comunidad-judia-que-resistio-el-desalojo-de-la-sinagoga-en-flores-tengo-la-chispa-divina/"
         },
         {
           "medio": "Página 12",
-          "titulo": "Segunda cumbre antiperonista: La Libertad Avanza y el PRO definen su alianza para 2027",
-          "link": "https://www.pagina12.com.ar/2026/08/28/segunda-cumbre-antiperonista-la-libertad-avanza-y-el-pro-definen-su-alianza-para-2027/"
+          "titulo": "Suspendieron el desalojo en una sinagoga en Flores",
+          "link": "https://www.pagina12.com.ar/2026/08/31/desalojan-una-sinagoga-en-flores-por-un-conflicto-entre-dos-grupos-de-fieles/"
         }
       ]
     },
     {
-      "tema": "Aumentos de septiembre en servicios",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "El impacto directo de las subas en la canasta básica y el costo de vida presiona sobre la clase media al comienzo de un nuevo mes.",
-      "insight": "El incremento simultáneo en múltiples rubros desafía las metas oficiales de desaceleración de la inflación mensual.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Elaborar una guía práctica interactiva detallando el alcance de cada uno de los incrementos estipulados para el mes entrante.",
-      "enfoques_sugeridos": [
-        "El impacto de los nuevos aumentos de tarifas en el presupuesto de los hogares.",
-        "Detalle de los servicios esenciales que registrarán subas desde el próximo mes."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Septiembre llega con aumentos: cuánto subirán colectivos, trenes, subte, prepagas, colegios y alquileres",
-          "link": "https://www.perfil.com/noticias/economia/septiembre-llega-con-aumentos-cuanto-subiran-colectivos-trenes-subte-prepagas-colegios-y-alquileres.phtml"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Septiembre llega con aumentos en los servicios: uno por uno, todos los que suben el próximo mes y cómo impactarán en la inflación",
-          "link": "https://www.clarin.com/economia/septiembre-llega-aumentos-servicios-suben-proximo-mes-impactaran-inflacion_0_dhAa3DW0gn.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Los aumentos que llegarán en septiembre: del transporte público y alquileres a las prepagas",
-          "link": "https://tn.com.ar/economia/2026/08/28/los-aumentos-que-llegaran-en-septiembre-de-transporte-publico-a-alquileres-y-prepagas-como-seran-las-subas/"
-        }
-      ]
-    }
-  ],
-  "perfil_pierde": [
-    {
-      "tema": "Consejo del Salario Mínimo y aumento por decreto",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 5,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 1,
-      "cobertura": {
-        "Perfil": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "Cronista": 2
-      },
-      "por_que_importa": "El fracaso de la negociación paritaria obliga al Gobierno a laudar por decreto, profundizando el conflicto con las centrales sindicales.",
-      "insight": "El abandono de la mesa de diálogo por parte de la CGT y las CTA expone la tensión extrema en la relación laboral y la pérdida del poder adquisitivo.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Superar la cobertura de Cronista mediante un análisis en profundidad del impacto real que tendrá el aumento decretado en las arcas del ANSES.",
-      "enfoques_sugeridos": [
-        "Consecuencias económicas y sociales tras la falta de acuerdo en el Consejo del Salario.",
-        "La postura de los gremios tras abandonar el encuentro por el Salario Mínimo Vital."
-      ],
-      "medios_que_mas_publicaron": [
-        "Cronista"
-      ],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Un economista respaldó la actualización del salario mínimo: “Se recaudaría más para las arcas del ANSES”",
-          "link": "https://www.perfil.com/noticias/canal-e/un-economista-respaldo-la-actualizacion-del-salario-minimo-vital-y-movil-se-recaudaria-mas-para-las-arcas-del-anses.phtml"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Escandaloso final del Consejo del Salario Mínimo: la CGT y las CTA abandonaron el encuentro y el Gobierno fijará el aumento",
-          "link": "https://www.infobae.com/politica/2026/08/28/escandaloso-final-del-consejo-del-salario-minimo-la-cgt-y-las-cta-abandonaron-el-encuentro-y-el-gobierno-fijara-el-aumento/"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "No hubo acuerdo en el Consejo del Salario y el Gobierno fijará el aumento: la CGT y las CTA abandonaron la sesión",
-          "link": "https://www.cronista.com/economia-politica/el-consejo-del-salario-se-reune-por-primera-vez-en-el-ano-para-definir-una-suba-del-minimo-hoy-por-debajo-de-la-linea-de-pobreza/"
-        }
-      ]
-    },
-    {
-      "tema": "Cotización del dólar blue y oficial",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 5,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 1,
-      "cobertura": {
-        "Perfil": 2,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 2,
-        "Ámbito": 3,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "La cotización del dólar y su brecha siguen siendo los termómetros clave de las expectativas de devaluación e inflación en el mercado local.",
-      "insight": "El seguimiento minuto a minuto realizado por medios especializados capta la atención del público minorista y financiero de forma constante.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Equiparar la cobertura de Ámbito ofreciendo un reporte que incorpore análisis técnico de operadores de mercado cambiario.",
-      "enfoques_sugeridos": [
-        "El comportamiento del dólar blue y su impacto directo en la actividad comercial.",
-        "Análisis de las variables financieras que presionan sobre las cotizaciones hoy."
-      ],
-      "medios_que_mas_publicaron": [
-        "Ámbito"
-      ],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "A cuánto cotiza el euro blue hoy, viernes 28 de agosto",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-viernes-28-de-agosto.phtml"
-        },
-        {
-          "medio": "TN",
-          "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este viernes 28 de agosto",
-          "link": "https://tn.com.ar/economia/2026/08/28/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes-28-de-agosto/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 28 de agosto",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-28-agosto-n6315781"
-        }
-      ]
-    }
-  ],
-  "sin_cobertura_perfil": [
-    {
-      "tema": "Cierre de casino clandestino en San Telmo",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "El funcionamiento de juego clandestino bajo la fachada de comercios tecnológicos expone fallas de control y actividad ilícita en zonas turísticas de la Ciudad.",
-      "insight": "Este tipo de fachadas representan modalidades delictivas que suelen capturar fuerte interés local por su cercanía e impacto en los barrios.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Elaborar una crónica del allanamiento enfocada en cómo operaba el establecimiento ilegal detrás de su pantalla comercial.",
-      "enfoques_sugeridos": [
-        "Los detalles del operativo policial que desbarató una sala de juego en San Telmo.",
-        "La investigación sobre comercios que encubren actividades de apuestas ilegales."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [
-        "Clarín"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Clausuran un casino clandestino que operaba bajo la fachada de un \"cíber\" en San Telmo",
-          "link": "https://www.clarin.com/policiales/clausuran-casino-clandestino-operaba-fachada-ciber-san-telmo_0_DDM65PZvV9.html"
-        }
-      ]
-    },
-    {
-      "tema": "Inversiones mineras en Argentina y Chile",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "Los acuerdos binacionales para proyectos de minería a gran escala son dinamizadores económicos clave para las provincias andinas y la generación de divisas.",
-      "insight": "La cooperación entre Chile y Argentina marca un hito de integración energética y de recursos que atrae inversiones globales millonarias.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Redactar un informe sobre los tres proyectos específicos acelerados y el impacto en empleo y exportaciones para el país.",
-      "enfoques_sugeridos": [
-        "El acuerdo estratégico entre Argentina y Chile para acelerar la inversión minera.",
-        "El impacto de los proyectos mineros conjuntos con inversiones multimillonarias."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [
-        "Clarín"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Argentina y Chile sellan un acuerdo para acelerar tres proyectos mineros por más de US$ 20.700 millones",
-          "link": "https://www.clarin.com/energia-y-mineria/argentina-chile-sellan-acuerdo-acelerar-proyectos-mineros-us-20700-millones_0_35SdvJ0OKx.html"
-        }
-      ]
-    },
-    {
-      "tema": "Discurso de Kevin Warsh sobre inflación en EE.UU.",
+      "tema": "Inundaciones y víctimas por tormentas en el Gran Cañón",
       "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -300,328 +261,274 @@
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 0,
+        "La Nación": 0,
         "Clarín": 1,
         "Infobae": 1,
         "TN": 0,
-        "Ámbito": 1,
-        "Página 12": 0,
+        "Ámbito": 0,
+        "Página 12": 1,
         "Cronista": 0
       },
-      "por_que_importa": "Las proyecciones de política monetaria en la principal economía del mundo determinan los flujos globales de inversión y los costos del crédito.",
-      "insight": "Un tono más contractivo de la Reserva Federal genera inquietud en los mercados emergentes debido al encarecimiento del financiamiento externo.",
+      "por_que_importa": "Es una catástrofe natural en uno de los destinos turísticos más conocidos de Estados Unidos, que involucra heridos y desaparecidos.",
+      "insight": "Los portales de noticias priorizan la urgencia climática y el drama del rescate de decenas de personas en la zona de desastre.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Preparar un análisis explicativo que detalle la relación entre el control de precios en EE.UU. y las tasas globales de interés.",
+      "accion_sugerida": "Publicar un reporte con crónicas de rescate, cifras oficiales de víctimas y alertas meteorológicas vigentes.",
       "enfoques_sugeridos": [
-        "Las definiciones de Kevin Warsh sobre la política monetaria frente a la inflación.",
-        "La postura de los analistas financieros ante las declaraciones del miembro de la Fed."
+        "Tragedia turística: las historias de rescate en el Gran Cañón tras el fuerte temporal.",
+        "Alerta climática: por qué las tormentas causaron inundaciones repentinas en el desierto."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [
         "Clarín",
         "Infobae",
-        "Ámbito"
+        "Página 12"
       ],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "\"Preocupante\": el jefe de la FED advierte sobre la inflación en EE.UU.",
-          "link": "https://www.clarin.com/mundo/preocupante-jefe-fed-advierte-inflacion-eeuu_0_PsFBQdMAeI.html"
+          "titulo": "Desastre en el Gran Cañón y alerta de más tormentas tras una inundación repentina: evacuaciones, daños y al menos un muerto",
+          "link": "https://www.clarin.com/mundo/desastre-gran-canon-alerta-tormentas-inundacion-repentina-evacuaciones-danos-muerto_0_IrcIGjx8RK.html"
         },
         {
           "medio": "Infobae",
-          "titulo": "Warsh centra el trabajo de la Fed en el control de precios y reconoce que la situación es \"preocupante\"",
-          "link": "https://www.infobae.com/america/agencias/2026/08/28/warsh-centra-el-trabajo-de-la-fed-en-el-control-de-precios-y-reconoce-que-la-situacion-es-preocupante/"
+          "titulo": "Inundaciones repentinas en el Gran Cañón: al menos dos muertos, 15 desaparecidos y evacuaciones de emergencia",
+          "link": "https://www.infobae.com/estados-unidos/2026/08/31/inundaciones-repentinas-en-el-gran-canon-al-menos-dos-muertos-15-desaparecidos-y-evacuaciones-de-emergencia/"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Fed: Kevin Warsh confirmó que subirán la tasa si la inflación en EEUU no desacelera",
-          "link": "https://www.ambito.com/economia/fed-kevin-warsh-confirmo-que-subiran-la-tasa-si-la-inflacion-eeuu-no-desacelera-n6315898"
-        }
-      ]
-    },
-    {
-      "tema": "Detención de \"Bebote\" Álvarez",
-      "prioridad": 4,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 0,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "La vinculación de jefes históricos de barrabravas con redes de narcotráfico internacional devela la escala de los negocios ilícitos detrás del fútbol.",
-      "insight": "El caso de Pablo 'Bebote' Álvarez tiene un fuerte impacto público por su notoriedad en el ámbito deportivo y judicial.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Elaborar un perfil sobre la evolución de Álvarez desde el control de la tribuna hasta la investigación federal por tráfico.",
-      "enfoques_sugeridos": [
-        "Detuvieron al exbarra 'Bebote' Álvarez por integrar una red de narcotráfico global.",
-        "Detalles de la detención de 'Bebote' Álvarez por presuntos vínculos con el narco."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [
-        "Infobae",
-        "TN",
-        "Ámbito"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Infobae",
-          "titulo": "Detuvieron a \"Bebote\" Álvarez: está acusado de integrar una banda narco de alcance internacional",
-          "link": "https://www.infobae.com/deportes/2026/08/28/detuvieron-a-bebote-alvarez-esta-acusado-de-integrar-una-banda-narco-de-alcance-internacional/"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Detuvieron a “Bebote” Álvarez, histórico líder de la barra de Independiente, acusado de integrar una banda de narcotraficantes",
-          "link": "https://tn.com.ar/deportes/futbol/2026/08/28/detuvieron-a-bebote-alvarez-historico-lider-de-la-barra-de-independiente-acusado-de-integrar-una-banda-de-narcotraficantes/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Detuvieron al barrabrava \"Bebote\" Álvarez en una causa por narcotráfico",
-          "link": "https://www.ambito.com/informacion-general/detuvieron-al-barrabrava-bebote-alvarez-una-causa-narcotrafico-n6315906"
+          "medio": "Página 12",
+          "titulo": "Más de 20 personas desaparecidas tras inundaciones en el Gran Cañón de Estados Unidos",
+          "link": "https://www.pagina12.com.ar/2026/08/30/inundacion-en-el-gran-canon/"
         }
       ]
     }
   ],
   "oportunidades": [
     {
-      "tema": "Choque en Coghlan con heridos",
+      "tema": "Prohibición nacional de juguetes con sustancias cancerígenas",
       "prioridad": 1,
-      "tipo": "Cobertura local / policial",
+      "tipo": "Salud / Consumo",
       "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
+      "total_notas": 3,
+      "cantidad_medios": 3,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
+        "La Nación": 0,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 0,
         "Ámbito": 0,
-        "Página 12": 0,
+        "Página 12": 1,
         "Cronista": 0
       },
-      "por_que_importa": "Los accidentes graves de tránsito en intersecciones urbanas de alta circulación exponen problemáticas de infraestructura y conducta vial.",
+      "por_que_importa": "Afecta la seguridad de productos de venta libre para niños y despierta la alerta de padres y organizaciones de salud.",
       "insight": "",
       "motivo": "",
-      "motivo_oportunidad": "La escasa cobertura en medios nacionales permite destacar una crónica detallada sobre las pericias del siniestro que dejó tres personas heridas de gravedad.",
-      "accion_sugerida": "Realizar un reporte fotográfico y recolectar testimonios vecinales sobre la peligrosidad histórica de esa esquina en Coghlan.",
+      "motivo_oportunidad": "Es un tema de alto interés social y de salud pública que permite generar notas de servicio sumamente descriptivas sobre las marcas.",
+      "accion_sugerida": "Redactar una guía informativa visual para diferenciar los juguetes prohibidos (tipo Squishy) y saber qué hacer si ya se adquirieron.",
       "enfoques_sugeridos": [
-        "El estado de salud de las personas heridas tras el violento choque vial en Coghlan.",
-        "La labor de los médicos de emergencia para asistir a las personas heridas en el choque."
+        "Alerta para padres: cómo identificar si los juguetes de tus hijos contienen tóxicos.",
+        "El control de calidad: qué organismos fiscalizan el ingreso de juguetes al mercado local."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Tres heridos tras un fuerte choque entre una camioneta y un auto en Coghlan",
-          "link": "https://www.perfil.com/noticias/policia/tres-heridos-tras-un-fuerte-choque-entre-una-camioneta-y-un-auto-en-coghlan.phtml"
+          "titulo": "Prohíben en todo el país juguetes blandos que contienen sustancias cancerígenas: de qué producto se trata",
+          "link": "https://www.perfil.com/noticias/economia/prohiben-en-todo-el-pais-juguetes-blandos-que-contienen-sustancias-cancerigenas-de-que-producto-se-trata.phtml"
         },
         {
           "medio": "Clarín",
-          "titulo": "Brutal choque entre un auto y una camioneta en Coghlan: hay tres heridos graves",
-          "link": "https://www.clarin.com/sociedad/brutal-choque-auto-camioneta-coghlan-heridos-graves_0_ZH3jL6F49s.html"
+          "titulo": "Prohíben la venta de un juguete infantil blando por riesgos para la salud: cuál es y por qué fue retirado del mercado",
+          "link": "https://www.clarin.com/sociedad/prohiben-venta-juguete-infantil-blando-riesgos-salud-retirado-mercado_0_PaEjqUIl7a.html"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "Prohibieron la venta de juguetes Squishy por riesgos para la salud",
+          "link": "https://www.pagina12.com.ar/2026/08/31/prohibieron-la-venta-de-juguetes-squishy-por-riesgos-para-la-salud/"
         }
       ]
     },
     {
-      "tema": "Declaraciones de Lilia Lemoine contra Victoria Villarruel",
+      "tema": "Cierre de planta de Granja Tres Arroyos",
       "prioridad": 2,
-      "tipo": "Análisis político",
+      "tipo": "Economía / Negocios",
       "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
+      "total_notas": 4,
+      "cantidad_medios": 4,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
-        "Clarín": 1,
+        "La Nación": 0,
+        "Clarín": 0,
         "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
+        "TN": 1,
+        "Ámbito": 1,
         "Página 12": 0,
-        "Cronista": 0
+        "Cronista": 1
       },
-      "por_que_importa": "Las acusaciones explícitas de cobardía de una diputada oficialista hacia la Vicepresidenta de la Nación exponen fracturas profundas en el binomio gobernante.",
+      "por_que_importa": "Involucra la subsistencia de una avícola histórica y las negociaciones millonarias para levantar concursos y volver a producir.",
       "insight": "",
       "motivo": "",
-      "motivo_oportunidad": "Un conflicto interno de esta magnitud permite elaborar análisis sobre la distribución de fuerzas de seguridad y defensa en el gabinete.",
-      "accion_sugerida": "Analizar la procedencia y el trasfondo político del cruce verbal de Lemoine respecto al accionar de Villarruel con los delincuentes.",
+      "motivo_oportunidad": "La cobertura se divide entre el cierre sorpresivo reportado en el interior y la reestructuración financiera de la compañía.",
+      "accion_sugerida": "Publicar un informe analítico sobre las firmas industriales en crisis de deuda y las consecuencias de empleabilidad.",
       "enfoques_sugeridos": [
-        "La repercusión política de los dichos de Lilia Lemoine contra Victoria Villarruel.",
-        "El cruce de declaraciones que expone las diferencias en la cúpula del oficialismo."
+        "La crisis avícola: el plan de Granja Tres Arroyos para reestructurar su deuda millonaria.",
+        "Impacto en el empleo: los cierres sorpresivos de plantas industriales en las provincias."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Lilia Lemoine volvió a apuntar contra Victoria Villarruel: “Le tenía miedo a los delincuentes”",
-          "link": "https://www.perfil.com/noticias/politica/lilia-lemoine-volvio-a-apuntar-contra-victoria-villarruel-le-tenia-miedo-a-los-delincuentes.phtml"
+          "titulo": "Cierre sorpresivo de Musimundo en Corrientes dejó a 36 empleados sin trabajo",
+          "link": "https://www.perfil.com/noticias/nea/cierre-sorpresivo-de-musimundo-en-corrientes-dejo-a-36-empleados-sin-trabajo.phtml"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Le tenía miedo a los delincuentes la cobarde\", el nuevo exabrupto de Lemoine contra Villarruel",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-miedo-delincuentes-cobarde-nuevo-exabrupto-lemoine-villarruel_0_QvqYroR3G9.html"
+          "medio": "TN",
+          "titulo": "La avícola Granja Tres Arroyos frenó la producción en su histórica planta y se profundiza su crisis",
+          "link": "https://tn.com.ar/campo/2026/08/31/granja-tres-arroyos-freno-la-produccion-en-capitan-sarmiento-y-temen-que-la-planta-cierre-definitivamente/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Granja Tres Arroyos cerró una planta histórica sin aviso",
+          "link": "https://www.ambito.com/negocios/granja-tres-arroyos-cerro-una-planta-historica-aviso-n6316631"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Granja Tres Arroyos paralizó otra planta clave: las chances “reales” de salir del concurso y volver a faenar",
+          "link": "https://www.cronista.com/negocios/granja-tres-arroyos-paralizo-otra-planta-clave-las-chances-reales-de-reestructurar-us-350-millones-y-volver-a-faenar/"
         }
       ]
     }
   ],
   "discover": [
     {
-      "tema": "Detención de argentino por el ICE en Texas",
+      "tema": "Detención del cantante Callejero Fino",
       "prioridad": 1,
       "tipo": "",
-      "tipo_de_oportunidad": "Historia humana",
-      "total_notas": 2,
-      "cantidad_medios": 2,
+      "tipo_de_oportunidad": "Espectáculos / Judiciales",
+      "total_notas": 5,
+      "cantidad_medios": 4,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 2,
+        "Ámbito": 1,
         "Página 12": 0,
         "Cronista": 0
       },
-      "por_que_importa": "El caso de una ciudadana argentina presa en los Estados Unidos, próxima a contraer matrimonio, resuena de forma emocional en audiencias interesadas en migraciones.",
+      "por_que_importa": "Involucra a un referente masivo de la música RKT en un confuso caso policial con armas sin numeración ni papeles.",
       "insight": "",
-      "motivo": "Historias de vida truncadas por detenciones de agencias de inmigración (ICE) suelen generar altos niveles de engagement e interés empático.",
+      "motivo": "Tiene alta tracción por combinar el interés en la música urbana, escándalos de farándula y la renuncia de su abogado defensor.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Presentar un perfil detallado de la joven personal trainer, reconstruyendo sus días en cautiverio a través de allegados.",
+      "accion_sugerida": "Actualizar con la indagatoria judicial del cantante, los alegatos por el arma encontrada y los detalles del cambio de patrocinio.",
       "enfoques_sugeridos": [
-        "La desesperante historia de la argentina presa por inmigración que iba a casarse.",
-        "El drama de la argentina detenida en EE.UU. que expone los duros controles de ICE."
+        "La defensa de Callejero Fino: por qué el cantante negó que la pistola hallada fuera suya.",
+        "Giro en la causa: las razones de la renuncia del abogado defensor tras la indagatoria."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Una argentina lleva casi un mes detenida por el ICE en Texas: estaba por casarse y había construido su vida en Estados Unidos",
-          "link": "https://www.perfil.com/noticias/internacional/una-argentina-lleva-casi-un-mes-detenida-por-el-ice-en-texas-estaba-por-casarse-y-habia-construido-su-vida-en-estados-unidos.phtml"
+          "titulo": "Así detuvieron a \"Callejero Fino\": el cantante sigue incomunicado y será indagado por tenencia de un arma ilegal",
+          "link": "https://www.perfil.com/noticias/policia/asi-detuvieron-a-callejero-fino-el-cantante-sigue-incomunicado-y-sera-indagado-por-tenencia-de-un-arma-ilegal.phtml"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Así detuvieron a Callejero Fino en Tigre: el momento en que el cantante de RKT es interceptado en una camioneta sin patente y con un arma",
+          "link": "https://www.clarin.com/policiales/detuvieron-callejero-fino-tigre-momento-cantante-rkt-interceptado-camioneta-patente-arma_0_wGtIYGOc15.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "La Justicia indagó a Callejero Fino y agravó la acusación en su contra: dijo que la pistola no era suya",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/08/31/la-justicia-indago-a-callejero-fino-y-agravo-la-acusacion-en-su-contra-dijo-que-la-pistola-no-era-suya/"
         },
         {
           "medio": "TN",
-          "titulo": "El calvario de una personal trainer argentina que está presa en EE.UU. hace un mes: planeaba casarse y fue detenida en Miami",
-          "link": "https://tn.com.ar/internacional/2026/08/28/el-calvario-de-una-personal-trainer-argentina-que-esta-presa-en-eeuu-hace-un-mes-planeaba-casarse-y-fue-detenida-en-miami/"
+          "titulo": "El abogado de Callejero Fino renunció luego de que el cantante decidiera declarar en la causa por tenencia ilegal de arma",
+          "link": "https://tn.com.ar/policiales/2026/08/31/callejero-fino-declara-luego-de-haber-sido-detenido-en-tigre-en-una-camioneta-sin-patente-y-con-un-arma/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Cómo sigue la situación de Callejero Fino tras ser detenido por circular en una camioneta sin patente y llevar un arma: qué se sabe",
+          "link": "https://www.ambito.com/espectaculos/como-sigue-la-situacion-callejero-fino-ser-detenido-circular-una-camioneta-patente-y-llevar-un-arma-que-se-sabe-n6316660"
         }
       ]
     }
   ],
   "fortalezas_perfil": [
     {
-      "tema": "Muerte y sucesión del Rey Harald V de Noruega",
-      "prioridad": "",
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 0,
-      "cantidad_medios": 0,
-      "perfil": 3,
-      "competencia_total": 3,
-      "diferencia": 1,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 3,
-        "Clarín": 2,
-        "Infobae": 1,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "La muerte de un monarca de larga trayectoria reconfigura la escena de las casas reales europeas y despierta fascinación por sus historias personales.",
-      "insight": "Perfil lidera la cobertura de este suceso histórico a través de notas enfocadas en el lado humano, la resiliencia y el romance desafiante de Harald V.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener la primacía informativa mediante una cobertura detallada de las ceremonias de sucesión y el ascenso de Haakon VIII.",
-      "enfoques_sugeridos": [],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Harald V de Noruega: el rey que amó libremente y no tuvo miedo a decir lo que sentía",
-          "link": "https://www.perfil.com/noticias/protagonistas/harald-v-de-noruega-el-rey-amo-libremente-y-no-tuvo-miedo-a-decir-lo-que-sentia-a50.phtml"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Murió a los 89 años el rey Harald V de Noruega",
-          "link": "https://www.clarin.com/mundo/murio-89-anos-rey-harald-v-noruega_0_pLrXE2cY2G.html"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "México expresa condolencias por el fallecimiento del rey Harald V y desea éxito a Haakon VIII",
-          "link": "https://www.infobae.com/mexico/2026/08/28/gobierno-de-mexico-expresa-condolencias-por-el-fallecimiento-del-rey-harald-v-y-desea-exito-a-haakon-viii/"
-        }
-      ]
-    },
-    {
-      "tema": "Medidas de gobierno y mercado inmobiliario",
+      "tema": "Aumentos de precios de combustibles y postergación de impuestos",
       "prioridad": "",
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 0,
       "cantidad_medios": 0,
       "perfil": 2,
-      "competencia_total": 0,
-      "diferencia": 2,
+      "competencia_total": 2,
+      "diferencia": 1,
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 2,
-        "Clarín": 0,
+        "La Nación": 0,
+        "Clarín": 1,
         "Infobae": 0,
         "TN": 0,
         "Ámbito": 0,
         "Página 12": 0,
-        "Cronista": 0
+        "Cronista": 1
       },
-      "por_que_importa": "La dinámica de los créditos hipotecarios y las reformas de mercado representan temas de gran relevancia para ahorristas e interesados en la vivienda.",
-      "insight": "Perfil se posiciona de forma exclusiva como referente analítico del sector inmobiliario, aportando visiones críticas y técnicas que otros medios obviaron.",
+      "por_que_importa": "Es una medida central de la gestión macroeconómica para mitigar la inflación conteniendo el costo logístico de la energía.",
+      "insight": "Perfil lideró la agenda al aportar análisis técnicos junto a la crítica política con el testimonio de Victoria Tolosa Paz.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Capitalizar esta exclusividad de cobertura realizando entrevistas periódicas con referentes de cámaras inmobiliarias sobre el impacto del crédito.",
+      "accion_sugerida": "Profundizar en la evolución internacional del precio del petróleo y cómo presiona las decisiones del Palacio de Hacienda.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "El mercado inmobiliario ve como “una locomotora importantísima” las medidas del Gobierno en función del crédito hipotecario",
-          "link": "https://www.perfil.com/noticias/canal-e/el-mercado-inmobiliario-ve-como-una-locomotora-importantisima-las-medidas-del-gobierno-en-funcion-del-credito-hipotecario.phtml"
+          "titulo": "Tolosa Paz sobre la postergación del impuesto a los combustibles: \"El permitido del mes de Toto\"",
+          "link": "https://www.perfil.com/noticias/nea/tolosa-paz-sobre-la-prorroga-del-impuesto-a-los-combustibles-el-permitido-del-mes-de-toto.phtml"
         },
         {
           "medio": "Perfil",
-          "titulo": "Para Ramiro Tosi “si los créditos van a viviendas usadas, tendrán menos efecto dinamizador”",
-          "link": "https://www.perfil.com/noticias/canal-e/ramiro-tosi-se-anuncio-una-medida-del-lado-de-la-demanda-para-mejorar-las-condiciones-de-acceso-a-potenciales-viviendas.phtml"
+          "titulo": "El Gobierno frenó otra vez la suba de impuestos a la nafta y el gasoil en medio del aumento del precio del petróleo",
+          "link": "https://www.perfil.com/noticias/economia/gobierno-freno-otra-vez-suba-impuestos-nafta-gasoil-medio-aumento-precio-petroleo-a40.phtml"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "El Gobierno volvió a postergar la suba de impuestos a los combustibles para contener los precios",
+          "link": "https://www.clarin.com/energia-y-mineria/gobierno-volvio-postergar-suba-impuestos-combustibles-contener-precios_0_KGQWN3fa2t.html"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Combustibles: el Gobierno volvió a postergar la suba de impuestos para contener el impacto en inflación",
+          "link": "https://www.cronista.com/economia-politica/combustibles-el-gobierno-volvio-a-postergar-la-suba-de-impuestos-para-contener-el-impacto-en-inflacion-2/"
         }
       ]
     }
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Consejo del Salario Mínimo y aumento por decreto",
+      "tema": "Aumento de salarios y bonos para jubilados, militares y fuerzas de seguridad",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -634,18 +541,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "El desenlace abrupto del Consejo del Salario marcará la agenda de la conflictividad laboral, forzando un aumento por decreto en un contexto de alta sensibilidad social.",
+      "por_que_importa": "Impacta de lleno en el bolsillo del sector previsional y en las FF.AA., despertando reclamos salariales e interés masivo de servicio.",
       "insight": "",
-      "motivo": "Se trata de un tema clave de la política y economía local con un alto volumen de notas donde Perfil se encuentra perdiendo en cobertura frente a Cronista.",
+      "motivo": "Es la temática con mayor cantidad de notas del día en el ecosistema, donde Perfil tiene una brecha negativa de cobertura frente a tres competidores de peso.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un análisis económico que profundice en la brecha entre el salario mínimo real, la línea de pobreza y el impacto directo en las jubilaciones.",
+      "accion_sugerida": "Lanzar simuladores interactivos de cobro, desglosar el impacto en los haberes de septiembre de 2026 y detallar las nuevas escalas para militares.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Muerte y sucesión del Rey Harald V de Noruega",
+      "tema": "Intenciones del Gobierno para el regreso de la Fórmula 1 a Argentina",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -658,18 +565,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "El fallecimiento del monarca noruego cierra una época en la realeza escandinava y activa mecanismos de sucesión con implicancias en las dinastías del continente.",
+      "por_que_importa": "Reúne la pasión por el automovilismo con la iniciativa política gubernamental, generando alta fidelidad e interés lector.",
       "insight": "",
-      "motivo": "Es un suceso de gran relevancia internacional donde Perfil ostenta el liderazgo indiscutido en cantidad y enfoque de notas publicadas respecto de la competencia.",
+      "motivo": "Javier Milei ha tomado protagonismo de la agenda buscando capitalizar políticamente el fenómeno popular de Franco Colapinto ante la FIA.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener activa la ventaja editorial cubriendo de cerca el protocolo de asunción del nuevo soberano y el impacto de esta transición en la opinión pública europea.",
+      "accion_sugerida": "Elaborar un informe sobre la factibilidad del circuito del Autódromo de Buenos Aires y la inversión de capital necesaria.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Alianza electoral PRO-LLA",
+      "tema": "Tensiones geopolíticas y ataques entre Estados Unidos e Irán",
       "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -682,11 +589,11 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "La consolidación de un polo electoral unificado redefine por completo el mapa político argentino y plantea nuevas estrategias de confrontación parlamentaria.",
+      "por_que_importa": "Tiene implicancias directas en el valor internacional del petróleo, los mercados bursátiles de Europa y la estabilidad de Medio Oriente.",
       "insight": "",
-      "motivo": "Este eje de política nacional despierta un interés prioritario debido a las conversaciones en curso por la reorganización de las fuerzas de centroderecha de cara al futuro político.",
+      "motivo": "Es un suceso bélico internacional de primer orden sobre el cual Perfil no ha emitido publicaciones durante la jornada.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Elaborar un informe sobre los dirigentes clave que impulsan el acuerdo de fusión legislativa y las condiciones impuestas por cada fuerza.",
+      "accion_sugerida": "Escribir un análisis geopolítico sobre el primer ataque directo estadounidense en un mes sobre la isla de Larak.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
@@ -694,15 +601,190 @@
     }
   ],
   "analisis_completo": {
-    "fecha_analisis": "Fri, 28 Aug 2026",
+    "fecha_analisis": "Mon, 31 Aug 2026",
     "hipercompetencia": [
       {
-        "tema": "Alianza electoral PRO-LLA",
+        "tema": "Intenciones del Gobierno para el regreso de la Fórmula 1 a Argentina",
         "prioridad": 1,
-        "total_notas": 4,
-        "cantidad_medios": 3,
+        "total_notas": 5,
+        "cantidad_medios": 4,
         "cobertura": {
           "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "Cronista": 0
+        },
+        "por_que_importa": "Es una iniciativa política de alto nivel que busca posicionar al país en la escena deportiva internacional utilizando la figura de Franco Colapinto.",
+        "insight": "La cobertura está sumamente concentrada en el discurso de Javier Milei en el congreso de la FIA y su interés explícito en el piloto.",
+        "accion_sugerida": "Elaborar un análisis de viabilidad técnica y económica detallando las reformas requeridas para recibir un Gran Premio de F1.",
+        "enfoques_sugeridos": [
+          "Análisis económico de la F1 en Argentina: costo real versus retorno de inversión.",
+          "Reformas en el Autódromo: las obras requeridas para obtener la homologación de la FIA."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Milei habló del regreso de la F1 a Argentina y destacó a Franco Colapinto: “Es una gran promesa”",
+            "link": "https://www.perfil.com/noticias/politica/javier-milei-encabeza-el-acto-en-el-congreso-americano-de-la-federacion-internacional-del-automovil.phtml"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Milei abrió el Congreso de la FIA y pidió que Argentina sea sede de la Fórmula 1: \"Queremos ver a Colapinto en el país\"",
+            "link": "https://www.infobae.com/politica/2026/08/31/milei-abrio-el-congreso-de-la-fia-y-pidio-que-argentina-sea-sede-de-la-formula-1-queremos-ver-a-colapinto-en-el-pais/"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Milei encabezó un congreso internacional de automovilismo: “La Argentina cumple con las condiciones para volver a recibir a la F1″",
+            "link": "https://tn.com.ar/politica/2026/08/31/milei-encabeza-un-congreso-internacional-de-automovilismo-mientras-busca-concretar-la-vuelta-de-la-formula-1/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "\"Queremos ver a Colapinto en el país\", ante la FIA Javier Milei ratificó que en la Argentina están todas las condiciones para volver a recibir a la F1",
+            "link": "https://www.ambito.com/politica/queremos-ver-colapinto-el-pais-la-fia-javier-milei-ratifico-que-la-argentina-estan-todas-las-condiciones-volver-recibir-la-f1-n6316701"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Javier Milei y sus medidas, EN VIVO: \"Queremos ver a Colapinto en el país\", dijo el Presidente y aseguró que Argentina está preparada para recibir a la Fórmula 1",
+            "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-participa-congreso-americano-federacion-internacional-automovil_0_dgWZEhxfWQ.html"
+          }
+        ]
+      }
+    ],
+    "perfil_pierde": [
+      {
+        "tema": "Aumento de salarios y bonos para jubilados, militares y fuerzas de seguridad",
+        "prioridad": 1,
+        "total_notas": 15,
+        "cantidad_medios": 7,
+        "cobertura": {
+          "Perfil": 2,
+          "La Nación": 0,
+          "Clarín": 3,
+          "Infobae": 0,
+          "TN": 2,
+          "Ámbito": 2,
+          "Página 12": 3,
+          "Cronista": 3
+        },
+        "brecha_perfil": 1,
+        "medios_que_mas_publicaron": [
+          "Clarín",
+          "Página 12",
+          "Cronista"
+        ],
+        "por_que_importa": "Es una medida de fuerte impacto socioeconómico que toca el poder adquisitivo de jubilados y el malestar salarial en sectores de seguridad.",
+        "insight": "Varios competidores han fragmentado la cobertura publicando notas individuales para el decreto de los militares y el bono previsional de ANSES.",
+        "accion_sugerida": "Publicar un informe integrado y guías detalladas sobre los nuevos haberes mínimos de jubilados con el bono de septiembre.",
+        "enfoques_sugeridos": [
+          "Guía de cobro de ANSES: calendario detallado para jubilados en septiembre de 2026.",
+          "El impacto fiscal del nuevo aumento salarial para los militares y fuerzas de seguridad."
+        ],
+        "titulos_sugeridos": [
+          "Guía de ANSES: Cuánto cobran los jubilados en septiembre con el nuevo bono de $70.000",
+          "Aumento a militares y fuerzas de seguridad: El impacto del Decreto 824/2026 en los sueldos"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "El Gobierno pagará un nuevo bono a jubilados y pensionados en septiembre: qué suma recibirán",
+            "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-confirmo-que-pagara-un-nuevo-bono-a-jubilados-y-pensionados-en-septiembre-que-suma-recibiran.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "El Gobierno anunció un aumento para los militares y fuerzas de seguridad, tras los reclamos por bajos salarios",
+            "link": "https://www.clarin.com/politica/gobierno-anuncio-aumento-militares-fuerzas-seguridad_0_Atoaf3BrDN.html"
+          },
+          {
+            "medio": "TN",
+            "titulo": "El Gobierno confirmó que pagará en septiembre un bono de hasta $70.000 para jubilados y pensionados",
+            "link": "https://tn.com.ar/economia/2026/08/31/el-gobierno-confirmo-que-pagara-en-septiembre-un-bono-de-hasta-70000-para-jubilados-y-pensionados/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "ANSES oficializó los montos de septiembre 2026: cuánto aumentan las jubilaciones, pensiones y asignaciones",
+            "link": "https://www.ambito.com/informacion-general/anses-oficializo-los-montos-septiembre-2026-cuanto-aumentan-las-jubilaciones-pensiones-y-asignaciones-n6316710"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Confirmado por el Decreto 824/2026: jubilados y pensionados cobrarán un nuevo bono en septiembre, ¿cuánto cobrarán?",
+            "link": "https://www.cronista.com/economia-politica/confirmado-por-el-decreto-8242026-jubilados-y-pensionados-cobraran-un-nuevo-bono-en-septiembre-cuanto-cobraran/"
+          }
+        ]
+      }
+    ],
+    "sin_cobertura_perfil": [
+      {
+        "tema": "Tensiones geopolíticas y ataques entre Estados Unidos e Irán",
+        "prioridad": 1,
+        "total_notas": 6,
+        "cantidad_medios": 4,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 1,
+          "Clarín": 3,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 1,
+          "Cronista": 0
+        },
+        "medios_que_cubrieron": [
+          "La Nación",
+          "Clarín",
+          "Infobae",
+          "Página 12"
+        ],
+        "por_que_importa": "Es una escalada armada directa en Oriente Medio que repercute en las bolsas de valores y en la política petrolera mundial.",
+        "insight": "Los competidores directos le han dado cobertura en secciones de política exterior y finanzas, resaltando las declaraciones cruzadas y el ataque militar.",
+        "accion_sugerida": "Escribir una nota explicativa sobre los bombardeos de EE.UU. en la isla de Larak y la réplica de Irán.",
+        "enfoques_sugeridos": [
+          "La escalada bélica: los detalles del ataque de EE.UU. a la isla de Larak y la réplica de Irán.",
+          "Efecto financiero global: cómo impactan las tensiones en las principales bolsas del mundo."
+        ],
+        "titulos_sugeridos": [
+          "Conflicto sin freno: EE.UU. ataca posiciones en Irán y se profundiza la tensión global",
+          "El impacto en los mercados: Las bolsas mundiales reaccionan a los nuevos ataques militares"
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Anticipar atentados terroristas",
+            "link": "https://www.lanacion.com.ar/editoriales/anticipar-atentados-terroristas-nid31082026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "\"Caos total\": Donald Trump aseguró que Irán es una nación \"fallida\" y que las autoridades son incapaces de gobernar el país",
+            "link": "https://www.clarin.com/mundo/caos-total-donald-trump-aseguro-iran-nacion-fallida-autoridades-incapaces-gobernar-pais_0_nLVdAGRYlu.html"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Irán afirma que atacó bases de Estados Unidos en Emiratos y Jordania tras los bombardeos estadounidenses a la isla de Larak",
+            "link": "https://www.clarin.com/mundo/iran-afirma-ataco-bases-estados-unidos-emiratos-jordania-bombardeos-estadounidenses-isla-larak_0_O7Yajn8uDO.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Milán cierra plana (-0,01 %) tras los nuevos ataques entre Estados Unidos e Irán",
+            "link": "https://www.infobae.com/america/agencias/2026/08/31/milan-cierra-plana-001-tras-los-nuevos-ataques-entre-estados-unidos-e-iran/"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "EE.UU atacó a Irán por primera vez en un mes",
+            "link": "https://www.pagina12.com.ar/2026/08/30/eeuu-ataco-iran-por-primera-vez-en-un-mes/"
+          }
+        ]
+      },
+      {
+        "tema": "Desalojo de sinagoga en Flores y conflicto entre fieles",
+        "prioridad": 2,
+        "total_notas": 3,
+        "cantidad_medios": 3,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 1,
@@ -710,521 +792,283 @@
           "Página 12": 1,
           "Cronista": 0
         },
-        "por_que_importa": "El rearmado electoral de la centroderecha y las conversaciones entre el oficialismo y el PRO marcan el rumbo político de cara a las próximas elecciones legislativas.",
-        "insight": "Mientras la oposición busca articular un frente de resistencia, los partidos afines al Gobierno debaten los términos de una fusión o alianza estratégica.",
-        "accion_sugerida": "Profundizar el análisis político sobre las concesiones territoriales y los liderazgos en pugna dentro de esta alianza en formación.",
+        "medios_que_cubrieron": [
+          "Clarín",
+          "TN",
+          "Página 12"
+        ],
+        "por_que_importa": "Es un suceso de fuerte tensión local en el barrio porteño de Flores con ribetes judiciales, policiales y religiosos.",
+        "insight": "El interés radica en el conflicto interno entre facciones de fieles que impidieron la medida ordenada por la Justicia.",
+        "accion_sugerida": "Elaborar una nota sobre los motivos judiciales detrás del suspendido desalojo en el templo de Flores.",
         "enfoques_sugeridos": [
-          "El impacto de un acuerdo entre el PRO y La Libertad Avanza en el escenario político.",
-          "La reorganización de los partidos de la oposición frente al avance del oficialismo."
+          "La trastienda del litigio: los motivos detrás del conflicto en la sinagoga de Flores.",
+          "Tensión en Flores: cómo se vivió la resistencia de los fieles para impedir el desalojo."
+        ],
+        "titulos_sugeridos": [
+          "Fieles atrincherados: La interna religiosa detrás del suspendido desalojo de la sinagoga de Flores",
+          "Interna en el templo: Qué desató el conflicto entre los dos grupos de fieles en Flores"
         ],
         "ejemplos": [
           {
-            "medio": "Perfil",
-            "titulo": "El mapa de la nueva oposición: De Bregman a Massot, quién es quién en el incipiente frente contra el Gobierno",
-            "link": "https://www.perfil.com/noticias/politica/el-mapa-de-la-nueva-oposicion-de-bregman-a-massot-quien-es-quien-en-el-incipiente-frente-contra-el-gobierno.phtml"
+            "medio": "Clarín",
+            "titulo": "Tras horas de tensión, suspendieron el desalojo de una sinagoga en Flores que había sido ordenado por un conflicto entre dos grupos de fieles",
+            "link": "https://www.clarin.com/ciudades/desalojan-sinagoga-flores-conflicto-grupos-fieles_0_ev9fPpo3xF.html"
           },
           {
-            "medio": "Clarín",
-            "titulo": "Sin apuro, Ritondo busca el acuerdo PRO-LLA: \"Queremos reelegir donde gobernamos y hacer lo imposible para blindar el cambio\"",
-            "link": "https://www.clarin.com/politica/apuro-ritondo-busca-acuerdo-pro-lla-queremos-reelegir-gobernamos-hacer-imposible-blindar-cambio_0_JfFBgljb0x.html"
+            "medio": "TN",
+            "titulo": "La alegría de un miembro de la comunidad judía que resistió el desalojo de la sinagoga en Flores: “Tengo la chispa divina”",
+            "link": "https://tn.com.ar/policiales/2026/08/31/la-alegria-de-un-miembro-de-la-comunidad-judia-que-resistio-el-desalojo-de-la-sinagoga-en-flores-tengo-la-chispa-divina/"
           },
           {
             "medio": "Página 12",
-            "titulo": "Segunda cumbre antiperonista: La Libertad Avanza y el PRO definen su alianza para 2027",
-            "link": "https://www.pagina12.com.ar/2026/08/28/segunda-cumbre-antiperonista-la-libertad-avanza-y-el-pro-definen-su-alianza-para-2027/"
+            "titulo": "Suspendieron el desalojo en una sinagoga en Flores",
+            "link": "https://www.pagina12.com.ar/2026/08/31/desalojan-una-sinagoga-en-flores-por-un-conflicto-entre-dos-grupos-de-fieles/"
           }
         ]
       },
       {
-        "tema": "Aumentos de septiembre en servicios",
-        "prioridad": 2,
-        "total_notas": 3,
-        "cantidad_medios": 3,
-        "cobertura": {
-          "Perfil": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "Cronista": 0
-        },
-        "por_que_importa": "El impacto directo de las subas en la canasta básica y el costo de vida presiona sobre la clase media al comienzo de un nuevo mes.",
-        "insight": "El incremento simultáneo en múltiples rubros desafía las metas oficiales de desaceleración de la inflación mensual.",
-        "accion_sugerida": "Elaborar una guía práctica interactiva detallando el alcance de cada uno de los incrementos estipulados para el mes entrante.",
-        "enfoques_sugeridos": [
-          "El impacto de los nuevos aumentos de tarifas en el presupuesto de los hogares.",
-          "Detalle de los servicios esenciales que registrarán subas desde el próximo mes."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Septiembre llega con aumentos: cuánto subirán colectivos, trenes, subte, prepagas, colegios y alquileres",
-            "link": "https://www.perfil.com/noticias/economia/septiembre-llega-con-aumentos-cuanto-subiran-colectivos-trenes-subte-prepagas-colegios-y-alquileres.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Septiembre llega con aumentos en los servicios: uno por uno, todos los que suben el próximo mes y cómo impactarán en la inflación",
-            "link": "https://www.clarin.com/economia/septiembre-llega-aumentos-servicios-suben-proximo-mes-impactaran-inflacion_0_dhAa3DW0gn.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Los aumentos que llegarán en septiembre: del transporte público y alquileres a las prepagas",
-            "link": "https://tn.com.ar/economia/2026/08/28/los-aumentos-que-llegaran-en-septiembre-de-transporte-publico-a-alquileres-y-prepagas-como-seran-las-subas/"
-          }
-        ]
-      }
-    ],
-    "perfil_pierde": [
-      {
-        "tema": "Consejo del Salario Mínimo y aumento por decreto",
-        "prioridad": 1,
-        "total_notas": 6,
-        "cantidad_medios": 5,
-        "cobertura": {
-          "Perfil": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "Cronista": 2
-        },
-        "brecha_perfil": 1,
-        "medios_que_mas_publicaron": [
-          "Cronista"
-        ],
-        "por_que_importa": "El fracaso de la negociación paritaria obliga al Gobierno a laudar por decreto, profundizando el conflicto con las centrales sindicales.",
-        "insight": "El abandono de la mesa de diálogo por parte de la CGT y las CTA expone la tensión extrema en la relación laboral y la pérdida del poder adquisitivo.",
-        "accion_sugerida": "Superar la cobertura de Cronista mediante un análisis en profundidad del impacto real que tendrá el aumento decretado en las arcas del ANSES.",
-        "enfoques_sugeridos": [
-          "Consecuencias económicas y sociales tras la falta de acuerdo en el Consejo del Salario.",
-          "La postura de los gremios tras abandonar el encuentro por el Salario Mínimo Vital."
-        ],
-        "titulos_sugeridos": [
-          "Sin acuerdo: las consecuencias del fracaso en el Consejo del Salario Mínimo",
-          "El Gobierno definirá por decreto el nuevo salario mínimo tras la ruptura con la CGT"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Un economista respaldó la actualización del salario mínimo: “Se recaudaría más para las arcas del ANSES”",
-            "link": "https://www.perfil.com/noticias/canal-e/un-economista-respaldo-la-actualizacion-del-salario-minimo-vital-y-movil-se-recaudaria-mas-para-las-arcas-del-anses.phtml"
-          },
-          {
-            "medio": "Infobae",
-            "titulo": "Escandaloso final del Consejo del Salario Mínimo: la CGT y las CTA abandonaron el encuentro y el Gobierno fijará el aumento",
-            "link": "https://www.infobae.com/politica/2026/08/28/escandaloso-final-del-consejo-del-salario-minimo-la-cgt-y-las-cta-abandonaron-el-encuentro-y-el-gobierno-fijara-el-aumento/"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "No hubo acuerdo en el Consejo del Salario y el Gobierno fijará el aumento: la CGT y las CTA abandonaron la sesión",
-            "link": "https://www.cronista.com/economia-politica/el-consejo-del-salario-se-reune-por-primera-vez-en-el-ano-para-definir-una-suba-del-minimo-hoy-por-debajo-de-la-linea-de-pobreza/"
-          }
-        ]
-      },
-      {
-        "tema": "Cotización del dólar blue y oficial",
-        "prioridad": 2,
-        "total_notas": 7,
-        "cantidad_medios": 5,
-        "cobertura": {
-          "Perfil": 2,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 2,
-          "Ámbito": 3,
-          "Página 12": 0,
-          "Cronista": 0
-        },
-        "brecha_perfil": 1,
-        "medios_que_mas_publicaron": [
-          "Ámbito"
-        ],
-        "por_que_importa": "La cotización del dólar y su brecha siguen siendo los termómetros clave de las expectativas de devaluación e inflación en el mercado local.",
-        "insight": "El seguimiento minuto a minuto realizado por medios especializados capta la atención del público minorista y financiero de forma constante.",
-        "accion_sugerida": "Equiparar la cobertura de Ámbito ofreciendo un reporte que incorpore análisis técnico de operadores de mercado cambiario.",
-        "enfoques_sugeridos": [
-          "El comportamiento del dólar blue y su impacto directo en la actividad comercial.",
-          "Análisis de las variables financieras que presionan sobre las cotizaciones hoy."
-        ],
-        "titulos_sugeridos": [
-          "Dólar hoy: la cotización del blue y el oficial al cierre de la semana",
-          "La brecha cambiaria y el comportamiento del dólar blue en el mercado"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "A cuánto cotiza el euro blue hoy, viernes 28 de agosto",
-            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-viernes-28-de-agosto.phtml"
-          },
-          {
-            "medio": "TN",
-            "titulo": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este viernes 28 de agosto",
-            "link": "https://tn.com.ar/economia/2026/08/28/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes-28-de-agosto/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 28 de agosto",
-            "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-28-agosto-n6315781"
-          }
-        ]
-      }
-    ],
-    "sin_cobertura_perfil": [
-      {
-        "tema": "Cierre de casino clandestino en San Telmo",
-        "prioridad": 1,
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "Cronista": 0
-        },
-        "medios_que_cubrieron": [
-          "Clarín"
-        ],
-        "por_que_importa": "El funcionamiento de juego clandestino bajo la fachada de comercios tecnológicos expone fallas de control y actividad ilícita en zonas turísticas de la Ciudad.",
-        "insight": "Este tipo de fachadas representan modalidades delictivas que suelen capturar fuerte interés local por su cercanía e impacto en los barrios.",
-        "accion_sugerida": "Elaborar una crónica del allanamiento enfocada en cómo operaba el establecimiento ilegal detrás de su pantalla comercial.",
-        "enfoques_sugeridos": [
-          "Los detalles del operativo policial que desbarató una sala de juego en San Telmo.",
-          "La investigación sobre comercios que encubren actividades de apuestas ilegales."
-        ],
-        "titulos_sugeridos": [
-          "San Telmo: clausuran un casino ilegal que funcionaba bajo la fachada de un cíber",
-          "Operativo en San Telmo: descubren apuestas clandestinas en un local tecnológico"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Clarín",
-            "titulo": "Clausuran un casino clandestino que operaba bajo la fachada de un \"cíber\" en San Telmo",
-            "link": "https://www.clarin.com/policiales/clausuran-casino-clandestino-operaba-fachada-ciber-san-telmo_0_DDM65PZvV9.html"
-          }
-        ]
-      },
-      {
-        "tema": "Inversiones mineras en Argentina y Chile",
-        "prioridad": 2,
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "Cronista": 0
-        },
-        "medios_que_cubrieron": [
-          "Clarín"
-        ],
-        "por_que_importa": "Los acuerdos binacionales para proyectos de minería a gran escala son dinamizadores económicos clave para las provincias andinas y la generación de divisas.",
-        "insight": "La cooperación entre Chile y Argentina marca un hito de integración energética y de recursos que atrae inversiones globales millonarias.",
-        "accion_sugerida": "Redactar un informe sobre los tres proyectos específicos acelerados y el impacto en empleo y exportaciones para el país.",
-        "enfoques_sugeridos": [
-          "El acuerdo estratégico entre Argentina y Chile para acelerar la inversión minera.",
-          "El impacto de los proyectos mineros conjuntos con inversiones multimillonarias."
-        ],
-        "titulos_sugeridos": [
-          "Acuerdo binacional: Argentina y Chile impulsan proyectos mineros multimillonarios",
-          "Minería sin fronteras: los detalles del pacto para acelerar inversiones clave"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Clarín",
-            "titulo": "Argentina y Chile sellan un acuerdo para acelerar tres proyectos mineros por más de US$ 20.700 millones",
-            "link": "https://www.clarin.com/energia-y-mineria/argentina-chile-sellan-acuerdo-acelerar-proyectos-mineros-us-20700-millones_0_35SdvJ0OKx.html"
-          }
-        ]
-      },
-      {
-        "tema": "Discurso de Kevin Warsh sobre inflación en EE.UU.",
+        "tema": "Inundaciones y víctimas por tormentas en el Gran Cañón",
         "prioridad": 3,
         "total_notas": 3,
         "cantidad_medios": 3,
         "cobertura": {
           "Perfil": 0,
+          "La Nación": 0,
           "Clarín": 1,
           "Infobae": 1,
           "TN": 0,
-          "Ámbito": 1,
-          "Página 12": 0,
+          "Ámbito": 0,
+          "Página 12": 1,
           "Cronista": 0
         },
         "medios_que_cubrieron": [
           "Clarín",
           "Infobae",
-          "Ámbito"
+          "Página 12"
         ],
-        "por_que_importa": "Las proyecciones de política monetaria en la principal economía del mundo determinan los flujos globales de inversión y los costos del crédito.",
-        "insight": "Un tono más contractivo de la Reserva Federal genera inquietud en los mercados emergentes debido al encarecimiento del financiamiento externo.",
-        "accion_sugerida": "Preparar un análisis explicativo que detalle la relación entre el control de precios en EE.UU. y las tasas globales de interés.",
+        "por_que_importa": "Es una catástrofe natural en uno de los destinos turísticos más conocidos de Estados Unidos, que involucra heridos y desaparecidos.",
+        "insight": "Los portales de noticias priorizan la urgencia climática y el drama del rescate de decenas de personas en la zona de desastre.",
+        "accion_sugerida": "Publicar un reporte con crónicas de rescate, cifras oficiales de víctimas y alertas meteorológicas vigentes.",
         "enfoques_sugeridos": [
-          "Las definiciones de Kevin Warsh sobre la política monetaria frente a la inflación.",
-          "La postura de los analistas financieros ante las declaraciones del miembro de la Fed."
+          "Tragedia turística: las historias de rescate en el Gran Cañón tras el fuerte temporal.",
+          "Alerta climática: por qué las tormentas causaron inundaciones repentinas en el desierto."
         ],
         "titulos_sugeridos": [
-          "Señales de alerta: la advertencia de un asesor clave sobre la inflación en EE.UU.",
-          "La Reserva Federal y los posibles movimientos de tasas ante la presión de precios"
+          "Desastre en el Gran Cañón: Al menos dos muertos y decenas de desaparecidos por inundaciones",
+          "Imágenes del temporal: Cómo fue el dramático rescate de los turistas atrapados en el Gran Cañón"
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "\"Preocupante\": el jefe de la FED advierte sobre la inflación en EE.UU.",
-            "link": "https://www.clarin.com/mundo/preocupante-jefe-fed-advierte-inflacion-eeuu_0_PsFBQdMAeI.html"
+            "titulo": "Desastre en el Gran Cañón y alerta de más tormentas tras una inundación repentina: evacuaciones, daños y al menos un muerto",
+            "link": "https://www.clarin.com/mundo/desastre-gran-canon-alerta-tormentas-inundacion-repentina-evacuaciones-danos-muerto_0_IrcIGjx8RK.html"
           },
           {
             "medio": "Infobae",
-            "titulo": "Warsh centra el trabajo de la Fed en el control de precios y reconoce que la situación es \"preocupante\"",
-            "link": "https://www.infobae.com/america/agencias/2026/08/28/warsh-centra-el-trabajo-de-la-fed-en-el-control-de-precios-y-reconoce-que-la-situacion-es-preocupante/"
+            "titulo": "Inundaciones repentinas en el Gran Cañón: al menos dos muertos, 15 desaparecidos y evacuaciones de emergencia",
+            "link": "https://www.infobae.com/estados-unidos/2026/08/31/inundaciones-repentinas-en-el-gran-canon-al-menos-dos-muertos-15-desaparecidos-y-evacuaciones-de-emergencia/"
           },
           {
-            "medio": "Ámbito",
-            "titulo": "Fed: Kevin Warsh confirmó que subirán la tasa si la inflación en EEUU no desacelera",
-            "link": "https://www.ambito.com/economia/fed-kevin-warsh-confirmo-que-subiran-la-tasa-si-la-inflacion-eeuu-no-desacelera-n6315898"
-          }
-        ]
-      },
-      {
-        "tema": "Detención de \"Bebote\" Álvarez",
-        "prioridad": 4,
-        "total_notas": 3,
-        "cantidad_medios": 3,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 0,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 0,
-          "Cronista": 0
-        },
-        "medios_que_cubrieron": [
-          "Infobae",
-          "TN",
-          "Ámbito"
-        ],
-        "por_que_importa": "La vinculación de jefes históricos de barrabravas con redes de narcotráfico internacional devela la escala de los negocios ilícitos detrás del fútbol.",
-        "insight": "El caso de Pablo 'Bebote' Álvarez tiene un fuerte impacto público por su notoriedad en el ámbito deportivo y judicial.",
-        "accion_sugerida": "Elaborar un perfil sobre la evolución de Álvarez desde el control de la tribuna hasta la investigación federal por tráfico.",
-        "enfoques_sugeridos": [
-          "Detuvieron al exbarra 'Bebote' Álvarez por integrar una red de narcotráfico global.",
-          "Detalles de la detención de 'Bebote' Álvarez por presuntos vínculos con el narco."
-        ],
-        "titulos_sugeridos": [
-          "Detuvieron a 'Bebote' Álvarez: de jefe de la barra a acusado por narcotráfico",
-          "Golpe al crimen organizado: detienen al histórico líder de la barra de Independiente"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Infobae",
-            "titulo": "Detuvieron a \"Bebote\" Álvarez: está acusado de integrar una banda narco de alcance internacional",
-            "link": "https://www.infobae.com/deportes/2026/08/28/detuvieron-a-bebote-alvarez-esta-acusado-de-integrar-una-banda-narco-de-alcance-internacional/"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Detuvieron a “Bebote” Álvarez, histórico líder de la barra de Independiente, acusado de integrar una banda de narcotraficantes",
-            "link": "https://tn.com.ar/deportes/futbol/2026/08/28/detuvieron-a-bebote-alvarez-historico-lider-de-la-barra-de-independiente-acusado-de-integrar-una-banda-de-narcotraficantes/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Detuvieron al barrabrava \"Bebote\" Álvarez en una causa por narcotráfico",
-            "link": "https://www.ambito.com/informacion-general/detuvieron-al-barrabrava-bebote-alvarez-una-causa-narcotrafico-n6315906"
+            "medio": "Página 12",
+            "titulo": "Más de 20 personas desaparecidas tras inundaciones en el Gran Cañón de Estados Unidos",
+            "link": "https://www.pagina12.com.ar/2026/08/30/inundacion-en-el-gran-canon/"
           }
         ]
       }
     ],
     "oportunidades": [
       {
-        "tema": "Choque en Coghlan con heridos",
-        "tipo": "Cobertura local / policial",
+        "tema": "Prohibición nacional de juguetes con sustancias cancerígenas",
+        "tipo": "Salud / Consumo",
         "prioridad": 1,
-        "total_notas": 2,
-        "cantidad_medios": 2,
+        "total_notas": 3,
+        "cantidad_medios": 3,
         "cobertura": {
           "Perfil": 1,
+          "La Nación": 0,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 0,
           "Ámbito": 0,
-          "Página 12": 0,
+          "Página 12": 1,
           "Cronista": 0
         },
-        "por_que_importa": "Los accidentes graves de tránsito en intersecciones urbanas de alta circulación exponen problemáticas de infraestructura y conducta vial.",
-        "motivo_oportunidad": "La escasa cobertura en medios nacionales permite destacar una crónica detallada sobre las pericias del siniestro que dejó tres personas heridas de gravedad.",
-        "accion_sugerida": "Realizar un reporte fotográfico y recolectar testimonios vecinales sobre la peligrosidad histórica de esa esquina en Coghlan.",
+        "por_que_importa": "Afecta la seguridad de productos de venta libre para niños y despierta la alerta de padres y organizaciones de salud.",
+        "motivo_oportunidad": "Es un tema de alto interés social y de salud pública que permite generar notas de servicio sumamente descriptivas sobre las marcas.",
+        "accion_sugerida": "Redactar una guía informativa visual para diferenciar los juguetes prohibidos (tipo Squishy) y saber qué hacer si ya se adquirieron.",
         "enfoques_sugeridos": [
-          "El estado de salud de las personas heridas tras el violento choque vial en Coghlan.",
-          "La labor de los médicos de emergencia para asistir a las personas heridas en el choque."
+          "Alerta para padres: cómo identificar si los juguetes de tus hijos contienen tóxicos.",
+          "El control de calidad: qué organismos fiscalizan el ingreso de juguetes al mercado local."
         ],
         "titulos_sugeridos": [
-          "Fuerte choque en Coghlan: tres personas resultaron heridas tras el impacto",
-          "Siniestro vial en Coghlan: detalles del choque entre una camioneta y un auto"
+          "Peligro en casa: Cuáles son los juguetes Squishy prohibidos por su toxicidad",
+          "Guía práctica: Cómo detectar componentes nocivos en los juguetes de los más chicos"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Tres heridos tras un fuerte choque entre una camioneta y un auto en Coghlan",
-            "link": "https://www.perfil.com/noticias/policia/tres-heridos-tras-un-fuerte-choque-entre-una-camioneta-y-un-auto-en-coghlan.phtml"
+            "titulo": "Prohíben en todo el país juguetes blandos que contienen sustancias cancerígenas: de qué producto se trata",
+            "link": "https://www.perfil.com/noticias/economia/prohiben-en-todo-el-pais-juguetes-blandos-que-contienen-sustancias-cancerigenas-de-que-producto-se-trata.phtml"
           },
           {
             "medio": "Clarín",
-            "titulo": "Brutal choque entre un auto y una camioneta en Coghlan: hay tres heridos graves",
-            "link": "https://www.clarin.com/sociedad/brutal-choque-auto-camioneta-coghlan-heridos-graves_0_ZH3jL6F49s.html"
+            "titulo": "Prohíben la venta de un juguete infantil blando por riesgos para la salud: cuál es y por qué fue retirado del mercado",
+            "link": "https://www.clarin.com/sociedad/prohiben-venta-juguete-infantil-blando-riesgos-salud-retirado-mercado_0_PaEjqUIl7a.html"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "Prohibieron la venta de juguetes Squishy por riesgos para la salud",
+            "link": "https://www.pagina12.com.ar/2026/08/31/prohibieron-la-venta-de-juguetes-squishy-por-riesgos-para-la-salud/"
           }
         ]
       },
       {
-        "tema": "Declaraciones de Lilia Lemoine contra Victoria Villarruel",
-        "tipo": "Análisis político",
+        "tema": "Cierre de planta de Granja Tres Arroyos",
+        "tipo": "Economía / Negocios",
         "prioridad": 2,
-        "total_notas": 2,
-        "cantidad_medios": 2,
+        "total_notas": 4,
+        "cantidad_medios": 4,
         "cobertura": {
           "Perfil": 1,
-          "Clarín": 1,
+          "La Nación": 0,
+          "Clarín": 0,
           "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
+          "TN": 1,
+          "Ámbito": 1,
           "Página 12": 0,
-          "Cronista": 0
+          "Cronista": 1
         },
-        "por_que_importa": "Las acusaciones explícitas de cobardía de una diputada oficialista hacia la Vicepresidenta de la Nación exponen fracturas profundas en el binomio gobernante.",
-        "motivo_oportunidad": "Un conflicto interno de esta magnitud permite elaborar análisis sobre la distribución de fuerzas de seguridad y defensa en el gabinete.",
-        "accion_sugerida": "Analizar la procedencia y el trasfondo político del cruce verbal de Lemoine respecto al accionar de Villarruel con los delincuentes.",
+        "por_que_importa": "Involucra la subsistencia de una avícola histórica y las negociaciones millonarias para levantar concursos y volver a producir.",
+        "motivo_oportunidad": "La cobertura se divide entre el cierre sorpresivo reportado en el interior y la reestructuración financiera de la compañía.",
+        "accion_sugerida": "Publicar un informe analítico sobre las firmas industriales en crisis de deuda y las consecuencias de empleabilidad.",
         "enfoques_sugeridos": [
-          "La repercusión política de los dichos de Lilia Lemoine contra Victoria Villarruel.",
-          "El cruce de declaraciones que expone las diferencias en la cúpula del oficialismo."
+          "La crisis avícola: el plan de Granja Tres Arroyos para reestructurar su deuda millonaria.",
+          "Impacto en el empleo: los cierres sorpresivos de plantas industriales en las provincias."
         ],
         "titulos_sugeridos": [
-          "Nueva interna oficial: las duras declaraciones de Lilia Lemoine contra la Vicepresidenta",
-          "Tensión en el oficialismo: Lemoine apuntó contra Villarruel y la tildó de cobarde"
+          "Ola de reestructuraciones: El plan de Granja Tres Arroyos para salvar su histórica planta",
+          "Crisis en el interior: Cierres de plantas industriales y su impacto en el empleo regional"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Lilia Lemoine volvió a apuntar contra Victoria Villarruel: “Le tenía miedo a los delincuentes”",
-            "link": "https://www.perfil.com/noticias/politica/lilia-lemoine-volvio-a-apuntar-contra-victoria-villarruel-le-tenia-miedo-a-los-delincuentes.phtml"
+            "titulo": "Cierre sorpresivo de Musimundo en Corrientes dejó a 36 empleados sin trabajo",
+            "link": "https://www.perfil.com/noticias/nea/cierre-sorpresivo-de-musimundo-en-corrientes-dejo-a-36-empleados-sin-trabajo.phtml"
           },
           {
-            "medio": "Clarín",
-            "titulo": "Javier Milei y sus medidas, EN VIVO: \"Le tenía miedo a los delincuentes la cobarde\", el nuevo exabrupto de Lemoine contra Villarruel",
-            "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-miedo-delincuentes-cobarde-nuevo-exabrupto-lemoine-villarruel_0_QvqYroR3G9.html"
+            "medio": "TN",
+            "titulo": "La avícola Granja Tres Arroyos frenó la producción en su histórica planta y se profundiza su crisis",
+            "link": "https://tn.com.ar/campo/2026/08/31/granja-tres-arroyos-freno-la-produccion-en-capitan-sarmiento-y-temen-que-la-planta-cierre-definitivamente/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Granja Tres Arroyos cerró una planta histórica sin aviso",
+            "link": "https://www.ambito.com/negocios/granja-tres-arroyos-cerro-una-planta-historica-aviso-n6316631"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Granja Tres Arroyos paralizó otra planta clave: las chances “reales” de salir del concurso y volver a faenar",
+            "link": "https://www.cronista.com/negocios/granja-tres-arroyos-paralizo-otra-planta-clave-las-chances-reales-de-reestructurar-us-350-millones-y-volver-a-faenar/"
           }
         ]
       }
     ],
     "discover": [
       {
-        "tema": "Detención de argentino por el ICE en Texas",
-        "tipo_de_oportunidad": "Historia humana",
+        "tema": "Detención del cantante Callejero Fino",
+        "tipo_de_oportunidad": "Espectáculos / Judiciales",
         "prioridad": 1,
-        "total_notas": 2,
-        "cantidad_medios": 2,
+        "total_notas": 5,
+        "cantidad_medios": 4,
         "cobertura": {
           "Perfil": 1,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 0,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 2,
+          "Ámbito": 1,
           "Página 12": 0,
           "Cronista": 0
         },
-        "por_que_importa": "El caso de una ciudadana argentina presa en los Estados Unidos, próxima a contraer matrimonio, resuena de forma emocional en audiencias interesadas en migraciones.",
-        "motivo": "Historias de vida truncadas por detenciones de agencias de inmigración (ICE) suelen generar altos niveles de engagement e interés empático.",
-        "accion_sugerida": "Presentar un perfil detallado de la joven personal trainer, reconstruyendo sus días en cautiverio a través de allegados.",
+        "por_que_importa": "Involucra a un referente masivo de la música RKT en un confuso caso policial con armas sin numeración ni papeles.",
+        "motivo": "Tiene alta tracción por combinar el interés en la música urbana, escándalos de farándula y la renuncia de su abogado defensor.",
+        "accion_sugerida": "Actualizar con la indagatoria judicial del cantante, los alegatos por el arma encontrada y los detalles del cambio de patrocinio.",
         "enfoques_sugeridos": [
-          "La desesperante historia de la argentina presa por inmigración que iba a casarse.",
-          "El drama de la argentina detenida en EE.UU. que expone los duros controles de ICE."
+          "La defensa de Callejero Fino: por qué el cantante negó que la pistola hallada fuera suya.",
+          "Giro en la causa: las razones de la renuncia del abogado defensor tras la indagatoria."
         ],
         "titulos_sugeridos": [
-          "El drama de la argentina detenida por el ICE en Texas a pocas semanas de casarse",
-          "Presa en EE.UU.: la historia detrás de la detención de una joven personal trainer"
+          "Declaró Callejero Fino: Negó ser el dueño del arma secuestrada y se quedó sin abogado",
+          "Los detalles detrás de la detención de Callejero Fino en su camioneta sin patente"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Una argentina lleva casi un mes detenida por el ICE en Texas: estaba por casarse y había construido su vida en Estados Unidos",
-            "link": "https://www.perfil.com/noticias/internacional/una-argentina-lleva-casi-un-mes-detenida-por-el-ice-en-texas-estaba-por-casarse-y-habia-construido-su-vida-en-estados-unidos.phtml"
+            "titulo": "Así detuvieron a \"Callejero Fino\": el cantante sigue incomunicado y será indagado por tenencia de un arma ilegal",
+            "link": "https://www.perfil.com/noticias/policia/asi-detuvieron-a-callejero-fino-el-cantante-sigue-incomunicado-y-sera-indagado-por-tenencia-de-un-arma-ilegal.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Así detuvieron a Callejero Fino en Tigre: el momento en que el cantante de RKT es interceptado en una camioneta sin patente y con un arma",
+            "link": "https://www.clarin.com/policiales/detuvieron-callejero-fino-tigre-momento-cantante-rkt-interceptado-camioneta-patente-arma_0_wGtIYGOc15.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "La Justicia indagó a Callejero Fino y agravó la acusación en su contra: dijo que la pistola no era suya",
+            "link": "https://www.infobae.com/sociedad/policiales/2026/08/31/la-justicia-indago-a-callejero-fino-y-agravo-la-acusacion-en-su-contra-dijo-que-la-pistola-no-era-suya/"
           },
           {
             "medio": "TN",
-            "titulo": "El calvario de una personal trainer argentina que está presa en EE.UU. hace un mes: planeaba casarse y fue detenida en Miami",
-            "link": "https://tn.com.ar/internacional/2026/08/28/el-calvario-de-una-personal-trainer-argentina-que-esta-presa-en-eeuu-hace-un-mes-planeaba-casarse-y-fue-detenida-en-miami/"
+            "titulo": "El abogado de Callejero Fino renunció luego de que el cantante decidiera declarar en la causa por tenencia ilegal de arma",
+            "link": "https://tn.com.ar/policiales/2026/08/31/callejero-fino-declara-luego-de-haber-sido-detenido-en-tigre-en-una-camioneta-sin-patente-y-con-un-arma/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Cómo sigue la situación de Callejero Fino tras ser detenido por circular en una camioneta sin patente y llevar un arma: qué se sabe",
+            "link": "https://www.ambito.com/espectaculos/como-sigue-la-situacion-callejero-fino-ser-detenido-circular-una-camioneta-patente-y-llevar-un-arma-que-se-sabe-n6316660"
           }
         ]
       }
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Muerte y sucesión del Rey Harald V de Noruega",
-        "perfil": 3,
-        "competencia_total": 3,
+        "tema": "Aumentos de precios de combustibles y postergación de impuestos",
+        "perfil": 2,
+        "competencia_total": 2,
         "diferencia": 1,
         "cobertura": {
-          "Perfil": 3,
-          "Clarín": 2,
-          "Infobae": 1,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "Cronista": 0
-        },
-        "por_que_importa": "La muerte de un monarca de larga trayectoria reconfigura la escena de las casas reales europeas y despierta fascinación por sus historias personales.",
-        "insight": "Perfil lidera la cobertura de este suceso histórico a través de notas enfocadas en el lado humano, la resiliencia y el romance desafiante de Harald V.",
-        "accion_sugerida": "Mantener la primacía informativa mediante una cobertura detallada de las ceremonias de sucesión y el ascenso de Haakon VIII.",
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Harald V de Noruega: el rey que amó libremente y no tuvo miedo a decir lo que sentía",
-            "link": "https://www.perfil.com/noticias/protagonistas/harald-v-de-noruega-el-rey-amo-libremente-y-no-tuvo-miedo-a-decir-lo-que-sentia-a50.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Murió a los 89 años el rey Harald V de Noruega",
-            "link": "https://www.clarin.com/mundo/murio-89-anos-rey-harald-v-noruega_0_pLrXE2cY2G.html"
-          },
-          {
-            "medio": "Infobae",
-            "titulo": "México expresa condolencias por el fallecimiento del rey Harald V y desea éxito a Haakon VIII",
-            "link": "https://www.infobae.com/mexico/2026/08/28/gobierno-de-mexico-expresa-condolencias-por-el-fallecimiento-del-rey-harald-v-y-desea-exito-a-haakon-viii/"
-          }
-        ]
-      },
-      {
-        "tema": "Medidas de gobierno y mercado inmobiliario",
-        "perfil": 2,
-        "competencia_total": 0,
-        "diferencia": 2,
-        "cobertura": {
           "Perfil": 2,
-          "Clarín": 0,
+          "La Nación": 0,
+          "Clarín": 1,
           "Infobae": 0,
           "TN": 0,
           "Ámbito": 0,
           "Página 12": 0,
-          "Cronista": 0
+          "Cronista": 1
         },
-        "por_que_importa": "La dinámica de los créditos hipotecarios y las reformas de mercado representan temas de gran relevancia para ahorristas e interesados en la vivienda.",
-        "insight": "Perfil se posiciona de forma exclusiva como referente analítico del sector inmobiliario, aportando visiones críticas y técnicas que otros medios obviaron.",
-        "accion_sugerida": "Capitalizar esta exclusividad de cobertura realizando entrevistas periódicas con referentes de cámaras inmobiliarias sobre el impacto del crédito.",
+        "por_que_importa": "Es una medida central de la gestión macroeconómica para mitigar la inflación conteniendo el costo logístico de la energía.",
+        "insight": "Perfil lideró la agenda al aportar análisis técnicos junto a la crítica política con el testimonio de Victoria Tolosa Paz.",
+        "accion_sugerida": "Profundizar en la evolución internacional del precio del petróleo y cómo presiona las decisiones del Palacio de Hacienda.",
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "El mercado inmobiliario ve como “una locomotora importantísima” las medidas del Gobierno en función del crédito hipotecario",
-            "link": "https://www.perfil.com/noticias/canal-e/el-mercado-inmobiliario-ve-como-una-locomotora-importantisima-las-medidas-del-gobierno-en-funcion-del-credito-hipotecario.phtml"
+            "titulo": "Tolosa Paz sobre la postergación del impuesto a los combustibles: \"El permitido del mes de Toto\"",
+            "link": "https://www.perfil.com/noticias/nea/tolosa-paz-sobre-la-prorroga-del-impuesto-a-los-combustibles-el-permitido-del-mes-de-toto.phtml"
           },
           {
             "medio": "Perfil",
-            "titulo": "Para Ramiro Tosi “si los créditos van a viviendas usadas, tendrán menos efecto dinamizador”",
-            "link": "https://www.perfil.com/noticias/canal-e/ramiro-tosi-se-anuncio-una-medida-del-lado-de-la-demanda-para-mejorar-las-condiciones-de-acceso-a-potenciales-viviendas.phtml"
+            "titulo": "El Gobierno frenó otra vez la suba de impuestos a la nafta y el gasoil en medio del aumento del precio del petróleo",
+            "link": "https://www.perfil.com/noticias/economia/gobierno-freno-otra-vez-suba-impuestos-nafta-gasoil-medio-aumento-precio-petroleo-a40.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "El Gobierno volvió a postergar la suba de impuestos a los combustibles para contener los precios",
+            "link": "https://www.clarin.com/energia-y-mineria/gobierno-volvio-postergar-suba-impuestos-combustibles-contener-precios_0_KGQWN3fa2t.html"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Combustibles: el Gobierno volvió a postergar la suba de impuestos para contener el impacto en inflación",
+            "link": "https://www.cronista.com/economia-politica/combustibles-el-gobierno-volvio-a-postergar-la-suba-de-impuestos-para-contener-el-impacto-en-inflacion-2/"
           }
         ]
       }
@@ -1232,38 +1076,38 @@
     "prioridades_del_dia": [
       {
         "prioridad": 1,
-        "tema": "Consejo del Salario Mínimo y aumento por decreto",
+        "tema": "Aumento de salarios y bonos para jubilados, militares y fuerzas de seguridad",
         "categoria": "perfil_pierde",
-        "motivo": "Se trata de un tema clave de la política y economía local con un alto volumen de notas donde Perfil se encuentra perdiendo en cobertura frente a Cronista.",
-        "por_que_importa": "El desenlace abrupto del Consejo del Salario marcará la agenda de la conflictividad laboral, forzando un aumento por decreto en un contexto de alta sensibilidad social.",
-        "accion_sugerida": "Publicar un análisis económico que profundice en la brecha entre el salario mínimo real, la línea de pobreza y el impacto directo en las jubilaciones.",
+        "motivo": "Es la temática con mayor cantidad de notas del día en el ecosistema, donde Perfil tiene una brecha negativa de cobertura frente a tres competidores de peso.",
+        "por_que_importa": "Impacta de lleno en el bolsillo del sector previsional y en las FF.AA., despertando reclamos salariales e interés masivo de servicio.",
+        "accion_sugerida": "Lanzar simuladores interactivos de cobro, desglosar el impacto en los haberes de septiembre de 2026 y detallar las nuevas escalas para militares.",
         "titulos_sugeridos": [
-          "Sin acuerdo: las consecuencias del fracaso en el Consejo del Salario Mínimo",
-          "El Gobierno definirá por decreto el nuevo salario mínimo tras la ruptura con la CGT"
+          "ANSES de septiembre: El simulador de haberes mínimos con el nuevo bono confirmado",
+          "Sueldos militares: Las nuevas escalas y el impacto presupuestario del aumento del Gobierno"
         ]
       },
       {
         "prioridad": 2,
-        "tema": "Muerte y sucesión del Rey Harald V de Noruega",
-        "categoria": "fortalezas_perfil",
-        "motivo": "Es un suceso de gran relevancia internacional donde Perfil ostenta el liderazgo indiscutido en cantidad y enfoque de notas publicadas respecto de la competencia.",
-        "por_que_importa": "El fallecimiento del monarca noruego cierra una época en la realeza escandinava y activa mecanismos de sucesión con implicancias en las dinastías del continente.",
-        "accion_sugerida": "Mantener activa la ventaja editorial cubriendo de cerca el protocolo de asunción del nuevo soberano y el impacto de esta transición en la opinión pública europea.",
+        "tema": "Intenciones del Gobierno para el regreso de la Fórmula 1 a Argentina",
+        "categoria": "hipercompetencia",
+        "motivo": "Javier Milei ha tomado protagonismo de la agenda buscando capitalizar políticamente el fenómeno popular de Franco Colapinto ante la FIA.",
+        "por_que_importa": "Reúne la pasión por el automovilismo con la iniciativa política gubernamental, generando alta fidelidad e interés lector.",
+        "accion_sugerida": "Elaborar un informe sobre la factibilidad del circuito del Autódromo de Buenos Aires y la inversión de capital necesaria.",
         "titulos_sugeridos": [
-          "Murió el rey Harald V de Noruega a los 89 años y asume el príncipe Haakon",
-          "El legado de Harald V: el monarca noruego que desafió mandatos por amor"
+          "Fórmula 1 en Argentina: Cuánto cuesta reacondicionar el Autódromo de Buenos Aires",
+          "El fenómeno Colapinto y el plan oficial de Milei ante la FIA para el regreso del GP"
         ]
       },
       {
         "prioridad": 3,
-        "tema": "Alianza electoral PRO-LLA",
-        "categoria": "hipercompetencia",
-        "motivo": "Este eje de política nacional despierta un interés prioritario debido a las conversaciones en curso por la reorganización de las fuerzas de centroderecha de cara al futuro político.",
-        "por_que_importa": "La consolidación de un polo electoral unificado redefine por completo el mapa político argentino y plantea nuevas estrategias de confrontación parlamentaria.",
-        "accion_sugerida": "Elaborar un informe sobre los dirigentes clave que impulsan el acuerdo de fusión legislativa y las condiciones impuestas por cada fuerza.",
+        "tema": "Tensiones geopolíticas y ataques entre Estados Unidos e Irán",
+        "categoria": "sin_cobertura_perfil",
+        "motivo": "Es un suceso bélico internacional de primer orden sobre el cual Perfil no ha emitido publicaciones durante la jornada.",
+        "por_que_importa": "Tiene implicancias directas en el valor internacional del petróleo, los mercados bursátiles de Europa y la estabilidad de Medio Oriente.",
+        "accion_sugerida": "Escribir un análisis geopolítico sobre el primer ataque directo estadounidense en un mes sobre la isla de Larak.",
         "titulos_sugeridos": [
-          "El mapa político de la nueva oposición y el acercamiento entre PRO y LLA",
-          "Segunda cumbre oficial: los detalles de la alianza estratégica para el 2027"
+          "Escalada extrema en Medio Oriente: El ataque de Estados Unidos en Larak y las bases golpeadas por Irán",
+          "La reacción de las bolsas europeas y el crudo ante el nuevo cruce militar entre Washington y Teherán"
         ]
       }
     ]
