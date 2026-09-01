@@ -1,4 +1,8 @@
-```js
+```javascript
+// ============================================
+// CARGAR DASHBOARD
+// ============================================
+
 async function cargarDashboard() {
 
   try {
@@ -25,10 +29,10 @@ async function cargarDashboard() {
 
   } catch (error) {
 
-    console.error(error);
+    console.error('Error cargando dashboard:', error);
 
     document.getElementById('contenido').innerHTML = `
-      <div class="tema-card">
+      <div class="tema-card vacio">
         <h3>Esperando datos</h3>
         <p>
           El dashboard está funcionando, pero todavía no recibió
@@ -42,9 +46,9 @@ async function cargarDashboard() {
 }
 
 
-/* =========================
-   UTILIDADES
-========================= */
+// ============================================
+// UTILIDADES
+// ============================================
 
 function escaparHTML(texto) {
 
@@ -76,7 +80,9 @@ function obtenerInsight(item) {
 
 function obtenerMaxCobertura(cobertura) {
 
-  if (!cobertura) return 1;
+  if (!cobertura) {
+    return 1;
+  }
 
   const valores = Object.values(cobertura)
     .map(Number)
@@ -87,13 +93,20 @@ function obtenerMaxCobertura(cobertura) {
 }
 
 
-/* =========================
-   FECHA
-========================= */
+// ============================================
+// FECHA
+// ============================================
 
 function mostrarFecha(data) {
 
-  document.getElementById('fecha').textContent =
+  const elemento =
+    document.getElementById('fecha');
+
+  if (!elemento) {
+    return;
+  }
+
+  elemento.textContent =
     data.fecha_analisis
       ? 'Análisis: ' + data.fecha_analisis
       : 'Análisis actualizado';
@@ -101,38 +114,78 @@ function mostrarFecha(data) {
 }
 
 
-/* =========================
-   ESTADÍSTICAS
-========================= */
+// ============================================
+// ESTADÍSTICAS
+// ============================================
 
 function mostrarStats(data) {
 
-  document.getElementById('total-hiper').textContent =
-    (data.hipercompetencia || []).length;
+  const hiper =
+    document.getElementById('total-hiper');
 
-  document.getElementById('total-brechas').textContent =
-    (data.perfil_pierde || []).length;
+  const brechas =
+    document.getElementById('total-brechas');
 
-  document.getElementById('total-sin-cobertura').textContent =
-    (data.sin_cobertura_perfil || []).length;
+  const sinCobertura =
+    document.getElementById('total-sin-cobertura');
 
-  document.getElementById('total-oportunidades').textContent =
-    (data.oportunidades || []).length;
+  const oportunidades =
+    document.getElementById('total-oportunidades');
+
+
+  if (hiper) {
+
+    hiper.textContent =
+      (data.hipercompetencia || []).length;
+
+  }
+
+
+  if (brechas) {
+
+    brechas.textContent =
+      (data.perfil_pierde || []).length;
+
+  }
+
+
+  if (sinCobertura) {
+
+    sinCobertura.textContent =
+      (data.sin_cobertura_perfil || []).length;
+
+  }
+
+
+  if (oportunidades) {
+
+    oportunidades.textContent =
+      (data.oportunidades || []).length;
+
+  }
 
 }
 
 
-/* =========================
-   PRIORIDADES
-========================= */
+// ============================================
+// PRIORIDADES DEL DÍA
+// ============================================
 
 function mostrarPrioridades(data) {
 
   const contenedor =
     document.getElementById('prioridades');
 
+  if (!contenedor) {
+    return;
+  }
+
+
+  // Máximo 3 prioridades
   const prioridades =
-    data.prioridades_del_dia || [];
+    (data.prioridades_del_dia || [])
+      .slice(0, 3);
+
 
   if (!prioridades.length) {
 
@@ -142,6 +195,7 @@ function mostrarPrioridades(data) {
     return;
 
   }
+
 
   contenedor.innerHTML =
     prioridades.map(item => `
@@ -160,9 +214,11 @@ function mostrarPrioridades(data) {
 
         </div>
 
+
         <h3>
           ${escaparHTML(item.tema)}
         </h3>
+
 
         ${
           item.motivo
@@ -173,6 +229,7 @@ function mostrarPrioridades(data) {
             `
             : ''
         }
+
 
         ${
           item.accion_sugerida
@@ -197,14 +254,15 @@ function mostrarPrioridades(data) {
 }
 
 
-/* =========================
-   TABS
-========================= */
+// ============================================
+// TABS
+// ============================================
 
 function configurarTabs(data) {
 
   const tabs =
     document.querySelectorAll('.tab');
+
 
   tabs.forEach(tab => {
 
@@ -216,8 +274,16 @@ function configurarTabs(data) {
 
       tab.classList.add('active');
 
+
       const categoria =
         tab.dataset.tab;
+
+
+      console.log(
+        'Cargando categoría:',
+        categoria
+      );
+
 
       mostrarCategoria(
         data[categoria] || [],
@@ -229,6 +295,7 @@ function configurarTabs(data) {
   });
 
 
+  // Categoría inicial
   mostrarCategoria(
     data.hipercompetencia || [],
     'hipercompetencia'
@@ -237,24 +304,40 @@ function configurarTabs(data) {
 }
 
 
-/* =========================
-   MOSTRAR CATEGORÍA
-========================= */
+// ============================================
+// MOSTRAR CATEGORÍA
+// ============================================
 
 function mostrarCategoria(items, categoria) {
 
   const contenedor =
     document.getElementById('contenido');
 
+
+  if (!contenedor) {
+    return;
+  }
+
+
+  if (!Array.isArray(items)) {
+    items = [];
+  }
+
+
   if (!items.length) {
 
     contenedor.innerHTML = `
       <div class="tema-card vacio">
-        <h3>No hay temas detectados</h3>
+
+        <h3>
+          No hay temas detectados
+        </h3>
+
         <p>
           El análisis de hoy no encontró elementos suficientes
           para esta categoría.
         </p>
+
       </div>
     `;
 
@@ -262,31 +345,36 @@ function mostrarCategoria(items, categoria) {
 
   }
 
+
   contenedor.innerHTML = `
 
     <div class="temas-grid">
 
-      ${items.map((item, index) =>
-        crearTema(item, categoria, index)
-      ).join('')}
+      ${
+        items.map((item, index) =>
+          crearTema(item, categoria, index)
+        ).join('')
+      }
 
     </div>
 
   `;
+
 
   configurarExpandibles();
 
 }
 
 
-/* =========================
-   CONFIGURAR DESPLEGABLES
-========================= */
+// ============================================
+// CONFIGURAR DESPLEGABLES
+// ============================================
 
 function configurarExpandibles() {
 
   const botones =
     document.querySelectorAll('.btn-expandir');
+
 
   botones.forEach(boton => {
 
@@ -295,11 +383,22 @@ function configurarExpandibles() {
       const card =
         boton.closest('.tema-card');
 
+      if (!card) {
+        return;
+      }
+
+
       const detalle =
         card.querySelector('.detalle-expandible');
 
+      if (!detalle) {
+        return;
+      }
+
+
       const abierto =
         detalle.classList.contains('abierto');
+
 
       if (abierto) {
 
@@ -324,42 +423,57 @@ function configurarExpandibles() {
 }
 
 
-/* =========================
-   CREAR TARJETA
-========================= */
+// ============================================
+// CREAR TARJETA
+// ============================================
 
 function crearTema(item, categoria, index) {
+
+  item = item || {};
+
 
   const cobertura =
     crearCobertura(item.cobertura);
 
+
   const ejemplos =
     crearEjemplos(item.ejemplos);
+
 
   const insight =
     obtenerInsight(item);
 
+
   const porQueImporta =
     item.por_que_importa || '';
+
 
   const accion =
     item.accion_sugerida || '';
 
+
   const enfoques =
     crearEnfoques(item.enfoques_sugeridos);
+
 
   const id =
     `${categoria}-${index}`;
 
+
   return `
 
-    <article class="tema-card" id="${id}">
+    <article
+      class="tema-card"
+      id="${escaparHTML(id)}"
+    >
+
 
       <div class="tema-header">
 
         <h3>
           ${escaparHTML(item.tema || 'Sin tema')}
         </h3>
+
 
         ${
           item.prioridad
@@ -373,65 +487,96 @@ function crearTema(item, categoria, index) {
 
       </div>
 
+
       <div class="metricas">
+
 
         ${
           item.total_notas !== undefined
             ? `
               <div class="metrica">
+
                 <span class="metrica-numero">
                   ${escaparHTML(item.total_notas)}
                 </span>
-                <span>notas</span>
+
+                <span>
+                  notas
+                </span>
+
               </div>
             `
             : ''
         }
 
+
         ${
-          item.cantidad_medios
+          item.cantidad_medios !== undefined &&
+          item.cantidad_medios !== null
             ? `
               <div class="metrica">
+
                 <span class="metrica-numero">
                   ${escaparHTML(item.cantidad_medios)}
                 </span>
-                <span>medios</span>
+
+                <span>
+                  medios
+                </span>
+
               </div>
             `
             : ''
         }
+
 
         ${
           item.brecha_perfil !== undefined &&
-          item.brecha_perfil !== 0
+          item.brecha_perfil !== null &&
+          Number(item.brecha_perfil) !== 0
             ? `
               <div class="metrica metrica-alerta">
+
                 <span class="metrica-numero">
                   ${escaparHTML(item.brecha_perfil)}
                 </span>
-                <span>brecha</span>
+
+                <span>
+                  brecha
+                </span>
+
               </div>
             `
             : ''
         }
+
 
         ${
           item.diferencia !== undefined &&
-          item.diferencia !== 0
+          item.diferencia !== null &&
+          Number(item.diferencia) !== 0
             ? `
               <div class="metrica metrica-success">
+
                 <span class="metrica-numero">
                   ${escaparHTML(item.diferencia)}
                 </span>
-                <span>diferencia</span>
+
+                <span>
+                  diferencia
+                </span>
+
               </div>
             `
             : ''
         }
 
+
       </div>
 
+
       ${cobertura}
+
 
       ${
         insight
@@ -451,15 +596,23 @@ function crearTema(item, categoria, index) {
           : ''
       }
 
+
       <button
         class="btn-expandir"
         type="button"
       >
+
         Ver análisis completo
-        <span>↓</span>
+
+        <span>
+          ↓
+        </span>
+
       </button>
 
+
       <div class="detalle-expandible">
+
 
         ${
           porQueImporta
@@ -479,6 +632,7 @@ function crearTema(item, categoria, index) {
             : ''
         }
 
+
         ${
           accion
             ? `
@@ -495,11 +649,15 @@ function crearTema(item, categoria, index) {
             : ''
         }
 
+
         ${enfoques}
+
 
         ${ejemplos}
 
+
       </div>
+
 
     </article>
 
@@ -508,32 +666,43 @@ function crearTema(item, categoria, index) {
 }
 
 
-/* =========================
-   COBERTURA POR MEDIO
-========================= */
+// ============================================
+// COBERTURA POR MEDIO
+// ============================================
 
 function crearCobertura(cobertura) {
 
   if (
     !cobertura ||
+    typeof cobertura !== 'object' ||
+    Array.isArray(cobertura) ||
     Object.keys(cobertura).length === 0
   ) {
     return '';
   }
 
+
   const maximo =
     obtenerMaxCobertura(cobertura);
+
 
   const medios =
     Object.entries(cobertura)
       .sort((a, b) => {
 
-        if (a[0] === 'Perfil') return -1;
-        if (b[0] === 'Perfil') return 1;
+        // Perfil siempre primero
+        if (a[0].toLowerCase() === 'perfil') {
+          return -1;
+        }
+
+        if (b[0].toLowerCase() === 'perfil') {
+          return 1;
+        }
 
         return Number(b[1]) - Number(a[1]);
 
       });
+
 
   return `
 
@@ -543,13 +712,16 @@ function crearCobertura(cobertura) {
         COBERTURA POR MEDIO
       </div>
 
+
       <div class="cobertura-lista">
+
 
         ${
           medios.map(([medio, cantidad]) => {
 
             const numero =
               Number(cantidad) || 0;
+
 
             const porcentaje =
               numero === 0
@@ -559,8 +731,10 @@ function crearCobertura(cobertura) {
                     (numero / maximo) * 100
                   );
 
+
             const esPerfil =
               medio.toLowerCase() === 'perfil';
+
 
             return `
 
@@ -571,9 +745,11 @@ function crearCobertura(cobertura) {
                 "
               >
 
+
                 <div class="medio-nombre">
                   ${escaparHTML(medio)}
                 </div>
+
 
                 <div class="barra-wrapper">
 
@@ -584,9 +760,11 @@ function crearCobertura(cobertura) {
 
                 </div>
 
+
                 <strong>
                   ${numero}
                 </strong>
+
 
               </div>
 
@@ -594,6 +772,7 @@ function crearCobertura(cobertura) {
 
           }).join('')
         }
+
 
       </div>
 
@@ -604,25 +783,32 @@ function crearCobertura(cobertura) {
 }
 
 
-/* =========================
-   ENFOQUES SUGERIDOS
-========================= */
+// ============================================
+// ENFOQUES SUGERIDOS
+// ============================================
 
 function crearEnfoques(enfoques) {
 
-  if (!enfoques || !enfoques.length) {
+  if (
+    !Array.isArray(enfoques) ||
+    !enfoques.length
+  ) {
     return '';
   }
 
+
   const enfoquesValidos =
     enfoques.filter(enfoque =>
-      enfoque &&
+      enfoque !== null &&
+      enfoque !== undefined &&
       String(enfoque).trim() !== ''
     );
+
 
   if (!enfoquesValidos.length) {
     return '';
   }
+
 
   return `
 
@@ -632,7 +818,9 @@ function crearEnfoques(enfoques) {
         ENFOQUES SUGERIDOS
       </div>
 
+
       <div class="enfoques-lista">
+
 
         ${
           enfoquesValidos.map(enfoque => `
@@ -652,6 +840,7 @@ function crearEnfoques(enfoques) {
           `).join('')
         }
 
+
       </div>
 
     </div>
@@ -661,15 +850,19 @@ function crearEnfoques(enfoques) {
 }
 
 
-/* =========================
-   EJEMPLOS
-========================= */
+// ============================================
+// EJEMPLOS
+// ============================================
 
 function crearEjemplos(ejemplos) {
 
-  if (!ejemplos || !ejemplos.length) {
+  if (
+    !Array.isArray(ejemplos) ||
+    !ejemplos.length
+  ) {
     return '';
   }
+
 
   const ejemplosValidos =
     ejemplos.filter(e =>
@@ -677,9 +870,11 @@ function crearEjemplos(ejemplos) {
       (e.titulo || e.link || e.medio)
     );
 
+
   if (!ejemplosValidos.length) {
     return '';
   }
+
 
   return `
 
@@ -689,6 +884,7 @@ function crearEjemplos(ejemplos) {
         NOTAS UTILIZADAS EN EL ANÁLISIS
       </div>
 
+
       ${
         ejemplosValidos.map(e => {
 
@@ -696,13 +892,16 @@ function crearEjemplos(ejemplos) {
             e.link &&
             String(e.link).startsWith('http');
 
+
           return `
 
             <article class="ejemplo">
 
+
               <div class="ejemplo-medio">
                 ${escaparHTML(e.medio || 'Medio')}
               </div>
+
 
               ${
                 tieneLink
@@ -712,8 +911,15 @@ function crearEjemplos(ejemplos) {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      ${escaparHTML(e.titulo || 'Ver nota')}
-                      <span class="link-icono">↗</span>
+
+                      ${escaparHTML(
+                        e.titulo || 'Ver nota'
+                      )}
+
+                      <span class="link-icono">
+                        ↗
+                      </span>
+
                     </a>
                   `
                   : `
@@ -723,6 +929,7 @@ function crearEjemplos(ejemplos) {
                   `
               }
 
+
             </article>
 
           `;
@@ -730,12 +937,17 @@ function crearEjemplos(ejemplos) {
         }).join('')
       }
 
+
     </div>
 
   `;
 
 }
 
+
+// ============================================
+// INICIAR
+// ============================================
 
 cargarDashboard();
 ```
