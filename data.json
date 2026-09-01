@@ -1,132 +1,133 @@
 {
-  "fecha_analisis": "Mon, 31 Aug 2026",
+  "fecha_analisis": "01/09/2026",
   "hipercompetencia": [
     {
-      "tema": "Aumentos de salarios y bonos para jubilados, fuerzas de seguridad y empleados públicos",
+      "tema": "Declaraciones de Javier Milei sobre la causa Malvinas tras los dichos de Donald Trump",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 13,
-      "cantidad_medios": 5,
+      "cantidad_medios": 6,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
       "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 0,
+        "Perfil": 2,
         "Clarín": 3,
         "Infobae": 0,
         "TN": 2,
-        "Ámbito": 3,
-        "Página 12": 2,
+        "Ámbito": 2,
+        "Página 12": 1,
         "Cronista": 3
       },
-      "por_que_importa": "Es el tema con mayor volumen de notas del día y alta sensibilidad social.",
-      "insight": "Existe una saturación de información sobre bonos y aumentos que requiere una lectura de impacto real para el bolsillo.",
+      "por_que_importa": "Es el tema central de la agenda política y diplomática del día con alto nivel de menciones.",
+      "insight": "Existe una competencia feroz por el ángulo interpretativo sobre el impacto en la soberanía.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Realizar una guía práctica de cuánto cobrará cada sector con los nuevos decretos.",
+      "accion_sugerida": "Profundizar en las repercusiones diplomáticas oficiales más allá de las declaraciones presidenciales.",
       "enfoques_sugeridos": [
-        "Guía de aumentos: los montos finales que cobrarán los jubilados y fuerzas en el mes.",
-        "Análisis del impacto real de los 70 mil pesos del bono en un contexto de inflación.",
-        "El mapa de las paritarias públicas: qué sectores lograron superar los topes de ley.",
-        "Desglose del decreto 824/2026: qué cambió para los salarios del sector estatal hoy."
+        "El impacto real de las palabras de Trump en la estrategia diplomática nacional actual.",
+        "Análisis sobre la reacción británica y el mantenimiento del estatus de los isleños."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
+          "medio": "Perfil",
+          "titulo": "Milei sobre los dichos de Trump y las Malvinas: \"Ayer pasó algo muy fuerte respecto a la causa más importante y sagrada de los argentinos\"",
+          "link": "https://www.perfil.com/noticias/breaking-news/milei-sobre-los-dichos-de-trump-y-las-malvinas-ayer-paso-algo-muy-fuerte-respecto-a-la-causa-mas-importante-y-sagrada-de-los-argentinos.phtml"
+        },
+        {
           "medio": "Clarín",
-          "titulo": "El Gobierno anunció un aumento para los militares y fuerzas de seguridad, tras los reclamos por bajos salarios",
-          "link": "https://www.clarin.com/politica/gobierno-anuncio-aumento-militares-fuerzas-seguridad_0_Atoaf3BrDN.html"
+          "titulo": "Gran Bretaña le contestó a Trump tras su frase sobre las Malvinas: \"Nuestro compromiso con los isleños es inquebrantable\"",
+          "link": "https://www.clarin.com/politica/gran-bretana-contesto-trump-frase-malvinas-compromiso-kelpers-inquebrantable_0_hamvA9eNDz.html"
         },
         {
           "medio": "TN",
-          "titulo": "El Gobierno confirmó que pagará en septiembre un bono de hasta $70.000 para jubilados y pensionados",
-          "link": "https://tn.com.ar/economia/2026/08/31/el-gobierno-confirmo-que-pagara-en-septiembre-un-bono-de-hasta-70000-para-jubilados-y-pensionados/"
+          "titulo": "El Reino Unido le contestó a Trump por las Malvinas: “Los isleños manifestaron su deseo de ser un territorio británico”",
+          "link": "https://tn.com.ar/internacional/2026/09/01/el-reino-unido-le-contesto-a-trump-por-las-malvinas-los-islenos-manifestaron-su-deseo-de-ser-un-territorio-britanico/"
         },
         {
           "medio": "Ámbito",
-          "titulo": "El Gobierno oficializó un nuevo aumento de salarios para militares, fuerzas de seguridad y empleados públicos: de cuánto será",
-          "link": "https://www.ambito.com/economia/el-gobierno-oficializo-un-nuevo-aumento-salarios-militares-fuerzas-seguridad-y-empleados-publicos-cuanto-sera-n6316553"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "El bono para los jubilados cumple 30 meses congelado en 70 mil pesos",
-          "link": "https://www.pagina12.com.ar/2026/08/31/el-bono-para-los-jubilados-cumple-30-meses-congelado-en-70-mil-pesos/"
+          "titulo": "Javier Milei celebró los dichos de Donald Trump sobre las Islas Malvinas: &quot;Pasó algo muy fuerte&quot;",
+          "link": "https://www.ambito.com/politica/javier-milei-celebro-la-postura-donald-trump-malvinas-paso-algo-muy-fuerte-n6317063"
         },
         {
           "medio": "Cronista",
-          "titulo": "Confirmado por el Decreto 824/2026: jubilados y pensionados cobrarán un nuevo bono en septiembre, ¿cuánto cobrarán?",
-          "link": "https://www.cronista.com/economia-politica/confirmado-por-el-decreto-8242026-jubilados-y-pensionados-cobraran-un-nuevo-bono-en-septiembre-cuanto-cobraran/"
+          "titulo": "Milei reaccionó a la posibilidad de que Trump retire su apoyo sobre Malvinas al Reino Unido: “Pasó algo muy fuerte”",
+          "link": "https://www.cronista.com/economia-politica/milei-reacciono-a-la-postura-de-trump-sobre-malvinas-ayer-paso-algo-muy-fuerte-respecto-a-la-causa-mas-sagrada/"
+        }
+      ]
+    },
+    {
+      "tema": "Aumentos de tarifas, transporte y servicios públicos vigentes en septiembre",
+      "prioridad": 2,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 13,
+      "cantidad_medios": 6,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 2,
+        "Clarín": 3,
+        "Infobae": 0,
+        "TN": 3,
+        "Ámbito": 3,
+        "Página 12": 0,
+        "Cronista": 2
+      },
+      "por_que_importa": "Es un tema de servicio directo que impacta en el bolsillo del lector.",
+      "insight": "El nivel de saturación informativa requiere una nota de servicio centralizada.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Crear una guía definitiva con todos los aumentos consolidados.",
+      "enfoques_sugeridos": [
+        "Cómo impactan los nuevos cuadros tarifarios de septiembre en el presupuesto familiar.",
+        "Guía de aumentos de transporte, servicios y alquileres que rigen desde hoy."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Aumenta el transporte en septiembre: cuánto cuestan los boletos de colectivo, tren y subte en el AMBA",
+          "link": "https://www.perfil.com/noticias/economia/aumenta-transporte-septiembre-cuanto-cuestan-boletos-colectivo-tren-subte-amba-a40.phtml"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Nuevo aumento del transporte en septiembre: cuánto costarán colectivo, subte y tren en el AMBA a partir de hoy",
+          "link": "https://www.clarin.com/informacion-general/nuevo-aumento-transporte-septiembre-costaran-colectivo-subte-tren-amba-partir-hoy_0_AuIGu3oWC0.html"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Rige el nuevo aumento de transporte público: cuánto sale viajar en colectivo, tren y subte desde hoy",
+          "link": "https://tn.com.ar/economia/2026/09/01/ya-rige-el-aumento-de-transporte-cuanto-sale-viajar-en-colectivo-tren-y-subte-desde-hoy/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Septiembre llegó con aumentos en transporte, alquileres, prepagas y más: una a una, de cuánto son las subas y qué pasará con la inflación",
+          "link": "https://www.ambito.com/economia/septiembre-llega-aumentos-transporte-alquileres-prepagas-y-mas-todos-los-detalles-n6315077"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Aumentan los colectivos, trenes y subtes: cuánto costará viajar en septiembre",
+          "link": "https://www.cronista.com/economia-politica/aumentan-los-colectivos-trenes-y-subtes-cuanto-costara-viajar-en-septiembre/"
         }
       ]
     }
   ],
   "perfil_pierde": [
     {
-      "tema": "Declaración jurada patrimonial de Javier Milei y Karina Milei",
+      "tema": "Roce diplomático entre el Gobierno argentino y China tras declaraciones de un funcionario",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 4,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "Cronista": 1
-      },
-      "por_que_importa": "Es información pública de alto interés político sobre el patrimonio presidencial.",
-      "insight": "El silencio en Perfil ante este tema genera un vacío informativo frente a los competidores.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Analizar los activos declarados comparando con el año anterior y detectar variaciones clave.",
-      "enfoques_sugeridos": [
-        "Radiografía del patrimonio presidencial: qué activos integran la declaración de Milei.",
-        "La evolución de los dólares declarados por los hermanos Milei tras el último ejercicio.",
-        "Bienes y deudas: las cifras que surgen de la declaración jurada presentada a la OA.",
-        "Diferencias y similitudes: un repaso por el patrimonio de Karina y Javier Milei hoy."
-      ],
-      "medios_que_mas_publicaron": [
-        "TN",
-        "Ámbito",
-        "Página 12",
-        "Cronista"
-      ],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "TN",
-          "titulo": "Javier Milei presentó su declaración jurada: cuánto creció su patrimonio en 2025",
-          "link": "https://tn.com.ar/politica/2026/08/31/javier-milei-presento-su-declaracion-jurada-cuanto-crecio-su-patrimonio-en-2025/"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "Sin rastro del botín de $LIBRA, Milei finalmente presentó su declaración jurada",
-          "link": "https://www.pagina12.com.ar/2026/08/30/sin-rastro-del-botín-de-libra-milei-finalmente-presento-su-declaracion-jurada/"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "Cuánto crecieron los patrimonios de Javier y Karina Milei en el último año: bienes, deudas y dólares",
-          "link": "https://www.cronista.com/economia-politica/cuanto-crecieron-los-patrimonios-de-javier-y-karina-milei-en-el-ultimo-año-bienes-dolares-y-deudas/"
-        }
-      ]
-    },
-    {
-      "tema": "Propuesta y gestiones para el regreso de la Fórmula 1 a la Argentina",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 4,
+      "total_notas": 3,
+      "cantidad_medios": 3,
       "perfil": 0,
       "competencia_total": 0,
       "diferencia": 0,
@@ -136,155 +137,40 @@
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "Cronista": 1
+        "Ámbito": 0,
+        "Página 12": 1,
+        "Cronista": 0
       },
-      "por_que_importa": "Combina política de alto perfil, automovilismo y el fenómeno Colapinto.",
-      "insight": "El tema es un gancho de tráfico masivo que Perfil no aprovechó hoy.",
+      "por_que_importa": "Es un conflicto diplomático en desarrollo con potenciales repercusiones económicas.",
+      "insight": "Perfil perdió la oportunidad de informar sobre la tensión con una potencia clave.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Entrevistas a especialistas sobre la viabilidad técnica y económica del circuito local.",
+      "accion_sugerida": "Cubrir la postura oficial del Gobierno ante la embajada china.",
       "enfoques_sugeridos": [
-        "Fórmula 1 en Argentina: qué requisitos pide la FIA para el regreso a Buenos Aires.",
-        "El fenómeno Colapinto y la presión política para traer el gran premio nacional.",
-        "Infraestructura: cómo debe prepararse Buenos Aires para recibir la máxima categoría.",
-        "Viabilidad económica: quién pagaría el retorno del circo de la F1 al país hoy."
+        "El origen del conflicto diplomático entre el funcionario y Beijing por la tragedia.",
+        "Cómo intenta calmar las aguas el Ejecutivo frente al reclamo formal de China."
       ],
       "medios_que_mas_publicaron": [
         "Clarín",
         "TN",
-        "Ámbito",
-        "Cronista"
-      ],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Queremos ver a Colapinto en el país\", dijo el Presidente y aseguró que Argentina está preparada para recibir a la Fórmula 1",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-participa-congreso-americano-federacion-internacional-automovil_0_dgWZEhxfWQ.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Milei encabezó un congreso internacional de automovilismo: “La Argentina cumple con las condiciones para volver a recibir a la F1″",
-          "link": "https://tn.com.ar/politica/2026/08/31/milei-encabeza-un-congreso-internacional-de-automovilismo-mientras-busca-concretar-la-vuelta-de-la-formula-1/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "\"Queremos ver a Colapinto en el país\", ante la FIA Javier Milei ratificó que en la Argentina están todas las condiciones para volver a recibir a la F1",
-          "link": "https://www.ambito.com/politica/queremos-ver-colapinto-el-pais-la-fia-javier-milei-ratifico-que-la-argentina-estan-todas-las-condiciones-volver-recibir-la-f1-n6316701"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "Cumbre clave con Milei y visita de alto nivel para la vuelta de la Fórmula 1 a Buenos Aires",
-          "link": "https://www.cronista.com/economia-politica/cumbre-clave-con-milei-y-visita-de-alto-nivel-para-la-vuelta-de-la-formula-1-a-buenos-aires/"
-        }
-      ]
-    },
-    {
-      "tema": "Conflicto por el desalojo de una sinagoga en el barrio de Flores",
-      "prioridad": 3,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 4,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 2,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 2,
-        "Ámbito": 0,
-        "Página 12": 1,
-        "Cronista": 0
-      },
-      "por_que_importa": "Tiene elementos de tensión social y conflicto religioso en un barrio porteño.",
-      "insight": "Es un tema de actualidad local de gran impacto en redes sociales.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Seguimiento de la causa judicial para entender el trasfondo de la propiedad del edificio.",
-      "enfoques_sugeridos": [
-        "Conflicto en Flores: la disputa legal detrás de la sinagoga en tensión constante.",
-        "Voces de la comunidad: qué dice el rabino sobre la denuncia de venta ilegal.",
-        "Cronología del desalojo frustrado: cómo resistieron los fieles dentro del templo.",
-        "Orden judicial vs. posesión: las claves legales de la disputa en la sinagoga."
-      ],
-      "medios_que_mas_publicaron": [
-        "TN"
-      ],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Tras horas de tensión, suspendieron el desalojo de una sinagoga en Flores que había sido ordenado por un conflicto entre dos grupos de fieles",
-          "link": "https://www.clarin.com/ciudades/desalojan-sinagoga-flores-conflicto-grupos-fieles_0_ev9fPpo3xF.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "La emoción de un miembro de la comunidad judía que resistió el desalojo de la sinagoga en Flores: “Tengo la chispa divina”",
-          "link": "https://tn.com.ar/policiales/2026/08/31/la-alegria-de-un-miembro-de-la-comunidad-judia-que-resistio-el-desalojo-de-la-sinagoga-en-flores-tengo-la-chispa-divina/"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Suspendieron el desalojo de una sinagoga en Flores: un rabino asegura que se trató de una venta ilegal",
-          "link": "https://tn.com.ar/policiales/2026/08/31/tension-en-flores-por-el-desalojo-de-una-sinagoga-hay-un-fuerte-operativo-policial-y-30-personas-permanecen-dentro-del-templo/"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "Suspendieron el desalojo en una sinagoga en Flores",
-          "link": "https://www.pagina12.com.ar/2026/08/31/desalojan-una-sinagoga-en-flores-por-un-conflicto-entre-dos-grupos-de-fieles/"
-        }
-      ]
-    },
-    {
-      "tema": "Reunión de Karina Milei con la cúpula del Episcopado por la visita del Papa",
-      "prioridad": 4,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 1,
-        "Cronista": 0
-      },
-      "por_que_importa": "Es una pieza clave en la relación del Gobierno con la Iglesia previo a la visita papal.",
-      "insight": "La política de alta esfera es una marca histórica de Perfil que se ausentó hoy.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Analizar la agenda de Karina Milei como eje de poder y su rol en la diplomacia religiosa.",
-      "enfoques_sugeridos": [
-        "El rol de Karina Milei: gestiones al más alto nivel por la visita del Papa a país.",
-        "La Iglesia y la Casa Rosada: qué puntos de tensión busca distender el Gobierno hoy.",
-        "La agenda de la visita del Papa: las negociaciones en marcha con el Episcopado.",
-        "¿Pulseada política? Karina Milei y su encuentro clave con la cúpula episcopal."
-      ],
-      "medios_que_mas_publicaron": [
-        "Clarín",
         "Página 12"
       ],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Tras las críticas al Gobierno por los morosos, Karina Milei recibe a la cúpula del Episcopado por la visita del Papa",
-          "link": "https://www.clarin.com/politica/criticas-gobierno-morosos-karina-milei-recibe-cupula-episcopado-visita-papa_0_5Iy3OmNKo4.html"
+          "titulo": "Un funcionario de Milei culpó a China por la tragedia en Nepal que dejó miles de muertos y desató un conflicto diplomático: la Embajada salió a cruzarlo",
+          "link": "https://www.clarin.com/politica/funcionario-milei-culpo-china-tragedia-nepal-dejo-mil-muertos-desato-conflicto-diplomatico-embajada-salio-cruzarlo_0_EVVchcskYq.html"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El embajador de China en la Argentina cruzó a un funcionario de Milei que acusó a Beijing por la tragedia en Nepal",
+          "link": "https://tn.com.ar/politica/2026/09/01/el-embajador-de-china-en-la-argentina-cruzo-a-un-funcionario-de-milei-que-acuso-a-beijing-por-la-tragedia-en-nepal/"
         },
         {
           "medio": "Página 12",
-          "titulo": "La visita del Papa: La pulseada de Milei con la Iglesia y el temor por su impacto político",
-          "link": "https://www.pagina12.com.ar/2026/08/31/la-visita-del-papa-pulseada-con-la-iglesia-y-temor-por-su-impacto-politico/"
+          "titulo": "Un tuitero y funcionario de Milei desató un roce diplomático con China",
+          "link": "https://www.pagina12.com.ar/2026/09/01/un-tuitero-y-funcionario-de-milei-desato-un-roce-diplomatico-con-china/"
         }
       ]
     }
@@ -292,68 +178,10 @@
   "sin_cobertura_perfil": [],
   "oportunidades": [
     {
-      "tema": "Detención y situación judicial del cantante Callejero Fino",
+      "tema": "Reunión de Luis Caputo con Scott Bessent en el G20 para sumar respaldo de EE.UU.",
       "prioridad": 1,
-      "tipo": "Espectáculos/Policiales",
+      "tipo": "Economía",
       "tipo_de_oportunidad": "",
-      "total_notas": 5,
-      "cantidad_medios": 4,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 3,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "Cronista": 0
-      },
-      "por_que_importa": "Es un tema de alto interés para audiencias jóvenes y fans del género urbano.",
-      "insight": "",
-      "motivo": "",
-      "motivo_oportunidad": "Perfil no cubrió la noticia a pesar del impacto mediático del cantante.",
-      "accion_sugerida": "Analizar cómo afecta la causa judicial a la carrera del artista y la reacción de sus seguidores.",
-      "enfoques_sugeridos": [
-        "El fenómeno del artista ante la justicia: cómo impacta su detención en los fans.",
-        "La causa por tenencia ilegal de arma: puntos clave del caso Callejero Fino.",
-        "Renuncias y defensas: los movimientos legales en el caso de la estrella del trap.",
-        "De los escenarios a la fiscalía: el difícil presente de Callejero Fino hoy."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "La Joaqui apoyó a Callejero Fino tras su detención y recibió fuertes críticas en las redes",
-          "link": "https://www.clarin.com/fama/joaqui-apoyo-callejero-fino-detencion-recibio-fuertes-criticas-redes_0_BsoMPd2AkV.html"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Callejero Fino cantó a medias en la indagatoria: una noche con frío, hamburguesas y nada sobre la pistola",
-          "link": "https://www.clarin.com/policiales/callejero-fino-canto-medias-indagatoria-noche-frio-hamburguesas-pistola_0_NeycKpkfsB.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El abogado de Callejero Fino renunció luego de que el cantante decidiera declarar en la causa por tenencia ilegal de arma",
-          "link": "https://tn.com.ar/policiales/2026/08/31/callejero-fino-declara-luego-de-haber-sido-detenido-en-tigre-en-una-camioneta-sin-patente-y-con-un-arma/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Cómo sigue la situación de Callejero Fino tras ser detenido por circular en una camioneta sin patente y llevar un arma: qué se sabe",
-          "link": "https://www.ambito.com/espectaculos/como-sigue-la-situacion-callejero-fino-ser-detenido-circular-una-camioneta-patente-y-llevar-un-arma-que-se-sabe-n6316660"
-        }
-      ]
-    }
-  ],
-  "discover": [
-    {
-      "tema": "Trágicas inundaciones y víctimas en Nepal",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "Internacional / Ciencia",
       "total_notas": 4,
       "cantidad_medios": 4,
       "perfil": 0,
@@ -362,106 +190,229 @@
       "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
-        "Clarín": 1,
+        "Clarín": 0,
         "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 0,
+        "TN": 0,
+        "Ámbito": 1,
         "Página 12": 0,
-        "Cronista": 0
+        "Cronista": 1
       },
-      "por_que_importa": "Es una catástrofe humanitaria con gran impacto visual y preocupación climática global.",
+      "por_que_importa": "Es crucial para entender la política financiera actual con el gobierno estadounidense.",
       "insight": "",
-      "motivo": "Perfil puede aportar valor con el enfoque científico sobre riesgos locales (glaciares) que ya comenzó a explorar.",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en la relación entre el cambio climático y la estabilidad de glaciares en zonas vulnerables.",
+      "motivo": "",
+      "motivo_oportunidad": "Perfil debe liderar en el análisis económico con una nota de profundidad sobre este vínculo.",
+      "accion_sugerida": "Analizar qué implica el respaldo norteamericano para las metas fiscales del Gobierno.",
       "enfoques_sugeridos": [
-        "Catástrofe en Nepal: qué explica la magnitud de los aludes y las inundaciones hoy.",
-        "Riesgo glaciar: por qué el caso nepalí enciende las alarmas en regiones similares.",
-        "Historias de supervivencia: el drama humano en las zonas arrasadas por el agua.",
-        "Cambio climático: el mapa de los glaciares bajo vigilancia ante el calentamiento."
+        "El rol de Bessent en el apoyo de EE.UU. a las reformas económicas de Luis Caputo.",
+        "¿Qué busca Caputo en el G20 para consolidar la alianza financiera con el Norte?"
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "El mapa de los glaciares que podrían provocar inundaciones como la de Nepal: qué zonas de Argentina están en riesgo",
-          "link": "https://www.perfil.com/noticias/ciencia/el-mapa-de-los-glaciares-que-podrian-provocar-inundaciones-como-la-de-nepal-que-zonas-de-argentina-estan-en-riesgo-a50.phtml"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Nepal inicia los entierros masivos de las víctimas imposibles de identificar",
-          "link": "https://www.clarin.com/mundo/nepal-inicia-entierros-masivos-victimas-imposibles-identificar_0_U3HWTIyzAC.html"
+          "titulo": "Día clave para Caputo: hoy se encuentra con Scott Bessent para renovar el respaldo norteamericano",
+          "link": "https://www.perfil.com/noticias/politica/dia-clave-para-caputo-hoy-se-encontraria-con-uno-de-los-hombres-mas-poderosos-del-mundo.phtml"
         },
         {
           "medio": "Infobae",
-          "titulo": "Un joven de 16 años escapa con su abuelo a hombros de la riada que arrasó su casa en Nepal",
-          "link": "https://www.infobae.com/america/agencias/2026/08/31/un-joven-de-16-anos-escapa-con-su-abuelo-a-hombros-de-la-riada-que-arraso-su-casa-en-nepal/"
+          "titulo": "G20 de Estados Unidos: Luis Caputo se reúne con Scott Bessent para ratificar la alianza estratégica y analizar la situación global",
+          "link": "https://www.infobae.com/economia/2026/09/01/g20-de-estados-unidos-luis-caputo-se-reune-con-scott-bessent-para-ratificar-la-alianza-estrategica-y-analizar-la-situation-global/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Luis Caputo se reúne con Scott Bessent en el G20 y busca sumar respaldo de EEUU",
+          "link": "https://www.ambito.com/finanzas/luis-caputo-se-reune-scott-bessent-el-g20-y-busca-sumar-respaldo-eeuu-n6317079"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Día clave en el G20: Caputo se reúne con Scott Bessent para ratificar la alianza estratégica con EE.UU.",
+          "link": "https://www.cronista.com/economia-politica/dia-clave-en-el-g20-caputo-se-reune-con-scott-bessent-para-ratificar-la-alianza-estrategica-con-eeuu/"
+        }
+      ]
+    },
+    {
+      "tema": "Declaración conjunta de partidos políticos contra la violencia política a 4 años del atentado a Cristina Fernández",
+      "prioridad": 2,
+      "tipo": "Política",
+      "tipo_de_oportunidad": "",
+      "total_notas": 6,
+      "cantidad_medios": 5,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 2,
+        "Cronista": 0
+      },
+      "por_que_importa": "Es un tema de derechos humanos y memoria política con alta relevancia institucional.",
+      "insight": "",
+      "motivo": "",
+      "motivo_oportunidad": "Perfil puede aportar un enfoque sobre el consenso democrático más allá de las diferencias.",
+      "accion_sugerida": "Relatar quiénes firmaron y cuáles fueron los puntos más importantes del consenso.",
+      "enfoques_sugeridos": [
+        "El documento transversal que busca desterrar la violencia del debate electoral hoy.",
+        "Las voces que reclaman justicia a cuatro años del atentado a Cristina Fernández."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "A cuatro años del atentado contra Cristina Kirchner, varios partidos políticos firmaron un documento contra la violencia política",
+          "link": "https://www.perfil.com/noticias/politica/ningun-proyecto-de-pais-puede-construirse-sobre-la-eliminacion-del-que-piensa-distinto.phtml"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "El gesto de Axel Kicillof con Cristina Kirchner: \"Continúa injustamente detenida y el intento de asesinato que sufrió sigue impune\"",
+          "link": "https://www.clarin.com/politica/gesto-axel-kicillof-cristina-kirchner-continua-injustamente-detenida-intento-asesinato-sufrio-sigue-impune_0_Zqjg7Qq259.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "A 4 años del atentado a Cristina Fernández, reclaman investigar a autores intelectuales",
+          "link": "https://www.infobae.com/america/agencias/2026/09/01/a-4-anos-del-atentado-a-cristina-fernandez-reclaman-investigar-a-autores-intelectuales/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Dirigentes peronistas y aliados firmaron una declaración conjunta contra la &quot;eliminación del adversario&quot;",
+          "link": "https://www.ambito.com/politica/dirigentes-peronistas-y-aliados-firmaron-una-declaracion-conjunta-contra-la-eliminacion-del-adversario-n6317010"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "A cuatro años del atentado a Cristina Fernández",
+          "link": "https://www.pagina12.com.ar/2026/08/31/a-cuatro-anos-del-atentado-a-cristina-fernandez/"
+        }
+      ]
+    }
+  ],
+  "discover": [
+    {
+      "tema": "Visita de la delegación del Vaticano y preparativos para la llegada del papa León XIV a la Argentina",
+      "prioridad": 1,
+      "tipo": "",
+      "tipo_de_oportunidad": "Sociedad",
+      "total_notas": 6,
+      "cantidad_medios": 4,
+      "perfil": 0,
+      "competencia_total": 0,
+      "diferencia": 0,
+      "brecha_perfil": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 4,
+        "Ámbito": 0,
+        "Página 12": 1,
+        "Cronista": 0
+      },
+      "por_que_importa": "Es un evento de alto impacto cultural y religioso para el país.",
+      "insight": "",
+      "motivo": "El público consume detalles sobre la agenda, el papamóvil y las locaciones de las misas.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un mapa interactivo o una guía visual de la visita papal al país.",
+      "enfoques_sugeridos": [
+        "Todo lo que se sabe sobre el vehículo oficial que usará el Papa en su visita.",
+        "Recorrido del Papa por las instituciones locales: los puntos críticos de su visita."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Ya está en Córdoba la delegación del Vaticano para definir la agenda del papa León XIV",
+          "link": "https://www.perfil.com/noticias/cordoba/ya-esta-en-cordoba-la-delegacion-del-vaticano-para-definir-la-agenda-del-papa-leon-xiv.phtml"
         },
         {
           "medio": "TN",
-          "titulo": "Crece el número de víctimas por las trágicas inundaciones en Nepal: hay más de 900 muertos y 4400 desaparecidos",
-          "link": "https://tn.com.ar/internacional/2026/08/31/crece-el-numero-de-victimas-por-las-tragicas-inundaciones-en-nepal-hay-mas-de-900-muertos-y-4400-desaparecidos/"
+          "titulo": "Papamóvil argentino: qué auto preparan para transportar al papa León XIV durante su visita al país",
+          "link": "https://tn.com.ar/autos/novedades/2026/09/01/papamovil-argentino-que-auto-preparan-para-transportar-al-papa-leon-xiv-durante-su-visita-al-pais/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Dónde queda el Monumento de los Españoles, el lugar donde el papa León XIV dará su misa en la Argentina",
+          "link": "https://tn.com.ar/sociedad/2026/09/01/donde-queda-el-monumento-de-los-espanoles-el-lugar-donde-el-papa-leon-xiv-dara-su-misa-en-la-argentina/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El papa León XIV visitará la cárcel de Devoto, el Cottolengo de Claypole y la misa será en el Monumento a los Españoles",
+          "link": "https://tn.com.ar/politica/2026/09/01/el-papa-leon-xiv-visitara-la-carcel-de-devoto-el-cottolengo-de-claypole-y-la-misa-sera-en-el-monumento-a-los-espanoles/"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "El Papa ya tiene escenario para su visita",
+          "link": "https://www.pagina12.com.ar/2026/09/01/el-papa-ya-tiene-escenario-para-su-visita/"
         }
       ]
     }
   ],
   "fortalezas_perfil": [
     {
-      "tema": "Conflicto y tensión bélica entre Estados Unidos e Irán en Medio Oriente",
+      "tema": "Actualización y cronograma de pagos de ANSES para jubilados y pensionados en septiembre",
       "prioridad": "",
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 0,
       "cantidad_medios": 0,
-      "perfil": 2,
-      "competencia_total": 4,
-      "diferencia": 2,
+      "perfil": 7,
+      "competencia_total": 6,
+      "diferencia": 1,
       "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 2,
-        "Clarín": 2,
+        "Perfil": 7,
+        "Clarín": 0,
         "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
+        "TN": 2,
+        "Ámbito": 2,
         "Página 12": 0,
-        "Cronista": 0
+        "Cronista": 2
       },
-      "por_que_importa": "Es un tema de geopolítica sensible que requiere análisis especializado constante.",
-      "insight": "Perfil lidera en cantidad de publicaciones junto a Clarín, consolidando su autoridad en temas internacionales.",
+      "por_que_importa": "Es un servicio crítico para adultos mayores y beneficiarios de planes sociales.",
+      "insight": "Perfil marca la agenda con un volumen notablemente superior en información de ANSES.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener la línea de opinión de especialistas (como Camusso) para ofrecer profundidad ante el aumento de la tensión.",
+      "accion_sugerida": "Mantener este nivel de servicio útil con actualizaciones diarias sobre el calendario.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "EE.UU. e Irán intercambian ataques y aumenta la tensión en el estrecho de Ormuz",
-          "link": "https://www.perfil.com/noticias/bloomberg/bc-eeuu-e-iran-intercambian-ataques-y-aumenta-la-tension-en-el-estrecho-de-ormuz.phtml"
+          "titulo": "ANSES oficializó los nuevos valores de septiembre: cuánto cobrarán jubilados, pensionados y beneficiarios de AUH",
+          "link": "https://www.perfil.com/noticias/economia/anses-oficializo-los-nuevos-valores-de-septiembre-cuanto-cobraran-jubilados-pensionados-y-beneficiarios-de-auh.phtml"
         },
         {
           "medio": "Perfil",
-          "titulo": "Fernando Camusso: “En la medida que Medio Oriente siga volatilizando y al alza, no vamos a tener un año tranquilo”",
-          "link": "https://www.perfil.com/noticias/canal-e/fernando-camusso-en-la-medida-que-medio-oriente-siga-volatilizando-y-al-alza-no-vamos-a-tener-un-ano-tranquilo.phtml"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "\"Caos total\": Donald Trump aseguró que Irán es una nación \"fallida\" y que las autoridades son incapaces de gobernar el país",
-          "link": "https://www.clarin.com/mundo/caos-total-donald-trump-aseguro-iran-nacion-fallida-autoridades-incapaces-gobernar-pais_0_nLVdAGRYlu.html"
+          "titulo": "ANSES completará el calendario de septiembre para los DNI terminados en 8 y 9: las fechas del cronograma",
+          "link": "https://www.perfil.com/noticias/economia/anses-completara-calendario-septiembre-dni-terminados-8-9-fechas-cronograma-a35.phtml"
         },
         {
           "medio": "TN",
-          "titulo": "Trump volvió a amenazar a Irán tras los ataques en una isla en el estrecho de Ormuz: “Golpearemos con fuerza”",
-          "link": "https://tn.com.ar/internacional/2026/08/31/trump-volvio-a-amenazar-a-iran-tras-los-ataques-en-una-isla-en-el-estrecho-de-ormuz-golpearemos-con-fuerza/"
+          "titulo": "El Gobierno confirmó el nuevo aumento para jubilaciones y pensiones: cuánto cobrarán en septiembre",
+          "link": "https://tn.com.ar/economia/2026/09/01/el-gobierno-confirmo-el-nuevo-aumento-para-jubilaciones-y-pensiones-cuanto-cobrarán-en-septiembre/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "ANSES confirmó el aumento de 2,11% en septiembre: montos finales de las jubilaciones, pensiones y asignaciones",
+          "link": "https://www.ambito.com/informacion-general/anses-confirmo-el-aumento-211-septiembre-montos-finales-las-jubilaciones-pensiones-y-asignaciones-n6317120"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Calendario ANSES septiembre 2026: cuándo cobran jubilados, pensionados, AUH y AUE",
+          "link": "https://www.cronista.com/economia-politica/calendario-anses-septiembre-2026-cuando-cobran-jubilados-pensionados-auh-y-aue/"
         }
       ]
     }
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Aumentos de salarios y bonos para jubilados, fuerzas de seguridad y empleados públicos",
+      "tema": "Declaraciones de Javier Milei sobre la causa Malvinas tras los dichos de Donald Trump",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -474,18 +425,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Es necesario que Perfil se posicione con una guía de utilidad práctica frente a la saturación de información.",
+      "por_que_importa": "El impacto en la soberanía es una preocupación clave del lector.",
       "insight": "",
-      "motivo": "Es el tema de mayor volumen y alta demanda informativa por impacto social.",
+      "motivo": "Es la noticia política de mayor repercusión en la jornada.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar una pieza de servicio explicativa con el desglose de aumentos y montos oficiales.",
+      "accion_sugerida": "Desarrollar un análisis sobre la postura del Reino Unido ante el apoyo de Trump.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Declaración jurada patrimonial de Javier Milei y Karina Milei",
+      "tema": "Actualización y cronograma de pagos de ANSES para jubilados y pensionados en septiembre",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -498,18 +449,18 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Es fundamental para la transparencia política y la labor de control del periodismo.",
+      "por_que_importa": "Es información de alta utilidad que fideliza a nuestra audiencia.",
       "insight": "",
-      "motivo": "Perfil ha omitido cubrir este tema clave de la agenda política presidencial.",
+      "motivo": "Es el tema donde Perfil tiene el mayor dominio de información.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Analizar la evolución patrimonial de los hermanos Milei y su presentación ante la OA.",
+      "accion_sugerida": "Optimizar el buscador interno de fechas para mejorar la usabilidad del lector.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "ejemplos": []
     },
     {
-      "tema": "Propuesta y gestiones para el regreso de la Fórmula 1 a la Argentina",
+      "tema": "Reunión de Luis Caputo con Scott Bessent en el G20 para sumar respaldo de EE.UU.",
       "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
@@ -522,11 +473,11 @@
       "cobertura": {
         "Perfil": 0
       },
-      "por_que_importa": "Es una oportunidad de atraer audiencias jóvenes interesadas en el deporte y la figura de Colapinto.",
+      "por_que_importa": "La audiencia busca entender los resultados de la agenda financiera en el exterior.",
       "insight": "",
-      "motivo": "El alto nivel de interés público y el atractivo de la temática política-deportiva lo hacen estratégico.",
+      "motivo": "Es la clave para entender la sostenibilidad económica del modelo oficial.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Explicar los obstáculos reales para el retorno de la F1 al país hoy.",
+      "accion_sugerida": "Analizar las implicancias de este encuentro en el riesgo país y la confianza de mercados.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
@@ -534,240 +485,118 @@
     }
   ],
   "analisis_completo": {
-    "fecha_analisis": "Mon, 31 Aug 2026",
+    "fecha_analisis": "01/09/2026",
     "hipercompetencia": [
       {
-        "tema": "Aumentos de salarios y bonos para jubilados, fuerzas de seguridad y empleados públicos",
+        "tema": "Declaraciones de Javier Milei sobre la causa Malvinas tras los dichos de Donald Trump",
         "prioridad": 1,
         "total_notas": 13,
-        "cantidad_medios": 5,
+        "cantidad_medios": 6,
         "cobertura": {
-          "Perfil": 0,
+          "Perfil": 2,
           "Clarín": 3,
           "Infobae": 0,
           "TN": 2,
-          "Ámbito": 3,
-          "Página 12": 2,
+          "Ámbito": 2,
+          "Página 12": 1,
           "Cronista": 3
         },
-        "por_que_importa": "Es el tema con mayor volumen de notas del día y alta sensibilidad social.",
-        "insight": "Existe una saturación de información sobre bonos y aumentos que requiere una lectura de impacto real para el bolsillo.",
-        "accion_sugerida": "Realizar una guía práctica de cuánto cobrará cada sector con los nuevos decretos.",
+        "por_que_importa": "Es el tema central de la agenda política y diplomática del día con alto nivel de menciones.",
+        "insight": "Existe una competencia feroz por el ángulo interpretativo sobre el impacto en la soberanía.",
+        "accion_sugerida": "Profundizar en las repercusiones diplomáticas oficiales más allá de las declaraciones presidenciales.",
         "enfoques_sugeridos": [
-          "Guía de aumentos: los montos finales que cobrarán los jubilados y fuerzas en el mes.",
-          "Análisis del impacto real de los 70 mil pesos del bono en un contexto de inflación.",
-          "El mapa de las paritarias públicas: qué sectores lograron superar los topes de ley.",
-          "Desglose del decreto 824/2026: qué cambió para los salarios del sector estatal hoy."
+          "El impacto real de las palabras de Trump en la estrategia diplomática nacional actual.",
+          "Análisis sobre la reacción británica y el mantenimiento del estatus de los isleños."
         ],
         "ejemplos": [
           {
+            "medio": "Perfil",
+            "titulo": "Milei sobre los dichos de Trump y las Malvinas: \"Ayer pasó algo muy fuerte respecto a la causa más importante y sagrada de los argentinos\"",
+            "link": "https://www.perfil.com/noticias/breaking-news/milei-sobre-los-dichos-de-trump-y-las-malvinas-ayer-paso-algo-muy-fuerte-respecto-a-la-causa-mas-importante-y-sagrada-de-los-argentinos.phtml"
+          },
+          {
             "medio": "Clarín",
-            "titulo": "El Gobierno anunció un aumento para los militares y fuerzas de seguridad, tras los reclamos por bajos salarios",
-            "link": "https://www.clarin.com/politica/gobierno-anuncio-aumento-militares-fuerzas-seguridad_0_Atoaf3BrDN.html"
+            "titulo": "Gran Bretaña le contestó a Trump tras su frase sobre las Malvinas: \"Nuestro compromiso con los isleños es inquebrantable\"",
+            "link": "https://www.clarin.com/politica/gran-bretana-contesto-trump-frase-malvinas-compromiso-kelpers-inquebrantable_0_hamvA9eNDz.html"
           },
           {
             "medio": "TN",
-            "titulo": "El Gobierno confirmó que pagará en septiembre un bono de hasta $70.000 para jubilados y pensionados",
-            "link": "https://tn.com.ar/economia/2026/08/31/el-gobierno-confirmo-que-pagara-en-septiembre-un-bono-de-hasta-70000-para-jubilados-y-pensionados/"
+            "titulo": "El Reino Unido le contestó a Trump por las Malvinas: “Los isleños manifestaron su deseo de ser un territorio británico”",
+            "link": "https://tn.com.ar/internacional/2026/09/01/el-reino-unido-le-contesto-a-trump-por-las-malvinas-los-islenos-manifestaron-su-deseo-de-ser-un-territorio-britanico/"
           },
           {
             "medio": "Ámbito",
-            "titulo": "El Gobierno oficializó un nuevo aumento de salarios para militares, fuerzas de seguridad y empleados públicos: de cuánto será",
-            "link": "https://www.ambito.com/economia/el-gobierno-oficializo-un-nuevo-aumento-salarios-militares-fuerzas-seguridad-y-empleados-publicos-cuanto-sera-n6316553"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "El bono para los jubilados cumple 30 meses congelado en 70 mil pesos",
-            "link": "https://www.pagina12.com.ar/2026/08/31/el-bono-para-los-jubilados-cumple-30-meses-congelado-en-70-mil-pesos/"
+            "titulo": "Javier Milei celebró los dichos de Donald Trump sobre las Islas Malvinas: &quot;Pasó algo muy fuerte&quot;",
+            "link": "https://www.ambito.com/politica/javier-milei-celebro-la-postura-donald-trump-malvinas-paso-algo-muy-fuerte-n6317063"
           },
           {
             "medio": "Cronista",
-            "titulo": "Confirmado por el Decreto 824/2026: jubilados y pensionados cobrarán un nuevo bono en septiembre, ¿cuánto cobrarán?",
-            "link": "https://www.cronista.com/economia-politica/confirmado-por-el-decreto-8242026-jubilados-y-pensionados-cobraran-un-nuevo-bono-en-septiembre-cuanto-cobraran/"
+            "titulo": "Milei reaccionó a la posibilidad de que Trump retire su apoyo sobre Malvinas al Reino Unido: “Pasó algo muy fuerte”",
+            "link": "https://www.cronista.com/economia-politica/milei-reacciono-a-la-postura-de-trump-sobre-malvinas-ayer-paso-algo-muy-fuerte-respecto-a-la-causa-mas-sagrada/"
+          }
+        ]
+      },
+      {
+        "tema": "Aumentos de tarifas, transporte y servicios públicos vigentes en septiembre",
+        "prioridad": 2,
+        "total_notas": 13,
+        "cantidad_medios": 6,
+        "cobertura": {
+          "Perfil": 2,
+          "Clarín": 3,
+          "Infobae": 0,
+          "TN": 3,
+          "Ámbito": 3,
+          "Página 12": 0,
+          "Cronista": 2
+        },
+        "por_que_importa": "Es un tema de servicio directo que impacta en el bolsillo del lector.",
+        "insight": "El nivel de saturación informativa requiere una nota de servicio centralizada.",
+        "accion_sugerida": "Crear una guía definitiva con todos los aumentos consolidados.",
+        "enfoques_sugeridos": [
+          "Cómo impactan los nuevos cuadros tarifarios de septiembre en el presupuesto familiar.",
+          "Guía de aumentos de transporte, servicios y alquileres que rigen desde hoy."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Aumenta el transporte en septiembre: cuánto cuestan los boletos de colectivo, tren y subte en el AMBA",
+            "link": "https://www.perfil.com/noticias/economia/aumenta-transporte-septiembre-cuanto-cuestan-boletos-colectivo-tren-subte-amba-a40.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Nuevo aumento del transporte en septiembre: cuánto costarán colectivo, subte y tren en el AMBA a partir de hoy",
+            "link": "https://www.clarin.com/informacion-general/nuevo-aumento-transporte-septiembre-costaran-colectivo-subte-tren-amba-partir-hoy_0_AuIGu3oWC0.html"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Rige el nuevo aumento de transporte público: cuánto sale viajar en colectivo, tren y subte desde hoy",
+            "link": "https://tn.com.ar/economia/2026/09/01/ya-rige-el-aumento-de-transporte-cuanto-sale-viajar-en-colectivo-tren-y-subte-desde-hoy/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Septiembre llegó con aumentos en transporte, alquileres, prepagas y más: una a una, de cuánto son las subas y qué pasará con la inflación",
+            "link": "https://www.ambito.com/economia/septiembre-llega-aumentos-transporte-alquileres-prepagas-y-mas-todos-los-detalles-n6315077"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Aumentan los colectivos, trenes y subtes: cuánto costará viajar en septiembre",
+            "link": "https://www.cronista.com/economia-politica/aumentan-los-colectivos-trenes-y-subtes-cuanto-costara-viajar-en-septiembre/"
           }
         ]
       }
     ],
     "perfil_pierde": [
       {
-        "tema": "Declaración jurada patrimonial de Javier Milei y Karina Milei",
+        "tema": "Roce diplomático entre el Gobierno argentino y China tras declaraciones de un funcionario",
         "prioridad": 1,
-        "total_notas": 4,
-        "cantidad_medios": 4,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "Cronista": 1
-        },
-        "brecha_perfil": 1,
-        "medios_que_mas_publicaron": [
-          "TN",
-          "Ámbito",
-          "Página 12",
-          "Cronista"
-        ],
-        "por_que_importa": "Es información pública de alto interés político sobre el patrimonio presidencial.",
-        "insight": "El silencio en Perfil ante este tema genera un vacío informativo frente a los competidores.",
-        "accion_sugerida": "Analizar los activos declarados comparando con el año anterior y detectar variaciones clave.",
-        "enfoques_sugeridos": [
-          "Radiografía del patrimonio presidencial: qué activos integran la declaración de Milei.",
-          "La evolución de los dólares declarados por los hermanos Milei tras el último ejercicio.",
-          "Bienes y deudas: las cifras que surgen de la declaración jurada presentada a la OA.",
-          "Diferencias y similitudes: un repaso por el patrimonio de Karina y Javier Milei hoy."
-        ],
-        "titulos_sugeridos": [
-          "Patrimonio presidencial: qué dice la nueva declaración jurada de los Milei",
-          "Análisis: cómo creció el patrimonio de Javier y Karina Milei en el 2025",
-          "Los datos ocultos tras la presentación patrimonial del Presidente",
-          "De la cuenta bancaria a los bienes: el informe patrimonial de Milei"
-        ],
-        "ejemplos": [
-          {
-            "medio": "TN",
-            "titulo": "Javier Milei presentó su declaración jurada: cuánto creció su patrimonio en 2025",
-            "link": "https://tn.com.ar/politica/2026/08/31/javier-milei-presento-su-declaracion-jurada-cuanto-crecio-su-patrimonio-en-2025/"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "Sin rastro del botín de $LIBRA, Milei finalmente presentó su declaración jurada",
-            "link": "https://www.pagina12.com.ar/2026/08/30/sin-rastro-del-botín-de-libra-milei-finalmente-presento-su-declaracion-jurada/"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "Cuánto crecieron los patrimonios de Javier y Karina Milei en el último año: bienes, deudas y dólares",
-            "link": "https://www.cronista.com/economia-politica/cuanto-crecieron-los-patrimonios-de-javier-y-karina-milei-en-el-ultimo-año-bienes-dolares-y-deudas/"
-          }
-        ]
-      },
-      {
-        "tema": "Propuesta y gestiones para el regreso de la Fórmula 1 a la Argentina",
-        "prioridad": 2,
-        "total_notas": 4,
-        "cantidad_medios": 4,
+        "total_notas": 3,
+        "cantidad_medios": 3,
         "cobertura": {
           "Perfil": 0,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 0,
-          "Cronista": 1
-        },
-        "brecha_perfil": 1,
-        "medios_que_mas_publicaron": [
-          "Clarín",
-          "TN",
-          "Ámbito",
-          "Cronista"
-        ],
-        "por_que_importa": "Combina política de alto perfil, automovilismo y el fenómeno Colapinto.",
-        "insight": "El tema es un gancho de tráfico masivo que Perfil no aprovechó hoy.",
-        "accion_sugerida": "Entrevistas a especialistas sobre la viabilidad técnica y económica del circuito local.",
-        "enfoques_sugeridos": [
-          "Fórmula 1 en Argentina: qué requisitos pide la FIA para el regreso a Buenos Aires.",
-          "El fenómeno Colapinto y la presión política para traer el gran premio nacional.",
-          "Infraestructura: cómo debe prepararse Buenos Aires para recibir la máxima categoría.",
-          "Viabilidad económica: quién pagaría el retorno del circo de la F1 al país hoy."
-        ],
-        "titulos_sugeridos": [
-          "Milei y la F1: qué posibilidades reales tiene Argentina de volver a ser sede",
-          "El sueño de la Fórmula 1 en casa: lo que falta para convencer a la FIA",
-          "¿Vuelve la F1? El trasfondo de la visita de alto nivel ante la FIA",
-          "Colapinto y la política: el impulso detrás del retorno de la F1 al país"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Clarín",
-            "titulo": "Javier Milei y sus medidas, EN VIVO: \"Queremos ver a Colapinto en el país\", dijo el Presidente y aseguró que Argentina está preparada para recibir a la Fórmula 1",
-            "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-participa-congreso-americano-federacion-internacional-automovil_0_dgWZEhxfWQ.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Milei encabezó un congreso internacional de automovilismo: “La Argentina cumple con las condiciones para volver a recibir a la F1″",
-            "link": "https://tn.com.ar/politica/2026/08/31/milei-encabeza-un-congreso-internacional-de-automovilismo-mientras-busca-concretar-la-vuelta-de-la-formula-1/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "\"Queremos ver a Colapinto en el país\", ante la FIA Javier Milei ratificó que en la Argentina están todas las condiciones para volver a recibir a la F1",
-            "link": "https://www.ambito.com/politica/queremos-ver-colapinto-el-pais-la-fia-javier-milei-ratifico-que-la-argentina-estan-todas-las-condiciones-volver-recibir-la-f1-n6316701"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "Cumbre clave con Milei y visita de alto nivel para la vuelta de la Fórmula 1 a Buenos Aires",
-            "link": "https://www.cronista.com/economia-politica/cumbre-clave-con-milei-y-visita-de-alto-nivel-para-la-vuelta-de-la-formula-1-a-buenos-aires/"
-          }
-        ]
-      },
-      {
-        "tema": "Conflicto por el desalojo de una sinagoga en el barrio de Flores",
-        "prioridad": 3,
-        "total_notas": 4,
-        "cantidad_medios": 4,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 2,
-          "Ámbito": 0,
-          "Página 12": 1,
-          "Cronista": 0
-        },
-        "brecha_perfil": 2,
-        "medios_que_mas_publicaron": [
-          "TN"
-        ],
-        "por_que_importa": "Tiene elementos de tensión social y conflicto religioso en un barrio porteño.",
-        "insight": "Es un tema de actualidad local de gran impacto en redes sociales.",
-        "accion_sugerida": "Seguimiento de la causa judicial para entender el trasfondo de la propiedad del edificio.",
-        "enfoques_sugeridos": [
-          "Conflicto en Flores: la disputa legal detrás de la sinagoga en tensión constante.",
-          "Voces de la comunidad: qué dice el rabino sobre la denuncia de venta ilegal.",
-          "Cronología del desalojo frustrado: cómo resistieron los fieles dentro del templo.",
-          "Orden judicial vs. posesión: las claves legales de la disputa en la sinagoga."
-        ],
-        "titulos_sugeridos": [
-          "Sinagoga en conflicto: qué ocurrió en el desalojo frustrado de Flores",
-          "Tensión en Flores: el trasfondo judicial por la propiedad del templo judío",
-          "Resistencia y fe: el relato de quienes frenaron el desalojo en Flores",
-          "¿Venta ilegal? Las denuncias cruzadas por la sinagoga de Flores"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Clarín",
-            "titulo": "Tras horas de tensión, suspendieron el desalojo de una sinagoga en Flores que había sido ordenado por un conflicto entre dos grupos de fieles",
-            "link": "https://www.clarin.com/ciudades/desalojan-sinagoga-flores-conflicto-grupos-fieles_0_ev9fPpo3xF.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "La emoción de un miembro de la comunidad judía que resistió el desalojo de la sinagoga en Flores: “Tengo la chispa divina”",
-            "link": "https://tn.com.ar/policiales/2026/08/31/la-alegria-de-un-miembro-de-la-comunidad-judia-que-resistio-el-desalojo-de-la-sinagoga-en-flores-tengo-la-chispa-divina/"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Suspendieron el desalojo de una sinagoga en Flores: un rabino asegura que se trató de una venta ilegal",
-            "link": "https://tn.com.ar/policiales/2026/08/31/tension-en-flores-por-el-desalojo-de-una-sinagoga-hay-un-fuerte-operativo-policial-y-30-personas-permanecen-dentro-del-templo/"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "Suspendieron el desalojo en una sinagoga en Flores",
-            "link": "https://www.pagina12.com.ar/2026/08/31/desalojan-una-sinagoga-en-flores-por-un-conflicto-entre-dos-grupos-de-fieles/"
-          }
-        ]
-      },
-      {
-        "tema": "Reunión de Karina Milei con la cúpula del Episcopado por la visita del Papa",
-        "prioridad": 4,
-        "total_notas": 2,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
           "Ámbito": 0,
           "Página 12": 1,
           "Cronista": 0
@@ -775,33 +604,35 @@
         "brecha_perfil": 1,
         "medios_que_mas_publicaron": [
           "Clarín",
+          "TN",
           "Página 12"
         ],
-        "por_que_importa": "Es una pieza clave en la relación del Gobierno con la Iglesia previo a la visita papal.",
-        "insight": "La política de alta esfera es una marca histórica de Perfil que se ausentó hoy.",
-        "accion_sugerida": "Analizar la agenda de Karina Milei como eje de poder y su rol en la diplomacia religiosa.",
+        "por_que_importa": "Es un conflicto diplomático en desarrollo con potenciales repercusiones económicas.",
+        "insight": "Perfil perdió la oportunidad de informar sobre la tensión con una potencia clave.",
+        "accion_sugerida": "Cubrir la postura oficial del Gobierno ante la embajada china.",
         "enfoques_sugeridos": [
-          "El rol de Karina Milei: gestiones al más alto nivel por la visita del Papa a país.",
-          "La Iglesia y la Casa Rosada: qué puntos de tensión busca distender el Gobierno hoy.",
-          "La agenda de la visita del Papa: las negociaciones en marcha con el Episcopado.",
-          "¿Pulseada política? Karina Milei y su encuentro clave con la cúpula episcopal."
+          "El origen del conflicto diplomático entre el funcionario y Beijing por la tragedia.",
+          "Cómo intenta calmar las aguas el Ejecutivo frente al reclamo formal de China."
         ],
         "titulos_sugeridos": [
-          "Karina Milei y el Episcopado: los detalles de la negociación por la visita papal",
-          "Gobierno e Iglesia: cómo se prepara el terreno para el viaje del Papa a la Argentina",
-          "La diplomacia de Karina Milei: encuentro reservado con la cúpula de la Iglesia",
-          "La pulseada por el impacto político de la visita del Papa al país"
+          "Conflicto diplomático con China: qué dijo el funcionario de Milei que generó el roce",
+          "La respuesta de China tras la acusación de un funcionario argentino por la tragedia"
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Tras las críticas al Gobierno por los morosos, Karina Milei recibe a la cúpula del Episcopado por la visita del Papa",
-            "link": "https://www.clarin.com/politica/criticas-gobierno-morosos-karina-milei-recibe-cupula-episcopado-visita-papa_0_5Iy3OmNKo4.html"
+            "titulo": "Un funcionario de Milei culpó a China por la tragedia en Nepal que dejó miles de muertos y desató un conflicto diplomático: la Embajada salió a cruzarlo",
+            "link": "https://www.clarin.com/politica/funcionario-milei-culpo-china-tragedia-nepal-dejo-mil-muertos-desato-conflicto-diplomatico-embajada-salio-cruzarlo_0_EVVchcskYq.html"
+          },
+          {
+            "medio": "TN",
+            "titulo": "El embajador de China en la Argentina cruzó a un funcionario de Milei que acusó a Beijing por la tragedia en Nepal",
+            "link": "https://tn.com.ar/politica/2026/09/01/el-embajador-de-china-en-la-argentina-cruzo-a-un-funcionario-de-milei-que-acuso-a-beijing-por-la-tragedia-en-nepal/"
           },
           {
             "medio": "Página 12",
-            "titulo": "La visita del Papa: La pulseada de Milei con la Iglesia y el temor por su impacto político",
-            "link": "https://www.pagina12.com.ar/2026/08/31/la-visita-del-papa-pulseada-con-la-iglesia-y-temor-por-su-impacto-politico/"
+            "titulo": "Un tuitero y funcionario de Milei desató un roce diplomático con China",
+            "link": "https://www.pagina12.com.ar/2026/09/01/un-tuitero-y-funcionario-de-milei-desato-un-roce-diplomatico-con-china/"
           }
         ]
       }
@@ -809,152 +640,208 @@
     "sin_cobertura_perfil": [],
     "oportunidades": [
       {
-        "tema": "Detención y situación judicial del cantante Callejero Fino",
-        "tipo": "Espectáculos/Policiales",
+        "tema": "Reunión de Luis Caputo con Scott Bessent en el G20 para sumar respaldo de EE.UU.",
+        "tipo": "Economía",
         "prioridad": 1,
-        "total_notas": 5,
+        "total_notas": 4,
         "cantidad_medios": 4,
         "cobertura": {
-          "Perfil": 0,
-          "Clarín": 3,
-          "Infobae": 0,
-          "TN": 1,
+          "Perfil": 1,
+          "Clarín": 0,
+          "Infobae": 1,
+          "TN": 0,
           "Ámbito": 1,
           "Página 12": 0,
-          "Cronista": 0
+          "Cronista": 1
         },
-        "por_que_importa": "Es un tema de alto interés para audiencias jóvenes y fans del género urbano.",
-        "motivo_oportunidad": "Perfil no cubrió la noticia a pesar del impacto mediático del cantante.",
-        "accion_sugerida": "Analizar cómo afecta la causa judicial a la carrera del artista y la reacción de sus seguidores.",
+        "por_que_importa": "Es crucial para entender la política financiera actual con el gobierno estadounidense.",
+        "motivo_oportunidad": "Perfil debe liderar en el análisis económico con una nota de profundidad sobre este vínculo.",
+        "accion_sugerida": "Analizar qué implica el respaldo norteamericano para las metas fiscales del Gobierno.",
         "enfoques_sugeridos": [
-          "El fenómeno del artista ante la justicia: cómo impacta su detención en los fans.",
-          "La causa por tenencia ilegal de arma: puntos clave del caso Callejero Fino.",
-          "Renuncias y defensas: los movimientos legales en el caso de la estrella del trap.",
-          "De los escenarios a la fiscalía: el difícil presente de Callejero Fino hoy."
+          "El rol de Bessent en el apoyo de EE.UU. a las reformas económicas de Luis Caputo.",
+          "¿Qué busca Caputo en el G20 para consolidar la alianza financiera con el Norte?"
         ],
         "titulos_sugeridos": [
-          "Callejero Fino: qué se sabe sobre su situación judicial tras la detención",
-          "Impacto en la música: la carrera del artista bajo la lupa de la justicia",
-          "La defensa del cantante: los detalles de la causa por el arma secuestrada",
-          "El futuro musical de Callejero Fino frente a su complejo frente judicial"
+          "La apuesta de Caputo en el G20: los puntos clave de su encuentro con Scott Bessent",
+          "El plan de respaldo financiero de EE.UU. que busca el Ministerio de Economía hoy"
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "La Joaqui apoyó a Callejero Fino tras su detención y recibió fuertes críticas en las redes",
-            "link": "https://www.clarin.com/fama/joaqui-apoyo-callejero-fino-detencion-recibio-fuertes-criticas-redes_0_BsoMPd2AkV.html"
+            "medio": "Perfil",
+            "titulo": "Día clave para Caputo: hoy se encuentra con Scott Bessent para renovar el respaldo norteamericano",
+            "link": "https://www.perfil.com/noticias/politica/dia-clave-para-caputo-hoy-se-encontraria-con-uno-de-los-hombres-mas-poderosos-del-mundo.phtml"
           },
           {
-            "medio": "Clarín",
-            "titulo": "Callejero Fino cantó a medias en la indagatoria: una noche con frío, hamburguesas y nada sobre la pistola",
-            "link": "https://www.clarin.com/policiales/callejero-fino-canto-medias-indagatoria-noche-frio-hamburguesas-pistola_0_NeycKpkfsB.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "El abogado de Callejero Fino renunció luego de que el cantante decidiera declarar en la causa por tenencia ilegal de arma",
-            "link": "https://tn.com.ar/policiales/2026/08/31/callejero-fino-declara-luego-de-haber-sido-detenido-en-tigre-en-una-camioneta-sin-patente-y-con-un-arma/"
+            "medio": "Infobae",
+            "titulo": "G20 de Estados Unidos: Luis Caputo se reúne con Scott Bessent para ratificar la alianza estratégica y analizar la situación global",
+            "link": "https://www.infobae.com/economia/2026/09/01/g20-de-estados-unidos-luis-caputo-se-reune-con-scott-bessent-para-ratificar-la-alianza-estrategica-y-analizar-la-situation-global/"
           },
           {
             "medio": "Ámbito",
-            "titulo": "Cómo sigue la situación de Callejero Fino tras ser detenido por circular en una camioneta sin patente y llevar un arma: qué se sabe",
-            "link": "https://www.ambito.com/espectaculos/como-sigue-la-situacion-callejero-fino-ser-detenido-circular-una-camioneta-patente-y-llevar-un-arma-que-se-sabe-n6316660"
+            "titulo": "Luis Caputo se reúne con Scott Bessent en el G20 y busca sumar respaldo de EEUU",
+            "link": "https://www.ambito.com/finanzas/luis-caputo-se-reune-scott-bessent-el-g20-y-busca-sumar-respaldo-eeuu-n6317079"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Día clave en el G20: Caputo se reúne con Scott Bessent para ratificar la alianza estratégica con EE.UU.",
+            "link": "https://www.cronista.com/economia-politica/dia-clave-en-el-g20-caputo-se-reune-con-scott-bessent-para-ratificar-la-alianza-estrategica-con-eeuu/"
+          }
+        ]
+      },
+      {
+        "tema": "Declaración conjunta de partidos políticos contra la violencia política a 4 años del atentado a Cristina Fernández",
+        "tipo": "Política",
+        "prioridad": 2,
+        "total_notas": 6,
+        "cantidad_medios": 5,
+        "cobertura": {
+          "Perfil": 1,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 2,
+          "Cronista": 0
+        },
+        "por_que_importa": "Es un tema de derechos humanos y memoria política con alta relevancia institucional.",
+        "motivo_oportunidad": "Perfil puede aportar un enfoque sobre el consenso democrático más allá de las diferencias.",
+        "accion_sugerida": "Relatar quiénes firmaron y cuáles fueron los puntos más importantes del consenso.",
+        "enfoques_sugeridos": [
+          "El documento transversal que busca desterrar la violencia del debate electoral hoy.",
+          "Las voces que reclaman justicia a cuatro años del atentado a Cristina Fernández."
+        ],
+        "titulos_sugeridos": [
+          "Atentado a Cristina Fernández: el arco político se une contra la violencia en democracia",
+          "A cuatro años del atentado, qué partidos firmaron el compromiso por la convivencia"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "A cuatro años del atentado contra Cristina Kirchner, varios partidos políticos firmaron un documento contra la violencia política",
+            "link": "https://www.perfil.com/noticias/politica/ningun-proyecto-de-pais-puede-construirse-sobre-la-eliminacion-del-que-piensa-distinto.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "El gesto de Axel Kicillof con Cristina Kirchner: \"Continúa injustamente detenida y el intento de asesinato que sufrió sigue impune\"",
+            "link": "https://www.clarin.com/politica/gesto-axel-kicillof-cristina-kirchner-continua-injustamente-detenida-intento-asesinato-sufrio-sigue-impune_0_Zqjg7Qq259.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "A 4 años del atentado a Cristina Fernández, reclaman investigar a autores intelectuales",
+            "link": "https://www.infobae.com/america/agencias/2026/09/01/a-4-anos-del-atentado-a-cristina-fernandez-reclaman-investigar-a-autores-intelectuales/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Dirigentes peronistas y aliados firmaron una declaración conjunta contra la &quot;eliminación del adversario&quot;",
+            "link": "https://www.ambito.com/politica/dirigentes-peronistas-y-aliados-firmaron-una-declaracion-conjunta-contra-la-eliminacion-del-adversario-n6317010"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "A cuatro años del atentado a Cristina Fernández",
+            "link": "https://www.pagina12.com.ar/2026/08/31/a-cuatro-anos-del-atentado-a-cristina-fernandez/"
           }
         ]
       }
     ],
     "discover": [
       {
-        "tema": "Trágicas inundaciones y víctimas en Nepal",
-        "tipo_de_oportunidad": "Internacional / Ciencia",
+        "tema": "Visita de la delegación del Vaticano y preparativos para la llegada del papa León XIV a la Argentina",
+        "tipo_de_oportunidad": "Sociedad",
         "prioridad": 1,
-        "total_notas": 4,
+        "total_notas": 6,
         "cantidad_medios": 4,
         "cobertura": {
           "Perfil": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 1,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 4,
           "Ámbito": 0,
-          "Página 12": 0,
+          "Página 12": 1,
           "Cronista": 0
         },
-        "por_que_importa": "Es una catástrofe humanitaria con gran impacto visual y preocupación climática global.",
-        "motivo": "Perfil puede aportar valor con el enfoque científico sobre riesgos locales (glaciares) que ya comenzó a explorar.",
-        "accion_sugerida": "Profundizar en la relación entre el cambio climático y la estabilidad de glaciares en zonas vulnerables.",
+        "por_que_importa": "Es un evento de alto impacto cultural y religioso para el país.",
+        "motivo": "El público consume detalles sobre la agenda, el papamóvil y las locaciones de las misas.",
+        "accion_sugerida": "Publicar un mapa interactivo o una guía visual de la visita papal al país.",
         "enfoques_sugeridos": [
-          "Catástrofe en Nepal: qué explica la magnitud de los aludes y las inundaciones hoy.",
-          "Riesgo glaciar: por qué el caso nepalí enciende las alarmas en regiones similares.",
-          "Historias de supervivencia: el drama humano en las zonas arrasadas por el agua.",
-          "Cambio climático: el mapa de los glaciares bajo vigilancia ante el calentamiento."
+          "Todo lo que se sabe sobre el vehículo oficial que usará el Papa en su visita.",
+          "Recorrido del Papa por las instituciones locales: los puntos críticos de su visita."
         ],
         "titulos_sugeridos": [
-          "Nepal: la magnitud de una catástrofe que preocupa al mundo entero",
-          "Historias que conmueven: rescates heroicos tras las inundaciones en Nepal",
-          "¿Podría pasar en Argentina? Qué zonas están bajo riesgo por glaciares",
-          "El mundo mira a Nepal: el recuento de víctimas y desaparecidos crece"
+          "Papa León XIV: los detalles ocultos del Papamóvil argentino para su gira",
+          "Cómo se preparan los lugares icónicos del país para recibir al papa León XIV"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "El mapa de los glaciares que podrían provocar inundaciones como la de Nepal: qué zonas de Argentina están en riesgo",
-            "link": "https://www.perfil.com/noticias/ciencia/el-mapa-de-los-glaciares-que-podrian-provocar-inundaciones-como-la-de-nepal-que-zonas-de-argentina-estan-en-riesgo-a50.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Nepal inicia los entierros masivos de las víctimas imposibles de identificar",
-            "link": "https://www.clarin.com/mundo/nepal-inicia-entierros-masivos-victimas-imposibles-identificar_0_U3HWTIyzAC.html"
-          },
-          {
-            "medio": "Infobae",
-            "titulo": "Un joven de 16 años escapa con su abuelo a hombros de la riada que arrasó su casa en Nepal",
-            "link": "https://www.infobae.com/america/agencias/2026/08/31/un-joven-de-16-anos-escapa-con-su-abuelo-a-hombros-de-la-riada-que-arraso-su-casa-en-nepal/"
+            "titulo": "Ya está en Córdoba la delegación del Vaticano para definir la agenda del papa León XIV",
+            "link": "https://www.perfil.com/noticias/cordoba/ya-esta-en-cordoba-la-delegacion-del-vaticano-para-definir-la-agenda-del-papa-leon-xiv.phtml"
           },
           {
             "medio": "TN",
-            "titulo": "Crece el número de víctimas por las trágicas inundaciones en Nepal: hay más de 900 muertos y 4400 desaparecidos",
-            "link": "https://tn.com.ar/internacional/2026/08/31/crece-el-numero-de-victimas-por-las-tragicas-inundaciones-en-nepal-hay-mas-de-900-muertos-y-4400-desaparecidos/"
+            "titulo": "Papamóvil argentino: qué auto preparan para transportar al papa León XIV durante su visita al país",
+            "link": "https://tn.com.ar/autos/novedades/2026/09/01/papamovil-argentino-que-auto-preparan-para-transportar-al-papa-leon-xiv-durante-su-visita-al-pais/"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Dónde queda el Monumento de los Españoles, el lugar donde el papa León XIV dará su misa en la Argentina",
+            "link": "https://tn.com.ar/sociedad/2026/09/01/donde-queda-el-monumento-de-los-espanoles-el-lugar-donde-el-papa-leon-xiv-dara-su-misa-en-la-argentina/"
+          },
+          {
+            "medio": "TN",
+            "titulo": "El papa León XIV visitará la cárcel de Devoto, el Cottolengo de Claypole y la misa será en el Monumento a los Españoles",
+            "link": "https://tn.com.ar/politica/2026/09/01/el-papa-leon-xiv-visitara-la-carcel-de-devoto-el-cottolengo-de-claypole-y-la-misa-sera-en-el-monumento-a-los-espanoles/"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "El Papa ya tiene escenario para su visita",
+            "link": "https://www.pagina12.com.ar/2026/09/01/el-papa-ya-tiene-escenario-para-su-visita/"
           }
         ]
       }
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Conflicto y tensión bélica entre Estados Unidos e Irán en Medio Oriente",
-        "perfil": 2,
-        "competencia_total": 4,
-        "diferencia": 2,
+        "tema": "Actualización y cronograma de pagos de ANSES para jubilados y pensionados en septiembre",
+        "perfil": 7,
+        "competencia_total": 6,
+        "diferencia": 1,
         "cobertura": {
-          "Perfil": 2,
-          "Clarín": 2,
+          "Perfil": 7,
+          "Clarín": 0,
           "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 1,
+          "TN": 2,
+          "Ámbito": 2,
           "Página 12": 0,
-          "Cronista": 0
+          "Cronista": 2
         },
-        "por_que_importa": "Es un tema de geopolítica sensible que requiere análisis especializado constante.",
-        "insight": "Perfil lidera en cantidad de publicaciones junto a Clarín, consolidando su autoridad en temas internacionales.",
-        "accion_sugerida": "Mantener la línea de opinión de especialistas (como Camusso) para ofrecer profundidad ante el aumento de la tensión.",
+        "por_que_importa": "Es un servicio crítico para adultos mayores y beneficiarios de planes sociales.",
+        "insight": "Perfil marca la agenda con un volumen notablemente superior en información de ANSES.",
+        "accion_sugerida": "Mantener este nivel de servicio útil con actualizaciones diarias sobre el calendario.",
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "EE.UU. e Irán intercambian ataques y aumenta la tensión en el estrecho de Ormuz",
-            "link": "https://www.perfil.com/noticias/bloomberg/bc-eeuu-e-iran-intercambian-ataques-y-aumenta-la-tension-en-el-estrecho-de-ormuz.phtml"
+            "titulo": "ANSES oficializó los nuevos valores de septiembre: cuánto cobrarán jubilados, pensionados y beneficiarios de AUH",
+            "link": "https://www.perfil.com/noticias/economia/anses-oficializo-los-nuevos-valores-de-septiembre-cuanto-cobraran-jubilados-pensionados-y-beneficiarios-de-auh.phtml"
           },
           {
             "medio": "Perfil",
-            "titulo": "Fernando Camusso: “En la medida que Medio Oriente siga volatilizando y al alza, no vamos a tener un año tranquilo”",
-            "link": "https://www.perfil.com/noticias/canal-e/fernando-camusso-en-la-medida-que-medio-oriente-siga-volatilizando-y-al-alza-no-vamos-a-tener-un-ano-tranquilo.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "\"Caos total\": Donald Trump aseguró que Irán es una nación \"fallida\" y que las autoridades son incapaces de gobernar el país",
-            "link": "https://www.clarin.com/mundo/caos-total-donald-trump-aseguro-iran-nacion-fallida-autoridades-incapaces-gobernar-pais_0_nLVdAGRYlu.html"
+            "titulo": "ANSES completará el calendario de septiembre para los DNI terminados en 8 y 9: las fechas del cronograma",
+            "link": "https://www.perfil.com/noticias/economia/anses-completara-calendario-septiembre-dni-terminados-8-9-fechas-cronograma-a35.phtml"
           },
           {
             "medio": "TN",
-            "titulo": "Trump volvió a amenazar a Irán tras los ataques en una isla en el estrecho de Ormuz: “Golpearemos con fuerza”",
-            "link": "https://tn.com.ar/internacional/2026/08/31/trump-volvio-a-amenazar-a-iran-tras-los-ataques-en-una-isla-en-el-estrecho-de-ormuz-golpearemos-con-fuerza/"
+            "titulo": "El Gobierno confirmó el nuevo aumento para jubilaciones y pensiones: cuánto cobrarán en septiembre",
+            "link": "https://tn.com.ar/economia/2026/09/01/el-gobierno-confirmo-el-nuevo-aumento-para-jubilaciones-y-pensiones-cuanto-cobrarán-en-septiembre/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "ANSES confirmó el aumento de 2,11% en septiembre: montos finales de las jubilaciones, pensiones y asignaciones",
+            "link": "https://www.ambito.com/informacion-general/anses-confirmo-el-aumento-211-septiembre-montos-finales-las-jubilaciones-pensiones-y-asignaciones-n6317120"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Calendario ANSES septiembre 2026: cuándo cobran jubilados, pensionados, AUH y AUE",
+            "link": "https://www.cronista.com/economia-politica/calendario-anses-septiembre-2026-cuando-cobran-jubilados-pensionados-auh-y-aue/"
           }
         ]
       }
@@ -962,41 +849,38 @@
     "prioridades_del_dia": [
       {
         "prioridad": 1,
-        "tema": "Aumentos de salarios y bonos para jubilados, fuerzas de seguridad y empleados públicos",
+        "tema": "Declaraciones de Javier Milei sobre la causa Malvinas tras los dichos de Donald Trump",
         "categoria": "hipercompetencia",
-        "motivo": "Es el tema de mayor volumen y alta demanda informativa por impacto social.",
-        "por_que_importa": "Es necesario que Perfil se posicione con una guía de utilidad práctica frente a la saturación de información.",
-        "accion_sugerida": "Publicar una pieza de servicio explicativa con el desglose de aumentos y montos oficiales.",
+        "motivo": "Es la noticia política de mayor repercusión en la jornada.",
+        "por_que_importa": "El impacto en la soberanía es una preocupación clave del lector.",
+        "accion_sugerida": "Desarrollar un análisis sobre la postura del Reino Unido ante el apoyo de Trump.",
         "titulos_sugeridos": [
-          "El desglose oficial: quiénes cobran el bono de 70 mil pesos en septiembre",
-          "Salarios públicos y militares: todo sobre el aumento confirmado por decreto",
-          "Jubilados y fuerzas de seguridad: guía rápida para entender los nuevos ingresos"
+          "Malvinas y Trump: el mapa de la nueva tensión entre Londres y Buenos Aires",
+          "¿Qué significa para la Argentina el giro en la postura de Trump sobre las islas?"
         ]
       },
       {
         "prioridad": 2,
-        "tema": "Declaración jurada patrimonial de Javier Milei y Karina Milei",
-        "categoria": "perfil_pierde",
-        "motivo": "Perfil ha omitido cubrir este tema clave de la agenda política presidencial.",
-        "por_que_importa": "Es fundamental para la transparencia política y la labor de control del periodismo.",
-        "accion_sugerida": "Analizar la evolución patrimonial de los hermanos Milei y su presentación ante la OA.",
+        "tema": "Actualización y cronograma de pagos de ANSES para jubilados y pensionados en septiembre",
+        "categoria": "fortalezas_perfil",
+        "motivo": "Es el tema donde Perfil tiene el mayor dominio de información.",
+        "por_que_importa": "Es información de alta utilidad que fideliza a nuestra audiencia.",
+        "accion_sugerida": "Optimizar el buscador interno de fechas para mejorar la usabilidad del lector.",
         "titulos_sugeridos": [
-          "Patrimonio bajo la lupa: el contenido de la declaración de Milei en 2025",
-          "Qué activos declaró el Presidente en su informe patrimonial ante la OA",
-          "La evolución de los dólares y bienes de Javier y Karina Milei en el último año"
+          "Calendario ANSES: el paso a paso para consultar tu fecha de cobro en septiembre",
+          "ANSES: las fechas definitivas de pago para jubilados y pensionados este mes"
         ]
       },
       {
         "prioridad": 3,
-        "tema": "Propuesta y gestiones para el regreso de la Fórmula 1 a la Argentina",
-        "categoria": "perfil_pierde",
-        "motivo": "El alto nivel de interés público y el atractivo de la temática política-deportiva lo hacen estratégico.",
-        "por_que_importa": "Es una oportunidad de atraer audiencias jóvenes interesadas en el deporte y la figura de Colapinto.",
-        "accion_sugerida": "Explicar los obstáculos reales para el retorno de la F1 al país hoy.",
+        "tema": "Reunión de Luis Caputo con Scott Bessent en el G20 para sumar respaldo de EE.UU.",
+        "categoria": "oportunidades",
+        "motivo": "Es la clave para entender la sostenibilidad económica del modelo oficial.",
+        "por_que_importa": "La audiencia busca entender los resultados de la agenda financiera en el exterior.",
+        "accion_sugerida": "Analizar las implicancias de este encuentro en el riesgo país y la confianza de mercados.",
         "titulos_sugeridos": [
-          "El trasfondo político de la vuelta de la Fórmula 1 a la Argentina",
-          "F1 en casa: lo que falta para que el sueño de Colapinto sea una realidad",
-          "La cumbre por la F1: qué le exigió el Gobierno a la FIA y qué respuesta obtuvo"
+          "Caputo y Bessent: las claves de la cumbre que define el apoyo financiero de EE.UU.",
+          "La agenda de Caputo en el G20 para consolidar la alianza estratégica norteamericana"
         ]
       }
     ]
