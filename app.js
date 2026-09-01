@@ -1,3 +1,4 @@
+```js
 async function cargarDashboard() {
 
   try {
@@ -261,7 +262,6 @@ function mostrarCategoria(items, categoria) {
 
   }
 
-
   contenedor.innerHTML = `
 
     <div class="temas-grid">
@@ -273,7 +273,6 @@ function mostrarCategoria(items, categoria) {
     </div>
 
   `;
-
 
   configurarExpandibles();
 
@@ -301,7 +300,6 @@ function configurarExpandibles() {
 
       const abierto =
         detalle.classList.contains('abierto');
-
 
       if (abierto) {
 
@@ -353,7 +351,6 @@ function crearTema(item, categoria, index) {
   const id =
     `${categoria}-${index}`;
 
-
   return `
 
     <article class="tema-card" id="${id}">
@@ -376,7 +373,6 @@ function crearTema(item, categoria, index) {
 
       </div>
 
-
       <div class="metricas">
 
         ${
@@ -386,15 +382,11 @@ function crearTema(item, categoria, index) {
                 <span class="metrica-numero">
                   ${escaparHTML(item.total_notas)}
                 </span>
-
-                <span>
-                  notas
-                </span>
+                <span>notas</span>
               </div>
             `
             : ''
         }
-
 
         ${
           item.cantidad_medios
@@ -403,15 +395,11 @@ function crearTema(item, categoria, index) {
                 <span class="metrica-numero">
                   ${escaparHTML(item.cantidad_medios)}
                 </span>
-
-                <span>
-                  medios
-                </span>
+                <span>medios</span>
               </div>
             `
             : ''
         }
-
 
         ${
           item.brecha_perfil !== undefined &&
@@ -421,15 +409,11 @@ function crearTema(item, categoria, index) {
                 <span class="metrica-numero">
                   ${escaparHTML(item.brecha_perfil)}
                 </span>
-
-                <span>
-                  brecha
-                </span>
+                <span>brecha</span>
               </div>
             `
             : ''
         }
-
 
         ${
           item.diferencia !== undefined &&
@@ -439,10 +423,7 @@ function crearTema(item, categoria, index) {
                 <span class="metrica-numero">
                   ${escaparHTML(item.diferencia)}
                 </span>
-
-                <span>
-                  diferencia
-                </span>
+                <span>diferencia</span>
               </div>
             `
             : ''
@@ -450,9 +431,7 @@ function crearTema(item, categoria, index) {
 
       </div>
 
-
       ${cobertura}
-
 
       ${
         insight
@@ -472,7 +451,6 @@ function crearTema(item, categoria, index) {
           : ''
       }
 
-
       <button
         class="btn-expandir"
         type="button"
@@ -481,9 +459,7 @@ function crearTema(item, categoria, index) {
         <span>↓</span>
       </button>
 
-
       <div class="detalle-expandible">
-
 
         ${
           porQueImporta
@@ -503,7 +479,6 @@ function crearTema(item, categoria, index) {
             : ''
         }
 
-
         ${
           accion
             ? `
@@ -520,12 +495,9 @@ function crearTema(item, categoria, index) {
             : ''
         }
 
-
         ${enfoques}
 
-
         ${ejemplos}
-
 
       </div>
 
@@ -549,10 +521,8 @@ function crearCobertura(cobertura) {
     return '';
   }
 
-
   const maximo =
     obtenerMaxCobertura(cobertura);
-
 
   const medios =
     Object.entries(cobertura)
@@ -564,7 +534,6 @@ function crearCobertura(cobertura) {
         return Number(b[1]) - Number(a[1]);
 
       });
-
 
   return `
 
@@ -592,7 +561,6 @@ function crearCobertura(cobertura) {
 
             const esPerfil =
               medio.toLowerCase() === 'perfil';
-
 
             return `
 
@@ -646,18 +614,15 @@ function crearEnfoques(enfoques) {
     return '';
   }
 
-
   const enfoquesValidos =
     enfoques.filter(enfoque =>
       enfoque &&
       String(enfoque).trim() !== ''
     );
 
-
   if (!enfoquesValidos.length) {
     return '';
   }
-
 
   return `
 
@@ -706,18 +671,15 @@ function crearEjemplos(ejemplos) {
     return '';
   }
 
-
   const ejemplosValidos =
     ejemplos.filter(e =>
       e &&
       (e.titulo || e.link || e.medio)
     );
 
-
   if (!ejemplosValidos.length) {
     return '';
   }
-
 
   return `
 
@@ -733,7 +695,6 @@ function crearEjemplos(ejemplos) {
           const tieneLink =
             e.link &&
             String(e.link).startsWith('http');
-
 
           return `
 
@@ -777,3 +738,4 @@ function crearEjemplos(ejemplos) {
 
 
 cargarDashboard();
+```
