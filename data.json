@@ -2,69 +2,21 @@
   "fecha_analisis": "2026-09-03",
   "hipercompetencia": [
     {
-      "tema": "Declaraciones de Javier Milei en el Foro Madrid en Chile",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 5,
-      "perfil": 0,
-      "competencia_total": 5,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 0,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Concentra la atención de la agenda política regional y genera tensiones diplomáticas directas con España.",
-      "insight": "La agenda exterior de Milei tracciona alto interés en Google Discover debido a la confrontación verbal directa con líderes internacionales.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "",
-      "enfoques_sugeridos": [
-        "Analizar el impacto geopolítico de las declaraciones de Milei en el cono sur y su recepción en los gobiernos vecinos.",
-        "Desglosar los cruces económicos y migratorios específicos que el Presidente mantuvo con figuras de la política española."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "\"En 2025 intentaron hacer un Golpe de Estado\": Milei cuestionó a la izquierda en Chile",
-          "link": "https://www.perfil.com/noticias/politica/javier-milei-participa-del-v-encuentro-regional-del-foro-madrid-que-se-realiza-en-chile.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Javier Milei y sus medidas, en vivo: en Chile, Milei cuestionó a la izquierda global y trató de ladrón a Pedro Sánchez",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Dura crítica de Milei a Pedro Sánchez en el Foro Madrid: “Está facilitando la inmigración descontrolada y degradando sistemáticamente la identidad española”",
-          "link": "https://www.infobae.com/espana/2026/09/03/dura-critica-de-milei-a-pedro-sanchez-en-el-foro-madrid-esta-facilitando-la-inmigracion-descontrolada-y-degradando-sistematicamente-la-identidad-espanola/"
-        }
-      ]
-    },
-    {
       "tema": "Declaraciones de Donald Trump sobre las Islas Malvinas",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 9,
       "cantidad_medios": 6,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 9,
+      "medio_lider": "",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 3,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 2,
@@ -72,17 +24,18 @@
         "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Involucra la diplomacia internacional de Estados Unidos con el reclamo histórico de soberanía argentina sobre las islas.",
-      "insight": "Las menciones sobre Malvinas por parte de líderes de potencias globales generan picos masivos de tráfico orgánico en buscadores.",
+      "por_que_importa": "Concentra una masiva atención de la agenda internacional y política al involucrar a Estados Unidos en el reclamo por la soberanía de las islas.",
+      "insight": "La ambigüedad en las declaraciones de figuras internacionales de peso genera un fuerte rebote inmediato en la audiencia local que busca saber si hubo un cambio real en las alianzas geopolíticas.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Contrastar la respuesta de la administración estadounidense actual con los posicionamientos históricos sobre el Atlántico Sur.",
-        "Evaluar la reacción formal que tuvieron los funcionarios británicos ante el mensaje emitido por el líder republicano."
+        "Analizar el impacto diplomático que generan las respuestas evasivas de líderes mundiales sobre temas sensibles de soberanía.",
+        "Contrastar el historial reciente de los posicionamientos de Estados Unidos respecto al reclamo argentino frente al Reino Unido."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "La Nación",
@@ -102,19 +55,74 @@
       ]
     },
     {
-      "tema": "Asesinato múltiple de un músico y su familia en México con detención de un argentino",
+      "tema": "Suspensión del paro de ATE en los aeropuertos del país",
+      "prioridad": 4,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 8,
+      "cantidad_medios": 6,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 6,
+      "medio_lider": "",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
+      "diferencia": 0,
+      "cobertura": {
+        "Perfil": 2,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Impacta directamente en la movilidad de miles de pasajeros y en la operatividad de los principales centros de transporte aéreo nacional.",
+      "insight": "Las últimas horas antes de una medida de fuerza generan un pico masivo de lecturas impulsadas por la incertidumbre de los viajeros sobre el estado de sus vuelos.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "",
+      "enfoques_sugeridos": [
+        "Detallar el impacto operativo que dejó la medida de fuerza en las conexiones provinciales tras su levantamiento a último momento.",
+        "Relevar las negociaciones sindicales de última hora que evitaron la paralización total de las terminales aéreas."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "A último momento, ATE suspendió el paro en los aeropuertos: qué pasará con los vuelos en Córdoba",
+          "link": "https://www.perfil.com/noticias/cordoba/a-ultimo-momento-ate-suspendio-el-paro-en-los-aeropuertos-que-pasara-con-los-vuelos-en-cordoba.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Se levantó el paro de aeropuertos: cómo siguen los vuelos de hoy, jueves 3 septiembre",
+          "link": "https://www.lanacion.com.ar/sociedad/paro-de-aeropuertos-en-vivo-cuales-son-los-vuelos-afectados-en-el-pais-este-jueves-3-de-septiembre-nid03092026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Tras idas y vueltas, se levantó el paro de ATE en 27 aeropuertos del país",
+          "link": "https://www.clarin.com/economia/paro-aeronautico-27-aeropuertos-pais-comenzo-medida-podria-demoras-cancelaciones-vuelos_0_gURVzHCoDI.html"
+        }
+      ]
+    },
+    {
+      "tema": "Asesinato múltiple de un músico y sus familiares en México con detención de un argentino",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 9,
       "cantidad_medios": 5,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 7,
+      "medio_lider": "",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 2,
-        "La Nación": 2,
         "Clarín": 2,
         "Infobae": 2,
         "TN": 0,
@@ -122,17 +130,18 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Combina un hecho policial internacional de extrema gravedad con la implicación directa de un ciudadano argentino en el exterior.",
-      "insight": "Los casos policiales con ciudadanos nacionales involucrados fuera del país retienen a la audiencia en lectura profunda por el misterio y los detalles de la investigación.",
+      "por_que_importa": "Moviliza el interés público debido a la extrema violencia del caso y a la directa vinculación de un ciudadano argentino en el exterior.",
+      "insight": "Los hechos policiales internacionales con participación de connacionales generan altos niveles de permanencia en lectura y consumo en portales digitales.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Reconstruir paso a paso la cronología del hecho basándose en las pericias y videos obtenidos por la fiscalía mexicana.",
-        "Profundizar en el perfil del músico fallecido y el vínculo previo que mantenía con el sospechoso detenido."
+        "Reconstruir el perfil de las víctimas y el rol del principal sospechoso en la causa que conmociona a la opinión pública.",
+        "Desarrollar el estado actual de la investigación policial y judicial a cargo de las autoridades mexicanas."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "Perfil",
@@ -152,171 +161,182 @@
       ]
     },
     {
-      "tema": "Suspensión del paro de ATE en los aeropuertos del país",
+      "tema": "Advertencia de la ONU sobre la intensidad del fenómeno de El Niño",
       "prioridad": 4,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 8,
-      "cantidad_medios": 6,
+      "total_notas": 7,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 6,
+      "competencia_total": 4,
+      "medio_lider": "",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 2,
-        "La Nación": 2,
+        "Perfil": 3,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Afecta directamente la logística diaria, el turismo y los planes de viaje de miles de pasajeros en múltiples terminales aéreas.",
-      "insight": "Las alertas de transporte generan consultas masivas en tiempo real debido a la incertidumbre sobre la operatividad de los vuelos.",
+      "por_que_importa": "Anticipa escenarios climáticos extremos que afectan directamente al sector productivo, la economía nacional y la seguridad de las poblaciones vulnerables.",
+      "insight": "Las proyecciones climáticas a largo plazo con respaldo de organismos internacionales movilizan el interés de lectores interesados en el impacto ambiental y económico.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Detallar el estado actual de las operaciones en los principales aeropuertos tras la anulación de la medida de fuerza.",
-        "Explicar cuáles fueron las negociaciones de última hora que permitieron destrabar el conflicto gremial en el sector."
+        "Explicar las medidas de prevención que exigen los especialistas frente al pronóstico de un fenómeno climático histórico.",
+        "Evaluar el impacto económico que las alteraciones climáticas pronosticadas provocarán en las economías regionales."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "A último momento, ATE suspendió el paro en los aeropuertos: qué pasará con los vuelos en Córdoba",
-          "link": "https://www.perfil.com/noticias/cordoba/a-ultimo-momento-ate-suspendio-el-paro-en-los-aeropuertos-que-pasara-con-los-vuelos-en-cordoba.phtml"
+          "titulo": "El Niño puede ser el más fuerte en los últimos 40 años según la ONU",
+          "link": "https://www.perfil.com/noticias/clima/el-nino-puede-ser-el-a50-mas-fuerte-en-los-ultimos-40-anos-segun-la-onu.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Se levantó el paro de aeropuertos: cómo siguen los vuelos de hoy, jueves 3 septiembre",
-          "link": "https://www.lanacion.com.ar/sociedad/paro-de-aeropuertos-en-vivo-cuales-son-los-vuelos-afectados-en-el-pais-este-jueves-3-de-septiembre-nid03092026/"
+          "titulo": "La ONU confirmó que El Niño será el más fuerte que se haya registrado: sus efectos hacia el verano en Sudamérica",
+          "link": "https://www.lanacion.com.ar/sociedad/naciones-unidas-advierte-que-sera-el-mas-fuerte-registrado-hasta-ahora-y-durara-hasta-febrero-como-nid03092026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Tras idas y vueltas, se levantó el paro de ATE en 27 aeropuertos del país",
-          "link": "https://www.clarin.com/economia/paro-aeronautico-27-aeropuertos-pais-comenzo-medida-podria-demoras-cancelaciones-vuelos_0_gURVzHCoDI.html"
+          "titulo": "Advierten que El Niño durará hasta febrero: la argentina que pide calma, pero exige prevención",
+          "link": "https://www.clarin.com/mundo/advierten-nino-durara-febrero-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
         }
       ]
     }
   ],
   "perfil_pierde": [
     {
-      "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
+      "tema": "Declaraciones de Javier Milei en el Foro Madrid en Chile",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 6,
       "cantidad_medios": 5,
-      "perfil": 0,
+      "cobertura_perfil": 1,
+      "perfil": 1,
       "competencia_total": 0,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 3,
-        "Página 12": 0,
-        "El Cronista": 1
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 0
       },
-      "por_que_importa": "El anuncio presidencial mediante cadena nacional sobre un tema tan sensible como Malvinas moviliza el debate político nacional.",
-      "insight": "La cobertura anticipada de anuncios presidenciales con horarios y precisiones capta el interés inmediato de la audiencia política.",
+      "por_que_importa": "Fija la postura internacional del Presidente y sus cruces con líderes extranjeros, marcando la agenda política exterior del Gobierno.",
+      "insight": "La cobertura de los discursos presidenciales en foros internacionales requiere un seguimiento en vivo y enfoques múltiples para no perder terreno frente a competidores directos.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Analizar el trasfondo político y estratégico que motivó al Ejecutivo a elegir esta fecha para hablar sobre soberanía.",
-        "Recopilar las expectativas de los diferentes bloques legislativos frente al mensaje oficial previsto para el jueves."
+        "Profundizar en la repercusión diplomática que generan en la región las duras críticas presidenciales a mandatarios extranjeros.",
+        "Analizar la estrategia discursiva de la administración libertaria en su inserción dentro de las redes políticas de la derecha global."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Día 999: Milei y el último 'nosotros', las Malvinas",
-          "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-999-milei-y-el-ultimo-nosotros-las-malvinas-modof.phtml"
+          "titulo": "\"En 2025 intentaron hacer un Golpe de Estado\": Milei cuestionó a la izquierda en Chile",
+          "link": "https://www.perfil.com/noticias/politica/javier-milei-participa-del-v-encuentro-regional-del-foro-madrid-que-se-realiza-en-chile.phtml"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Javier Milei hablará en cadena nacional el jueves sobre las Islas Malvinas",
-          "link": "https://www.ambito.com/politica/javier-milei-hablara-cadena-nacional-el-jueves-malvinas-n6317193"
+          "medio": "La Nación",
+          "titulo": "Javier Milei y sus medidas, en vivo: en Chile, Milei cuestionó a la izquierda global y trató de ladrón a Pedro Sánchez",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/"
         },
         {
-          "medio": "El Cronista",
-          "titulo": "Javier Milei hablará por cadena nacional sobre Malvinas: a qué hora",
-          "link": "https://www.cronista.com/economia-politica/javier-milei-hablara-por-cadena-nacional-sobre-malvinas-a-que-hora/"
+          "medio": "Infobae",
+          "titulo": "Dura crítica de Milei a Pedro Sánchez en el Foro Madrid: “Está facilitando la inmigración descontrolada y degradando sistemáticamente la identidad española”",
+          "link": "https://www.infobae.com/espana/2026/09/03/dura-critica-de-milei-a-pedro-sanchez-en-el-foro-madrid-esta-facilitando-la-inmigracion-descontrolada-y-degradando-sistematicamente-la-identidad-espanola/"
         }
       ]
     },
     {
-      "tema": "Desaparición de estudiante universitario en La Plata",
-      "prioridad": 4,
+      "tema": "Denuncia de Marcela Pagano contra la secretaria de Ciencia Adriana Baravalle por doctorado en IA",
+      "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 4,
-      "cantidad_medios": 3,
-      "perfil": 0,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 1,
+      "perfil": 1,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "Página 12",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "diferencia": -1,
       "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
+        "Perfil": 1,
+        "Clarín": 0,
         "Infobae": 0,
-        "TN": 2,
+        "TN": 0,
         "Ámbito": 0,
-        "Página 12": 0,
+        "Página 12": 2,
         "El Cronista": 0
       },
-      "por_que_importa": "La búsqueda con vida de un joven en plena vía pública moviliza a la comunidad universitaria y genera genuina preocupación social.",
-      "insight": "Los casos de personas desaparecidas en zonas urbanas de alta densidad generan un fuerte impacto de lectura local y nacional.",
+      "por_que_importa": "Involucra cuestionamientos internos de la política oficial sobre la validez de títulos académicos en funcionarios del área científica.",
+      "insight": "Las disputas y denuncias penales dentro del arco político generan alto interés en audiencias interesadas en la transparencia institucional y el manejo del Estado.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Describir el recorrido exacto que realizó el estudiante antes de perder contacto con su entorno familiar y académico.",
-        "Recopilar los datos clave y vías de contacto dispuestas oficialmente para aportar información sobre su paradero."
+        "Investigar los antecedentes administrativos y el funcionamiento de las instituciones universitarias señaladas en la denuncia penal.",
+        "Contrastar las declaraciones de los legisladores denunciantes con los descargos formales de las autoridades del área de ciencia."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
+          "medio": "Perfil",
+          "titulo": "“Me recibí en ocho días”: Pagano cuestionó el doctorado en IA de Adriana Baravalle y la denunció penalmente",
+          "link": "https://www.perfil.com/noticias/politica/me-recibi-en-ocho-dias-pagano-cuestiono-el-doctorado-en-ia-de-adriana-baravalle-y-la-denuncio-penalmente.phtml"
+        },
+        {
           "medio": "La Nación",
-          "titulo": "Buscan a un estudiante universitario que fue a entregar un trabajo en La Plata y desapareció",
-          "link": "https://www.lanacion.com.ar/sociedad/buscan-a-un-estudiante-universitario-que-fue-a-entregar-un-trabajo-en-la-plata-y-desaparecio-nid02092026/"
+          "titulo": "Marcela Pagano denunció que la secretaria de Ciencia, Adriana Baravalle, compró un doctorado en IA",
+          "link": "https://www.lanacion.com.ar/politica/marcela-pagano-denuncio-que-la-secretaria-de-ciencia-adriana-baravalle-compro-un-doctorado-en-ia-nid03092026/"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Buscan a Mariano Martínez, un estudiante de 21 años de la Universidad de La Plata que desapareció el lunes",
-          "link": "https://www.clarin.com/sociedad/buscan-mariano-martinez-estudiante-21-anos-universidad-plata-desaparecio-lunes_0_yl9QHbcGxI.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Buscan a un estudiante de 21 años que desapareció tras ir a entregar un trabajo a la facultad en La Plata",
-          "link": "https://tn.com.ar/sociedad/2026/09/02/buscan-a-un-estudiante-de-21-anos-que-desaparecio-tras-ir-a-entregar-un-trabajo-a-la-facultad-en-la-plata/"
+          "medio": "Página 12",
+          "titulo": "Denuncian que la secretaria de Ciencia hizo su doctorado en una universidad que vende títulos por 400 dólares",
+          "link": "https://www.pagina12.com.ar/2026/09/02/denuncian-que-la-secretaria-de-ciencia-hizo-su-doctorado-en-una-universidad-que-vende-titulos-por-400-dolares/"
         }
       ]
     },
     {
-      "tema": "Fallecimiento de exfuncionario de la Procuración previo a declarar en causa de corrupción",
-      "prioridad": 1,
+      "tema": "Declaraciones de la UIA sobre política económica del Gobierno y respuestas oficiales",
+      "prioridad": 3,
       "tipo": "",
       "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
+      "total_notas": 4,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 1,
+      "perfil": 1,
       "competencia_total": 0,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 0,
-        "La Nación": 0,
+        "Perfil": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
@@ -324,27 +344,33 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Involucra un hecho judicial de alto voltaje institucional vinculado a expedientes sensibles de corrupción.",
-      "insight": "Las muertes repentinas de personas vinculadas a causas judiciales complejas movilizan el interés de la audiencia por su peso político.",
+      "por_que_importa": "Expone la tensión persistente entre el modelo económico oficial y el sector industrial ante el impacto de la apertura y la transición productiva.",
+      "insight": "El cruce entre cúpulas fabriles y funcionarios económicos moviliza lecturas orientadas a entender el pulso real de la actividad y la producción.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Investigar el estado procesal exacto en el que se encontraba la causa en la que debía prestar declaración el exfuncionario.",
-        "Informar sobre los peritajes iniciales ordenados por la justicia para esclarecer las circunstancias del deceso en la vía pública."
+        "Analizar el impacto real de la transición económica sobre las pymes y las grandes plantas fabriles del país.",
+        "Relevar las demandas sectoriales de regímenes de promoción industrial frente a las respuestas de la cartera económica."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
-          "medio": "Clarín",
-          "titulo": "Un exfuncionario de la Procuración tenía que declarar en un caso de corrupción K y apareció muerto en la calle",
-          "link": "https://www.clarin.com/politica/exfuncionario-procuracion-declarar-caso-corrupcion-k-aparecio-muerto-calle_0_M9nPgdndaX.html"
+          "medio": "Perfil",
+          "titulo": "Vice de la UIA sobre el Gobierno: \"Esta gente no conoce el país, no sabe lo que es una fábrica”",
+          "link": "https://www.perfil.com/noticias/nea/vice-de-la-uia-sobre-el-gobierno-esta-gente-no-conoce-el-pais-no-sabe-lo-lo-que-es-una-fabrica.phtml"
         },
         {
-          "medio": "TN",
-          "titulo": "Encontraron muerto en la calle a un exfuncionario de la Procuración que iba a ser juzgado en una causa de corrupción K",
-          "link": "https://tn.com.ar/politica/2026/09/03/encontraron-muerto-en-la-calle-a-un-exfuncionario-de-la-procuracion-que-iba-a-ser-juzgado-en-una-causa-de-corrupcion-k/"
+          "medio": "La Nación",
+          "titulo": "Luis Caputo respondió a las críticas de la UIA sobre las políticas económicas del Gobierno",
+          "link": "https://www.lanacion.com.ar/economia/luis-caputo-respondio-a-las-criticas-de-la-uia-a-las-politicas-economicas-del-gobierno-nid02092026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Tras las duras críticas a Milei, la UIA le pide un RIGI industrial y un pacto fiscal: \"Esta transición es muy dura\"",
+          "link": "https://www.clarin.com/economia/duras-criticas-milei-uia-pide-rigi-industrial-pacto-fiscal-transicion-dura_0_cN1uYrwJiB.html"
         }
       ]
     },
@@ -355,13 +381,15 @@
       "tipo_de_oportunidad": "",
       "total_notas": 2,
       "cantidad_medios": 2,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "diferencia": -1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 0,
@@ -369,17 +397,18 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Define la conducción del gremio con mayor cantidad de afiliados del país en medio de disputas legales internas.",
-      "insight": "La renovación de liderazgos sindicales históricos mediante fallos judiciales atrae a analistas y lectores interesados en la dinámica gremial.",
+      "por_que_importa": "Define la continuidad de uno de los liderazgos sindicales más longevos y poderosos de la Argentina tras resoluciones de la justicia laboral.",
+      "insight": "Las definiciones judiciales que alteran el tablero gremial interno atraen el interés de analistas y lectores vinculados al mundo del trabajo.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Explicar los argumentos del fallo judicial que determinaron la exclusión de la lista opositora en los comicios mercantiles.",
-        "Analizar el impacto que tendrá este undécimo mandato en la relación del sindicato con la política laboral del Gobierno."
+        "Detallar los argumentos del fallo judicial que determinó la exclusión del sector opositor en los comicios mercantiles.",
+        "Evaluar el peso político que conserva la conducción histórica del gremio mercantil en el actual escenario laboral."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "La Nación",
@@ -402,13 +431,15 @@
       "tipo_de_oportunidad": "",
       "total_notas": 2,
       "cantidad_medios": 2,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "diferencia": -1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 0,
@@ -416,17 +447,18 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Afecta de forma directa las relaciones diplomáticas y comerciales bilaterales con una de las potencias económicas mundiales.",
-      "insight": "Los cortocircuitos diplomáticos con potencias generan alto tráfico por la sensibilidad comercial que implican para el país.",
+      "por_que_importa": "Afecta directamente la diplomacia comercial y las relaciones bilaterales estratégicas con una de las potencias globales clave para la economía local.",
+      "insight": "Las tensiones diplomáticas oficiales con potencias asiáticas generan alto tráfico informativo ante el temor de represalias comerciales.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Detallar cuáles fueron las declaraciones específicas del funcionario libertario que motivaron la convocatoria urgente del embajador.",
-        "Analizar las posibles consecuencias económicas que este roce diplomático podría acarrear para los acuerdos vigentes."
+        "Analizar el impacto económico que podría tener una escalada diplomática con el principal socio comercial del país.",
+        "Relevar los motivos específicos que llevaron a la Cancillería china a convocar de urgencia al embajador argentino."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "La Nación",
@@ -441,64 +473,21 @@
       ]
     },
     {
-      "tema": "Designación de jueces federales Bertuzzi y Yadarola",
-      "prioridad": 5,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Modifica la composición de tribunales clave en Comodoro Py, impactando en el equilibrio de poder del fuero federal.",
-      "insight": "Los nombramientos en la justicia federal interesan a los lectores especializados en política judicial y manejo de causas sensibles.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "",
-      "enfoques_sugeridos": [
-        "Repasar el expediente y los antecedentes de los magistrados que asumirán sus funciones en la Cámara Federal porteña.",
-        "Evaluar el peso político que adquieren estas designaciones dentro del engranaje judicial actual."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "TN",
-          "titulo": "El Gobierno oficializó las designaciones de dos jueces que ocuparán un tribunal estratégico: jurarán hoy en Comodoro Py",
-          "link": "https://tn.com.ar/politica/2026/09/02/el-gobierno-oficializo-las-designaciones-de-los-jueces-bertuzzi-y-yadarola-juraran-este-jueves-en-comodoro-py/"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "Milei nombró a Bertuzzi y Yadarola en la Cámara Federal porteña",
-          "link": "https://www.pagina12.com.ar/2026/09/02/milei-nombro-a-bertuzzi-y-yadarola-en-la-camara-federal-portena/"
-        }
-      ]
-    },
-    {
       "tema": "Fallecimiento de exfuncionario de la Procuración previo a declarar en causa de corrupción",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 2,
       "cantidad_medios": 2,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "diferencia": -1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 0,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
@@ -506,17 +495,18 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Involucra un hecho judicial de alto voltaje institucional vinculado a expedientes sensibles de corrupción.",
-      "insight": "Las muertes repentinas de personas vinculadas a causas judiciales complejas movilizan el interés de la audiencia por su peso político.",
+      "por_que_importa": "Conmueve al ámbito judicial y político por el peso institucional de la causa en la que debía prestar declaración indagatoria.",
+      "insight": "Los decesos repentinos vinculados a expedientes judiciales sensibles movilizan con fuerza el interés de los lectores de crónica política y judicial.",
       "motivo": "",
       "motivo_oportunidad": "",
       "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Investigar el estado procesal exacto en el que se encontraba la causa en la que debía prestar declaración el exfuncionario.",
-        "Informar sobre los peritajes iniciales ordenados por la justicia para esclarecer las circunstancias del deceso en la vía pública."
+        "Detallar el estado procesal de la causa por corrupción en la que figuraba como imputado el exfuncionario fallecido.",
+        "Recopilar los peritajes iniciales y las actuaciones policiales en torno al hallazgo del cuerpo en la vía pública."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "Clarín",
@@ -531,161 +521,21 @@
       ]
     },
     {
-      "tema": "Reelección de Armando Cavalieri al frente del Sindicato de Comercio tras fallo judicial",
-      "prioridad": 1,
+      "tema": "Designación de jueces federales Bertuzzi y Yadarola",
+      "prioridad": 5,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 2,
       "cantidad_medios": 2,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "diferencia": -1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Define la conducción del gremio con mayor cantidad de afiliados del país en medio de disputas legales internas.",
-      "insight": "La renovación de liderazgos sindicales históricos mediante fallos judiciales atrae a analistas y lectores interesados en la dinámica gremial.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "",
-      "enfoques_sugeridos": [
-        "Explicar los argumentos del fallo judicial que determinaron la exclusión de la lista opositora en los comicios mercantiles.",
-        "Analizar el impacto que tendrá este undécimo mandato en la relación del sindicato con la política laboral del Gobierno."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Un fallo judicial excluyó a la oposición y Armando Cavalieri se asegura su undécimo mandato al frente del Sindicato de Comercio",
-          "link": "https://www.lanacion.com.ar/politica/un-fallo-judicial-excluyo-a-la-oposicion-y-armando-cavalieri-se-asegura-su-undecimo-mandato-al-nid03092026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Comercio: la Justicia excluyó a la oposición y Cavalieri va por la reelección.",
-          "link": "https://www.clarin.com/politica/comercio-justicia-excluyo-oposicion-cavalieri-va-reeleccion_0_Ksv0559IOT.html"
-        }
-      ]
-    }
-  ],
-  "oportunidades": [
-    {
-      "tema": "Queja formal de China a la Argentina por dichos de funcionarios de Milei",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "Cobertura cero propia frente a competidores directos en un tema diplomático clave.",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Permite cubrir un flanco geopolítico y comercial fundamental que la competencia ya abordó con rigor.",
-      "insight": "",
-      "motivo": "",
-      "motivo_oportunidad": "Perfil posee cero notas publicadas sobre este conflicto diplomático urgente.",
-      "accion_sugerida": "Publicar un artículo de urgencia detallando los motivos de la protesta china y las implicancias económicas para la cancillería local.",
-      "enfoques_sugeridos": [
-        "Consultar a especialistas en comercio exterior para dimensionar el riesgo de represalias económicas por parte de Beijing.",
-        "Revisar el historial de declaraciones de funcionarios libertarios que generaron cortocircuios con la potencia asiática."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "China hizo una queja formal ante la Argentina por los dichos de un funcionario de Milei",
-          "link": "https://www.lanacion.com.ar/politica/china-hizo-una-queja-formal-ante-la-argentina-por-los-dichos-de-un-funcionario-de-milei-nid03092026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "La Cancillería china convocó de carácter \"urgente\" al embajador argentino por las declaraciones de un funcionario de Milei",
-          "link": "https://www.clarin.com/politica/cancilleria-china-convoco-caracter-urgente-embajador-argentino-declaraciones-funcionario-milei_0_WSvp4GujFM.html"
-        }
-      ]
-    },
-    {
-      "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
-      "prioridad": 3,
-      "tipo": "",
-      "tipo_de_oportunidad": "Servicio esencial con impacto directo en el bolsillo y la movilidad cotidiana de los usuarios.",
-      "total_notas": 6,
-      "cantidad_medios": 5,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 2,
-        "Ámbito": 0,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "La imposibilidad de cargar la tarjeta de transporte genera filas y desconcierto inmediato en los pasajeros.",
-      "insight": "",
-      "motivo": "",
-      "motivo_oportunidad": "Existe una brecha con la competencia y se trata de un tema de utilidad práctica directa para la audiencia urbana.",
-      "accion_sugerida": "Ampliar el servicio con una guía paso a paso sobre los métodos alternativos de pago ante la caída de la aplicación.",
-      "enfoques_sugeridos": [
-        "Explicar detalladamente cómo validar las cargas pendientes de manera presencial en terminales automáticas.",
-        "Informar los canales oficiales de reclamo habilitados para los usuarios que sufrieron descuentos indebidos o fallas de sistema."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "SUBE registra demoras en la acreditación de cargas: qué hacer y cómo pagar el viaje",
-          "link": "https://www.perfil.com/noticias/economia/sube-registra-demoras-en-la-acreditacion-de-cargas-que-hacer-y-como-pagar-el-viaje.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "¿No funciona la SUBE en el celular hoy? Por qué reportan fallas sobre el saldo en la aplicación",
-          "link": "https://www.lanacion.com.ar/sociedad/no-funciona-la-sube-en-el-celular-hoy-por-que-reportan-fallas-sobre-el-saldo-en-la-aplicacion-nid03092026/"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Tras más de cinco horas, volvió a funcionar el sistema para cargar la SUBE desde el celular",
-          "link": "https://tn.com.ar/sociedad/2026/09/03/se-cayo-el-sistema-para-cargar-la-sube-desde-el-celular-y-largas-filas-en-constitucion/"
-        }
-      ]
-    },
-    {
-      "tema": "Designación de jueces federales Bertuzzi y Yadarola",
-      "prioridad": 5,
-      "tipo": "",
-      "tipo_de_oportunidad": "Cobertura cero en un nombramiento judicial de alto impacto institucional en Comodoro Py.",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 0,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 1,
@@ -693,17 +543,18 @@
         "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Los cambios en la estructura de los tribunales federales configuran el escenario de las causas de corrupción y poder.",
-      "insight": "",
+      "por_que_importa": "Modifica la conformación de tribunales federales estratégicos con alto impacto en causas de corrupción y poder político.",
+      "insight": "Los movimientos en la justicia federal atraen a una audiencia especializada que sigue de cerca la dinámica de los tribunales de Comodoro Py.",
       "motivo": "",
-      "motivo_oportunidad": "Perfil no cuenta con cobertura propia sobre la jura oficializada en los tribunales.",
-      "accion_sugerida": "Publicar un perfil técnico y político sobre los magistrados designados y el rol que cumplirán en la Cámara Federal.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "",
       "enfoques_sugeridos": [
-        "Describir la relevancia institucional de la jura de los jueces en el tribunal estratégico de Comodoro Py.",
-        "Analizar el impacto de estas designaciones en las causas sensibles que tramitan en el fuero federal porteño."
+        "Analizar la trayectoria de los magistrados designados y el peso político de sus nuevos destinos en Comodoro Py.",
+        "Revisar los antecedentes de las causas que recaerán bajo la órbita de los jueces oficializados por el Ejecutivo."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "TN",
@@ -718,19 +569,119 @@
       ]
     },
     {
+      "tema": "Demanda judicial de Chiqui Tapia contra Jonatan Viale y TN por video con Inteligencia Artificial",
+      "prioridad": 5,
+      "tipo": "",
+      "tipo_de_oportunidad": "",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 0,
+      "medio_lider": "Perfil",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "diferencia": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Cruza el poder dirigencial del fútbol argentino con los límites legales del uso de inteligencia artificial en medios masivos de comunicación.",
+      "insight": "Los litigios judiciales entre figuras del deporte y conductores televisivos generan un atractivo cruce de audiencias masivas.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "",
+      "enfoques_sugeridos": [
+        "Examinar los fundamentos legales de la demanda por daños y perjuicios vinculada a la manipulación digital de contenidos.",
+        "Analizar el precedente que este tipo de demandas puede sentar para la regulación de deepfakes y contenidos generados por IA en medios."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Chiqui Tapia llevó a la Justicia a Jonatan Viale y TN por un video hecho con IA que hablaba de “violar” a Nico Paz",
+          "link": "https://www.perfil.com/noticias/judiciales/chiqui-tapia-llevo-a-la-justicia-a-jonatan-viale-y-tn-por-un-video-hecho-con-ia-que-hablaba-de-violar-a-nico-paz.phtml"
+        }
+      ]
+    }
+  ],
+  "oportunidades": [
+    {
+      "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
+      "prioridad": 1,
+      "tipo": "",
+      "tipo_de_oportunidad": "Cobertura con brecha alta y anticipación de agenda oficial",
+      "total_notas": 6,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 0,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 3,
+      "brecha": 2,
+      "diferencia": -2,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 3,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Anticipa un mensaje presidencial de fuerte contenido simbólico y geopolítico que dominará la conversación pública en la jornada.",
+      "insight": "",
+      "motivo": "",
+      "motivo_oportunidad": "Permite a Perfil liderar la previa con un análisis de los ejes que tocará el mandatario antes de que se emita el mensaje formal.",
+      "accion_sugerida": "Publicar un anticipo enfocado en la estrategia comunicacional detrás de la cadena nacional sobre soberanía.",
+      "enfoques_sugeridos": [
+        "Desglosar los antecedentes diplomáticos que motivaron la decisión presidencial de utilizar la cadena nacional para hablar de Malvinas.",
+        "Analizar el impacto político interno que busca el Gobierno al priorizar el reclamo de soberanía en su discurso oficial."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Día 999: Milei y el último 'nosotros', las Malvinas",
+          "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-999-milei-y-el-ultimo-nosotros-las-malvinas-modof.phtml"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Javier Milei hablará en cadena nacional el jueves sobre las Islas Malvinas",
+          "link": "https://www.ambito.com/politica/javier-milei-hablara-cadena-nacional-el-jueves-malvinas-n6317193"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Javier Milei hablará por cadena nacional sobre Malvinas: a qué hora",
+          "link": "https://www.cronista.com/economia-politica/javier-milei-hablara-por-cadena-nacional-sobre-malvinas-a-que-hora/"
+        }
+      ]
+    },
+    {
       "tema": "Desaparición de estudiante universitario en La Plata",
       "prioridad": 4,
       "tipo": "",
-      "tipo_de_oportunidad": "Cobertura cero en un caso de búsqueda de persona con alta sensibilidad social.",
+      "tipo_de_oportunidad": "Cobertura con brecha frente a la competencia",
       "total_notas": 4,
       "cantidad_medios": 3,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "diferencia": -2,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 2,
@@ -738,17 +689,18 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Moviliza a la comunidad académica y genera fuerte empatía y lectura en los portales informativos.",
+      "por_que_importa": "Genera profunda conmoción social y moviliza la urgencia informativa en torno a la búsqueda de personas.",
       "insight": "",
       "motivo": "",
-      "motivo_oportunidad": "Perfil registra cero publicaciones sobre el caso frente a la cobertura activa de competidores.",
-      "accion_sugerida": "Desarrollar un seguimiento exhaustivo de la investigación policial con los datos aportados por los familiares en La Plata.",
+      "motivo_oportunidad": "Perfil no cuenta con notas propias y la competencia concentra búsquedas activas de la comunidad universitaria.",
+      "accion_sugerida": "Desarrollar un seguimiento de los rastrillajes policiales y los datos aportados por los investigadores en La Plata.",
       "enfoques_sugeridos": [
-        "Difundir los datos filiatorios y de contacto para colaborar de forma directa con la búsqueda del joven desaparecido.",
-        "Recoger el testimonio de compañeros y autoridades de la facultad donde el estudiante debía entregar su trabajo."
+        "Reconstruir cronológicamente los últimos movimientos del joven antes de perder contacto con su familia en La Plata.",
+        "Detallar las vías de contacto oficiales habilitadas para aportar información útil sobre el paradero del estudiante."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "La Nación",
@@ -766,23 +718,23 @@
           "link": "https://tn.com.ar/sociedad/2026/09/02/buscan-a-un-estudiante-de-21-anos-que-desaparecio-tras-ir-a-entregar-un-trabajo-a-la-facultad-en-la-plata/"
         }
       ]
-    }
-  ],
-  "audiencia": [
+    },
     {
       "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
       "prioridad": 3,
       "tipo": "",
-      "tipo_de_oportunidad": "Información de servicio esencial para la movilidad diaria.",
+      "tipo_de_oportunidad": "Servicios y utilidad directa para la audiencia",
       "total_notas": 6,
       "cantidad_medios": 5,
-      "perfil": 0,
+      "cobertura_perfil": 1,
+      "perfil": 1,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "diferencia": -1,
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 2,
@@ -790,17 +742,124 @@
         "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Resuelve un problema cotidiano urgente que afecta a miles de usuarios que dependen del transporte público.",
+      "por_que_importa": "Afecta la movilidad cotidiana de millones de usuarios del transporte público que dependen del saldo digital.",
       "insight": "",
-      "motivo": "Tiene un potencial masivo de búsqueda activa en Google Discover y utilidad inmediata para la ciudadanía.",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Actualizar el estado del sistema en tiempo real y detallar soluciones alternativas para viajar sin saldo acreditado.",
+      "motivo": "",
+      "motivo_oportunidad": "Es un tema de altísimo valor práctico donde la audiencia busca soluciones inmediatas y respuestas de servicio.",
+      "accion_sugerida": "Crear una guía de servicio interactiva con alternativas de pago y estado del sistema en tiempo real.",
       "enfoques_sugeridos": [
-        "Crear una guía práctica sobre cómo validar cargas de manera presencial ante la caída de la aplicación móvil.",
-        "Explicar los motivos técnicos por los cuales se reportaron fallas masivas en el sistema de validación."
+        "Explicar paso a paso qué canales alternativos de recarga funcionan cuando la aplicación oficial registra fallas técnicas.",
+        "Detallar los puntos de atención presencial habilitados para destrabar acreditaciones pendientes de saldo."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "SUBE registra demoras en la acreditación de cargas: qué hacer y cómo pagar el viaje",
+          "link": "https://www.perfil.com/noticias/economia/sube-registra-demoras-en-la-acreditacion-de-cargas-que-hacer-y-como-pagar-el-viaje.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "¿No funciona la SUBE en el celular hoy? Por qué reportan fallas sobre el saldo en la aplicación",
+          "link": "https://www.lanacion.com.ar/sociedad/no-funciona-la-sube-en-el-celular-hoy-por-que-reportan-fallas-sobre-el-saldo-en-la-aplicacion-nid03092026/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Tras más de cinco horas, volvió a funcionar el sistema para cargar la SUBE desde el celular",
+          "link": "https://tn.com.ar/sociedad/2026/09/03/se-cayo-el-sistema-para-cargar-la-sube-desde-el-celular-y-largas-filas-en-constitucion/"
+        }
+      ]
+    },
+    {
+      "tema": "Queja formal de China a la Argentina por dichos de funcionarios de Milei",
+      "prioridad": 2,
+      "tipo": "",
+      "tipo_de_oportunidad": "Tema sin cobertura previa de Perfil",
+      "total_notas": 2,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 0,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "diferencia": -1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Involucra un rispido conflicto diplomático con una superpotencia que impacta en los vínculos comerciales de la gestión.",
+      "insight": "",
+      "motivo": "",
+      "motivo_oportunidad": "Permite cubrir un vacío informativo en la sección internacional y política donde la competencia ya marcó agenda.",
+      "accion_sugerida": "Publicar un análisis de las declaraciones que provocaron la convocatoria formal del embajador argentino en Beijing.",
+      "enfoques_sugeridos": [
+        "Evaluar las consecuencias geopolíticas y comerciales de mantener cortocircuitos diplomáticos con la potencia asiática.",
+        "Revisar el historial de tensiones verbales entre funcionarios del Gobierno y la administración de China."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "China hizo una queja formal ante la Argentina por los dichos de un funcionario de Milei",
+          "link": "https://www.lanacion.com.ar/politica/china-hizo-una-queja-formal-ante-la-argentina-por-los-dichos-de-un-funcionario-de-milei-nid03092026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "La Cancillería china convocó de carácter \"urgente\" al embajador argentino por las declaraciones de un funcionario de Milei",
+          "link": "https://www.clarin.com/politica/cancilleria-china-convoco-caracter-urgente-embajador-argentino-declaraciones-funcionario-milei_0_WSvp4GujFM.html"
+        }
+      ]
+    }
+  ],
+  "audiencia": [
+    {
+      "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
+      "prioridad": 3,
+      "tipo": "",
+      "tipo_de_oportunidad": "Servicios y utilidad directa para la audiencia",
+      "total_notas": 6,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 0,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "diferencia": -1,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 2,
+        "Ámbito": 0,
+        "Página 12": 1,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Tiene un impacto masivo y directo sobre el bolsillo y el traslado cotidiano de los trabajadores.",
+      "insight": "",
+      "motivo": "Alto potencial de búsquedas en Google Discover y consultas recurrentes de servicio por fallas técnicas en medios de pago.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desarrollar una cobertura orientada a dar soluciones inmediatas a los pasajeros afectados por la caída del sistema.",
+      "enfoques_sugeridos": [
+        "Explicar qué hacer si la aplicación móvil no actualiza el saldo y cómo validar las cargas pendientes.",
+        "Detallar las alternativas vigentes para abonar el transporte público ante la imposibilidad de acreditar saldo digital."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "titulos_sugeridos": [
+        "Fallas en la SUBE: qué pasa con las recargas y cómo viajar si no se acredita el saldo",
+        "Colapso en la SUBE: por qué falló la aplicación y cuáles son las alternativas para pagar el boleto"
+      ],
       "ejemplos": [
         {
           "medio": "Perfil",
@@ -823,16 +882,18 @@
       "tema": "Desaparición de estudiante universitario en La Plata",
       "prioridad": 4,
       "tipo": "",
-      "tipo_de_oportunidad": "Cobertura cero en un caso de búsqueda con alto impacto emocional en la audiencia.",
+      "tipo_de_oportunidad": "Tema sin cobertura de Perfil con fuerte impacto social",
       "total_notas": 4,
       "cantidad_medios": 3,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "diferencia": -2,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 2,
@@ -840,17 +901,21 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Genera profunda empatía y genera altos niveles de lectura e interacción social en la web.",
+      "por_que_importa": "Moviliza la solidaridad social y la atención masiva de lectores en busca de información de utilidad y servicio comunitario.",
       "insight": "",
-      "motivo": "Perfil no cubrió la noticia, dejando un vacío importante frente a la competencia en un tema de interés social directo.",
+      "motivo": "Alto consumo en portales de noticias debido a la urgencia y sensibilidad que despiertan los casos de búsqueda de personas.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un informe urgente con la cronología de los hechos y los canales oficiales para aportar datos sobre el joven.",
+      "accion_sugerida": "Publicar actualizaciones permanentes con los datos útiles para colaborar en la localización del joven.",
       "enfoques_sugeridos": [
-        "Recopilar los últimos movimientos registrados por las cámaras de seguridad en la zona universitaria de La Plata.",
-        "Difundir los números de contacto directo aportados por la familia para recibir cualquier pista sobre su paradero."
+        "Recopilar los datos clave sobre el trayecto del estudiante universitario desaparecido en La Plata.",
+        "Difundir los teléfonos de contacto oficiales aportados por la familia y la policía para colaborar con la búsqueda."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [
+        "Intensa búsqueda en La Plata: qué se sabe del estudiante universitario que desapareció tras entregar un trabajo",
+        "Desaparición en La Plata: los detalles del caso y los números para aportar datos sobre el joven buscado"
+      ],
       "ejemplos": [
         {
           "medio": "La Nación",
@@ -870,19 +935,77 @@
       ]
     },
     {
+      "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
+      "prioridad": 1,
+      "tipo": "",
+      "tipo_de_oportunidad": "Cobertura con brecha frente a la competencia en tema de alto interés",
+      "total_notas": 6,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 0,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 3,
+      "brecha": 2,
+      "diferencia": -2,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 3,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Concentra la atención política nacional ante un anuncio presidencial de alto voltaje simbólico sobre la soberanía territorial.",
+      "insight": "",
+      "motivo": "Gran tracción de tráfico en Google Discover por la expectativa en torno a los anuncios del jefe de Estado.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Ampliar la cobertura con enfoques analíticos sobre el contenido y el impacto político del mensaje presidencial.",
+      "enfoques_sugeridos": [
+        "Analizar el impacto geopolítico que generan los anuncios presidenciales en materia de soberanía nacional.",
+        "Revisar el contexto político en el que se da la decisión de convocar a una cadena nacional sobre Malvinas."
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "titulos_sugeridos": [
+        "Cadena nacional de Javier Milei sobre Malvinas: a qué hora habla y cuáles serán los ejes del mensaje",
+        "Malvinas en cadena nacional: el anticipo del mensaje que dará el presidente Javier Milei"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Día 999: Milei y el último 'nosotros', las Malvinas",
+          "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-999-milei-y-el-ultimo-nosotros-las-malvinas-modof.phtml"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Javier Milei hablará en cadena nacional el jueves sobre las Islas Malvinas",
+          "link": "https://www.ambito.com/politica/javier-milei-hablara-cadena-nacional-el-jueves-malvinas-n6317193"
+        },
+        {
+          "medio": "Cronista",
+          "titulo": "Javier Milei hablará por cadena nacional sobre Malvinas: a qué hora",
+          "link": "https://www.cronista.com/economia-politica/javier-milei-hablara-por-cadena-nacional-sobre-malvinas-a-que-hora/"
+        }
+      ]
+    },
+    {
       "tema": "Advertencia de la ONU sobre la intensidad del fenómeno de El Niño",
       "prioridad": 4,
       "tipo": "",
-      "tipo_de_oportunidad": "Información climática de utilidad preventiva a largo plazo para sectores productivos y sociedad.",
+      "tipo_de_oportunidad": "Tema de alto interés general con cobertura destacada de Perfil",
       "total_notas": 7,
       "cantidad_medios": 5,
-      "perfil": 0,
+      "cobertura_perfil": 3,
+      "perfil": 3,
       "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 2,
+      "brecha": -1,
+      "diferencia": 1,
       "cobertura": {
         "Perfil": 3,
-        "La Nación": 2,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
@@ -890,17 +1013,21 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Anticipa impactos meteorológicos severos que afectarán la economía, el agro y la vida cotidiana en los próximos meses.",
+      "por_que_importa": "Informa a la sociedad y al sector productivo sobre las proyecciones climáticas extremas que marcarán los próximos meses.",
       "insight": "",
-      "motivo": "Tiene un enorme potencial de lectura en Google Discover por el carácter alarmante y riguroso del reporte internacional.",
+      "motivo": "Alto potencial de consumo masivo en buscadores gracias al atractivo de las alertas meteorológicas globales y regionales.",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Traducir las proyecciones globales de la ONU en un informe detallado sobre cómo impactará específicamente en las distintas regiones del país.",
+      "accion_sugerida": "Profundizar en las regiones del país que sufrirán mayores impactos según las proyecciones de las Naciones Unidas.",
       "enfoques_sugeridos": [
-        "Consultar a climatólogos locales para evaluar si las proyecciones coinciden con los registros actuales en el territorio argentino.",
-        "Describir las medidas de prevención que ya comienzan a exigir los organismos especializados de cara al próximo verano."
+        "Explicar las consecuencias directas que el fenómeno climático tendrá sobre la producción agropecuaria nacional.",
+        "Detallar las recomendaciones de los expertos internacionales en materia de prevención ante eventos climáticos severos."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [
+        "Alerta de la ONU: advierten que El Niño será el más fuerte en 40 años y durará hasta febrero",
+        "Impacto de El Niño en Sudamérica: por qué los científicos anticipan un fenómeno histórico"
+      ],
       "ejemplos": [
         {
           "medio": "Perfil",
@@ -916,56 +1043,6 @@
           "medio": "Clarín",
           "titulo": "Advierten que El Niño durará hasta febrero: la argentina que pide calma, pero exige prevención",
           "link": "https://www.clarin.com/mundo/advierten-nino-durara-febreo-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
-        }
-      ]
-    },
-    {
-      "tema": "Denuncia de Marcela Pagano contra la secretaria de Ciencia Adriana Baravalle por doctorado en IA",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "Escándalo político con cruces institucionales y fuerte tracción de lectores en la web.",
-      "total_notas": 4,
-      "cantidad_medios": 4,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 2,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Involucra cuestionamientos éticos y penales directos hacia un funcionario de jerarquía del área de ciencia.",
-      "insight": "",
-      "motivo": "Atrae un alto tráfico político por la combinación de denuncias sobre títulos universitarios y tecnología de inteligencia artificial.",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en la investigación sobre los costos y la validez de los títulos otorgados por la universidad cuestionada en la denuncia.",
-      "enfoques_sugeridos": [
-        "Verificar los antecedentes académicos y el recorrido institucional de la secretaria de Ciencia cuestionada por la diputada.",
-        "Analizar las ramificaciones legales y políticas que tendrá la presentación de la denuncia penal en los tribunales."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "“Me recibí en ocho días”: Pagano cuestionó el doctorado en IA de Adriana Baravalle y la denunció penalmente",
-          "link": "https://www.perfil.com/noticias/politica/me-recibi-en-ocho-dias-pagano-cuestiono-el-doctorado-en-ia-de-adriana-baravalle-y-la-denuncio-penalmente.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Marcela Pagano denunció que la secretaria de Ciencia, Adriana Baravalle, compró un doctorado en IA",
-          "link": "https://www.lanacion.com.ar/politica/marcela-pagano-denuncio-que-la-secretaria-de-ciencia-adriana-baravalle-compro-un-doctorado-nid03092026/"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "Denuncian que la secretaria de Ciencia hizo su doctorado en una universidad que vende títulos por 400 dólares",
-          "link": "https://www.pagina12.com.ar/2026/09/02/denuncian-que-la-secretaria-de-ciencia-hizo-su-doctorado-en-una-universidad-que-vende-titulos-por-400-dolares/"
         }
       ]
     }
@@ -978,13 +1055,15 @@
       "tipo_de_oportunidad": "",
       "total_notas": 7,
       "cantidad_medios": 5,
-      "perfil": 0,
+      "cobertura_perfil": 3,
+      "perfil": 3,
       "competencia_total": 0,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 2,
+      "brecha": -1,
       "diferencia": 1,
-      "brecha_perfil": 0,
       "cobertura": {
         "Perfil": 3,
-        "La Nación": 2,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
@@ -992,17 +1071,18 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Demuestra capacidad de liderazgo editorial en la cobertura de temáticas científicas, ambientales y climáticas de gran escala.",
-      "insight": "La amplitud en la producción de notas sobre cambio climático posiciona a Perfil como referente en temas de agenda sostenible.",
+      "por_que_importa": "Demuestra capacidad de anticipación y volumen en el tratamiento de temas científicos y ambientales de impacto global.",
+      "insight": "Superar a la competencia en coberturas climáticas consolida el liderazgo de Perfil en temas de agenda ambiental y desarrollo sostenible.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Consolidar este liderazgo integrando infografías y proyecciones visuales sobre las zonas geográficas más vulnerables del país.",
+      "accion_sugerida": "Mantener la profundidad en el seguimiento de las proyecciones científicas aportando voces de especialistas locales.",
       "enfoques_sugeridos": [
-        "Profundizar en el análisis de las consecuencias económicas que sufrirá el sector agropecuario argentino ante este pronóstico extremo.",
-        "Entrevistar a especialistas locales para detallar qué obras de infraestructura se necesitan con urgencia para mitigar inundaciones."
+        "Contrastar las estimaciones globales de la ONU con los reportes de los centros meteorológicos locales en Argentina.",
+        "Desarrollar informes especiales sobre los planes de contingencia necesarios frente a la llegada del fenómeno climático."
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": [
         {
           "medio": "Perfil",
@@ -1017,208 +1097,78 @@
         {
           "medio": "Clarín",
           "titulo": "Advierten que El Niño durará hasta febrero: la argentina que pide calma, pero exige prevención",
-          "link": "https://www.clarin.com/mundo/advierten-nino-durara-febreo-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
-        }
-      ]
-    },
-    {
-      "tema": "Declaraciones de Javier Milei en el Foro Madrid en Chile",
-      "prioridad": 1,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 5,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 0,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Permite mantener presencia firme en la cobertura de la agenda internacional y política del mandatario sin perder terreno.",
-      "insight": "El seguimiento de la retórica presidencial en cumbres extranjeras afianza la autoridad informativa del medio en política.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Aportar una mirada analítica comparando los discursos internacionales de Milei con sus intervenciones ante foros locales.",
-      "enfoques_sugeridos": [
-        "Desglosar las repercusiones políticas que generaron los dichos de Milei sobre los intentos de golpe en la región.",
-        "Contrastar la postura ideológica expuesta en Chile con los acuerdos bilaterales vigentes con los países mencionados."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "\"En 2025 intentaron hacer un Golpe de Estado\": Milei cuestionó a la izquierda en Chile",
-          "link": "https://www.perfil.com/noticias/politica/javier-milei-participa-del-v-encuentro-regional-del-foro-madrid-que-se-realiza-en-chile.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Javier Milei y sus medidas, en vivo: en Chile, Milei cuestionó a la izquierda global y trató de ladrón a Pedro Sánchez",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Dura crítica de Milei a Pedro Sánchez en el Foro Madrid: “Está facilitando la inmigración descontrolada y degradando sistemáticamente la identidad española”",
-          "link": "https://www.infobae.com/espana/2026/09/03/dura-critica-de-milei-a-pedro-sanchez-en-el-foro-madrid-esta-facilitando-la-inmigracion-descontrolada-y-degradando-sistematicamente-la-identidad-espanola/"
-        }
-      ]
-    },
-    {
-      "tema": "Asesinato múltiple de un músico y su familia en México con detención de un argentino",
-      "prioridad": 2,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 5,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 2,
-        "La Nación": 2,
-        "Clarín": 2,
-        "Infobae": 2,
-        "TN": 0,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Refleja una sólida capacidad de cobertura en materia de delitos internacionales de alto impacto con ciudadanos connacionales.",
-      "insight": "La inclusión de material audiovisual y detalles precisos de la investigación policial fortalece el engagement en policiales.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener actualizado el avance de las declaraciones del sospechoso argentino ante la justicia mexicana.",
-      "enfoques_sugeridos": [
-        "Analizar las pruebas fílmicas incorporadas al expediente judicial que complican la situación procesal del detenido.",
-        "Reconstruir los últimos días de la familia asesinada a partir de los testimonios de allegados en el ámbito artístico."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Video: así ingresó el argentino detenido al domicilio donde se cometió el asesinato múltiple en México",
-          "link": "https://www.perfil.com/noticias/internacional/video-asi-ingreso-el-argentino-detenido-al-domicilio-donde-se-cometio-el-asesinato-multiple-en-mexico.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Masacre en México: qué se sabe del argentino detenido por el crimen de un músico y su familia",
-          "link": "https://www.lanacion.com.ar/el-mundo/masacre-en-mexico-que-se-sabe-del-argentino-detenido-por-el-crimen-de-un-musico-y-su-familia-nid03092026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Quién era Jonathan Meléndez, el músico al que asesinaron junto a toda su familia en la masacre de México",
-          "link": "https://www.internacional/jonathan-melendez-musico-asesinaron-junto-toda-familia-masacre-mexico_0_oTShtfCm9b.html"
-        }
-      ]
-    },
-    {
-      "tema": "Suspensión del paro de ATE en los aeropuertos del país",
-      "prioridad": 4,
-      "tipo": "",
-      "tipo_de_oportunidad": "",
-      "total_notas": 8,
-      "cantidad_medios": 6,
-      "perfil": 0,
-      "competencia_total": 0,
-      "diferencia": 0,
-      "brecha_perfil": 0,
-      "cobertura": {
-        "Perfil": 2,
-        "La Nación": 2,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Muestra atención a las demandas de servicio y transporte que impactan de forma federal en las provincias.",
-      "insight": "El enfoque federal permite captar tráfico regional específico, como ocurrió con el impacto en los vuelos en Córdoba.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar el reporte sobre el normal funcionamiento de las terminales aéreas del interior tras la suspensión gremial.",
-      "enfoques_sugeridos": [
-        "Detallar cómo afectó la amenaza de cese de actividades a los pasajeros que debían trasladarse desde las provincias.",
-        "Informar los detalles del acuerdo transitorio alcanzado por el gremio estatal para destrabar el conflicto aeroportuario."
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "A último momento, ATE suspendió el paro en los aeropuertos: qué pasará con los vuelos en Córdoba",
-          "link": "https://www.perfil.com/noticias/cordoba/a-ultimo-momento-ate-suspendio-el-paro-en-los-aeropuertos-que-pasara-con-los-vuelos-en-cordoba.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Se levantó el paro de aeropuertos: cómo siguen los vuelos de hoy, jueves 3 septiembre",
-          "link": "https://www.lanacion.com.ar/sociedad/paro-de-aeropuertos-en-vivo-cuales-son-los-vuelos-afectados-en-el-pais-este-jueves-3-de-septiembre-nid03092026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Tras idas y vueltas, se levantó el paro de ATE en 27 aeropuertos del país",
-          "link": "https://www.clarin.com/economia/paro-aeronautico-27-aeropuertos-pais-comenzo-medida-podria-demoras-cancelaciones-vuelos_0_gURVzHCoDI.html"
+          "link": "https://www.clarin.com/mundo/advierten-nino-durara-febrero-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
         }
       ]
     }
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
+      "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
       "prioridad": 1,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 0,
       "cantidad_medios": 0,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
+      "medio_lider": "",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 0
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
       },
       "por_que_importa": "",
       "insight": "",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un servicio de actualización constante sobre el estado del sistema y los métodos alternativos para viajar.",
+      "accion_sugerida": "Reforzar la cobertura con análisis previos y posteriores al mensaje oficial para cerrar la brecha con la competencia.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": []
     },
     {
-      "tema": "Queja formal de China a la Argentina por dichos de funcionarios de Milei",
+      "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
       "prioridad": 2,
       "tipo": "",
       "tipo_de_oportunidad": "",
       "total_notas": 0,
       "cantidad_medios": 0,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
+      "medio_lider": "",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 0
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
       },
       "por_que_importa": "",
       "insight": "",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Desarrollar un artículo urgente analizando el trasfondo de las declaraciones y el impacto en los acuerdos bilaterales.",
+      "accion_sugerida": "Publicar guías prácticas y actualizaciones constantes sobre el estado del sistema de pago.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": []
     },
     {
@@ -1228,67 +1178,37 @@
       "tipo_de_oportunidad": "",
       "total_notas": 0,
       "cantidad_medios": 0,
+      "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 0,
+      "medio_lider": "",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "diferencia": 0,
-      "brecha_perfil": 0,
       "cobertura": {
-        "Perfil": 0
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
       },
-      "por_que_importa": "",
+      "por_que_importa": "Representa un tema clave de impacto social con 0 cobertura previa en Perfil y alta atención en la competencia.",
       "insight": "",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Iniciar un seguimiento con la cronología de la investigación y los datos de contacto oficiales para la búsqueda.",
+      "accion_sugerida": "Iniciar de inmediato el seguimiento periodístico y la difusión de datos útiles para la búsqueda.",
       "enfoques_sugeridos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
+      "titulos_sugeridos": [],
       "ejemplos": []
     }
   ],
   "analisis_completo": {
     "fecha_analisis": "2026-09-03",
     "hipercompetencia": [
-      {
-        "tema": "Declaraciones de Javier Milei en el Foro Madrid en Chile",
-        "prioridad": 1,
-        "total_notas": 6,
-        "cantidad_medios": 5,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 0,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "competencia_total": 5,
-        "por_que_importa": "Concentra la atención de la agenda política regional y genera tensiones diplomáticas directas con España.",
-        "insight": "La agenda exterior de Milei tracciona alto interés en Google Discover debido a la confrontación verbal directa con líderes internacionales.",
-        "enfoques_sugeridos": [
-          "Analizar el impacto geopolítico de las declaraciones de Milei en el cono sur y su recepción en los gobiernos vecinos.",
-          "Desglosar los cruces económicos y migratorios específicos que el Presidente mantuvo con figuras de la política española."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "\"En 2025 intentaron hacer un Golpe de Estado\": Milei cuestionó a la izquierda en Chile",
-            "link": "https://www.perfil.com/noticias/politica/javier-milei-participa-del-v-encuentro-regional-del-foro-madrid-que-se-realiza-en-chile.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Javier Milei y sus medidas, en vivo: en Chile, Milei cuestionó a la izquierda global y trató de ladrón a Pedro Sánchez",
-            "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/"
-          },
-          {
-            "medio": "Infobae",
-            "titulo": "Dura crítica de Milei a Pedro Sánchez en el Foro Madrid: “Está facilitando la inmigración descontrolada y degradando sistemáticamente la identidad española”",
-            "link": "https://www.infobae.com/espana/2026/09/03/dura-critica-de-milei-a-pedro-sanchez-en-el-foro-madrid-esta-facilitando-la-inmigracion-descontrolada-y-degradando-sistematicamente-la-identidad-espanola/"
-          }
-        ]
-      },
       {
         "tema": "Declaraciones de Donald Trump sobre las Islas Malvinas",
         "prioridad": 2,
@@ -1302,14 +1222,14 @@
           "TN": 2,
           "Ámbito": 2,
           "Página 12": 1,
-          "El Cronista": 0
+          "Cronista": 0
         },
         "competencia_total": 9,
-        "por_que_importa": "Involucra la diplomacia internacional de Estados Unidos con el reclamo histórico de soberanía argentina sobre las islas.",
-        "insight": "Las menciones sobre Malvinas por parte de líderes de potencias globales generan picos masivos de tráfico orgánico en buscadores.",
+        "por_que_importa": "Concentra una masiva atención de la agenda internacional y política al involucrar a Estados Unidos en el reclamo por la soberanía de las islas.",
+        "insight": "La ambigüedad en las declaraciones de figuras internacionales de peso genera un fuerte rebote inmediato en la audiencia local que busca saber si hubo un cambio real en las alianzas geopolíticas.",
         "enfoques_sugeridos": [
-          "Contrastar la respuesta de la administración estadounidense actual con los posicionamientos históricos sobre el Atlántico Sur.",
-          "Evaluar la reacción formal que tuvieron los funcionarios británicos ante el mensaje emitido por el líder republicano."
+          "Analizar el impacto diplomático que generan las respuestas evasivas de líderes mundiales sobre temas sensibles de soberanía.",
+          "Contrastar el historial reciente de los posicionamientos de Estados Unidos respecto al reclamo argentino frente al Reino Unido."
         ],
         "ejemplos": [
           {
@@ -1330,7 +1250,47 @@
         ]
       },
       {
-        "tema": "Asesinato múltiple de un músico y su familia en México con detención de un argentino",
+        "tema": "Suspensión del paro de ATE en los aeropuertos del país",
+        "prioridad": 4,
+        "total_notas": 8,
+        "cantidad_medios": 6,
+        "cobertura": {
+          "Perfil": 2,
+          "La Nación": 2,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 1,
+          "Cronista": 0
+        },
+        "competencia_total": 6,
+        "por_que_importa": "Impacta directamente en la movilidad de miles de pasajeros y en la operatividad de los principales centros de transporte aéreo nacional.",
+        "insight": "Las últimas horas antes de una medida de fuerza generan un pico masivo de lecturas impulsadas por la incertidumbre de los viajeros sobre el estado de sus vuelos.",
+        "enfoques_sugeridos": [
+          "Detallar el impacto operativo que dejó la medida de fuerza en las conexiones provinciales tras su levantamiento a último momento.",
+          "Relevar las negociaciones sindicales de última hora que evitaron la paralización total de las terminales aéreas."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "A último momento, ATE suspendió el paro en los aeropuertos: qué pasará con los vuelos en Córdoba",
+            "link": "https://www.perfil.com/noticias/cordoba/a-ultimo-momento-ate-suspendio-el-paro-en-los-aeropuertos-que-pasara-con-los-vuelos-en-cordoba.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Se levantó el paro de aeropuertos: cómo siguen los vuelos de hoy, jueves 3 septiembre",
+            "link": "https://www.lanacion.com.ar/sociedad/paro-de-aeropuertos-en-vivo-cuales-son-los-vuelos-afectados-en-el-pais-este-jueves-3-de-septiembre-nid03092026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Tras idas y vueltas, se levantó el paro de ATE en 27 aeropuertos del país",
+            "link": "https://www.clarin.com/economia/paro-aeronautico-27-aeropuertos-pais-comenzo-medida-podria-demoras-cancelaciones-vuelos_0_gURVzHCoDI.html"
+          }
+        ]
+      },
+      {
+        "tema": "Asesinato múltiple de un músico y sus familiares en México con detención de un argentino",
         "prioridad": 2,
         "total_notas": 9,
         "cantidad_medios": 5,
@@ -1342,14 +1302,14 @@
           "TN": 0,
           "Ámbito": 1,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
         "competencia_total": 7,
-        "por_que_importa": "Combina un hecho policial internacional de extrema gravedad con la implicación directa de un ciudadano argentino en el exterior.",
-        "insight": "Los casos policiales con ciudadanos nacionales involucrados fuera del país retienen a la audiencia en lectura profunda por el misterio y los detalles de la investigación.",
+        "por_que_importa": "Moviliza el interés público debido a la extrema violencia del caso y a la directa vinculación de un ciudadano argentino en el exterior.",
+        "insight": "Los hechos policiales internacionales con participación de connacionales generan altos niveles de permanencia en lectura y consumo en portales digitales.",
         "enfoques_sugeridos": [
-          "Reconstruir paso a paso la cronología del hecho basándose en las pericias y videos obtenidos por la fiscalía mexicana.",
-          "Profundizar en el perfil del músico fallecido y el vínculo previo que mantenía con el sospechoso detenido."
+          "Reconstruir el perfil de las víctimas y el rol del principal sospechoso en la causa que conmociona a la opinión pública.",
+          "Desarrollar el estado actual de la investigación policial y judicial a cargo de las autoridades mexicanas."
         ],
         "ejemplos": [
           {
@@ -1370,168 +1330,174 @@
         ]
       },
       {
-        "tema": "Suspensión del paro de ATE en los aeropuertos del país",
+        "tema": "Advertencia de la ONU sobre la intensidad del fenómeno de El Niño",
         "prioridad": 4,
-        "total_notas": 8,
-        "cantidad_medios": 6,
+        "total_notas": 7,
+        "cantidad_medios": 5,
         "cobertura": {
-          "Perfil": 2,
+          "Perfil": 3,
           "La Nación": 2,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 0
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
         },
-        "competencia_total": 6,
-        "por_que_importa": "Afecta directamente la logística diaria, el turismo y los planes de viaje de miles de pasajeros en múltiples terminales aéreas.",
-        "insight": "Las alertas de transporte generan consultas masivas en tiempo real debido a la incertidumbre sobre la operatividad de los vuelos.",
+        "competencia_total": 4,
+        "por_que_importa": "Anticipa escenarios climáticos extremos que afectan directamente al sector productivo, la economía nacional y la seguridad de las poblaciones vulnerables.",
+        "insight": "Las proyecciones climáticas a largo plazo con respaldo de organismos internacionales movilizan el interés de lectores interesados en el impacto ambiental y económico.",
         "enfoques_sugeridos": [
-          "Detallar el estado actual de las operaciones en los principales aeropuertos tras la anulación de la medida de fuerza.",
-          "Explicar cuáles fueron las negociaciones de última hora que permitieron destrabar el conflicto gremial en el sector."
+          "Explicar las medidas de prevención que exigen los especialistas frente al pronóstico de un fenómeno climático histórico.",
+          "Evaluar el impacto económico que las alteraciones climáticas pronosticadas provocarán en las economías regionales."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "A último momento, ATE suspendió el paro en los aeropuertos: qué pasará con los vuelos en Córdoba",
-            "link": "https://www.perfil.com/noticias/cordoba/a-ultimo-momento-ate-suspendio-el-paro-en-los-aeropuertos-que-pasara-con-los-vuelos-en-cordoba.phtml"
+            "titulo": "El Niño puede ser el más fuerte en los últimos 40 años según la ONU",
+            "link": "https://www.perfil.com/noticias/clima/el-nino-puede-ser-el-a50-mas-fuerte-en-los-ultimos-40-anos-segun-la-onu.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Se levantó el paro de aeropuertos: cómo siguen los vuelos de hoy, jueves 3 septiembre",
-            "link": "https://www.lanacion.com.ar/sociedad/paro-de-aeropuertos-en-vivo-cuales-son-los-vuelos-afectados-en-el-pais-este-jueves-3-de-septiembre-nid03092026/"
+            "titulo": "La ONU confirmó que El Niño será el más fuerte que se haya registrado: sus efectos hacia el verano en Sudamérica",
+            "link": "https://www.lanacion.com.ar/sociedad/naciones-unidas-advierte-que-sera-el-mas-fuerte-registrado-hasta-ahora-y-durara-hasta-febrero-como-nid03092026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Tras idas y vueltas, se levantó el paro de ATE en 27 aeropuertos del país",
-            "link": "https://www.clarin.com/economia/paro-aeronautico-27-aeropuertos-pais-comenzo-medida-podria-demoras-cancelaciones-vuelos_0_gURVzHCoDI.html"
+            "titulo": "Advierten que El Niño durará hasta febrero: la argentina que pide calma, pero exige prevención",
+            "link": "https://www.clarin.com/mundo/advierten-nino-durara-febrero-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
           }
         ]
       }
     ],
     "perfil_pierde": [
       {
-        "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
+        "tema": "Declaraciones de Javier Milei en el Foro Madrid en Chile",
         "prioridad": 1,
         "cobertura_perfil": 1,
-        "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 3,
-        "brecha": 2,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
         "total_notas": 6,
         "cantidad_medios": 5,
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 0,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 3,
-          "Página 12": 0,
-          "El Cronista": 1
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 1,
+          "Cronista": 0
         },
-        "por_que_importa": "El anuncio presidencial mediante cadena nacional sobre un tema tan sensible como Malvinas moviliza el debate político nacional.",
-        "insight": "La cobertura anticipada de anuncios presidenciales con horarios y precisiones capta el interés inmediato de la audiencia política.",
+        "por_que_importa": "Fija la postura internacional del Presidente y sus cruces con líderes extranjeros, marcando la agenda política exterior del Gobierno.",
+        "insight": "La cobertura de los discursos presidenciales en foros internacionales requiere un seguimiento en vivo y enfoques múltiples para no perder terreno frente a competidores directos.",
         "enfoques_sugeridos": [
-          "Analizar el trasfondo político y estratégico que motivó al Ejecutivo a elegir esta fecha para hablar sobre soberanía.",
-          "Recopilar las expectativas de los diferentes bloques legislativos frente al mensaje oficial previsto para el jueves."
+          "Profundizar en la repercusión diplomática que generan en la región las duras críticas presidenciales a mandatarios extranjeros.",
+          "Analizar la estrategia discursiva de la administración libertaria en su inserción dentro de las redes políticas de la derecha global."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Día 999: Milei y el último 'nosotros', las Malvinas",
-            "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-999-milei-y-el-ultimo-nosotros-las-malvinas-modof.phtml"
+            "titulo": "\"En 2025 intentaron hacer un Golpe de Estado\": Milei cuestionó a la izquierda en Chile",
+            "link": "https://www.perfil.com/noticias/politica/javier-milei-participa-del-v-encuentro-regional-del-foro-madrid-que-se-realiza-en-chile.phtml"
           },
           {
-            "medio": "Ámbito",
-            "titulo": "Javier Milei hablará en cadena nacional el jueves sobre las Islas Malvinas",
-            "link": "https://www.ambito.com/politica/javier-milei-hablara-cadena-nacional-el-jueves-malvinas-n6317193"
+            "medio": "La Nación",
+            "titulo": "Javier Milei y sus medidas, en vivo: en Chile, Milei cuestionó a la izquierda global y trató de ladrón a Pedro Sánchez",
+            "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/"
           },
           {
-            "medio": "El Cronista",
-            "titulo": "Javier Milei hablará por cadena nacional sobre Malvinas: a qué hora",
-            "link": "https://www.cronista.com/economia-politica/javier-milei-hablara-por-cadena-nacional-sobre-malvinas-a-que-hora/"
+            "Infobae": "Infobae",
+            "medio": "Infobae",
+            "titulo": "Dura crítica de Milei a Pedro Sánchez en el Foro Madrid: “Está facilitando la inmigración descontrolada y degradando sistemáticamente la identidad española”",
+            "link": "https://www.infobae.com/espana/2026/09/03/dura-critica-de-milei-a-pedro-sanchez-en-el-foro-madrid-esta-facilitando-la-inmigracion-descontrolada-y-degradando-sistematicamente-la-identidad-espanola/"
           }
         ]
       },
       {
-        "tema": "Desaparición de estudiante universitario en La Plata",
-        "prioridad": 4,
-        "cobertura_perfil": 0,
-        "medio_lider": "TN",
+        "tema": "Denuncia de Marcela Pagano contra la secretaria de Ciencia Adriana Baravalle por doctorado en IA",
+        "prioridad": 1,
+        "cobertura_perfil": 1,
+        "medio_lider": "Página 12",
         "cobertura_medio_lider": 2,
-        "brecha": 2,
+        "brecha": 1,
         "total_notas": 4,
-        "cantidad_medios": 3,
+        "cantidad_medios": 4,
         "cobertura": {
-          "Perfil": 0,
+          "Perfil": 1,
           "La Nación": 1,
-          "Clarín": 1,
+          "Clarín": 0,
           "Infobae": 0,
-          "TN": 2,
+          "TN": 0,
           "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
+          "Página 12": 2,
+          "Cronista": 0
         },
-        "por_que_importa": "La búsqueda con vida de un joven en plena vía pública moviliza a la comunidad universitaria y genera genuina preocupación social.",
-        "insight": "Los casos de personas desaparecidas en zonas urbanas de alta densidad generan un fuerte impacto de lectura local y nacional.",
+        "por_que_importa": "Involucra cuestionamientos internos de la política oficial sobre la validez de títulos académicos en funcionarios del área científica.",
+        "insight": "Las disputas y denuncias penales dentro del arco político generan alto interés en audiencias interesadas en la transparencia institucional y el manejo del Estado.",
         "enfoques_sugeridos": [
-          "Describir el recorrido exacto que realizó el estudiante antes de perder contacto con su entorno familiar y académico.",
-          "Recopilar los datos clave y vías de contacto dispuestas oficialmente para aportar información sobre su paradero."
+          "Investigar los antecedentes administrativos y el funcionamiento de las instituciones universitarias señaladas en la denuncia penal.",
+          "Contrastar las declaraciones de los legisladores denunciantes con los descargos formales de las autoridades del área de ciencia."
         ],
         "ejemplos": [
           {
+            "medio": "Perfil",
+            "titulo": "“Me recibí en ocho días”: Pagano cuestionó el doctorado en IA de Adriana Baravalle y la denunció penalmente",
+            "link": "https://www.perfil.com/noticias/politica/me-recibi-en-ocho-dias-pagano-cuestiono-el-doctorado-en-ia-de-adriana-baravalle-y-la-denuncio-penalmente.phtml"
+          },
+          {
             "medio": "La Nación",
-            "titulo": "Buscan a un estudiante universitario que fue a entregar un trabajo en La Plata y desapareció",
-            "link": "https://www.lanacion.com.ar/sociedad/buscan-a-un-estudiante-universitario-que-fue-a-entregar-un-trabajo-en-la-plata-y-desaparecio-nid02092026/"
+            "titulo": "Marcela Pagano denunció que la secretaria de Ciencia, Adriana Baravalle, compró un doctorado en IA",
+            "link": "https://www.lanacion.com.ar/politica/marcela-pagano-denuncio-que-la-secretaria-de-ciencia-adriana-baravalle-compro-un-doctorado-en-ia-nid03092026/"
           },
           {
-            "medio": "Clarín",
-            "titulo": "Buscan a Mariano Martínez, un estudiante de 21 años de la Universidad de La Plata que desapareció el lunes",
-            "link": "https://www.clarin.com/sociedad/buscan-mariano-martinez-estudiante-21-anos-universidad-plata-desaparecio-lunes_0_yl9QHbcGxI.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Buscan a un estudiante de 21 años que desapareció tras ir a entregar un trabajo a la facultad en La Plata",
-            "link": "https://tn.com.ar/sociedad/2026/09/02/buscan-a-un-estudiante-de-21-anos-que-desaparecio-tras-ir-a-entregar-un-trabajo-a-la-facultad-en-la-plata/"
+            "medio": "Página 12",
+            "titulo": "Denuncian que la secretaria de Ciencia hizo su doctorado en una universidad que vende títulos por 400 dólares",
+            "link": "https://www.pagina12.com.ar/2026/09/02/denuncian-que-la-secretaria-de-ciencia-hizo-su-doctorado-en-una-universidad-que-vende-titulos-por-400-dolares/"
           }
         ]
       },
       {
-        "tema": "Fallecimiento de exfuncionario de la Procuración previo a declarar en causa de corrupción",
-        "prioridad": 1,
-        "cobertura_perfil": 0,
+        "tema": "Declaraciones de la UIA sobre política económica del Gobierno y respuestas oficiales",
+        "prioridad": 3,
+        "cobertura_perfil": 1,
         "medio_lider": "Clarín",
         "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "total_notas": 2,
-        "cantidad_medios": 2,
+        "brecha": 0,
+        "total_notas": 4,
+        "cantidad_medios": 4,
         "cobertura": {
-          "Perfil": 0,
-          "La Nación": 0,
+          "Perfil": 1,
+          "La Nación": 1,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 1,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Involucra un hecho judicial de alto voltaje institucional vinculado a expedientes sensibles de corrupción.",
-        "insight": "Las muertes repentinas de personas vinculadas a causas judiciales complejas movilizan el interés de la audiencia por su peso político.",
+        "por_que_importa": "Expone la tensión persistente entre el modelo económico oficial y el sector industrial ante el impacto de la apertura y la transición productiva.",
+        "insight": "El cruce entre cúpulas fabriles y funcionarios económicos moviliza lecturas orientadas a entender el pulso real de la actividad y la producción.",
         "enfoques_sugeridos": [
-          "Investigar el estado procesal exacto en el que se encontraba la causa en la que debía prestar declaración el exfuncionario.",
-          "Informar sobre los peritajes iniciales ordenados por la justicia para esclarecer las circunstancias del deceso en la vía pública."
+          "Analizar el impacto real de la transición económica sobre las pymes y las grandes plantas fabriles del país.",
+          "Relevar las demandas sectoriales de regímenes de promoción industrial frente a las respuestas de la cartera económica."
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Un exfuncionario de la Procuración tenía que declarar en un caso de corrupción K y apareció muerto en la calle",
-            "link": "https://www.clarin.com/politica/exfuncionario-procuracion-declarar-caso-corrupcion-k-aparecio-muerto-calle_0_M9nPgdndaX.html"
+            "medio": "Perfil",
+            "titulo": "Vice de la UIA sobre el Gobierno: \"Esta gente no conoce el país, no sabe lo que es una fábrica”",
+            "link": "https://www.perfil.com/noticias/nea/vice-de-la-uia-sobre-el-gobierno-esta-gente-no-conoce-el-pais-no-sabe-lo-lo-que-es-una-fabrica.phtml"
           },
           {
-            "medio": "TN",
-            "titulo": "Encontraron muerto en la calle a un exfuncionario de la Procuración que iba a ser juzgado en una causa de corrupción K",
-            "link": "https://tn.com.ar/politica/2026/09/03/encontraron-muerto-en-la-calle-a-un-exfuncionario-de-la-procuracion-que-iba-a-ser-juzgado-en-una-causa-de-corrupcion-k/"
+            "medio": "La Nación",
+            "titulo": "Luis Caputo respondió a las críticas de la UIA sobre las políticas económicas del Gobierno",
+            "link": "https://www.lanacion.com.ar/economia/luis-caputo-respondio-a-las-criticas-de-la-uia-a-las-politicas-economicas-del-gobierno-nid02092026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Tras las duras críticas a Milei, la UIA le pide un RIGI industrial y un pacto fiscal: \"Esta transición es muy dura\"",
+            "link": "https://www.clarin.com/economia/duras-criticas-milei-uia-pide-rigi-industrial-pacto-fiscal-transicion-dura_0_cN1uYrwJiB.html"
           }
         ]
       },
@@ -1552,13 +1518,13 @@
           "TN": 0,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Define la conducción del gremio con mayor cantidad de afiliados del país en medio de disputas legales internas.",
-        "insight": "La renovación de liderazgos sindicales históricos mediante fallos judiciales atrae a analistas y lectores interesados en la dinámica gremial.",
+        "por_que_importa": "Define la continuidad de uno de los liderazgos sindicales más longevos y poderosos de la Argentina tras resoluciones de la justicia laboral.",
+        "insight": "Las definiciones judiciales que alteran el tablero gremial interno atraen el interés de analistas y lectores vinculados al mundo del trabajo.",
         "enfoques_sugeridos": [
-          "Explicar los argumentos del fallo judicial que determinaron la exclusión de la lista opositora en los comicios mercantiles.",
-          "Analizar el impacto que tendrá este undécimo mandato en la relación del sindicato con la política laboral del Gobierno."
+          "Detallar los argumentos del fallo judicial que determinó la exclusión del sector opositor en los comicios mercantiles.",
+          "Evaluar el peso político que conserva la conducción histórica del gremio mercantil en el actual escenario laboral."
         ],
         "ejemplos": [
           {
@@ -1592,13 +1558,13 @@
           "TN": 0,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Afecta de forma directa las relaciones diplomáticas y comerciales bilaterales con una de las potencias económicas mundiales.",
-        "insight": "Los cortocircuitos diplomáticos con potencias generan alto tráfico por la sensibilidad comercial que implican para el país.",
+        "por_que_importa": "Afecta directamente la diplomacia comercial y las relaciones bilaterales estratégicas con una de las potencias globales clave para la economía local.",
+        "insight": "Las tensiones diplomáticas oficiales con potencias asiáticas generan alto tráfico informativo ante el temor de represalias comerciales.",
         "enfoques_sugeridos": [
-          "Detallar cuáles fueron las declaraciones específicas del funcionario libertario que motivaron la convocatoria urgente del embajador.",
-          "Analizar las posibles consecuencias económicas que este roce diplomático podría acarrear para los acuerdos vigentes."
+          "Analizar el impacto económico que podría tener una escalada diplomática con el principal socio comercial del país.",
+          "Relevar los motivos específicos que llevaron a la Cancillería china a convocar de urgencia al embajador argentino."
         ],
         "ejemplos": [
           {
@@ -1610,44 +1576,6 @@
             "medio": "Clarín",
             "titulo": "La Cancillería china convocó de carácter \"urgente\" al embajador argentino por las declaraciones de un funcionario de Milei",
             "link": "https://www.clarin.com/politica/cancilleria-china-convoco-caracter-urgente-embajador-argentino-declaraciones-funcionario-milei_0_WSvp4GujFM.html"
-          }
-        ]
-      },
-      {
-        "tema": "Designación de jueces federales Bertuzzi y Yadarola",
-        "prioridad": 5,
-        "cobertura_perfil": 0,
-        "medio_lider": "Página 12",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "total_notas": 2,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 0,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Modifica la composición de tribunales clave en Comodoro Py, impactando en el equilibrio de poder del fuero federal.",
-        "insight": "Los nombramientos en la justicia federal interesan a los lectores especializados en política judicial y manejo de causas sensibles.",
-        "enfoques_sugeridos": [
-          "Repasar el expediente y los antecedentes de los magistrados que asumirán sus funciones en la Cámara Federal porteña.",
-          "Evaluar el peso político que adquieren estas designaciones dentro del engranaje judicial actual."
-        ],
-        "ejemplos": [
-          {
-            "medio": "TN",
-            "titulo": "El Gobierno oficializó las designaciones de dos jueces que ocuparán un tribunal estratégico: jurarán hoy en Comodoro Py",
-            "link": "https://tn.com.ar/politica/2026/09/02/el-gobierno-oficializo-las-designaciones-de-los-jueces-bertuzzi-y-yadarola-juraran-este-jueves-en-comodoro-py/"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "Milei nombró a Bertuzzi y Yadarola en la Cámara Federal porteña",
-            "link": "https://www.pagina12.com.ar/2026/09/02/milei-nombro-a-bertuzzi-y-yadarola-en-la-camara-federal-portena/"
           }
         ]
       },
@@ -1668,13 +1596,13 @@
           "TN": 1,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Involucra un hecho judicial de alto voltaje institucional vinculado a expedientes sensibles de corrupción.",
-        "insight": "Las muertes repentinas de personas vinculadas a causas judiciales complejas movilizan el interés de la audiencia por su peso político.",
+        "por_que_importa": "Conmueve al ámbito judicial y político por el peso institucional de la causa en la que debía prestar declaración indagatoria.",
+        "insight": "Los decesos repentinos vinculados a expedientes judiciales sensibles movilizan con fuerza el interés de los lectores de crónica política y judicial.",
         "enfoques_sugeridos": [
-          "Investigar el estado procesal exacto en el que se encontraba la causa en la que debía prestar declaración el exfuncionario.",
-          "Informar sobre los peritajes iniciales ordenados por la justicia para esclarecer las circunstancias del deceso en la vía pública."
+          "Detallar el estado procesal de la causa por corrupción en la que figuraba como imputado el exfuncionario fallecido.",
+          "Recopilar los peritajes iniciales y las actuaciones policiales en torno al hallazgo del cuerpo en la vía pública."
         ],
         "ejemplos": [
           {
@@ -1690,136 +1618,10 @@
         ]
       },
       {
-        "tema": "Reelección de Armando Cavalieri al frente del Sindicato de Comercio tras fallo judicial",
-        "prioridad": 1,
-        "cobertura_perfil": 0,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "total_notas": 2,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Define la conducción del gremio con mayor cantidad de afiliados del país en medio de disputas legales internas.",
-        "insight": "La renovación de liderazgos sindicales históricos mediante fallos judiciales atrae a analistas y lectores interesados en la dinámica gremial.",
-        "enfoques_sugeridos": [
-          "Explicar los argumentos del fallo judicial que determinaron la exclusión de la lista opositora en los comicios mercantiles.",
-          "Analizar el impacto que tendrá este undécimo mandato en la relación del sindicato con la política laboral del Gobierno."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Un fallo judicial excluyó a la oposición y Armando Cavalieri se asegura su undécimo mandato al frente del Sindicato de Comercio",
-            "link": "https://www.lanacion.com.ar/politica/un-fallo-judicial-excluyo-a-la-oposicion-y-armando-cavalieri-se-asegura-su-undecimo-mandato-al-nid03092026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Comercio: la Justicia excluyó a la oposición y Cavalieri va por la reelección.",
-            "link": "https://www.clarin.com/politica/comercio-justicia-excluyo-oposicion-cavalieri-va-reeleccion_0_Ksv0559IOT.html"
-          }
-        ]
-      }
-    ],
-    "oportunidades": [
-      {
-        "tema": "Queja formal de China a la Argentina por dichos de funcionarios de Milei",
-        "prioridad": 2,
-        "tipo_de_oportunidad": "Cobertura cero propia frente a competidores directos en un tema diplomático clave.",
-        "cobertura_perfil": 0,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "total_notas": 2,
-        "cantidad_medios": 2,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Permite cubrir un flanco geopolítico y comercial fundamental que la competencia ya abordó con rigor.",
-        "motivo_oportunidad": "Perfil posee cero notas publicadas sobre este conflicto diplomático urgente.",
-        "accion_sugerida": "Publicar un artículo de urgencia detallando los motivos de la protesta china y las implicancias económicas para la cancillería local.",
-        "enfoques_sugeridos": [
-          "Consultar a especialistas en comercio exterior para dimensionar el riesgo de represalias económicas por parte de Beijing.",
-          "Revisar el historial de declaraciones de funcionarios libertarios que generaron cortocircuios con la potencia asiática."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "China hizo una queja formal ante la Argentina por los dichos de un funcionario de Milei",
-            "link": "https://www.lanacion.com.ar/politica/china-hizo-una-queja-formal-ante-la-argentina-por-los-dichos-de-un-funcionario-de-milei-nid03092026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "La Cancillería china convocó de carácter \"urgente\" al embajador argentino por las declaraciones de un funcionario de Milei",
-            "link": "https://www.clarin.com/politica/cancilleria-china-convoco-caracter-urgente-embajador-argentino-declaraciones-funcionario-milei_0_WSvp4GujFM.html"
-          }
-        ]
-      },
-      {
-        "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
-        "prioridad": 3,
-        "tipo_de_oportunidad": "Servicio esencial con impacto directo en el bolsillo y la movilidad cotidiana de los usuarios.",
-        "cobertura_perfil": 1,
-        "medio_lider": "TN",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
-        "total_notas": 6,
-        "cantidad_medios": 5,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 2,
-          "Ámbito": 0,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "La imposibilidad de cargar la tarjeta de transporte genera filas y desconcierto inmediato en los pasajeros.",
-        "motivo_oportunidad": "Existe una brecha con la competencia y se trata de un tema de utilidad práctica directa para la audiencia urbana.",
-        "accion_sugerida": "Ampliar el servicio con una guía paso a paso sobre los métodos alternativos de pago ante la caída de la aplicación.",
-        "enfoques_sugeridos": [
-          "Explicar detalladamente cómo validar las cargas pendientes de manera presencial en terminales automáticas.",
-          "Informar los canales oficiales de reclamo habilitados para los usuarios que sufrieron descuentos indebidos o fallas de sistema."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "SUBE registra demoras en la acreditación de cargas: qué hacer y cómo pagar el viaje",
-            "link": "https://www.perfil.com/noticias/economia/sube-registra-demoras-en-la-acreditacion-de-cargas-que-hacer-y-como-pagar-el-viaje.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "¿No funciona la SUBE en el celular hoy? Por qué reportan fallas sobre el saldo en la aplicación",
-            "link": "https://www.lanacion.com.ar/sociedad/no-funciona-la-sube-en-el-celular-hoy-por-que-reportan-fallas-sobre-el-saldo-en-la-aplicacion-nid03092026/"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Tras más de cinco horas, volvió a funcionar el sistema para cargar la SUBE desde el celular",
-            "link": "https://tn.com.ar/sociedad/2026/09/03/se-cayo-el-sistema-para-cargar-la-sube-desde-el-celular-y-largas-filas-en-constitucion/"
-          }
-        ]
-      },
-      {
         "tema": "Designación de jueces federales Bertuzzi y Yadarola",
         "prioridad": 5,
-        "tipo_de_oportunidad": "Cobertura cero en un nombramiento judicial de alto impacto institucional en Comodoro Py.",
         "cobertura_perfil": 0,
-        "medio_lider": "Página 12",
+        "medio_lider": "TN",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "total_notas": 2,
@@ -1832,14 +1634,13 @@
           "TN": 1,
           "Ámbito": 0,
           "Página 12": 1,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Los cambios en la estructura de los tribunales federales configuran el escenario de las causas de corrupción y poder.",
-        "motivo_oportunidad": "Perfil no cuenta con cobertura propia sobre la jura oficializada en los tribunales.",
-        "accion_sugerida": "Publicar un perfil técnico y político sobre los magistrados designados y el rol que cumplirán en la Cámara Federal.",
+        "por_que_importa": "Modifica la conformación de tribunales federales estratégicos con alto impacto en causas de corrupción y poder político.",
+        "insight": "Los movimientos en la justicia federal atraen a una audiencia especializada que sigue de cerca la dinámica de los tribunales de Comodoro Py.",
         "enfoques_sugeridos": [
-          "Describir la relevancia institucional de la jura de los jueces en el tribunal estratégico de Comodoro Py.",
-          "Analizar el impacto de estas designaciones en las causas sensibles que tramitan en el fuero federal porteño."
+          "Analizar la trayectoria de los magistrados designados y el peso político de sus nuevos destinos en Comodoro Py.",
+          "Revisar los antecedentes de las causas que recaerán bajo la órbita de los jueces oficializados por el Ejecutivo."
         ],
         "ejemplos": [
           {
@@ -1855,9 +1656,89 @@
         ]
       },
       {
+        "tema": "Demanda judicial de Chiqui Tapia contra Jonatan Viale y TN por video con Inteligencia Artificial",
+        "prioridad": 5,
+        "cobertura_perfil": 1,
+        "medio_lider": "Perfil",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
+        },
+        "por_que_importa": "Cruza el poder dirigencial del fútbol argentino con los límites legales del uso de inteligencia artificial en medios masivos de comunicación.",
+        "insight": "Los litigios judiciales entre figuras del deporte y conductores televisivos generan un atractivo cruce de audiencias masivas.",
+        "enfoques_sugeridos": [
+          "Examinar los fundamentos legales de la demanda por daños y perjuicios vinculada a la manipulación digital de contenidos.",
+          "Analizar el precedente que este tipo de demandas puede sentar para la regulación de deepfakes y contenidos generados por IA en medios."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Chiqui Tapia llevó a la Justicia a Jonatan Viale y TN por un video hecho con IA que hablaba de “violar” a Nico Paz",
+            "link": "https://www.perfil.com/noticias/judiciales/chiqui-tapia-llevo-a-la-justicia-a-jonatan-viale-y-tn-por-un-video-hecho-con-ia-que-hablaba-de-violar-a-nico-paz.phtml"
+          }
+        ]
+      }
+    ],
+    "oportunidades": [
+      {
+        "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
+        "prioridad": 1,
+        "tipo_de_oportunidad": "Cobertura con brecha alta y anticipación de agenda oficial",
+        "cobertura_perfil": 1,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 3,
+        "brecha": 2,
+        "total_notas": 6,
+        "cantidad_medios": 5,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 3,
+          "Página 12": 0,
+          "Cronista": 1
+        },
+        "por_que_importa": "Anticipa un mensaje presidencial de fuerte contenido simbólico y geopolítico que dominará la conversación pública en la jornada.",
+        "motivo_oportunidad": "Permite a Perfil liderar la previa con un análisis de los ejes que tocará el mandatario antes de que se emita el mensaje formal.",
+        "accion_sugerida": "Publicar un anticipo enfocado en la estrategia comunicacional detrás de la cadena nacional sobre soberanía.",
+        "enfoques_sugeridos": [
+          "Desglosar los antecedentes diplomáticos que motivaron la decisión presidencial de utilizar la cadena nacional para hablar de Malvinas.",
+          "Analizar el impacto político interno que busca el Gobierno al priorizar el reclamo de soberanía en su discurso oficial."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Día 999: Milei y el último 'nosotros', las Malvinas",
+            "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-999-milei-y-el-ultimo-nosotros-las-malvinas-modof.phtml"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Javier Milei hablará en cadena nacional el jueves sobre las Islas Malvinas",
+            "link": "https://www.ambito.com/politica/javier-milei-hablara-cadena-nacional-el-jueves-malvinas-n6317193"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Javier Milei hablará por cadena nacional sobre Malvinas: a qué hora",
+            "link": "https://www.cronista.com/economia-politica/javier-milei-hablara-por-cadena-nacional-sobre-malvinas-a-que-hora/"
+          }
+        ]
+      },
+      {
         "tema": "Desaparición de estudiante universitario en La Plata",
         "prioridad": 4,
-        "tipo_de_oportunidad": "Cobertura cero en un caso de búsqueda de persona con alta sensibilidad social.",
+        "tipo_de_oportunidad": "Cobertura con brecha frente a la competencia",
         "cobertura_perfil": 0,
         "medio_lider": "TN",
         "cobertura_medio_lider": 2,
@@ -1872,14 +1753,14 @@
           "TN": 2,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Moviliza a la comunidad académica y genera fuerte empatía y lectura en los portales informativos.",
-        "motivo_oportunidad": "Perfil registra cero publicaciones sobre el caso frente a la cobertura activa de competidores.",
-        "accion_sugerida": "Desarrollar un seguimiento exhaustivo de la investigación policial con los datos aportados por los familiares en La Plata.",
+        "por_que_importa": "Genera profunda conmoción social y moviliza la urgencia informativa en torno a la búsqueda de personas.",
+        "motivo_oportunidad": "Perfil no cuenta con notas propias y la competencia concentra búsquedas activas de la comunidad universitaria.",
+        "accion_sugerida": "Desarrollar un seguimiento de los rastrillajes policiales y los datos aportados por los investigadores en La Plata.",
         "enfoques_sugeridos": [
-          "Difundir los datos filiatorios y de contacto para colaborar de forma directa con la búsqueda del joven desaparecido.",
-          "Recoger el testimonio de compañeros y autoridades de la facultad donde el estudiante debía entregar su trabajo."
+          "Reconstruir cronológicamente los últimos movimientos del joven antes de perder contacto con su familia en La Plata.",
+          "Detallar las vías de contacto oficiales habilitadas para aportar información útil sobre el paradero del estudiante."
         ],
         "ejemplos": [
           {
@@ -1898,13 +1779,11 @@
             "link": "https://tn.com.ar/sociedad/2026/09/02/buscan-a-un-estudiante-de-21-anos-que-desaparecio-tras-ir-a-entregar-un-trabajo-a-la-facultad-en-la-plata/"
           }
         ]
-      }
-    ],
-    "audiencia": [
+      },
       {
         "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
         "prioridad": 3,
-        "tipo_de_oportunidad": "Información de servicio esencial para la movilidad diaria.",
+        "tipo_de_oportunidad": "Servicios y utilidad directa para la audiencia",
         "cobertura_perfil": 1,
         "medio_lider": "TN",
         "cobertura_medio_lider": 2,
@@ -1919,18 +1798,105 @@
           "TN": 2,
           "Ámbito": 0,
           "Página 12": 1,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Resuelve un problema cotidiano urgente que afecta a miles de usuarios que dependen del transporte público.",
-        "motivo": "Tiene un potencial masivo de búsqueda activa en Google Discover y utilidad inmediata para la ciudadanía.",
-        "accion_sugerida": "Actualizar el estado del sistema en tiempo real y detallar soluciones alternativas para viajar sin saldo acreditado.",
+        "por_que_importa": "Afecta la movilidad cotidiana de millones de usuarios del transporte público que dependen del saldo digital.",
+        "motivo_oportunidad": "Es un tema de altísimo valor práctico donde la audiencia busca soluciones inmediatas y respuestas de servicio.",
+        "accion_sugerida": "Crear una guía de servicio interactiva con alternativas de pago y estado del sistema en tiempo real.",
         "enfoques_sugeridos": [
-          "Crear una guía práctica sobre cómo validar cargas de manera presencial ante la caída de la aplicación móvil.",
-          "Explicar los motivos técnicos por los cuales se reportaron fallas masivas en el sistema de validación."
+          "Explicar paso a paso qué canales alternativos de recarga funcionan cuando la aplicación oficial registra fallas técnicas.",
+          "Detallar los puntos de atención presencial habilitados para destrabar acreditaciones pendientes de saldo."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "SUBE registra demoras en la acreditación de cargas: qué hacer y cómo pagar el viaje",
+            "link": "https://www.perfil.com/noticias/economia/sube-registra-demoras-en-la-acreditacion-de-cargas-que-hacer-y-como-pagar-el-viaje.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "¿No funciona la SUBE en el celular hoy? Por qué reportan fallas sobre el saldo en la aplicación",
+            "link": "https://www.lanacion.com.ar/sociedad/no-funciona-la-sube-en-el-celular-hoy-por-que-reportan-fallas-sobre-el-saldo-en-la-aplicacion-nid03092026/"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Tras más de cinco horas, volvió a funcionar el sistema para cargar la SUBE desde el celular",
+            "link": "https://tn.com.ar/sociedad/2026/09/03/se-cayo-el-sistema-para-cargar-la-sube-desde-el-celular-y-largas-filas-en-constitucion/"
+          }
+        ]
+      },
+      {
+        "tema": "Queja formal de China a la Argentina por dichos de funcionarios de Milei",
+        "prioridad": 2,
+        "tipo_de_oportunidad": "Tema sin cobertura previa de Perfil",
+        "cobertura_perfil": 0,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "total_notas": 2,
+        "cantidad_medios": 2,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "Cronista": 0
+        },
+        "por_que_importa": "Involucra un rispido conflicto diplomático con una superpotencia que impacta en los vínculos comerciales de la gestión.",
+        "motivo_oportunidad": "Permite cubrir un vacío informativo en la sección internacional y política donde la competencia ya marcó agenda.",
+        "accion_sugerida": "Publicar un análisis de las declaraciones que provocaron la convocatoria formal del embajador argentino en Beijing.",
+        "enfoques_sugeridos": [
+          "Evaluar las consecuencias geopolíticas y comerciales de mantener cortocircuitos diplomáticos con la potencia asiática.",
+          "Revisar el historial de tensiones verbales entre funcionarios del Gobierno y la administración de China."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "China hizo una queja formal ante la Argentina por los dichos de un funcionario de Milei",
+            "link": "https://www.lanacion.com.ar/politica/china-hizo-una-queja-formal-ante-la-argentina-por-los-dichos-de-un-funcionario-de-milei-nid03092026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "La Cancillería china convocó de carácter \"urgente\" al embajador argentino por las declaraciones de un funcionario de Milei",
+            "link": "https://www.clarin.com/politica/cancilleria-china-convoco-caracter-urgente-embajador-argentino-declaraciones-funcionario-milei_0_WSvp4GujFM.html"
+          }
+        ]
+      }
+    ],
+    "audiencia": [
+      {
+        "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
+        "prioridad": 3,
+        "tipo_de_oportunidad": "Servicios y utilidad directa para la audiencia",
+        "cobertura_perfil": 1,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 2,
+        "brecha": 1,
+        "total_notas": 6,
+        "cantidad_medios": 5,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 2,
+          "Ámbito": 0,
+          "Página 12": 1,
+          "Cronista": 0
+        },
+        "por_que_importa": "Tiene un impacto masivo y directo sobre el bolsillo y el traslado cotidiano de los trabajadores.",
+        "motivo": "Alto potencial de búsquedas en Google Discover y consultas recurrentes de servicio por fallas técnicas en medios de pago.",
+        "accion_sugerida": "Desarrollar una cobertura orientada a dar soluciones inmediatas a los pasajeros afectados por la caída del sistema.",
+        "enfoques_sugeridos": [
+          "Explicar qué hacer si la aplicación móvil no actualiza el saldo y cómo validar las cargas pendientes.",
+          "Detallar las alternativas vigentes para abonar el transporte público ante la imposibilidad de acreditar saldo digital."
         ],
         "titulos_sugeridos": [
-          "Caída de la SUBE: paso a paso qué hacer para validar tu carga y viajar igual",
-          "Problemas con la SUBE en el celular: dónde están las terminales automáticas habilitadas"
+          "Fallas en la SUBE: qué pasa con las recargas y cómo viajar si no se acredita el saldo",
+          "Colapso en la SUBE: por qué falló la aplicación y cuáles son las alternativas para pagar el boleto"
         ],
         "ejemplos": [
           {
@@ -1953,7 +1919,7 @@
       {
         "tema": "Desaparición de estudiante universitario en La Plata",
         "prioridad": 4,
-        "tipo_de_oportunidad": "Cobertura cero en un caso de búsqueda con alto impacto emocional en la audiencia.",
+        "tipo_de_oportunidad": "Tema sin cobertura de Perfil con fuerte impacto social",
         "cobertura_perfil": 0,
         "medio_lider": "TN",
         "cobertura_medio_lider": 2,
@@ -1968,18 +1934,18 @@
           "TN": 2,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Genera profunda empatía y genera altos niveles de lectura e interacción social en la web.",
-        "motivo": "Perfil no cubrió la noticia, dejando un vacío importante frente a la competencia en un tema de interés social directo.",
-        "accion_sugerida": "Publicar un informe urgente con la cronología de los hechos y los canales oficiales para aportar datos sobre el joven.",
+        "por_que_importa": "Moviliza la solidaridad social y la atención masiva de lectores en busca de información de utilidad y servicio comunitario.",
+        "motivo": "Alto consumo en portales de noticias debido a la urgencia y sensibilidad que despiertan los casos de búsqueda de personas.",
+        "accion_sugerida": "Publicar actualizaciones permanentes con los datos útiles para colaborar en la localización del joven.",
         "enfoques_sugeridos": [
-          "Recopilar los últimos movimientos registrados por las cámaras de seguridad en la zona universitaria de La Plata.",
-          "Difundir los números de contacto directo aportados por la familia para recibir cualquier pista sobre su paradero."
+          "Recopilar los datos clave sobre el trayecto del estudiante universitario desaparecido en La Plata.",
+          "Difundir los teléfonos de contacto oficiales aportados por la familia y la policía para colaborar con la búsqueda."
         ],
         "titulos_sugeridos": [
-          "Intensa búsqueda de un estudiante de La Plata que salió a entregar un trabajo y no volvió",
-          "Desaparición en La Plata: qué se sabe del joven de 21 años visto por última vez camino a la facultad"
+          "Intensa búsqueda en La Plata: qué se sabe del estudiante universitario que desapareció tras entregar un trabajo",
+          "Desaparición en La Plata: los detalles del caso y los números para aportar datos sobre el joven buscado"
         ],
         "ejemplos": [
           {
@@ -2000,9 +1966,58 @@
         ]
       },
       {
+        "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
+        "prioridad": 1,
+        "tipo_de_oportunidad": "Cobertura con brecha frente a la competencia en tema de alto interés",
+        "cobertura_perfil": 1,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 3,
+        "brecha": 2,
+        "total_notas": 6,
+        "cantidad_medios": 5,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 3,
+          "Página 12": 0,
+          "Cronista": 1
+        },
+        "por_que_importa": "Concentra la atención política nacional ante un anuncio presidencial de alto voltaje simbólico sobre la soberanía territorial.",
+        "motivo": "Gran tracción de tráfico en Google Discover por la expectativa en torno a los anuncios del jefe de Estado.",
+        "accion_sugerida": "Ampliar la cobertura con enfoques analíticos sobre el contenido y el impacto político del mensaje presidencial.",
+        "enfoques_sugeridos": [
+          "Analizar el impacto geopolítico que generan los anuncios presidenciales en materia de soberanía nacional.",
+          "Revisar el contexto político en el que se da la decisión de convocar a una cadena nacional sobre Malvinas."
+        ],
+        "titulos_sugeridos": [
+          "Cadena nacional de Javier Milei sobre Malvinas: a qué hora habla y cuáles serán los ejes del mensaje",
+          "Malvinas en cadena nacional: el anticipo del mensaje que dará el presidente Javier Milei"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Día 999: Milei y el último 'nosotros', las Malvinas",
+            "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-999-milei-y-el-ultimo-nosotros-las-malvinas-modof.phtml"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Javier Milei hablará en cadena nacional el jueves sobre las Islas Malvinas",
+            "link": "https://www.ambito.com/politica/javier-milei-hablara-cadena-nacional-el-jueves-malvinas-n6317193"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Javier Milei hablará por cadena nacional sobre Malvinas: a qué hora",
+            "link": "https://www.cronista.com/economia-politica/javier-milei-hablara-por-cadena-nacional-sobre-malvinas-a-que-hora/"
+          }
+        ]
+      },
+      {
         "tema": "Advertencia de la ONU sobre la intensidad del fenómeno de El Niño",
         "prioridad": 4,
-        "tipo_de_oportunidad": "Información climática de utilidad preventiva a largo plazo para sectores productivos y sociedad.",
+        "tipo_de_oportunidad": "Tema de alto interés general con cobertura destacada de Perfil",
         "cobertura_perfil": 3,
         "medio_lider": "La Nación",
         "cobertura_medio_lider": 2,
@@ -2017,18 +2032,18 @@
           "TN": 1,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Anticipa impactos meteorológicos severos que afectarán la economía, el agro y la vida cotidiana en los próximos meses.",
-        "motivo": "Tiene un enorme potencial de lectura en Google Discover por el carácter alarmante y riguroso del reporte internacional.",
-        "accion_sugerida": "Traducir las proyecciones globales de la ONU en un informe detallado sobre cómo impactará específicamente en las distintas regiones del país.",
+        "por_que_importa": "Informa a la sociedad y al sector productivo sobre las proyecciones climáticas extremas que marcarán los próximos meses.",
+        "motivo": "Alto potencial de consumo masivo en buscadores gracias al atractivo de las alertas meteorológicas globales y regionales.",
+        "accion_sugerida": "Profundizar en las regiones del país que sufrirán mayores impactos según las proyecciones de las Naciones Unidas.",
         "enfoques_sugeridos": [
-          "Consultar a climatólogos locales para evaluar si las proyecciones coinciden con los registros actuales en el territorio argentino.",
-          "Describir las medidas de prevención que ya comienzan a exigir los organismos especializados de cara al próximo verano."
+          "Explicar las consecuencias directas que el fenómeno climático tendrá sobre la producción agropecuaria nacional.",
+          "Detallar las recomendaciones de los expertos internacionales en materia de prevención ante eventos climáticos severos."
         ],
         "titulos_sugeridos": [
-          "Alerta de la ONU: advierten que El Niño será el más intenso en 40 años y durará hasta febrero",
-          "Cómo impactará en la Argentina el fenómeno climático extremo que preocupa a las Naciones Unidas"
+          "Alerta de la ONU: advierten que El Niño será el más fuerte en 40 años y durará hasta febrero",
+          "Impacto de El Niño en Sudamérica: por qué los científicos anticipan un fenómeno histórico"
         ],
         "ejemplos": [
           {
@@ -2045,55 +2060,6 @@
             "medio": "Clarín",
             "titulo": "Advierten que El Niño durará hasta febrero: la argentina que pide calma, pero exige prevención",
             "link": "https://www.clarin.com/mundo/advierten-nino-durara-febreo-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
-          }
-        ]
-      },
-      {
-        "tema": "Denuncia de Marcela Pagano contra la secretaria de Ciencia Adriana Baravalle por doctorado en IA",
-        "prioridad": 1,
-        "tipo_de_oportunidad": "Escándalo político con cruces institucionales y fuerte tracción de lectores en la web.",
-        "cobertura_perfil": 1,
-        "medio_lider": "Página 12",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
-        "total_notas": 4,
-        "cantidad_medios": 4,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 2,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Involucra cuestionamientos éticos y penales directos hacia un funcionario de jerarquía del área de ciencia.",
-        "motivo": "Atrae un alto tráfico político por la combinación de denuncias sobre títulos universitarios y tecnología de inteligencia artificial.",
-        "accion_sugerida": "Profundizar en la investigación sobre los costos y la validez de los títulos otorgados por la universidad cuestionada en la denuncia.",
-        "enfoques_sugeridos": [
-          "Verificar los antecedentes académicos y el recorrido institucional de la secretaria de Ciencia cuestionada por la diputada.",
-          "Analizar las ramificaciones legales y políticas que tendrá la presentación de la denuncia penal en los tribunales."
-        ],
-        "titulos_sugeridos": [
-          "“Me recibí en ocho días”: la fuerte denuncia penal de Marcela Pagano contra la secretaria de Ciencia",
-          "Títulos exprés y presunto fraude: los detalles de la causa por el doctorado en IA que sacude al Gobierno"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "“Me recibí en ocho días”: Pagano cuestionó el doctorado en IA de Adriana Baravalle y la denunció penalmente",
-            "link": "https://www.perfil.com/noticias/politica/me-recibi-en-ocho-dias-pagano-cuestiono-el-doctorado-en-ia-de-adriana-baravalle-y-la-denuncio-penalmente.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Marcela Pagano denunció que la secretaria de Ciencia, Adriana Baravalle, compró un doctorado en IA",
-            "link": "https://www.lanacion.com.ar/politica/marcela-pagano-denuncio-que-la-secretaria-de-ciencia-adriana-baravalle-compro-un-doctorado-nid03092026/"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "Denuncian que la secretaria de Ciencia hizo su doctorado en una universidad que vende títulos por 400 dólares",
-            "link": "https://www.pagina12.com.ar/2026/09/02/denuncian-que-la-secretaria-de-ciencia-hizo-su-doctorado-en-una-universidad-que-vende-titulos-por-400-dolares/"
           }
         ]
       }
@@ -2116,14 +2082,14 @@
           "TN": 1,
           "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "Cronista": 0
         },
-        "por_que_importa": "Demuestra capacidad de liderazgo editorial en la cobertura de temáticas científicas, ambientales y climáticas de gran escala.",
-        "insight": "La amplitud en la producción de notas sobre cambio climático posiciona a Perfil como referente en temas de agenda sostenible.",
-        "accion_sugerida": "Consolidar este liderazgo integrando infografías y proyecciones visuales sobre las zonas geográficas más vulnerables del país.",
+        "por_que_importa": "Demuestra capacidad de anticipación y volumen en el tratamiento de temas científicos y ambientales de impacto global.",
+        "insight": "Superar a la competencia en coberturas climáticas consolida el liderazgo de Perfil en temas de agenda ambiental y desarrollo sostenible.",
+        "accion_sugerida": "Mantener la profundidad en el seguimiento de las proyecciones científicas aportando voces de especialistas locales.",
         "enfoques_sugeridos": [
-          "Profundizar en el análisis de las consecuencias económicas que sufrirá el sector agropecuario argentino ante este pronóstico extremo.",
-          "Entrevistar a especialistas locales para detallar qué obras de infraestructura se necesitan con urgencia para mitigar inundaciones."
+          "Contrastar las estimaciones globales de la ONU con los reportes de los centros meteorológicos locales en Argentina.",
+          "Desarrollar informes especiales sobre los planes de contingencia necesarios frente a la llegada del fenómeno climático."
         ],
         "ejemplos": [
           {
@@ -2139,139 +2105,7 @@
           {
             "medio": "Clarín",
             "titulo": "Advierten que El Niño durará hasta febrero: la argentina que pide calma, pero exige prevención",
-            "link": "https://www.clarin.com/mundo/advierten-nino-durara-febreo-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
-          }
-        ]
-      },
-      {
-        "tema": "Declaraciones de Javier Milei en el Foro Madrid en Chile",
-        "prioridad": 1,
-        "cobertura_perfil": 1,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "diferencia": 0,
-        "total_notas": 6,
-        "cantidad_medios": 5,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 0,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Permite mantener presencia firme en la cobertura de la agenda internacional y política del mandatario sin perder terreno.",
-        "insight": "El seguimiento de la retórica presidencial en cumbres extranjeras afianza la autoridad informativa del medio en política.",
-        "accion_sugerida": "Aportar una mirada analítica comparando los discursos internacionales de Milei con sus intervenciones ante foros locales.",
-        "enfoques_sugeridos": [
-          "Desglosar las repercusiones políticas que generaron los dichos de Milei sobre los intentos de golpe en la región.",
-          "Contrastar la postura ideológica expuesta en Chile con los acuerdos bilaterales vigentes con los países mencionados."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "\"En 2025 intentaron hacer un Golpe de Estado\": Milei cuestionó a la izquierda en Chile",
-            "link": "https://www.perfil.com/noticias/politica/javier-milei-participa-del-v-encuentro-regional-del-foro-madrid-que-se-realiza-en-chile.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Javier Milei y sus medidas, en vivo: en Chile, Milei cuestionó a la izquierda global y trató de ladrón a Pedro Sánchez",
-            "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/"
-          },
-          {
-            "medio": "Infobae",
-            "titulo": "Dura crítica de Milei a Pedro Sánchez en el Foro Madrid: “Está facilitando la inmigración descontrolada y degradando sistemáticamente la identidad española”",
-            "link": "https://www.infobae.com/espana/2026/09/03/dura-critica-de-milei-a-pedro-sanchez-en-el-foro-madrid-esta-facilitando-la-inmigracion-descontrolada-y-degradando-sistematicamente-la-identidad-espanola/"
-          }
-        ]
-      },
-      {
-        "tema": "Asesinato múltiple de un músico y su familia en México con detención de un argentino",
-        "prioridad": 2,
-        "cobertura_perfil": 2,
-        "medio_lider": "Clarín",
-        "cobertura_medio_lider": 2,
-        "diferencia": 0,
-        "total_notas": 9,
-        "cantidad_medios": 5,
-        "cobertura": {
-          "Perfil": 2,
-          "La Nación": 2,
-          "Clarín": 2,
-          "Infobae": 2,
-          "TN": 0,
-          "Ámbito": 1,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Refleja una sólida capacidad de cobertura en materia de delitos internacionales de alto impacto con ciudadanos connacionales.",
-        "insight": "La inclusión de material audiovisual y detalles precisos de la investigación policial fortalece el engagement en policiales.",
-        "accion_sugerida": "Mantener actualizado el avance de las declaraciones del sospechoso argentino ante la justicia mexicana.",
-        "enfoques_sugeridos": [
-          "Analizar las pruebas fílmicas incorporadas al expediente judicial que complican la situación procesal del detenido.",
-          "Reconstruir los últimos días de la familia asesinada a partir de los testimonios de allegados en el ámbito artístico."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Video: así ingresó el argentino detenido al domicilio donde se cometió el asesinato múltiple en México",
-            "link": "https://www.perfil.com/noticias/internacional/video-asi-ingreso-el-argentino-detenido-al-domicilio-donde-se-cometio-el-asesinato-multiple-en-mexico.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Masacre en México: qué se sabe del argentino detenido por el crimen de un músico y su familia",
-            "link": "https://www.lanacion.com.ar/el-mundo/masacre-en-mexico-que-se-sabe-del-argentino-detenido-por-el-crimen-de-un-musico-y-su-familia-nid03092026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Quién era Jonathan Meléndez, el músico al que asesinaron junto a toda su familia en la masacre de México",
-            "link": "https://www.internacional/jonathan-melendez-musico-asesinaron-junto-toda-familia-masacre-mexico_0_oTShtfCm9b.html"
-          }
-        ]
-      },
-      {
-        "tema": "Suspensión del paro de ATE en los aeropuertos del país",
-        "prioridad": 4,
-        "cobertura_perfil": 2,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 2,
-        "diferencia": 0,
-        "total_notas": 8,
-        "cantidad_medios": 6,
-        "cobertura": {
-          "Perfil": 2,
-          "La Nación": 2,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Muestra atención a las demandas de servicio y transporte que impactan de forma federal en las provincias.",
-        "insight": "El enfoque federal permite captar tráfico regional específico, como ocurrió con el impacto en los vuelos en Córdoba.",
-        "accion_sugerida": "Ampliar el reporte sobre el normal funcionamiento de las terminales aéreas del interior tras la suspensión gremial.",
-        "enfoques_sugeridos": [
-          "Detallar cómo afectó la amenaza de cese de actividades a los pasajeros que debían trasladarse desde las provincias.",
-          "Informar los detalles del acuerdo transitorio alcanzado por el gremio estatal para destrabar el conflicto aeroportuario."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "A último momento, ATE suspendió el paro en los aeropuertos: qué pasará con los vuelos en Córdoba",
-            "link": "https://www.perfil.com/noticias/cordoba/a-ultimo-momento-ate-suspendio-el-paro-en-los-aeropuertos-que-pasara-con-los-vuelos-en-cordoba.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Se levantó el paro de aeropuertos: cómo siguen los vuelos de hoy, jueves 3 septiembre",
-            "link": "https://www.lanacion.com.ar/sociedad/paro-de-aeropuertos-en-vivo-cuales-son-los-vuelos-afectados-en-el-pais-este-jueves-3-de-septiembre-nid03092026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Tras idas y vueltas, se levantó el paro de ATE en 27 aeropuertos del país",
-            "link": "https://www.clarin.com/economia/paro-aeronautico-27-aeropuertos-pais-comenzo-medida-podria-demoras-cancelaciones-vuelos_0_gURVzHCoDI.html"
+            "link": "https://www.clarin.com/mundo/advierten-nino-durara-febrero-argentina-pide-calma-exige-prevencion_0_EKwVYigwQh.html"
           }
         ]
       }
@@ -2279,27 +2113,27 @@
     "prioridades_del_dia": [
       {
         "prioridad": 1,
-        "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
-        "seccion_origen": "Audiencia",
-        "por_que_es_prioridad": "Afecta de manera masiva y directa la movilidad de los ciudadanos, generando un pico de búsquedas de utilidad práctica inmediata.",
-        "accion_sugerida": "Publicar un servicio de actualización constante sobre el estado del sistema y los métodos alternativos para viajar.",
-        "enfoque_recomendado": "Ofrecer una guía clara paso a paso con las terminales automáticas habilitadas y los canales de reclamo."
+        "tema": "Cadena nacional de Javier Milei sobre las Islas Malvinas",
+        "seccion_origen": "oportunidades",
+        "por_que_es_prioridad": "Concentra el interés político central del día con alto impacto en la agenda presidencial y tracción masiva en Google Discover.",
+        "accion_sugerida": "Reforzar la cobertura con análisis previos y posteriores al mensaje oficial para cerrar la brecha con la competencia.",
+        "enfoque_recomendado": "Enfocar el análisis en el trasfondo geopolítico y estratégico de la convocatoria a cadena nacional."
       },
       {
         "prioridad": 2,
-        "tema": "Queja formal de China a la Argentina por dichos de funcionarios de Milei",
-        "seccion_origen": "Oportunidades",
-        "por_que_es_prioridad": "Cubre una vacante editorial propia frente a la competencia en un tema diplomático y comercial de máxima sensibilidad.",
-        "accion_sugerida": "Desarrollar un artículo urgente analizando el trasfondo de las declaraciones y el impacto en los acuerdos bilaterales.",
-        "enfoque_recomendado": "Consultar a analistas de comercio exterior para dimensionar los riesgos reales de esta tensión diplomática."
+        "tema": "Problemas en el sistema de acreditación y cargas de la tarjeta SUBE",
+        "seccion_origen": "audiencia",
+        "por_que_es_prioridad": "Afecta directamente la utilidad y el servicio diario de millones de usuarios del transporte público.",
+        "accion_sugerida": "Publicar guías prácticas y actualizaciones constantes sobre el estado del sistema de pago.",
+        "enfoque_recomendado": "Ofrecer soluciones y alternativas directas para los pasajeros afectados por las fallas técnicas."
       },
       {
         "prioridad": 3,
         "tema": "Desaparición de estudiante universitario en La Plata",
-        "seccion_origen": "Audiencia",
-        "por_que_es_prioridad": "Se trata de un caso policial y social de alto impacto humano que moviliza a la comunidad y genera fuerte interés en lectores.",
-        "accion_sugerida": "Iniciar un seguimiento con la cronología de la investigación y los datos de contacto oficiales para la búsqueda.",
-        "enfoque_recomendado": "Enfocar la cobertura en la colaboración ciudadana y el relevamiento de cámaras en la zona de la facultad."
+        "seccion_origen": "sin_cobertura_perfil",
+        "por_que_importa": "Representa un tema clave de impacto social con 0 cobertura previa en Perfil y alta atención en la competencia.",
+        "accion_sugerida": "Iniciar de inmediato el seguimiento periodístico y la difusión de datos útiles para la búsqueda.",
+        "enfoque_recomendado": "Priorizar la rigurosidad informativa y los canales oficiales habilitados para aportar datos sobre el paradero."
       }
     ]
   }
