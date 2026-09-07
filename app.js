@@ -1,3 +1,4 @@
+javascript
 // ============================================
 // CARGAR DASHBOARD
 // ============================================
@@ -22,7 +23,6 @@ async function cargarDashboard() {
     console.log('Datos recibidos:', data);
 
     mostrarFecha(data);
-    mostrarStats(data);
     mostrarPrioridades(data);
     configurarTabs(data);
 
@@ -32,11 +32,16 @@ async function cargarDashboard() {
 
     document.getElementById('contenido').innerHTML = `
       <div class="tema-card vacio">
-        <h3>Esperando datos</h3>
+
+        <h3>
+          Esperando datos
+        </h3>
+
         <p>
           El dashboard está funcionando, pero todavía no recibió
           el archivo de análisis.
         </p>
+
       </div>
     `;
 
@@ -114,59 +119,6 @@ function mostrarFecha(data) {
 
 
 // ============================================
-// ESTADÍSTICAS
-// ============================================
-
-function mostrarStats(data) {
-
-  const hiper =
-    document.getElementById('total-hiper');
-
-  const brechas =
-    document.getElementById('total-brechas');
-
-  const sinCobertura =
-    document.getElementById('total-sin-cobertura');
-
-  const oportunidades =
-    document.getElementById('total-oportunidades');
-
-
-  if (hiper) {
-
-    hiper.textContent =
-      (data.hipercompetencia || []).length;
-
-  }
-
-
-  if (brechas) {
-
-    brechas.textContent =
-      (data.perfil_pierde || []).length;
-
-  }
-
-
-  if (sinCobertura) {
-
-    sinCobertura.textContent =
-      (data.sin_cobertura_perfil || []).length;
-
-  }
-
-
-  if (oportunidades) {
-
-    oportunidades.textContent =
-      (data.oportunidades || []).length;
-
-  }
-
-}
-
-
-// ============================================
 // PRIORIDADES DEL DÍA
 // ============================================
 
@@ -180,7 +132,6 @@ function mostrarPrioridades(data) {
   }
 
 
-  // Máximo 3 prioridades
   const prioridades =
     (data.prioridades_del_dia || [])
       .slice(0, 3);
@@ -220,10 +171,18 @@ function mostrarPrioridades(data) {
 
 
         ${
-          item.motivo
+          (
+            item.motivo ||
+            item.insight ||
+            item.por_que_importa
+          )
             ? `
               <p>
-                ${escaparHTML(item.motivo)}
+                ${escaparHTML(
+                  item.motivo ||
+                  item.insight ||
+                  item.por_que_importa
+                )}
               </p>
             `
             : ''
@@ -459,6 +418,32 @@ function crearTema(item, categoria, index) {
     `${categoria}-${index}`;
 
 
+  // ==========================================
+  // BRECHA
+  // ==========================================
+
+  const brecha =
+    Number(item.brecha) || 0;
+
+
+  const cartelBrecha =
+    brecha > 0
+      ? `
+        <div class="brecha-card">
+
+          <div class="brecha-label">
+            BRECHA DE PERFIL
+          </div>
+
+          <div class="brecha-valor">
+            ${escaparHTML(brecha)} notas
+          </div>
+
+        </div>
+      `
+      : '';
+
+
   return `
 
     <article
@@ -529,49 +514,10 @@ function crearTema(item, categoria, index) {
         }
 
 
-        ${
-          item.brecha_perfil !== undefined &&
-          item.brecha_perfil !== null &&
-          Number(item.brecha_perfil) !== 0
-            ? `
-              <div class="metrica metrica-alerta">
-
-                <span class="metrica-numero">
-                  ${escaparHTML(item.brecha_perfil)}
-                </span>
-
-                <span>
-                  brecha
-                </span>
-
-              </div>
-            `
-            : ''
-        }
-
-
-        ${
-          item.diferencia !== undefined &&
-          item.diferencia !== null &&
-          Number(item.diferencia) !== 0
-            ? `
-              <div class="metrica metrica-success">
-
-                <span class="metrica-numero">
-                  ${escaparHTML(item.diferencia)}
-                </span>
-
-                <span>
-                  diferencia
-                </span>
-
-              </div>
-            `
-            : ''
-        }
-
-
       </div>
+
+
+      ${cartelBrecha}
 
 
       ${cobertura}
@@ -690,11 +636,15 @@ function crearCobertura(cobertura) {
       .sort((a, b) => {
 
         // Perfil siempre primero
-        if (a[0].toLowerCase() === 'perfil') {
+        if (
+          a[0].toLowerCase() === 'perfil'
+        ) {
           return -1;
         }
 
-        if (b[0].toLowerCase() === 'perfil') {
+        if (
+          b[0].toLowerCase() === 'perfil'
+        ) {
           return 1;
         }
 
