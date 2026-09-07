@@ -435,7 +435,7 @@ function crearTema(item, categoria, index) {
           </div>
 
           <div class="brecha-valor">
-            ${escaparHTML(brecha)} notas
+            ${escaparHTML(brecha)} ${brecha === 1 ? 'nota' : 'notas'}
           </div>
 
         </div>
