@@ -1,14 +1,16 @@
 <!DOCTYPE html>
+
 <html lang="es">
 
 <head>
 
   <meta charset="UTF-8">
 
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
-  >
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0"
+
+>
 
   <title>Radar de competencia | Perfil</title>
 
@@ -19,9 +21,7 @@
 
 </head>
 
-
 <body>
-
 
   <!-- =========================
        HEADER
@@ -29,265 +29,187 @@
 
   <header class="header">
 
-    <div class="header-main">
+```
+<div class="header-main">
 
-      <div class="logo">
-        PERFIL
-      </div>
+  <div class="logo">
+    PERFIL
+  </div>
 
-      <h1>
-        Radar de competencia
-      </h1>
+  <h1>
+    Radar de competencia
+  </h1>
 
-      <p id="fecha">
-        Cargando análisis...
-      </p>
+  <p id="fecha">
+    Cargando análisis...
+  </p>
 
-    </div>
+</div>
 
 
-    <div class="header-status">
+<div class="header-status">
 
-      <span class="status-dot"></span>
+  <span class="status-dot"></span>
 
-      Análisis actualizado
+  Análisis actualizado
 
-    </div>
+</div>
+```
 
   </header>
 
-
-
   <main class="container">
 
+```
+<!-- =========================
+     PRIORIDADES DEL DÍA
+========================== -->
 
-    <!-- =========================
-         RESUMEN GENERAL
-    ========================== -->
+<section class="section">
 
-    <section
-      class="stats"
-      id="stats"
-    >
+  <div class="section-header">
 
-      <div class="stat-card">
+    <div>
 
-        <span>
-          Temas hipercompetidos
-        </span>
+      <span class="eyebrow">
+        QUÉ MIRAR HOY
+      </span>
 
-        <strong id="total-hiper">
-          -
-        </strong>
+      <h2>
+        Prioridades editoriales
+      </h2>
 
-      </div>
+    </div>
 
+  </div>
 
-      <div class="stat-card danger">
 
-        <span>
-          Brechas de Perfil
-        </span>
+  <div
+    id="prioridades"
+    class="prioridades-grid"
+  ></div>
 
-        <strong id="total-brechas">
-          -
-        </strong>
+</section>
 
-      </div>
 
 
-      <div class="stat-card warning">
+<!-- =========================
+     ANÁLISIS DE TEMAS
+========================== -->
 
-        <span>
-          Sin cobertura
-        </span>
+<section class="section">
 
-        <strong id="total-sin-cobertura">
-          -
-        </strong>
+  <div class="section-header">
 
-      </div>
+    <div>
 
+      <span class="eyebrow">
+        MAPA DE COBERTURA
+      </span>
 
-      <div class="stat-card success">
+      <h2>
+        Análisis editorial
+      </h2>
 
-        <span>
-          Oportunidades
-        </span>
+    </div>
 
-        <strong id="total-oportunidades">
-          -
-        </strong>
-
-      </div>
-
-    </section>
-
-
-
-    <!-- =========================
-         PRIORIDADES DEL DÍA
-    ========================== -->
-
-    <section class="section">
-
-      <div class="section-header">
-
-        <div>
-
-          <span class="eyebrow">
-            QUÉ MIRAR HOY
-          </span>
-
-          <h2>
-            Prioridades editoriales
-          </h2>
-
-        </div>
-
-      </div>
-
-
-      <div
-        id="prioridades"
-        class="prioridades-grid"
-      ></div>
-
-    </section>
-
-
-
-    <!-- =========================
-         ANÁLISIS DE TEMAS
-    ========================== -->
-
-    <section class="section">
-
-      <div class="section-header">
-
-        <div>
-
-          <span class="eyebrow">
-            MAPA DE COBERTURA
-          </span>
-
-          <h2>
-            Análisis editorial
-          </h2>
-
-        </div>
-
-      </div>
-
-
-
-      <!-- =========================
-           TABS
-      ========================== -->
-
-      <div class="tabs">
-
-
-        <button
-          class="tab active"
-          data-tab="hipercompetencia"
-        >
-
-          🔥 Hipercompetencia
-
-        </button>
-
-
-
-        <button
-          class="tab"
-          data-tab="perfil_pierde"
-        >
-
-          🚨 Perfil pierde
-
-        </button>
-
-
-
-        <button
-          class="tab"
-          data-tab="sin_cobertura_perfil"
-        >
-
-          ⚠️ Sin cobertura
-
-        </button>
-
-
-
-        <button
-          class="tab"
-          data-tab="oportunidades"
-        >
-
-          💡 Oportunidades
-
-        </button>
-
-
-
-        <button
-          class="tab"
-          data-tab="audiencia"
-        >
-
-          📈 Audiencia
-
-        </button>
-
-
-
-        <button
-          class="tab"
-          data-tab="fortalezas_perfil"
-        >
-
-          💪 Fortalezas
-
-        </button>
-
-
-      </div>
-
-
-
-      <!-- =========================
-           CONTENIDO DINÁMICO
-      ========================== -->
-
-      <div
-        id="contenido"
-        aria-live="polite"
-      >
-
-        <div class="tema-card vacio">
-
-          Cargando análisis editorial...
-
-        </div>
-
-      </div>
-
-
-    </section>
-
-
-  </main>
+  </div>
 
 
 
   <!-- =========================
-       JAVASCRIPT
+       TABS
   ========================== -->
 
-  <script src="app.js"></script>
+  <div class="tabs">
 
+
+    <button
+      class="tab active"
+      data-tab="hipercompetencia"
+    >
+
+      🔥 Hipercompetencia
+
+    </button>
+
+
+
+    <button
+      class="tab"
+      data-tab="perfil_pierde"
+    >
+
+      🚨 Perfil pierde
+
+    </button>
+
+
+
+    <button
+      class="tab"
+      data-tab="sin_cobertura_perfil"
+    >
+
+      ⚠️ Sin cobertura
+
+    </button>
+
+
+
+    <button
+      class="tab"
+      data-tab="oportunidades"
+    >
+
+      💡 Oportunidades
+
+    </button>
+
+
+
+    <button
+      class="tab"
+      data-tab="fortalezas_perfil"
+    >
+
+      💪 Fortalezas
+
+    </button>
+
+
+  </div>
+
+
+
+  <!-- =========================
+       CONTENIDO DINÁMICO
+  ========================== -->
+
+  <div
+    id="contenido"
+    aria-live="polite"
+  >
+
+    <div class="tema-card vacio">
+
+      Cargando análisis editorial...
+
+    </div>
+
+  </div>
+
+
+</section>
+```
+
+  </main>
+
+  <!-- =========================
+       JAVASCRIPT
+  ========================= -->
+
+  <script src="app.js"></script>
 
 </body>
 
