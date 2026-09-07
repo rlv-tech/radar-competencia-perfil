@@ -76,57 +76,6 @@ body {
 
 
 /* =========================
-   ESTADÍSTICAS
-========================= */
-
-.stats {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 18px;
-  margin-bottom: 45px;
-}
-
-.stat-card {
-  background: white;
-  padding: 22px;
-  border-radius: 12px;
-  border-left: 5px solid #6286B1;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.stat-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-}
-
-.stat-card span {
-  display: block;
-  color: #5f6368;
-  font-size: 13px;
-}
-
-.stat-card strong {
-  display: block;
-  font-size: 34px;
-  margin-top: 8px;
-  color: #385A7C;
-}
-
-.stat-card.danger {
-  border-left-color: #C94C4C;
-}
-
-.stat-card.warning {
-  border-left-color: #B98520;
-}
-
-.stat-card.success {
-  border-left-color: #4D8B63;
-}
-
-
-/* =========================
    SECCIONES
 ========================= */
 
@@ -360,20 +309,37 @@ body {
   font-size: 15px;
 }
 
-.metrica-alerta {
+
+/* =========================
+   CARTEL DE BRECHA
+========================= */
+
+.brecha-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+
+  margin-top: 14px;
+  padding: 11px 14px;
+
   background: #f9e8e8;
+  border-left: 4px solid #C94C4C;
+  border-radius: 8px;
 }
 
-.metrica-alerta .metrica-numero {
+.brecha-label {
   color: #C94C4C;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
-.metrica-success {
-  background: #e8f3ec;
-}
-
-.metrica-success .metrica-numero {
-  color: #4D8B63;
+.brecha-valor {
+  color: #C94C4C;
+  font-size: 14px;
+  font-weight: bold;
+  white-space: nowrap;
 }
 
 
@@ -529,6 +495,7 @@ body {
 }
 
 @keyframes aparecer {
+
   from {
     opacity: 0;
     transform: translateY(-5px);
@@ -538,6 +505,7 @@ body {
     opacity: 1;
     transform: translateY(0);
   }
+
 }
 
 
@@ -648,10 +616,6 @@ body {
 
 @media (max-width: 1000px) {
 
-  .stats {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
   .prioridades-grid {
     grid-template-columns: 1fr;
   }
@@ -687,11 +651,6 @@ body {
     padding: 25px 15px 50px;
   }
 
-  .stats {
-    grid-template-columns: 1fr;
-    gap: 12px;
-  }
-
   .section h2 {
     font-size: 22px;
   }
@@ -720,6 +679,12 @@ body {
 
   .medio-nombre {
     font-size: 11px;
+  }
+
+  .brecha-card {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 4px;
   }
 
 }
