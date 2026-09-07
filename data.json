@@ -208,11 +208,13 @@
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "cantidad_medios_competencia": 3
-    },
+    }
+  ],
+  "perfil_pierde": [
     {
       "tema": "Internación y parte médico de Mirtha Legrand en el Sanatorio Mater Dei",
       "prioridad": 0,
-      "tipo": "hipercompetencia",
+      "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
       "total_notas": 3,
       "cantidad_medios": 3,
@@ -264,7 +266,7 @@
     {
       "tema": "Lanzamiento de los nuevos créditos UVA del Banco Nación para compra de automóviles",
       "prioridad": 0,
-      "tipo": "hipercompetencia",
+      "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
       "total_notas": 4,
       "cantidad_medios": 3,
@@ -314,9 +316,56 @@
       "cantidad_medios_competencia": 2
     },
     {
+      "tema": "Aniversario a 30 años de la muerte de Gilda y su legado en la música popular",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Dispara picos de nostalgia y consumo cultural masivo en redes y buscadores.",
+      "insight": "Varios medios posicionan notas de color y homenajes que captan un gran caudal de lectores.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Acompañar las fechas patrias o efemérides culturales con material de archivo optimizado para SEO.",
+      "enfoques_sugeridos": [
+        "El nacimiento del mito popular",
+        "Testimonios de allegados y fanáticos"
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "30 anos sin gilda un repaso por la vida la cantante de musica tropical",
+          "link": "https://www.lanacion.com.ar/espectaculos/30-anos-sin-gilda-un-repaso-por-la-vida-la-cantante-de-musica-tropical-nid07092026/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "A 30 anos la muerte gilda el nacimiento y legado un mito popular la musica",
+          "link": "https://www.ambito.com/espectaculos/a-30-anos-la-muerte-gilda-el-nacimiento-y-legado-un-mito-popular-la-nacion-n6319291"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
       "tema": "Triunfo electoral de la ultraderecha en los comicios regionales en Alemania",
       "prioridad": 0,
-      "tipo": "hipercompetencia",
+      "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
       "total_notas": 12,
       "cantidad_medios": 3,
@@ -364,11 +413,13 @@
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "cantidad_medios_competencia": 3
-    },
+    }
+  ],
+  "sin_cobertura_perfil": [
     {
       "tema": "Advertencia de la ONU sobre los riesgos existenciales de la inteligencia artificial",
       "prioridad": 0,
-      "tipo": "hipercompetencia",
+      "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
       "total_notas": 3,
       "cantidad_medios": 3,
@@ -420,7 +471,7 @@
     {
       "tema": "Aumento de las multas de tránsito en la Ciudad de Buenos Aires",
       "prioridad": 0,
-      "tipo": "hipercompetencia",
+      "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
       "total_notas": 4,
       "cantidad_medios": 3,
@@ -472,7 +523,7 @@
     {
       "tema": "Declaraciones de Eduardo Elsztain sobre sus inversiones en las Islas Malvinas",
       "prioridad": 0,
-      "tipo": "hipercompetencia",
+      "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
       "total_notas": 3,
       "cantidad_medios": 3,
@@ -522,55 +573,48 @@
       "cantidad_medios_competencia": 2
     }
   ],
-  "perfil_pierde": [],
-  "sin_cobertura_perfil": [],
   "oportunidades": [
     {
-      "tema": "Aniversario a 30 años de la muerte de Gilda y su legado en la música popular",
+      "tema": "Llegada de la red YPF Black a Córdoba con estaciones de operación privada",
       "prioridad": 0,
       "tipo": "oportunidad",
-      "tipo_de_oportunidad": "",
+      "tipo_de_oportunidad": "Cobertura exclusiva de la competencia en negocios regionales",
       "total_notas": 1,
       "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 1,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 0,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "cobertura": {
-        "Perfil": 0,
+        "Perfil": 1,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 0,
-        "Ámbito": 1,
+        "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Dispara picos de nostalgia y consumo cultural masivo en redes y buscadores.",
-      "insight": "Varios medios posicionan notas de color y homenajes que captan un gran caudal de lectores.",
+      "por_que_importa": "Interesa al público cordobés y al sector empresario vinculado al expendio de combustibles.",
+      "insight": "Las aperturas comerciales regionales fidelizan a la audiencia local cuando hay escasez de notas.",
       "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Acompañar las fechas patrias o efemérides culturales con material de archivo optimizado para SEO.",
+      "motivo_oportunidad": "Permite captar tráfico local en la provincia de Córdoba sobre un sector de consumo masivo y energía.",
+      "accion_sugerida": "Desarrollar un anticipo con detalles de la inversión y ubicación de las nuevas estaciones.",
       "enfoques_sugeridos": [
-        "El nacimiento del mito popular",
-        "Testimonios de allegados y fanáticos"
+        "El desembarco de la nueva marca en Córdoba",
+        "El impacto en el mercado de combustibles"
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "30 anos sin gilda un repaso por la vida la cantante de musica tropical",
-          "link": "https://www.lanacion.com.ar/espectaculos/30-anos-sin-gilda-un-repaso-por-la-vida-la-cantante-de-musica-tropical-nid07092026/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "A 30 anos la muerte gilda el nacimiento y legado un mito popular la musica",
-          "link": "https://www.ambito.com/espectaculos/a-30-anos-la-muerte-gilda-el-nacimiento-y-legado-un-mito-popular-la-nacion-n6319291"
+          "medio": "Perfil",
+          "titulo": "La red ypf black debuta en cordoba a fines de septiembre y suma su primera estacion nacional de operacion privada",
+          "link": "https://www.perfil.com/noticias/cordoba/la-red-ypf-black-debuta-en-cordoba-a-fines-de-septiembre-y-suma-su-primera-estacion-nacional-de-operacion-privada.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
+      "cantidad_medios_competencia": 0
     },
     {
       "tema": "Aprobación de RIGI para insumo crítico a Pampa Energía",
@@ -658,48 +702,6 @@
     }
   ],
   "fortalezas_perfil": [
-    {
-      "tema": "Llegada de la red YPF Black a Córdoba con estaciones de operación privada",
-      "prioridad": 0,
-      "tipo": "fortaleza_perfil",
-      "tipo_de_oportunidad": "Cobertura exclusiva de la competencia en negocios regionales",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 0,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 0,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Interesa al público cordobés y al sector empresario vinculado al expendio de combustibles.",
-      "insight": "Las aperturas comerciales regionales fidelizan a la audiencia local cuando hay escasez de notas.",
-      "motivo": "",
-      "motivo_oportunidad": "Permite captar tráfico local en la provincia de Córdoba sobre un sector de consumo masivo y energía.",
-      "accion_sugerida": "Desarrollar un anticipo con detalles de la inversión y ubicación de las nuevas estaciones.",
-      "enfoques_sugeridos": [
-        "El desembarco de la nueva marca en Córdoba",
-        "El impacto en el mercado de combustibles"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "La red ypf black debuta en cordoba a fines de septiembre y suma su primera estacion nacional de operacion privada",
-          "link": "https://www.perfil.com/noticias/cordoba/la-red-ypf-black-debuta-en-cordoba-a-fines-de-septiembre-y-suma-su-primera-estacion-nacional-de-operacion-privada.phtml"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 0
-    },
     {
       "tema": "Análisis político del voto de la extrema derecha y la coyuntura regional",
       "prioridad": 0,
@@ -1152,11 +1154,13 @@
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
         "cantidad_medios_competencia": 3
-      },
+      }
+    ],
+    "perfil_pierde": [
       {
         "tema": "Internación y parte médico de Mirtha Legrand en el Sanatorio Mater Dei",
         "prioridad": 0,
-        "tipo": "hipercompetencia",
+        "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
         "total_notas": 3,
         "cantidad_medios": 3,
@@ -1208,7 +1212,7 @@
       {
         "tema": "Lanzamiento de los nuevos créditos UVA del Banco Nación para compra de automóviles",
         "prioridad": 0,
-        "tipo": "hipercompetencia",
+        "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
         "total_notas": 4,
         "cantidad_medios": 3,
@@ -1258,9 +1262,56 @@
         "cantidad_medios_competencia": 2
       },
       {
+        "tema": "Aniversario a 30 años de la muerte de Gilda y su legado en la música popular",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Dispara picos de nostalgia y consumo cultural masivo en redes y buscadores.",
+        "insight": "Varios medios posicionan notas de color y homenajes que captan un gran caudal de lectores.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Acompañar las fechas patrias o efemérides culturales con material de archivo optimizado para SEO.",
+        "enfoques_sugeridos": [
+          "El nacimiento del mito popular",
+          "Testimonios de allegados y fanáticos"
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "30 anos sin gilda un repaso por la vida la cantante de musica tropical",
+            "link": "https://www.lanacion.com.ar/espectaculos/30-anos-sin-gilda-un-repaso-por-la-vida-la-cantante-de-musica-tropical-nid07092026/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "A 30 anos la muerte gilda el nacimiento y legado un mito popular la musica",
+            "link": "https://www.ambito.com/espectaculos/a-30-anos-la-muerte-gilda-el-nacimiento-y-legado-un-mito-popular-la-nacion-n6319291"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
         "tema": "Triunfo electoral de la ultraderecha en los comicios regionales en Alemania",
         "prioridad": 0,
-        "tipo": "hipercompetencia",
+        "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
         "total_notas": 12,
         "cantidad_medios": 3,
@@ -1308,11 +1359,13 @@
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
         "cantidad_medios_competencia": 3
-      },
+      }
+    ],
+    "sin_cobertura_perfil": [
       {
         "tema": "Advertencia de la ONU sobre los riesgos existenciales de la inteligencia artificial",
         "prioridad": 0,
-        "tipo": "hipercompetencia",
+        "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
         "total_notas": 3,
         "cantidad_medios": 3,
@@ -1364,7 +1417,7 @@
       {
         "tema": "Aumento de las multas de tránsito en la Ciudad de Buenos Aires",
         "prioridad": 0,
-        "tipo": "hipercompetencia",
+        "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
         "total_notas": 4,
         "cantidad_medios": 3,
@@ -1416,7 +1469,7 @@
       {
         "tema": "Declaraciones de Eduardo Elsztain sobre sus inversiones en las Islas Malvinas",
         "prioridad": 0,
-        "tipo": "hipercompetencia",
+        "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
         "total_notas": 3,
         "cantidad_medios": 3,
@@ -1466,55 +1519,48 @@
         "cantidad_medios_competencia": 2
       }
     ],
-    "perfil_pierde": [],
-    "sin_cobertura_perfil": [],
     "oportunidades": [
       {
-        "tema": "Aniversario a 30 años de la muerte de Gilda y su legado en la música popular",
+        "tema": "Llegada de la red YPF Black a Córdoba con estaciones de operación privada",
         "prioridad": 0,
         "tipo": "oportunidad",
-        "tipo_de_oportunidad": "",
+        "tipo_de_oportunidad": "Cobertura exclusiva de la competencia en negocios regionales",
         "total_notas": 1,
         "cantidad_medios": 1,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 1,
-        "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 0,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 0,
+        "brecha": 0,
         "cobertura": {
-          "Perfil": 0,
+          "Perfil": 1,
           "Clarín": 0,
           "Infobae": 0,
           "TN": 0,
-          "Ámbito": 1,
+          "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Dispara picos de nostalgia y consumo cultural masivo en redes y buscadores.",
-        "insight": "Varios medios posicionan notas de color y homenajes que captan un gran caudal de lectores.",
+        "por_que_importa": "Interesa al público cordobés y al sector empresario vinculado al expendio de combustibles.",
+        "insight": "Las aperturas comerciales regionales fidelizan a la audiencia local cuando hay escasez de notas.",
         "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Acompañar las fechas patrias o efemérides culturales con material de archivo optimizado para SEO.",
+        "motivo_oportunidad": "Permite captar tráfico local en la provincia de Córdoba sobre un sector de consumo masivo y energía.",
+        "accion_sugerida": "Desarrollar un anticipo con detalles de la inversión y ubicación de las nuevas estaciones.",
         "enfoques_sugeridos": [
-          "El nacimiento del mito popular",
-          "Testimonios de allegados y fanáticos"
+          "El desembarco de la nueva marca en Córdoba",
+          "El impacto en el mercado de combustibles"
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "30 anos sin gilda un repaso por la vida la cantante de musica tropical",
-            "link": "https://www.lanacion.com.ar/espectaculos/30-anos-sin-gilda-un-repaso-por-la-vida-la-cantante-de-musica-tropical-nid07092026/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "A 30 anos la muerte gilda el nacimiento y legado un mito popular la musica",
-            "link": "https://www.ambito.com/espectaculos/a-30-anos-la-muerte-gilda-el-nacimiento-y-legado-un-mito-popular-la-nacion-n6319291"
+            "medio": "Perfil",
+            "titulo": "La red ypf black debuta en cordoba a fines de septiembre y suma su primera estacion nacional de operacion privada",
+            "link": "https://www.perfil.com/noticias/cordoba/la-red-ypf-black-debuta-en-cordoba-a-fines-de-septiembre-y-suma-su-primera-estacion-nacional-de-operacion-privada.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 1
+        "cantidad_medios_competencia": 0
       },
       {
         "tema": "Aprobación de RIGI para insumo crítico a Pampa Energía",
@@ -1602,48 +1648,6 @@
       }
     ],
     "fortalezas_perfil": [
-      {
-        "tema": "Llegada de la red YPF Black a Córdoba con estaciones de operación privada",
-        "prioridad": 0,
-        "tipo": "fortaleza_perfil",
-        "tipo_de_oportunidad": "Cobertura exclusiva de la competencia en negocios regionales",
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 0,
-        "medio_lider": "Clarín",
-        "cobertura_medio_lider": 0,
-        "brecha": 0,
-        "cobertura": {
-          "Perfil": 1,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Interesa al público cordobés y al sector empresario vinculado al expendio de combustibles.",
-        "insight": "Las aperturas comerciales regionales fidelizan a la audiencia local cuando hay escasez de notas.",
-        "motivo": "",
-        "motivo_oportunidad": "Permite captar tráfico local en la provincia de Córdoba sobre un sector de consumo masivo y energía.",
-        "accion_sugerida": "Desarrollar un anticipo con detalles de la inversión y ubicación de las nuevas estaciones.",
-        "enfoques_sugeridos": [
-          "El desembarco de la nueva marca en Córdoba",
-          "El impacto en el mercado de combustibles"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "La red ypf black debuta en cordoba a fines de septiembre y suma su primera estacion nacional de operacion privada",
-            "link": "https://www.perfil.com/noticias/cordoba/la-red-ypf-black-debuta-en-cordoba-a-fines-de-septiembre-y-suma-su-primera-estacion-nacional-de-operacion-privada.phtml"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 0
-      },
       {
         "tema": "Análisis político del voto de la extrema derecha y la coyuntura regional",
         "prioridad": 0,
