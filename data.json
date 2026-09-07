@@ -1,27 +1,27 @@
 {
-  "fecha_analisis": "07/09/2026",
+  "fecha_analisis": "7 de septiembre de 2026",
   "hipercompetencia": [
     {
       "tema": "Reunión de Gabinete de Javier Milei sobre agenda legislativa, presupuesto y Malvinas",
       "prioridad": 0,
       "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
+      "total_notas": 6,
+      "cantidad_medios": 5,
       "cobertura_perfil": 1,
       "perfil": 1,
-      "competencia_total": 2,
-      "medio_lider": "Infobae",
-      "cobertura_medio_lider": 1,
-      "brecha": 0,
+      "competencia_total": 5,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
       "cobertura": {
         "Perfil": 1,
-        "Clarín": 0,
+        "Clarín": 2,
         "Infobae": 1,
         "TN": 1,
         "Ámbito": 0,
         "Página 12": 0,
-        "El Cronista": 0
+        "El Cronista": 1
       },
       "por_que_importa": "Concentra la atención política del día con alto interés de la audiencia y tracción sostenida en buscadores.",
       "insight": "Los lectores buscan el minuto a minuto y las definiciones oficiales sobre la estrategia del Gobierno.",
@@ -51,72 +51,176 @@
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 2
-    }
-  ],
-  "perfil_pierde": [
+      "cantidad_medios_competencia": 4
+    },
     {
-      "tema": "Internación y parte médico de Mirtha Legrand en el Sanatorio Mater Dei",
+      "tema": "Canje de bonos del Gobierno al BCRA para contener el dólar",
       "prioridad": 0,
-      "tipo": "perfil_pierde",
+      "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 1,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 1,
+      "total_notas": 5,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 4,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 2,
       "brecha": 1,
       "cobertura": {
-        "Perfil": 0,
-        "Clarín": 0,
+        "Perfil": 1,
+        "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
-        "Ámbito": 0,
+        "Ámbito": 2,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "La salud de las principales figuras del espectáculo genera picos masivos de audiencia en Google Discover.",
-      "insight": "La competencia directa publica actualizaciones constantes con un volumen de notas muy superior.",
+      "por_que_importa": "Impacta directamente en las expectativas cambiarias y financieras de la audiencia masiva.",
+      "insight": "La cobertura económica genera consultas recurrentes sobre el comportamiento del tipo de cambio.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar la cobertura con seguimientos en tiempo real y recopilación de testimonios.",
+      "accion_sugerida": "Explicar de forma sencilla el impacto de la medida en las reservas y los dólares paralelos.",
       "enfoques_sugeridos": [
-        "El parte médico oficial y evolución favorable",
-        "Reacciones del mundo del espectáculo"
+        "El poder de fuego del Banco Central tras la operación",
+        "Lectura de los analistas de la City sobre la estabilidad cambiaria"
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Mirtha legrand esta internada como se encuentra la diva",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-esta-internada-como-se-encuentra-la-diva-nid07092026/"
+          "titulo": "El gobierno le canjeo us2000 millones en titulos al bcra para que mantenga contenido al dolar",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/"
         },
         {
-          "medio": "TN",
-          "titulo": "Mirtha legrand esta internada en el mater dei por una bronquitis",
-          "link": "https://tn.com.ar/show/famosos/2026/09/07/mirtha-legrand-esta-internada-en-el-mater-dei-por-una-bronquitis/"
+          "medio": "Clarín",
+          "titulo": "Caputo da us 2000 millones poder fuego bausili intervenir bonos dolar",
+          "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Como sigue la salud mirtha legrand ausentarse su programa",
-          "link": "https://www.ambito.com/espectaculos/como-sigue-la-salud-mirtha-legrand-ausentarse-su-programa-n6319278"
+          "titulo": "El bcra cambio lecaps us2000 millones titulos atados al dolar",
+          "link": "https://www.ambito.com/finanzas/el-bcra-cambio-lecaps-us2000-millones-titulos-atados-al-dolar-n6319300"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
+      "cantidad_medios_competencia": 3
     },
+    {
+      "tema": "Tratamiento parlamentario de proyectos sobre morosidad familiar y deudas",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 4,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Toca una fibra de alto impacto social debido al endeudamiento de los hogares.",
+      "insight": "Los lectores buscan conocer qué se discute en el Congreso y cómo podría beneficiarlos.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Detallar los puntos clave de los proyectos impulsados por la oposición y la postura del oficialismo.",
+      "enfoques_sugeridos": [
+        "El mapa de fuerzas en Diputados para la sesión",
+        "Impacto de la morosidad familiar en el consumo"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Morosidad y discapacidad la oposicion busca sesionar este miercoles en diputados",
+          "link": "https://www.perfil.com/noticias/politica/morosidad-y-discapacidad-la-oposicion-busca-sesionar-este-miercoles-en-diputados.phtml"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Oposicion convoco sesion diputados trata proyectos morosidad familias endeudadas",
+          "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
+        },
+        {
+          "medio": "El Cronista",
+          "titulo": "La oposicion lleva la morosidad al recinto que proyectos buscan tratar y la mirada de milei",
+          "link": "https://www.cronista.com/economia-politica/la-oposicion-lleva-la-morosidad-al-recinto-que-proyectos-buscan-tratar-y-la-mirada-de-milei/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Reglamentación oficial del nuevo Régimen Penal Juvenil",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 4,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 2,
+        "Página 12": 1,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Es uno de los temas sociales y políticos más sensibles y debatidos de la agenda.",
+      "insight": "Genera altísima interacción en redes sociales y consultas en buscadores por los cambios legales.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Explicar con claridad los alcances de la normativa y las edades contempladas.",
+      "enfoques_sugeridos": [
+        "Los cambios centrales que introdujo el decreto del Gobierno",
+        "El debate jurídico y político en torno a la medida"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "El gobierno reglamento con el decreto 8752026 el regimen penal juvenil que pasara ahora con los adolescentes acusados de delinquir",
+          "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-reglamento-con-el-decreto-8752026-el-regimen-penal-juvenil-que-pasara-ahora-con-los-adolescentes-acusados-de-delinquir.phtml"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Regimen penal juvenil cambia reglamentacion publicada gobierno",
+          "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El gobierno reglamento el regimen penal juvenil cuales son los cambios y como se aplicara",
+          "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
+    }
+  ],
+  "perfil_pierde": [
     {
       "tema": "Lanzamiento de los nuevos créditos UVA del Banco Nación para compra de automóviles",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 2,
+      "total_notas": 4,
+      "cantidad_medios": 3,
       "cobertura_perfil": 1,
       "perfil": 1,
-      "competencia_total": 2,
+      "competencia_total": 3,
       "medio_lider": "TN",
       "cobertura_medio_lider": 2,
       "brecha": 1,
@@ -127,7 +231,7 @@
         "TN": 2,
         "Ámbito": 0,
         "Página 12": 0,
-        "El Cronista": 0
+        "El Cronista": 1
       },
       "por_que_importa": "Tiene un atractivo comercial inmenso para la audiencia interesada en consumo y financiación.",
       "insight": "Los competidores dominan los resultados de búsqueda con guías detalladas de requisitos y cuotas.",
@@ -157,54 +261,194 @@
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
-    },
+      "cantidad_medios_competencia": 2
+    }
+  ],
+  "sin_cobertura_perfil": [
     {
-      "tema": "Triunfo electoral de la ultraderecha en los comicios regionales en Alemania",
+      "tema": "Advertencia de la ONU sobre los riesgos existenciales de la inteligencia artificial",
       "prioridad": 0,
-      "tipo": "perfil_pierde",
+      "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 5,
-      "cantidad_medios": 1,
+      "total_notas": 3,
+      "cantidad_medios": 3,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 5,
-      "medio_lider": "Infobae",
-      "cobertura_medio_lider": 5,
-      "brecha": 5,
+      "competencia_total": 3,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "Clarín": 0,
-        "Infobae": 5,
+        "Clarín": 1,
+        "Infobae": 0,
         "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
+        "Ámbito": 1,
+        "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Es un hito geopolítico de relevancia internacional que altera el escenario europeo.",
-      "insight": "La competencia despliega coberturas extensas con análisis de corresponsales y repercusiones en la UE.",
+      "por_que_importa": "Combina tecnología y futuro con un fuerte atractivo para lectores interesados en tendencias globales.",
+      "insight": "Los artículos sobre regulación de la inteligencia artificial traccionan muy bien en Google Discover.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en las causas del ascenso de la ultraderecha y el impacto sobre la política exterior alemana.",
+      "accion_sugerida": "Desarrollar un enfoque sobre las peticiones de organismos internacionales y el freno tecnológico.",
       "enfoques_sugeridos": [
-        "Las claves del terremoto político en Alemania",
-        "La preocupación de las instituciones europeas"
+        "Los peligros señalados por las Naciones Unidas",
+        "La respuesta de las grandes tecnológicas ante los pedidos de control"
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "Las claves del terremoto politico en alemania por que arraso la ultraderecha y que implica para merz",
-          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
+          "medio": "Clarín",
+          "titulo": "Onu llamo esfuerzo internacional evitar inteligencia artificial vuelva incontrolable",
+          "link": "https://www.clarin.com/internacional/onu-llamo-esfuerzo-internacional-evitar-inteligencia-artificial-vuelva-incontrolable_0_XLEpFaDdcq.html"
         },
+        {
+          "medio": "Ámbito",
+          "titulo": "Seria advertencia la onu la inteligencia artificial es un riesgo existencial la humanidad",
+          "link": "https://www.ambito.com/informacion-general/seria-advertencia-la-onu-la-inteligencia-artificial-es-un-riesgo-existencial-la-humanidad-n6319386"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "Regular la inteligencia artificial la onu pide actuar antes de que sea demasiado tarde",
+          "link": "https://www.pagina12.com.ar/2026/09/07/regular-la-inteligencia-artificial-la-onu-pide-actuar-antes-de-que-sea-demasiado-tarde-n6319399"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
+    },
+    {
+      "tema": "Aumento de las multas de tránsito en la Ciudad de Buenos Aires",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 4,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 4,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 2,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Es un tema de altísimo servicio y utilidad directa para los conductores residentes en CABA y GBA.",
+      "insight": "Las notas sobre incrementos en infracciones viales generan consultas masivas de tránsito y bolsillo.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un cuadro completo con el detalle de los nuevos montos por cada tipo de falta.",
+      "enfoques_sugeridos": [
+        "Cuánto cuestan las infracciones más comunes",
+        "El impacto de la suba en el presupuesto de los automovilistas"
+      ],
+      "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Alemania ultraderecha busca alianzas historico triunfo acorrala consternado friedrich merz",
-          "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz-0_ZJjSKT6hqK.html"
+          "titulo": "Multas transito caras ciudad aumentaron 18 infraccion comun cuesta 100000",
+          "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Iglesias de alemania expresan su preocupacion por la victoria de la afd nuestros peores temores se han confirmado",
-          "link": "https://www.infobae.com/america/agencias/2026/09/07/iglesias-de-alemania-expresan-su-preocupacion-por-la-victoria-de-la-afd-nuestros-peores-temores-se-han-confirmado/"
+          "medio": "Ámbito",
+          "titulo": "Multas mas caras la ciudad que infracciones suben y hasta cuanto pueden llegar",
+          "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-hasta-cuanto-pueden-llegar-n6319399"
+        },
+        {
+          "medio": "El Cronista",
+          "titulo": "Aumentan las multas en caba desde septiembre y conductores podrian pagar mas de 4600000 por el error que es mas facil de cometer",
+          "link": "https://www.cronista.com/informacion-gral/aumentan-las-multas-en-caba-desde-septiembre-y-conductores-podrian-pagar-mas-de-4600000-por-el-error-que-es-mas-facil-de-cometer/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
+    }
+  ],
+  "oportunidades": [
+    {
+      "tema": "Aprobación de RIGI para insumo crítico a Pampa Energía",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Exclusiva de El Cronista en grandes inversiones energéticas",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "El Cronista",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Marca el pulso de las grandes inversiones bajo el régimen de incentivos.",
+      "insight": "Los contenidos sobre el RIGI tienen alta retención entre inversores y tomadores de decisiones.",
+      "motivo": "",
+      "motivo_oportunidad": "Atrae a una audiencia especializada en economía, energía y mercados financieros.",
+      "accion_sugerida": "Analizar el proyecto aprobado y cómo competirá en el mercado de insumos.",
+      "enfoques_sugeridos": [
+        "Los detalles del primer RIGI aprobado para un insumo crítico",
+        "La estrategia de Pampa Energía frente al agro y la industria"
+      ],
+      "ejemplos": [
+        {
+          "medio": "El Cronista",
+          "titulo": "Con el primer rigi aprobado para un insumo critico pampa energia le competira directamente a un gigante del agro",
+          "link": "https://www.cronista.com/negocios/con-el-primer-rigi-aprobado-para-un-insumo-critico-pampa-energia-le-competira-directamente-a-un-gigante-del-agro/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Proyecto de ley en Australia para limitar algoritmos en redes sociales",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Exclusiva de Ámbito en tecnología y regulación internacional",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Anticipa discusiones regulatorias que tarde o temprano llegan a la región.",
+      "insight": "Las notas sobre control de redes sociales generan fuerte discusión en comunidades digitales.",
+      "motivo": "",
+      "motivo_oportunidad": "Atrae a lectores interesados en el debate global sobre el impacto de las plataformas digitales.",
+      "accion_sugerida": "Profundizar en los alcances de la ley australiana y las reacciones de las empresas tecnológicas.",
+      "enfoques_sugeridos": [
+        "Cómo planea Australia limitar el poder de los algoritmos",
+        "El antecedente para otros países que buscan regular el ecosistema digital"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Australia analiza una ley limitar el poder los algoritmos redes sociales",
+          "link": "https://www.ambito.com/mundo/australia-analiza-una-ley-limitar-el-poder-los-algoritmos-redes-sociales-n6319369"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -212,8 +456,6 @@
       "cantidad_medios_competencia": 1
     }
   ],
-  "sin_cobertura_perfil": [],
-  "oportunidades": [],
   "fortalezas_perfil": [
     {
       "tema": "Análisis político del voto de la extrema derecha y la coyuntura regional",
@@ -300,7 +542,164 @@
       "cantidad_medios_competencia": 0
     }
   ],
-  "prioridades_del_dia": [],
+  "prioridades_del_dia": [
+    {
+      "tema": "Aumento de las multas de tránsito en la Ciudad de Buenos Aires",
+      "prioridad": 1,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 4,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 4,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 2,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Es un tema de altísimo servicio y utilidad directa para los conductores residentes en CABA y GBA.",
+      "insight": "Las notas sobre incrementos en infracciones viales generan consultas masivas de tránsito y bolsillo.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un cuadro completo con el detalle de los nuevos montos por cada tipo de falta.",
+      "enfoques_sugeridos": [
+        "Cuánto cuestan las infracciones más comunes",
+        "El impacto de la suba en el presupuesto de los automovilistas"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Multas transito caras ciudad aumentaron 18 infraccion comun cuesta 100000",
+          "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Multas mas caras la ciudad que infracciones suben y hasta cuanto pueden llegar",
+          "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-hasta-cuanto-pueden-llegar-n6319399"
+        },
+        {
+          "medio": "El Cronista",
+          "titulo": "Aumentan las multas en caba desde septiembre y conductores podrian pagar mas de 4600000 por el error que es mas facil de cometer",
+          "link": "https://www.cronista.com/informacion-gral/aumentan-las-multas-en-caba-desde-septiembre-y-conductores-podrian-pagar-mas-de-4600000-por-el-error-que-es-mas-facil-de-cometer/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
+    },
+    {
+      "tema": "Advertencia de la ONU sobre los riesgos existenciales de la inteligencia artificial",
+      "prioridad": 2,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 3,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Combina tecnología y futuro con un fuerte atractivo para lectores interesados en tendencias globales.",
+      "insight": "Los artículos sobre regulación de la inteligencia artificial traccionan muy bien en Google Discover.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desarrollar un enfoque sobre las peticiones de organismos internacionales y el freno tecnológico.",
+      "enfoques_sugeridos": [
+        "Los peligros señalados por las Naciones Unidas",
+        "La respuesta de las grandes tecnológicas ante los pedidos de control"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Onu llamo esfuerzo internacional evitar inteligencia artificial vuelva incontrolable",
+          "link": "https://www.clarin.com/internacional/onu-llamo-esfuerzo-internacional-evitar-inteligencia-artificial-vuelva-incontrolable_0_XLEpFaDdcq.html"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Seria advertencia la onu la inteligencia artificial es un riesgo existencial la humanidad",
+          "link": "https://www.ambito.com/informacion-general/seria-advertencia-la-onu-la-inteligencia-artificial-es-un-riesgo-existencial-la-humanidad-n6319386"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "Regular la inteligencia artificial la onu pide actuar antes de que sea demasiado tarde",
+          "link": "https://www.pagina12.com.ar/2026/09/07/regular-la-inteligencia-artificial-la-onu-pide-actuar-antes-de-que-sea-demasiado-tarde-n6319399"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
+    },
+    {
+      "tema": "Lanzamiento de los nuevos créditos UVA del Banco Nación para compra de automóviles",
+      "prioridad": 3,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 4,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 3,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 2,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Tiene un atractivo comercial inmenso para la audiencia interesada en consumo y financiación.",
+      "insight": "Los competidores dominan los resultados de búsqueda con guías detalladas de requisitos y cuotas.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar tablas comparativas y calculadoras de cuotas para captar tráfico de intención.",
+      "enfoques_sugeridos": [
+        "Requisitos y montos máximos a financiar",
+        "Comparativa con otras líneas de crédito del mercado"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Creditos para comprar autos banco nacion presta hasta 100 millones sin prenda y estas son las cuotas",
+          "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-son-las-cuotas.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Sturzenegger defendio los nuevos creditos del banco nacion para comprar autos",
+          "link": "https://www.lanacion.com.ar/autos/sturzenegger-defendio-los-nuevos-creditos-del-banco-nacion-para-comprar-autos-nid07092026/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Como son los creditos uva que lanzo el banco nacion para autos 0km y usados se podran financiar hasta 100 millones",
+          "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
+    }
+  ],
   "analisis_completo": {
     "fecha_analisis": "07/09/2026",
     "hipercompetencia": [
