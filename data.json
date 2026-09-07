@@ -1,363 +1,52 @@
 {
-  "fecha_analisis": "2026-09-07",
+  "fecha_analisis": "07/09/2026",
   "hipercompetencia": [
     {
-      "tema": "Seguimiento diario de la cotización del dólar blue y oficial",
+      "tema": "Reunión de Gabinete de Javier Milei sobre agenda legislativa, presupuesto y Malvinas",
       "prioridad": 0,
       "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 10,
-      "cantidad_medios": 5,
-      "cobertura_perfil": 2,
-      "perfil": 2,
-      "competencia_total": 8,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 4,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 2,
-        "Clarín": 0,
-        "Infobae": 1,
-        "TN": 2,
-        "Ámbito": 4,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es la consulta económica más masiva de la audiencia argentina en buscadores.",
-      "insight": "Alto volumen de búsquedas recurrentes durante todo el día, clave para retención en portada.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Actualizar de forma constante los precios de las divisas y sumar tickers visuales.",
-      "enfoques_sugeridos": [
-        "Minuto a minuto con la brecha cambiaria",
-        "Impacto de la cotización en los precios minoristas"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "A cuánto cotiza el dólar blue hoy, lunes 7 de septiembre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-7-de-septiembre.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este...",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07092026/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este lunes 7 de septiembre",
-          "link": "https://www.infobae.com/economia/2026/09/07/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-7-de-septiembre/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    },
-    {
-      "tema": "Complicaciones, demoras y cancelaciones en el servicio de trenes metropolitanos",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 5,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 5,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 2,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Impacta de manera directa en la rutina de cientos de miles de trabajadores del AMBA.",
-      "insight": "Genera picos repentinos de búsqueda en tiempo real en dispositivos móviles durante la mañana.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener notas de servicio actualizadas minuto a minuto con el estado de cada línea.",
-      "enfoques_sugeridos": [
-        "Líneas afectadas y motivos de las fallas técnicas",
-        "Alternativas de transporte para los usuarios varados"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Demoras en los trenes de las líneas Roca, Sarmiento y Mitre",
-          "link": "https://www.perfil.com/noticias/breaking-news/demoras-en-los-trenes-de-las-lineas-roca-sarmiento-y-mitre.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Demoras y cancelaciones en los trenes hoy: así funcionan los servicios del Roca, Sarmiento, Mitre y San...",
-          "link": "https://www.lanacion.com.ar/tecnologia/huawei-presenta-en-forma-oficial-el-mate-xt2-us3000-para-tener-una-tableta-plegable-nid07092026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Demoras líneas trenes Mitre, Sarmiento, Roca: implementación nuevo protocoloco control alcoholemia",
-          "link": "https://www.clarin.com/sociedad/demoras-lineas-trenes-mitre-sarmiento-roca-implementacion-nuevo-protocoloco-control-alcoholemia_0_4xZ7ALSMUD.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    }
-  ],
-  "perfil_pierde": [
-    {
-      "tema": "Alertas meteorológicas por bajas temperaturas y viento Zonda en distintas provincias",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 20,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 19,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 16,
-      "brecha": 15,
-      "cobertura": {
-        "Perfil": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 16,
-        "Ámbito": 2,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "El clima extremo tracciona masivamente en Google Discover y buscadores regionales.",
-      "insight": "La competencia despliega múltiples coberturas locales mientras Perfil mantiene una mirada acotada.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar la red de alertas provinciales y optimizar titulares con enfoque de servicio.",
-      "enfoques_sugeridos": [
-        "Provincias bajo alerta amarilla y naranja por frío polar",
-        "Recomendaciones de seguridad ante ráfagas intensas de Zonda"
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Hay alerta amarilla por frío extremo, vientos y Zonda para este lunes 7 de septiembre: las provincias",
-          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-vientos-y-zonda-para-este-lunes-7-de-septiembre-las-provincias-nid06092026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Super Niño 2026 Argentina en vivo: provincias afectadas esperan lluvias, ola polar cambia clima lunes 7 septiembre",
-          "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-provincias-afectadas-esperan-lluvias-ola-polar-cambia-clima-lunes-7-septiembre_0_KFTc531F8P.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Hay alerta amarilla por viento Zonda y ráfagas de hasta 100 km/h en siete provincias",
-          "link": "https://https://tn.com.ar/sociedad/2026/09/07/hay-alerta-amarilla-por-viento-zonda-y-rafagas-de-hasta-100-kmh-en-siete-provincias/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Triunfo histórico de la extrema derecha en las elecciones regionales de Sajonia-Anhalt",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 7,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 3,
-      "brecha": 3,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 3,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Marca un punto de inflexión geopolítico en Europa con fuerte atención internacional.",
-      "insight": "Los principales portales abren sus secciones globales con análisis profundos y perfiles de los líderes.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Desarrollar notas de análisis internacional contextualizando el impacto en la Unión Europea.",
-      "enfoques_sugeridos": [
-        "El mapa político alemán tras el avance ultraderechista",
-        "Repercusiones y temores en los mercados y gobiernos europeos"
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "La ultraderecha arrasa en Sajonia-Anhalt y se posiciona para gobernar por primera vez en un estado",
-          "link": "https://www.lanacion.com.ar/el-mundo/la-ultraderecha-arrasa-en-sajonia-anhalt-y-se-posiciona-para-gobernar-por-primera-vez-en-un-estado-nid06092026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Alemania: ultraderecha busca alianzas tras histórico triunfo, acorrala a consternado Friedrich Merz",
-          "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Elecciones Alemania: altas chances de la ultraderecha va a su primer gobierno regional",
-          "link": "https://www.ambito.com/mundo/elecciones-alemania-altas-chances-la-ultraderecha-va-su-primer-gobierno-regional-n6319041"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    }
-  ],
-  "sin_cobertura_perfil": [
-    {
-      "tema": "Reglamentación oficial del nuevo Régimen Penal Juvenil",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 5,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 5,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 2,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es un tema de profunda discusión política y social con altísimo interés en la audiencia argentina.",
-      "insight": "Genera debate sobre seguridad y legislación que moviliza clics tanto en redes como en buscadores.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Posicionar notas de análisis jurídico y político sobre la implementación de la medida.",
-      "enfoques_sugeridos": [
-        "A qué edad y bajo qué condiciones se aplicará el nuevo régimen",
-        "Cruces políticos entre oficialismo y oposición por la norma"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Régimen penal juvenil: cambia la reglamentación publicada por el Gobierno",
-          "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El Gobierno reglamentó el Régimen Penal Juvenil: cuáles son los cambios y cómo se aplicará",
-          "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "El gobierno reglamentó su nuevo régimen penal juvenil y ya puede encarcelar a chicos de 14 años",
-          "link": "https://www.pagina12.com.ar/2026/09/07/el-gobierno-reglamento-su-nuevo-regimen-penal-juvenil-y-ya-puede-encarcelar-a-chicos-de-14-anos/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    },
-    {
-      "tema": "Convocatoria opositora en la Cámara de Diputados para tratar la emergencia por endeudamiento familiar",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
       "total_notas": 3,
       "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Conecta la crisis económica cotidiana con la actividad legislativa en el Congreso.",
-      "insight": "Los lectores buscan información sobre iniciativas que intenten aliviar el peso de las deudas personales.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Realizar seguimientos parlamentarios destacando el impacto de los proyectos en la clase media.",
-      "enfoques_sugeridos": [
-        "Proyectos para frenar la morosidad y las deudas de las familias",
-        "Estrategia de los bloques opositores en la Cámara baja"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Oposición convocó sesión en Diputados y trata proyectos sobre morosidad de familias endeudadas",
-          "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Diputados convocan sesión especial por emergencia discapacidad, morosidad y deudas",
-          "link": "https://www.ambito.com/politica/diputados-convocan-sesion-especial-emergencia-discapacidad-morosidad-y-deudas-n6319266"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Con el endeudamiento de las familias en el centro del debate, el oficialismo y la oposición se disputan la agenda del Congreso",
-          "link": "https://tn.com.ar/politica/2026/09/07/con-el-endeudamiento-de-las-familias-en-el-centro-del-debate-el-oficialismo-y-la-oposicion-se-disputan-la-agenda-del-congreso/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Dictado de conciliación obligatoria bonaerense por despidos en empresa avícola",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "cobertura_perfil": 0,
-      "perfil": 0,
+      "cobertura_perfil": 1,
+      "perfil": 1,
       "competencia_total": 2,
-      "medio_lider": "Clarín",
+      "medio_lider": "Infobae",
       "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "brecha": 0,
       "cobertura": {
-        "Perfil": 0,
-        "Clarín": 1,
-        "Infobae": 0,
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 1,
         "TN": 1,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Visibiliza la crisis en el sector industrial y el empleo formal en la provincia de Buenos Aires.",
-      "insight": "Tiene un fuerte anclaje en la agenda laboral y sindical que interesa a audiencias masivas.",
+      "por_que_importa": "Concentra la atención política del día con alto interés de la audiencia y tracción sostenida en buscadores.",
+      "insight": "Los lectores buscan el minuto a minuto y las definiciones oficiales sobre la estrategia del Gobierno.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Cobertura puntual de conflictos laborales y respuestas de los ministerios de trabajo.",
+      "accion_sugerida": "Actualizar con enfoque en los cruces políticos y las repercusiones económicas.",
       "enfoques_sugeridos": [
-        "Alcance de la conciliación obligatoria en Granja Tres Arroyos",
-        "Reclamos de los trabajadores tras los despidos masivos"
+        "Detalle de las medidas analizadas en Casa Rosada",
+        "Repercusiones en la oposición y el mercado"
       ],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Despido 1200 trabajadores: gobierno bonaerense dictó conciliación obligatoria Granja Tres Arroyos",
-          "link": "https://www.clarin.com/rural/despido-1200-trabajadores-gobierno-bonaerense-dicto-conciliacion-obligatoria-granja-arroyos_0_6awgvIQvRN.html"
+          "titulo": "Malvinas eje central Milei reúne nuevo gabinete",
+          "link": "https://www.clarin.com/politica/malvinas-eje-central-milei-reune-nuevo-gabinete_0_kRPZtQ7I4h.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Javier Milei reune al gabinete con un temario de alto voltaje las paso el proyecto de malvinas y el presupuesto 2027",
+          "link": "https://www.infobae.com/politica/2026/09/07/javier-milei-reune-al-gabinete-con-un-temario-de-alto-voltaje-las-paso-el-proyecto-de-malvinas-y-el-presupuesto-2027/"
         },
         {
           "medio": "TN",
-          "titulo": "Crisis en Granja Tres Arroyos: el gobierno bonaerense dictó la conciliación obligatoria tras el despido de 1200 empleados",
-          "link": "https://tn.com.ar/campo/2026/09/07/crisis-en-granja-tres-arroyos-el-gobierno-bonaerense-dicto-la-conciliacion-obligatoria-tras-el-despido-de-1200-empleados/"
+          "titulo": "Javier Milei vuelve a reunir al gabinete para debatir el proyecto sobre malvinas y el presupuesto 2027",
+          "link": "https://tn.com.ar/politica/2026/09/07/javier-milei-vuelve-a-reunir-al-gabinete-para-debatir-el-proyecto-sobre-malvinas-y-el-presupuesto-2027/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -365,43 +54,157 @@
       "cantidad_medios_competencia": 2
     }
   ],
-  "oportunidades": [
+  "perfil_pierde": [
     {
-      "tema": "Emisión de instrumentos financieros locales para financiar el proyecto Vaca Muerta Sur",
+      "tema": "Internación y parte médico de Mirtha Legrand en el Sanatorio Mater Dei",
       "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Economía y energía de alto valor para inversores",
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 1,
-      "medio_lider": "Clarín",
+      "medio_lider": "TN",
       "cobertura_medio_lider": 1,
       "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "Clarín": 1,
+        "Clarín": 0,
         "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "La salud de las principales figuras del espectáculo genera picos masivos de audiencia en Google Discover.",
+      "insight": "La competencia directa publica actualizaciones constantes con un volumen de notas muy superior.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Ampliar la cobertura con seguimientos en tiempo real y recopilación de testimonios.",
+      "enfoques_sugeridos": [
+        "El parte médico oficial y evolución favorable",
+        "Reacciones del mundo del espectáculo"
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Mirtha legrand esta internada como se encuentra la diva",
+          "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-esta-internada-como-se-encuentra-la-diva-nid07092026/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Mirtha legrand esta internada en el mater dei por una bronquitis",
+          "link": "https://tn.com.ar/show/famosos/2026/09/07/mirtha-legrand-esta-internada-en-el-mater-dei-por-una-bronquitis/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Como sigue la salud mirtha legrand ausentarse su programa",
+          "link": "https://www.ambito.com/espectaculos/como-sigue-la-salud-mirtha-legrand-ausentarse-su-programa-n6319278"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Lanzamiento de los nuevos créditos UVA del Banco Nación para compra de automóviles",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 2,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 2,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Tiene un atractivo comercial inmenso para la audiencia interesada en consumo y financiación.",
+      "insight": "Los competidores dominan los resultados de búsqueda con guías detalladas de requisitos y cuotas.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar tablas comparativas y calculadoras de cuotas para captar tráfico de intención.",
+      "enfoques_sugeridos": [
+        "Requisitos y montos máximos a financiar",
+        "Comparativa con otras líneas de crédito del mercado"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Creditos para comprar autos banco nacion presta hasta 100 millones sin prenda y estas son las cuotas",
+          "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-son-las-cuotas.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Sturzenegger defendio los nuevos creditos del banco nacion para comprar autos",
+          "link": "https://www.lanacion.com.ar/autos/sturzenegger-defendio-los-nuevos-creditos-del-banco-nacion-para-comprar-autos-nid07092026/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Como son los creditos uva que lanzo el banco nacion para autos 0km y usados se podran financiar hasta 100 millones",
+          "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Triunfo electoral de la ultraderecha en los comicios regionales en Alemania",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 5,
+      "medio_lider": "Infobae",
+      "cobertura_medio_lider": 5,
+      "brecha": 5,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 5,
         "TN": 0,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Informa sobre el desarrollo económico y energético clave para el ingreso de divisas al país.",
-      "insight": "Atrae a una audiencia interesada en finanzas, energía y oportunidades de inversión local.",
+      "por_que_importa": "Es un hito geopolítico de relevancia internacional que altera el escenario europeo.",
+      "insight": "La competencia despliega coberturas extensas con análisis de corresponsales y repercusiones en la UE.",
       "motivo": "",
-      "motivo_oportunidad": "Clarín fue el único medio en relevar este movimiento financiero estratégico para hidrocarburos, permitiendo a Perfil abordar la noticia con foco en mercados.",
-      "accion_sugerida": "Explicar el mecanismo financiero de la emisión y su impacto en las acciones energéticas.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Profundizar en las causas del ascenso de la ultraderecha y el impacto sobre la política exterior alemana.",
       "enfoques_sugeridos": [
-        "Cómo se fondea el tramo final del megaproyecto exportador",
-        "Expectativas del sector petrolero ante los nuevos instrumentos"
+        "Las claves del terremoto político en Alemania",
+        "La preocupación de las instituciones europeas"
       ],
       "ejemplos": [
         {
+          "medio": "La Nación",
+          "titulo": "Las claves del terremoto politico en alemania por que arraso la ultraderecha y que implica para merz",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
+        },
+        {
           "medio": "Clarín",
-          "titulo": "Vaca Muerta Sur sale a mercado local a financiar recta final megaproyecto exportador",
-          "link": "https://www.clarin.com/energia-y-mineria/vaca-muerta-sur-sale-mercado-local-financiar-recta-final-megaproyecto-exportador_0_PTGWxOsUrY.html"
+          "titulo": "Alemania ultraderecha busca alianzas historico triunfo acorrala consternado friedrich merz",
+          "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz-0_ZJjSKT6hqK.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Iglesias de alemania expresan su preocupacion por la victoria de la afd nuestros peores temores se han confirmado",
+          "link": "https://www.infobae.com/america/agencias/2026/09/07/iglesias-de-alemania-expresan-su-preocupacion-por-la-victoria-de-la-afd-nuestros-peores-temores-se-han-confirmado/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -409,61 +212,11 @@
       "cantidad_medios_competencia": 1
     }
   ],
+  "sin_cobertura_perfil": [],
+  "oportunidades": [],
   "fortalezas_perfil": [
     {
-      "tema": "Lanzamiento oficial de la línea de créditos para automotores",
-      "prioridad": 0,
-      "tipo": "fortalezas_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 2,
-      "perfil": 2,
-      "competencia_total": 0,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 0,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 2,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Ofrece soluciones financieras concretas para la adquisición de vehículos en un contexto de retracción.",
-      "insight": "Perfil lideró la agenda informativa con detalles precisos sobre tasas y montos máximos.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Sostener la primicia con una guía de requisitos para acceder a las líneas bancarias.",
-      "enfoques_sugeridos": [
-        "Requisitos y montos de los nuevos créditos del Banco Nación",
-        "Impacto en el mercado automotor y cuotas estimadas"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Créditos para comprar autos: Banco Nación presta hasta 100 millones sin prenda y estas souten las cuotas",
-          "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-souten-las-cuotas.phtml"
-        },
-        {
-          "medio": "Perfil",
-          "titulo": "El gobierno lanzó nuevos créditos para comprar autos 0km y usados: montos, tasas y condiciones exigidas",
-          "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-lanzo-nuevos-creditos-para-comprar-autos-0km-y-usados-montos-tasas-y-condiciones-exigidas.phtml"
-        },
-        {
-          "medio": "Cronista",
-          "titulo": "Banco Nación lanza créditos UVA para comprar autos 0 km y usados: tasas, plazos y cuotas",
-          "link": "https://www.cronista.com/finanzas-mercados/banco-nacion-lanza-creditos-uva-para-comprar-autos-0-km-y-usados-tasas-plazos-y-cuotas/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 0
-    },
-    {
-      "tema": "Impacto y caída de la interacción digital del presidente Javier Milei en redes sociales",
+      "tema": "Análisis político del voto de la extrema derecha y la coyuntura regional",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -484,20 +237,62 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Analiza el cambio en la comunicación oficial y el termómetro político digital.",
-      "insight": "Perfil profundizó con datos cuantitativos sobre el fenómeno que la competencia demoró en relevar.",
+      "por_que_importa": "Consolida la identidad editorial de Perfil en columnas de análisis político profundo.",
+      "insight": "Los lectores de Perfil valoran las lecturas de fondo sobre el comportamiento electoral y los fenómenos globales.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar con gráficos interactivos sobre la caída de engagement en las cuentas oficiales.",
+      "accion_sugerida": "Destacar estas columnas en la portada para retener a la audiencia de opinión.",
       "enfoques_sugeridos": [
-        "Estudio sobre la baja de hasta 40% en interacciones digitales",
-        "Estrategia de comunicación presidencial frente al desgaste en redes"
+        "Por qué los sectores vulnerables votan a la extrema derecha",
+        "Desafíos para los liderazgos tradicionales"
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Las redes ya no le responden igual a Milei: un estudio detectó una caída de hasta el 40% en las interacciones",
-          "link": "https://www.perfil.com/noticias/cordoba/las-redes-ya-no-le-responden-igual-a-milei-un-estudio-detecto-una-caida-de-hasta-el-40-en-las-interacciones.phtml"
+          "titulo": "Dia 1003 por que los pobres votan a la extrema derecha y podrian dejar de hacerlo ok modof",
+          "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-1003-por-que-los-pobres-votan-a-la-extrema-derecha-y-podrian-dejar-de-hacerlo-ok-modof.phtml"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 0
+    },
+    {
+      "tema": "Honorarios judiciales de los abogados de Cristina Kirchner",
+      "prioridad": 0,
+      "tipo": "fortalezas_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 0,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Genera alto interés en la audiencia interesada en causas judiciales y manejo de fondos públicos.",
+      "insight": "Las investigaciones sobre montos y pagos del Estado a defensas generan gran caudal de tráfico.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Mantener la primicia con datos precisos sobre los expedientes y montos involucrados.",
+      "enfoques_sugeridos": [
+        "El desglose de los honorarios pagados por el Estado",
+        "Repercusiones en el ámbito judicial y político"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Quienes son los abogados de cristina kirchner que cobraran casi diez millones de dolares del estado",
+          "link": "https://www.perfil.com/noticias/politica/quienes-son-los-abogados-de-cristina-kirchner-que-cobraran-casi-diez-millones-de-dolares-del-estado.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -507,516 +302,687 @@
   ],
   "prioridades_del_dia": [],
   "analisis_completo": {
-    "fecha_analisis": "2026-09-07",
+    "fecha_analisis": "07/09/2026",
     "hipercompetencia": [
       {
-        "tema": "Seguimiento diario de la cotización del dólar blue y oficial",
+        "tema": "Reunión de Gabinete de Javier Milei sobre agenda legislativa, presupuesto y Malvinas",
         "tipo": "hipercompetencia",
-        "por_que_importa": "Es la consulta económica más masiva de la audiencia argentina en buscadores.",
-        "insight": "Alto volumen de búsquedas recurrentes durante todo el día, clave para retención en portada.",
-        "accion_sugerida": "Actualizar de forma constante los precios de las divisas y sumar tickers visuales.",
+        "por_que_importa": "Concentra la atención política del día con alto interés de la audiencia y tracción sostenida en buscadores.",
+        "insight": "Los lectores buscan el minuto a minuto y las definiciones oficiales sobre la estrategia del Gobierno.",
+        "accion_sugerida": "Actualizar con enfoque en los cruces políticos y las repercusiones económicas.",
         "enfoques_sugeridos": [
-          "Minuto a minuto con la brecha cambiaria",
-          "Impacto de la cotización en los precios minoristas"
+          "Detalle de las medidas analizadas en Casa Rosada",
+          "Repercusiones en la oposición y el mercado"
         ],
         "ejemplos": [
           {
-            "medio": "Perfil",
-            "titulo": "A cuánto cotiza el dólar blue hoy, lunes 7 de septiembre",
-            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-7-de-septiembre.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este...",
-            "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07092026/"
+            "medio": "Clarín",
+            "titulo": "Malvinas eje central Milei reúne nuevo gabinete",
+            "link": "https://www.clarin.com/politica/malvinas-eje-central-milei-reune-nuevo-gabinete_0_kRPZtQ7I4h.html"
           },
           {
             "medio": "Infobae",
-            "titulo": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este lunes 7 de septiembre",
-            "link": "https://www.infobae.com/economia/2026/09/07/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-7-de-septiembre/"
-          }
-        ],
-        "cobertura": {
-          "Perfil": 2,
-          "La Nación": 1,
-          "Infobae": 1,
-          "TN": 2,
-          "Ámbito": 4,
-          "Página 12": 1,
-          "Cronista": 6
-        }
-      },
-      {
-        "tema": "Cronograma de pagos de ANSES para beneficiarios",
-        "tipo": "hipercompetencia",
-        "por_que_importa": "Moviliza un tráfico masivo de alta fidelidad en Google Discover y búsquedas de servicio.",
-        "insight": "Los usuarios buscan fechas exactas según terminación de DNI para organizar su economía doméstica.",
-        "accion_sugerida": "Publicar guías claras y limpias con el calendario detallado desde primera hora.",
-        "enfoques_sugeridos": [
-          "Calendario completo de cobros de septiembre",
-          "Montos actualizados y bonos extraordinarios"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Calendario ANSES septiembre: quiénes cobran entre 7-11",
-            "link": "https://www.perfil.com/noticias/economia/calendario-anses-septiembre-quienes-cobran-entre-7-11-a35.phtml"
+            "titulo": "Javier Milei reune al gabinete con un temario de alto voltaje las paso el proyecto de malvinas y el presupuesto 2027",
+            "link": "https://www.infobae.com/politica/2026/09/07/javier-milei-reune-al-gabinete-con-un-temario-de-alto-voltaje-las-paso-el-proyecto-de-malvinas-y-el-presupuesto-2027/"
           },
           {
-            "medio": "La Nación",
-            "titulo": "Cuándo cobro ANSES: el calendario completo de septiembre 2026",
-            "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-septiembre-2026-nid31082026/"
-          },
-          {
-            "Cronista": "Cronista",
-            "titulo": "Calendario ANSES septiembre 2026: cuando cobran jubilados, pensionados, AUH y AUE",
-            "link": "https://www.cronista.com/economia-politica/calendario-anses-septiembre-2026-cuando-cobran-jubilados-pensionados-auh-y-aue-2/"
+            "medio": "TN",
+            "titulo": "Javier Milei vuelve a reunir al gabinete para debatir el proyecto sobre malvinas y el presupuesto 2027",
+            "link": "https://tn.com.ar/politica/2026/09/07/javier-milei-vuelve-a-reunir-al-gabinete-para-debatir-el-proyecto-sobre-malvinas-y-el-presupuesto-2027/"
           }
         ],
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 8,
-          "Ámbito": 1,
+          "Clarin": 2,
+          "Infobae": 1,
+          "TN": 1,
+          "Ambito": 0,
+          "Pagina 12": 0,
           "Cronista": 1
         }
       },
       {
-        "tema": "Complicaciones, demoras y cancelaciones en el servicio de trenes metropolitanos",
+        "tema": "Canje de bonos del Gobierno al BCRA para contener el dólar",
         "tipo": "hipercompetencia",
-        "por_que_importa": "Impacta de manera directa en la rutina de cientos de miles de trabajadores del AMBA.",
-        "insight": "Genera picos repentinos de búsqueda en tiempo real en dispositivos móviles durante la mañana.",
-        "accion_sugerida": "Mantener notas de servicio actualizadas minuto a minuto con el estado de cada línea.",
+        "por_que_importa": "Impacta directamente en las expectativas cambiarias y financieras de la audiencia masiva.",
+        "insight": "La cobertura económica genera consultas recurrentes sobre el comportamiento del tipo de cambio.",
+        "accion_sugerida": "Explicar de forma sencilla el impacto de la medida en las reservas y los dólares paralelos.",
         "enfoques_sugeridos": [
-          "Líneas afectadas y motivos de las fallas técnicas",
-          "Alternativas de transporte para los usuarios varados"
+          "El poder de fuego del Banco Central tras la operación",
+          "Lectura de los analistas de la City sobre la estabilidad cambiaria"
         ],
         "ejemplos": [
           {
-            "medio": "Perfil",
-            "titulo": "Demoras en los trenes de las líneas Roca, Sarmiento y Mitre",
-            "link": "https://www.perfil.com/noticias/breaking-news/demoras-en-los-trenes-de-las-lineas-roca-sarmiento-y-mitre.phtml"
-          },
-          {
             "medio": "La Nación",
-            "titulo": "Demoras y cancelaciones en los trenes hoy: así funcionan los servicios del Roca, Sarmiento, Mitre y San...",
-            "link": "https://www.lanacion.com.ar/tecnologia/huawei-presenta-en-forma-oficial-el-mate-xt2-us3000-para-tener-una-tableta-plegable-nid07092026/"
+            "titulo": "El gobierno le canjeo us2000 millones en titulos al bcra para que mantenga contenido al dolar",
+            "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Demoras líneas trenes Mitre, Sarmiento, Roca: implementación nuevo protocoloco control alcoholemia",
-            "link": "https://www.clarin.com/sociedad/demoras-lineas-trenes-mitre-sarmiento-roca-implementacion-nuevo-protocoloco-control-alcoholemia_0_4xZ7ALSMUD.html"
+            "titulo": "Caputo da us 2000 millones poder fuego bausili intervenir bonos dolar",
+            "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "El bcra cambio lecaps us2000 millones titulos atados al dolar",
+            "link": "https://www.ambito.com/finanzas/el-bcra-cambio-lecaps-us2000-millones-titulos-atados-al-dolar-n6319300"
           }
         ],
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
+          "La Nacion": 2,
+          "Clarin": 1,
+          "Ambito": 2,
           "TN": 1,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "Cronista": 1
+          "Infobae": 0,
+          "Cronista": 0
+        }
+      },
+      {
+        "tema": "Tratamiento parlamentario de proyectos sobre morosidad familiar y deudas",
+        "tipo": "hipercompetencia",
+        "por_que_importa": "Toca una fibra de alto impacto social debido al endeudamiento de los hogares.",
+        "insight": "Los lectores buscan conocer qué se discute en el Congreso y cómo podría beneficiarlos.",
+        "accion_sugerida": "Detallar los puntos clave de los proyectos impulsados por la oposición y la postura del oficialismo.",
+        "enfoques_sugeridos": [
+          "El mapa de fuerzas en Diputados para la sesión",
+          "Impacto de la morosidad familiar en el consumo"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Morosidad y discapacidad la oposicion busca sesionar este miercoles en diputados",
+            "link": "https://www.perfil.com/noticias/politica/morosidad-y-discapacidad-la-oposicion-busca-sesionar-este-miercoles-en-diputados.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Oposicion convoco sesion diputados trata proyectos morosidad familias endeudadas",
+            "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "La oposicion lleva la morosidad al recinto que proyectos buscan tratar y la mirada de milei",
+            "link": "https://www.cronista.com/economia-politica/la-oposicion-lleva-la-morosidad-al-recinto-que-proyectos-buscan-tratar-y-la-mirada-de-milei/"
+          }
+        ],
+        "cobertura": {
+          "Perfil": 1,
+          "Clarin": 1,
+          "Cronista": 1,
+          "Ambito": 1,
+          "Pagina 12": 1,
+          "La Nacion": 0,
+          "Infobae": 0,
+          "TN": 0
+        }
+      },
+      {
+        "tema": "Reglamentación oficial del nuevo Régimen Penal Juvenil",
+        "tipo": "hipercompetencia",
+        "por_que_importa": "Es uno de los temas sociales y políticos más sensibles y debatidos de la agenda.",
+        "insight": "Genera altísima interacción en redes sociales y consultas en buscadores por los cambios legales.",
+        "accion_sugerida": "Explicar con claridad los alcances de la normativa y las edades contempladas.",
+        "enfoques_sugeridos": [
+          "Los cambios centrales que introdujo el decreto del Gobierno",
+          "El debate jurídico y político en torno a la medida"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "El gobierno reglamento con el decreto 8752026 el regimen penal juvenil que pasara ahora con los adolescentes acusados de delinquir",
+            "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-reglamento-con-el-decreto-8752026-el-regimen-penal-juvenil-que-pasara-ahora-con-los-adolescentes-acusados-de-delinquir.phtml"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Regimen penal juvenil cambia reglamentacion publicada gobierno",
+            "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "El gobierno reglamento el regimen penal juvenil cuales son los cambios y como se aplicara",
+            "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
+          }
+        ],
+        "cobertura": {
+          "Perfil": 1,
+          "Clarin": 1,
+          "Ambito": 2,
+          "Pagina 12": 1,
+          "La Nacion": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Cronista": 0
         }
       }
     ],
     "perfil_pierde": [
       {
-        "tema": "Alertas meteorológicas por bajas temperaturas y viento Zonda en distintas provincias",
+        "tema": "Internación y parte médico de Mirtha Legrand en el Sanatorio Mater Dei",
         "tipo": "perfil_pierde",
-        "por_que_importa": "El clima extremo tracciona masivamente en Google Discover y buscadores regionales.",
-        "insight": "La competencia despliega múltiples coberturas locales mientras Perfil mantiene una mirada acotada.",
-        "accion_sugerida": "Ampliar la red de alertas provinciales y optimizar titulares con enfoque de servicio.",
+        "por_que_importa": "La salud de las principales figuras del espectáculo genera picos masivos de audiencia en Google Discover.",
+        "insight": "La competencia directa publica actualizaciones constantes con un volumen de notas muy superior.",
+        "accion_sugerida": "Ampliar la cobertura con seguimientos en tiempo real y recopilación de testimonios.",
         "enfoques_sugeridos": [
-          "Provincias bajo alerta amarilla y naranja por frío polar",
-          "Recomendaciones de seguridad ante ráfagas intensas de Zonda"
+          "El parte médico oficial y evolución favorable",
+          "Reacciones del mundo del espectáculo"
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Hay alerta amarilla por frío extremo, vientos y Zonda para este lunes 7 de septiembre: las provincias",
-            "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-vientos-y-zonda-para-este-lunes-7-de-septiembre-las-provincias-nid06092026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Super Niño 2026 Argentina en vivo: provincias afectadas esperan lluvias, ola polar cambia clima lunes 7 septiembre",
-            "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-provincias-afectadas-esperan-lluvias-ola-polar-cambia-clima-lunes-7-septiembre_0_KFTc531F8P.html"
+            "titulo": "Mirtha legrand esta internada como se encuentra la diva",
+            "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-esta-internada-como-se-encuentra-la-diva-nid07092026/"
           },
           {
             "medio": "TN",
-            "titulo": "Hay alerta amarilla por viento Zonda y ráfagas de hasta 100 km/h en siete provincias",
-            "link": "https://https://tn.com.ar/sociedad/2026/09/07/hay-alerta-amarilla-por-viento-zonda-y-rafagas-de-hasta-100-kmh-en-siete-provincias/"
-          }
-        ],
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 2,
-          "Clarín": 1,
-          "TN": 16,
-          "Ámbito": 2
-        }
-      },
-      {
-        "tema": "Triunfo histórico de la extrema derecha en las elecciones regionales de Sajonia-Anhalt",
-        "tipo": "perfil_pierde",
-        "por_que_importa": "Marca un punto de inflexión geopolítico en Europa con fuerte atención internacional.",
-        "insight": "Los principales portales abren sus secciones globales con análisis profundos y perfiles de los líderes.",
-        "accion_sugerida": "Desarrollar notas de análisis internacional contextualizando el impacto en la Unión Europea.",
-        "enfoques_sugeridos": [
-          "El mapa político alemán tras el avance ultraderechista",
-          "Repercusiones y temores en los mercados y gobiernos europeos"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "La ultraderecha arrasa en Sajonia-Anhalt y se posiciona para gobernar por primera vez en un estado",
-            "link": "https://www.lanacion.com.ar/el-mundo/la-ultraderecha-arrasa-en-sajonia-anhalt-y-se-posiciona-para-gobernar-por-primera-vez-en-un-estado-nid06092026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Alemania: ultraderecha busca alianzas tras histórico triunfo, acorrala a consternado Friedrich Merz",
-            "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
+            "titulo": "Mirtha legrand esta internada en el mater dei por una bronquitis",
+            "link": "https://tn.com.ar/show/famosos/2026/09/07/mirtha-legrand-esta-internada-en-el-mater-dei-por-una-bronquitis/"
           },
           {
             "medio": "Ámbito",
-            "titulo": "Elecciones Alemania: altas chances de la ultraderecha va a su primer gobierno regional",
-            "link": "https://www.ambito.com/mundo/elecciones-alemania-altas-chances-la-ultraderecha-va-su-primer-gobierno-regional-n6319041"
+            "titulo": "Como sigue la salud mirtha legrand ausentarse su programa",
+            "link": "https://www.ambito.com/espectaculos/como-sigue-la-salud-mirtha-legrand-ausentarse-su-programa-n6319278"
           }
         ],
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 3,
-          "Clarín": 3,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "TN": 1
+          "La Nacion": 3,
+          "TN": 1,
+          "Ambito": 1,
+          "Cronista": 1,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Pagina 12": 0
         }
       },
       {
-        "tema": "Accidente aéreo de un avión de carga de Amazon en el aeropuerto de Miami",
+        "tema": "Lanzamiento de los nuevos créditos UVA del Banco Nación para compra de automóviles",
         "tipo": "perfil_pierde",
-        "por_que_importa": "Noticia de alto impacto visual y de última hora que capta el interés global en la tarde.",
-        "insight": "La competencia cubre las consecuencias operativas y las causas del siniestro con múltiples actualizaciones.",
-        "accion_sugerida": "Dar seguimiento inmediato a incidentes internacionales de gran escala con cobertura minuto a minuto.",
+        "por_que_importa": "Tiene un atractivo comercial inmenso para la audiencia interesada en consumo y financiación.",
+        "insight": "Los competidores dominan los resultados de búsqueda con guías detalladas de requisitos y cuotas.",
+        "accion_sugerida": "Publicar tablas comparativas y calculadoras de cuotas para captar tráfico de intención.",
         "enfoques_sugeridos": [
-          "Cierre temporal de pistas y demoras en vuelos internacionales",
-          "Comunicado oficial de la compañía y peritajes en la zona"
+          "Requisitos y montos máximos a financiar",
+          "Comparativa con otras líneas de crédito del mercado"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Un avión de carga de Amazon despistó en Miami provocando al menos 5 muertos: cómo fue el accidente y cómo quedó la aeronave",
-            "link": "https://www.perfil.com/noticias/internacional/un-avion-de-carga-de-amazon-despisto-en-miami-provocando-al-menos-5-muertos-como-fue-el-accidente-y-como-quedo-la-aeronave.phtml"
+            "titulo": "Creditos para comprar autos banco nacion presta hasta 100 millones sin prenda y estas son las cuotas",
+            "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-son-las-cuotas.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Accidente aéreo en Miami: qué pasó con el avión de carga de Amazon",
-            "link": "https://www.lanacion.com.ar/estados-unidos/accidente-aereo-en-miami-que-paso-con-el-avion-de-carga-de-amazon-nid07092026/"
+            "titulo": "Sturzenegger defendio los nuevos creditos del banco nacion para comprar autos",
+            "link": "https://www.lanacion.com.ar/autos/sturzenegger-defendio-los-nuevos-creditos-del-banco-nacion-para-comprar-autos-nid07092026/"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Como son los creditos uva que lanzo el banco nacion para autos 0km y usados se podran financiar hasta 100 millones",
+            "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
           }
         ],
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 4
+          "La Nacion": 2,
+          "TN": 2,
+          "Cronista": 1,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Ambito": 0,
+          "Pagina 12": 0
+        }
+      },
+      {
+        "tema": "Aniversario a 30 años de la muerte de Gilda y su legado en la música popular",
+        "tipo": "perfil_pierde",
+        "por_que_importa": "Dispara picos de nostalgia y consumo cultural masivo en redes y buscadores.",
+        "insight": "Varios medios posicionan notas de color y homenajes que captan un gran caudal de lectores.",
+        "accion_sugerida": "Acompañar las fechas patrias o efemérides culturales con material de archivo optimizado para SEO.",
+        "enfoques_sugeridos": [
+          "El nacimiento del mito popular",
+          "Testimonios de allegados y fanáticos"
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "30 anos sin gilda un repaso por la vida la cantante de musica tropical",
+            "link": "https://www.lanacion.com.ar/espectaculos/30-anos-sin-gilda-un-repaso-por-la-vida-la-cantante-de-musica-tropical-nid07092026/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "A 30 anos la muerte gilda el nacimiento y legado un mito popular la musica",
+            "link": "https://www.ambito.com/espectaculos/a-30-anos-la-muerte-gilda-el-nacimiento-y-legado-un-mito-popular-la-nacion-n6319291"
+          }
+        ],
+        "cobertura": {
+          "Perfil": 0,
+          "La Nacion": 1,
+          "Ambito": 1,
+          "Clarin": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Pagina 12": 0,
+          "Cronista": 0
+        }
+      },
+      {
+        "tema": "Triunfo electoral de la ultraderecha en los comicios regionales en Alemania",
+        "tipo": "perfil_pierde",
+        "por_que_importa": "Es un hito geopolítico de relevancia internacional que altera el escenario europeo.",
+        "insight": "La competencia despliega coberturas extensas con análisis de corresponsales y repercusiones en la UE.",
+        "accion_sugerida": "Profundizar en las causas del ascenso de la ultraderecha y el impacto sobre la política exterior alemana.",
+        "enfoques_sugeridos": [
+          "Las claves del terremoto político en Alemania",
+          "La preocupación de las instituciones europeas"
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Las claves del terremoto politico en alemania por que arraso la ultraderecha y que implica para merz",
+            "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Alemania ultraderecha busca alianzas historico triunfo acorrala consternado friedrich merz",
+            "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz-0_ZJjSKT6hqK.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Iglesias de alemania expresan su preocupacion por la victoria de la afd nuestros peores temores se han confirmado",
+            "link": "https://www.infobae.com/america/agencias/2026/09/07/iglesias-de-alemania-expresan-su-preocupacion-por-la-victoria-de-la-afd-nuestros-peores-temores-se-han-confirmado/"
+          }
+        ],
+        "cobertura": {
+          "Perfil": 0,
+          "La Nacion": 1,
+          "Clarin": 3,
+          "Infobae": 5,
+          "Ambito": 4,
+          "TN": 0,
+          "Pagina 12": 0,
+          "Cronista": 0
         }
       }
     ],
     "sin_cobertura_perfil": [
       {
-        "tema": "Reglamentación oficial del nuevo Régimen Penal Juvenil",
+        "tema": "Advertencia de la ONU sobre los riesgos existenciales de la inteligencia artificial",
         "tipo": "sin_cobertura_perfil",
-        "por_que_importa": "Es un tema de profunda discusión política y social con altísimo interés en la audiencia argentina.",
-        "insight": "Genera debate sobre seguridad y legislación que moviliza clics tanto en redes como en buscadores.",
-        "accion_sugerida": "Posicionar notas de análisis jurídico y político sobre la implementación de la medida.",
+        "por_que_importa": "Combina tecnología y futuro con un fuerte atractivo para lectores interesados en tendencias globales.",
+        "insight": "Los artículos sobre regulación de la inteligencia artificial traccionan muy bien en Google Discover.",
+        "accion_sugerida": "Desarrollar un enfoque sobre las peticiones de organismos internacionales y el freno tecnológico.",
         "enfoques_sugeridos": [
-          "A qué edad y bajo qué condiciones se aplicará el nuevo régimen",
-          "Cruces políticos entre oficialismo y oposición por la norma"
+          "Los peligros señalados por las Naciones Unidas",
+          "La respuesta de las grandes tecnológicas ante los pedidos de control"
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Régimen penal juvenil: cambia la reglamentación publicada por el Gobierno",
-            "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
+            "titulo": "Onu llamo esfuerzo internacional evitar inteligencia artificial vuelva incontrolable",
+            "link": "https://www.clarin.com/internacional/onu-llamo-esfuerzo-internacional-evitar-inteligencia-artificial-vuelva-incontrolable_0_XLEpFaDdcq.html"
           },
           {
             "medio": "Ámbito",
-            "titulo": "El Gobierno reglamentó el Régimen Penal Juvenil: cuáles son los cambios y cómo se aplicará",
-            "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
+            "titulo": "Seria advertencia la onu la inteligencia artificial es un riesgo existencial la humanidad",
+            "link": "https://www.ambito.com/informacion-general/seria-advertencia-la-onu-la-inteligencia-artificial-es-un-riesgo-existencial-la-humanidad-n6319386"
           },
           {
             "medio": "Página 12",
-            "titulo": "El gobierno reglamentó su nuevo régimen penal juvenil y ya puede encarcelar a chicos de 14 años",
-            "link": "https://www.pagina12.com.ar/2026/09/07/el-gobierno-reglamento-su-nuevo-regimen-penal-juvenil-y-ya-puede-encarcelar-a-chicos-de-14-anos/"
+            "titulo": "Regular la inteligencia artificial la onu pide actuar antes de que sea demasiado tarde",
+            "link": "https://www.pagina12.com.ar/2026/09/07/regular-la-inteligencia-artificial-la-onu-pide-actuar-antes-de-que-sea-demasiado-tarde-n6319399"
           }
         ],
         "cobertura": {
           "Perfil": 0,
-          "Clarín": 1,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "TN": 1
+          "Clarin": 1,
+          "Ambito": 1,
+          "Pagina 12": 1,
+          "La Nacion": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Cronista": 0
         }
       },
       {
-        "tema": "Convocatoria opositora en la Cámara de Diputados para tratar la emergencia por endeudamiento familiar",
+        "tema": "Aumento de las multas de tránsito en la Ciudad de Buenos Aires",
         "tipo": "sin_cobertura_perfil",
-        "por_que_importa": "Conecta la crisis económica cotidiana con la actividad legislativa en el Congreso.",
-        "insight": "Los lectores buscan información sobre iniciativas que intenten aliviar el peso de las deudas personales.",
-        "accion_sugerida": "Realizar seguimientos parlamentarios destacando el impacto de los proyectos en la clase media.",
+        "por_que_importa": "Es un tema de altísimo servicio y utilidad directa para los conductores residentes en CABA y GBA.",
+        "insight": "Las notas sobre incrementos en infracciones viales generan consultas masivas de tránsito y bolsillo.",
+        "accion_sugerida": "Publicar un cuadro completo con el detalle de los nuevos montos por cada tipo de falta.",
         "enfoques_sugeridos": [
-          "Proyectos para frenar la morosidad y las deudas de las familias",
-          "Estrategia de los bloques opositores en la Cámara baja"
+          "Cuánto cuestan las infracciones más comunes",
+          "El impacto de la suba en el presupuesto de los automovilistas"
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Oposición convocó sesión en Diputados y trata proyectos sobre morosidad de familias endeudadas",
-            "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
+            "titulo": "Multas transito caras ciudad aumentaron 18 infraccion comun cuesta 100000",
+            "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
           },
           {
             "medio": "Ámbito",
-            "titulo": "Diputados convocan sesión especial por emergencia discapacidad, morosidad y deudas",
-            "link": "https://www.ambito.com/politica/diputados-convocan-sesion-especial-emergencia-discapacidad-morosidad-y-deudas-n6319266"
+            "titulo": "Multas mas caras la ciudad que infracciones suben y hasta cuanto pueden llegar",
+            "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-hasta-cuanto-pueden-llegar-n6319399"
           },
           {
-            "medio": "TN",
-            "titulo": "Con el endeudamiento de las familias en el centro del debate, el oficialismo y la oposición se disputan la agenda del Congreso",
-            "link": "https://tn.com.ar/politica/2026/09/07/con-el-endeudamiento-de-las-familias-en-el-centro-del-debate-el-oficialismo-y-la-oposicion-se-disputan-la-agenda-del-congreso/"
+            "medio": "Cronista",
+            "titulo": "Aumentan las multas en caba desde septiembre y conductores podrian pagar mas de 4600000 por el error que es mas facil de cometer",
+            "link": "https://www.cronista.com/informacion-gral/aumentan-las-multas-en-caba-desde-septiembre-y-conductores-podrian-pagar-mas-de-4600000-por-el-error-que-es-mas-facil-de-cometer/"
           }
         ],
         "cobertura": {
           "Perfil": 0,
-          "Clarín": 1,
-          "Ámbito": 1,
-          "TN": 1
+          "Clarin": 2,
+          "Ambito": 1,
+          "Cronista": 1,
+          "La Nacion": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Pagina 12": 0
         }
       },
       {
-        "tema": "Dictado de conciliación obligatoria bonaerense por despidos en empresa avícola",
+        "tema": "Declaraciones de Eduardo Elsztain sobre sus inversiones en las Islas Malvinas",
         "tipo": "sin_cobertura_perfil",
-        "por_que_importa": "Visibiliza la crisis en el sector industrial y el empleo formal en la provincia de Buenos Aires.",
-        "insight": "Tiene un fuerte anclaje en la agenda laboral y sindical que interesa a audiencias masivas.",
-        "accion_sugerida": "Cobertura puntual de conflictos laborales y respuestas de los ministerios de trabajo.",
+        "por_que_importa": "Cruza negocios, política y la sensibilidad nacional en torno a la causa Malvinas.",
+        "insight": "Genera debate político y económico intenso con gran tracción en redes sociales.",
+        "accion_sugerida": "Analizar las explicaciones del empresario y el trasfondo de sus operaciones comerciales.",
         "enfoques_sugeridos": [
-          "Alcance de la conciliación obligatoria en Granja Tres Arroyos",
-          "Reclamos de los trabajadores tras los despidos masivos"
+          "Los argumentos del empresario sobre Falkland Islands Company",
+          "El impacto político de sus inversiones"
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Despido 1200 trabajadores: gobierno bonaerense dictó conciliación obligatoria Granja Tres Arroyos",
-            "link": "https://www.clarin.com/rural/despido-1200-trabajadores-gobierno-bonaerense-dicto-conciliacion-obligatoria-granja-arroyos_0_6awgvIQvRN.html"
+            "medio": "La Nación",
+            "titulo": "Eduardo elsztain explico sus inversiones en las islas malvinas",
+            "link": "https://www.lanacion.com.ar/politica/eduardo-elsztain-explico-sus-inversiones-en-las-islas-malvinas-nid07092026/"
           },
           {
             "medio": "TN",
-            "titulo": "Crisis en Granja Tres Arroyos: el gobierno bonaerense dictó la conciliación obligatoria tras el despido de 1200 empleados",
-            "link": "https://tn.com.ar/campo/2026/09/07/crisis-en-granja-tres-arroyos-el-gobierno-bonaerense-dicto-la-conciliacion-obligatoria-tras-el-despido-de-1200-empleados/"
+            "titulo": "Las explicaciones de eduardo elsztain sobre sus inversiones en las islas malvinas",
+            "link": "https://tn.com.ar/politica/2026/09/07/las-explicaciones-de-eduardo-elsztain-sobre-sus-inversiones-en-las-islas-malvinas/"
+          },
+          {
+            "medio": "Cronista",
+            "titulo": "Por que elsztain invirtio en la empresa mas importante de malvinas el empresario explico las razones de su decision",
+            "link": "https://www.cronista.com/economia-politica/por-que-elsztain-invirtio-en-la-empresa-mas-importante-de-malvinas-el-empresario-explico-las-razones-de-su-decision/"
           }
         ],
         "cobertura": {
-          "Perfil": 0,
-          "Clarín": 1,
-          "TN": 1
+          "Perfil": 1,
+          "La Nacion": 1,
+          "TN": 1,
+          "Cronista": 1,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Ambito": 0,
+          "Pagina 12": 0
         }
       }
     ],
     "oportunidades": [
       {
-        "tema": "Lanzamiento del dispositivo plegable Huawei Mate XT2",
+        "tema": "Llegada de la red YPF Black a Córdoba con estaciones de operación privada",
         "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Cobertura tecnológica de nicho con alto interés en early adopters",
-        "motivo_oportunidad": "La Nación fue el único medio competidor en cubrir el lanzamiento, dejando un espacio libre en Perfil para captar tráfico de tecnología y gadgets.",
-        "por_que_importa": "Los lanzamientos de hardware innovador atraen tráfico calificado y buena retención en buscadores.",
-        "insight": "Los lectores buscan especificaciones técnicas y precios de dispositivos premium de última generación.",
-        "accion_sugerida": "Redactar una nota detallando características, precio en dólares y disponibilidad regional.",
+        "tipo_de_oportunidad": "Cobertura exclusiva de la competencia en negocios regionales",
+        "motivo_oportunidad": "Permite captar tráfico local en la provincia de Córdoba sobre un sector de consumo masivo y energía.",
+        "por_que_importa": "Interesa al público cordobés y al sector empresario vinculado al expendio de combustibles.",
+        "insight": "Las aperturas comerciales regionales fidelizan a la audiencia local cuando hay escasez de notas.",
+        "accion_sugerida": "Desarrollar un anticipo con detalles de la inversión y ubicación de las nuevas estaciones.",
         "enfoques_sugeridos": [
-          "Innovación en pantallas plegables y formato tablet",
-          "Análisis del precio y posicionamiento en el mercado global"
+          "El desembarco de la nueva marca en Córdoba",
+          "El impacto en el mercado de combustibles"
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Huawei presenta en forma oficial el Mate XT2, us$3000 para tener una tableta plegable",
-            "link": "https://www.lanacion.com.ar/tecnologia/huawei-presenta-en-forma-oficial-el-mate-xt2-us3000-para-tener-una-tableta-plegable-nid07092026/"
+            "medio": "Perfil",
+            "titulo": "La red ypf black debuta en cordoba a fines de septiembre y suma su primera estacion nacional de operacion privada",
+            "link": "https://www.perfil.com/noticias/cordoba/la-red-ypf-black-debuta-en-cordoba-a-fines-de-septiembre-y-suma-su-primera-estacion-nacional-de-operacion-privada.phtml"
           }
         ],
         "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1
+          "Perfil": 1,
+          "La Nacion": 0,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Ambito": 0,
+          "TN": 0,
+          "Pagina 12": 0,
+          "Cronista": 0
         }
       },
       {
-        "tema": "Emisión de instrumentos financieros locales para financiar el proyecto Vaca Muerta Sur",
+        "tema": "Aprobación de RIGI para insumo crítico a Pampa Energía",
         "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Economía y energía de alto valor para inversores",
-        "motivo_oportunidad": "Clarín fue el único medio en relevar este movimiento financiero estratégico para hidrocarburos, permitiendo a Perfil abordar la noticia con foco en mercados.",
-        "por_que_importa": "Informa sobre el desarrollo económico y energético clave para el ingreso de divisas al país.",
-        "insight": "Atrae a una audiencia interesada en finanzas, energía y oportunidades de inversión local.",
-        "accion_sugerida": "Explicar el mecanismo financiero de la emisión y su impacto en las acciones energéticas.",
+        "tipo_de_oportunidad": "Exclusiva de El Cronista en grandes inversiones energéticas",
+        "motivo_oportunidad": "Atrae a una audiencia especializada en economía, energía y mercados financieros.",
+        "por_que_importa": "Marca el pulso de las grandes inversiones bajo el régimen de incentivos.",
+        "insight": "Los contenidos sobre el RIGI tienen alta retención entre inversores y tomadores de decisiones.",
+        "accion_sugerida": "Analizar el proyecto aprobado y cómo competirá en el mercado de insumos.",
         "enfoques_sugeridos": [
-          "Cómo se fondea el tramo final del megaproyecto exportador",
-          "Expectativas del sector petrolero ante los nuevos instrumentos"
+          "Los detalles del primer RIGI aprobado para un insumo crítico",
+          "La estrategia de Pampa Energía frente al agro y la industria"
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Vaca Muerta Sur sale a mercado local a financiar recta final megaproyecto exportador",
-            "link": "https://www.clarin.com/energia-y-mineria/vaca-muerta-sur-sale-mercado-local-financiar-recta-final-megaproyecto-exportador_0_PTGWxOsUrY.html"
+            "medio": "Cronista",
+            "titulo": "Con el primer rigi aprobado para un insumo critico pampa energia le competira directamente a un gigante del agro",
+            "link": "https://www.cronista.com/negocios/con-el-primer-rigi-aprobado-para-un-insumo-critico-pampa-energia-le-competira-directamente-a-un-gigante-del-agro/"
           }
         ],
         "cobertura": {
           "Perfil": 0,
-          "Clarín": 1
+          "Cronista": 1,
+          "La Nacion": 0,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Ambito": 0,
+          "TN": 0,
+          "Pagina 12": 0
+        }
+      },
+      {
+        "tema": "Proyecto de ley en Australia para limitar algoritmos en redes sociales",
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Exclusiva de Ámbito en tecnología y regulación internacional",
+        "motivo_oportunidad": "Atrae a lectores interesados en el debate global sobre el impacto de las plataformas digitales.",
+        "por_que_importa": "Anticipa discusiones regulatorias que tarde o temprano llegan a la región.",
+        "insight": "Las notas sobre control de redes sociales generan fuerte discusión en comunidades digitales.",
+        "accion_sugerida": "Profundizar en los alcances de la ley australiana y las reacciones de las empresas tecnológicas.",
+        "enfoques_sugeridos": [
+          "Cómo planea Australia limitar el poder de los algoritmos",
+          "El antecedente para otros países que buscan regular el ecosistema digital"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Ámbito",
+            "titulo": "Australia analiza una ley limitar el poder los algoritmos redes sociales",
+            "link": "https://www.ambito.com/mundo/australia-analiza-una-ley-limitar-el-poder-los-algoritmos-redes-sociales-n6319369"
+          }
+        ],
+        "cobertura": {
+          "Perfil": 0,
+          "Ambito": 1,
+          "La Nacion": 0,
+          "Clarin": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Pagina 12": 0,
+          "Cronista": 0
         }
       }
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Lanzamiento oficial de la línea de créditos para automotores",
+        "tema": "Análisis político del voto de la extrema derecha y la coyuntura regional",
         "tipo": "fortalezas_perfil",
-        "por_que_importa": "Ofrece soluciones financieras concretas para la adquisición de vehículos en un contexto de retracción.",
-        "insight": "Perfil lideró la agenda informativa con detalles precisos sobre tasas y montos máximos.",
-        "accion_sugerida": "Sostener la primicia con una guía de requisitos para acceder a las líneas bancarias.",
+        "por_que_importa": "Consolida la identidad editorial de Perfil en columnas de análisis político profundo.",
+        "insight": "Los lectores de Perfil valoran las lecturas de fondo sobre el comportamiento electoral y los fenómenos globales.",
+        "accion_sugerida": "Destacar estas columnas en la portada para retener a la audiencia de opinión.",
         "enfoques_sugeridos": [
-          "Requisitos y montos de los nuevos créditos del Banco Nación",
-          "Impacto en el mercado automotor y cuotas estimadas"
+          "Por qué los sectores vulnerables votan a la extrema derecha",
+          "Desafíos para los liderazgos tradicionales"
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Créditos para comprar autos: Banco Nación presta hasta 100 millones sin prenda y estas souten las cuotas",
-            "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-souten-las-cuotas.phtml"
-          },
-          {
-            "medio": "Perfil",
-            "titulo": "El gobierno lanzó nuevos créditos para comprar autos 0km y usados: montos, tasas y condiciones exigidas",
-            "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-lanzo-nuevos-creditos-para-comprar-autos-0km-y-usados-montos-tasas-y-condiciones-exigidas.phtml"
-          },
-          {
-            "medio": "Cronista",
-            "titulo": "Banco Nación lanza créditos UVA para comprar autos 0 km y usados: tasas, plazos y cuotas",
-            "link": "https://www.cronista.com/finanzas-mercados/banco-nacion-lanza-creditos-uva-para-comprar-autos-0-km-y-usados-tasas-plazos-y-cuotas/"
-          }
-        ],
-        "cobertura": {
-          "Perfil": 2,
-          "Cronista": 1
-        }
-      },
-      {
-        "tema": "Impacto y caída de la interacción digital del presidente Javier Milei en redes sociales",
-        "tipo": "fortalezas_perfil",
-        "por_que_importa": "Analiza el cambio en la comunicación oficial y el termómetro político digital.",
-        "insight": "Perfil profundizó con datos cuantitativos sobre el fenómeno que la competencia demoró en relevar.",
-        "accion_sugerida": "Profundizar con gráficos interactivos sobre la caída de engagement en las cuentas oficiales.",
-        "enfoques_sugeridos": [
-          "Estudio sobre la baja de hasta 40% en interacciones digitales",
-          "Estrategia de comunicación presidencial frente al desgaste en redes"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Las redes ya no le responden igual a Milei: un estudio detectó una caída de hasta el 40% en las interacciones",
-            "link": "https://www.perfil.com/noticias/cordoba/las-redes-ya-no-le-responden-igual-a-milei-un-estudio-detecto-una-caida-de-hasta-el-40-en-las-interacciones.phtml"
+            "titulo": "Dia 1003 por que los pobres votan a la extrema derecha y podrian dejar de hacerlo ok modof",
+            "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-1003-por-que-los-pobres-votan-a-la-extrema-derecha-y-podrian-dejar-de-hacerlo-ok-modof.phtml"
           }
         ],
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 0,
-          "Clarín": 0
+          "La Nacion": 0,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Ambito": 0,
+          "TN": 0,
+          "Pagina 12": 0,
+          "Cronista": 0
+        }
+      },
+      {
+        "tema": "Honorarios judiciales de los abogados de Cristina Kirchner",
+        "tipo": "fortalezas_perfil",
+        "por_que_importa": "Genera alto interés en la audiencia interesada en causas judiciales y manejo de fondos públicos.",
+        "insight": "Las investigaciones sobre montos y pagos del Estado a defensas generan gran caudal de tráfico.",
+        "accion_sugerida": "Mantener la primicia con datos precisos sobre los expedientes y montos involucrados.",
+        "enfoques_sugeridos": [
+          "El desglose de los honorarios pagados por el Estado",
+          "Repercusiones en el ámbito judicial y político"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Quienes son los abogados de cristina kirchner que cobraran casi diez millones de dolares del estado",
+            "link": "https://www.perfil.com/noticias/politica/quienes-son-los-abogados-de-cristina-kirchner-que-cobraran-casi-diez-millones-de-dolares-del-estado.phtml"
+          }
+        ],
+        "cobertura": {
+          "Perfil": 1,
+          "La Nacion": 0,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Ambito": 0,
+          "TN": 0,
+          "Pagina 12": 0,
+          "Cronista": 0
         }
       }
     ],
     "prioridades_del_dia": [
       {
-        "tema": "Reglamentación oficial del nuevo Régimen Penal Juvenil",
+        "tema": "Aumento de las multas de tránsito en la Ciudad de Buenos Aires",
         "tipo": "sin_cobertura_perfil",
-        "por_que_importa": "Es un tema de alta sensibilidad social y política que moviliza el debate público en el inicio de la semana.",
-        "insight": "Al no tener cobertura propia, Perfil pierde una oportunidad clara de capturar tráfico en buscadores sobre una medida de alto impacto institucional.",
-        "accion_sugerida": "Publicar un explicativo urgente detallando los cambios introducidos por el decreto y las repercusiones políticas.",
+        "por_que_importa": "Es un tema de altísimo servicio y utilidad directa para los conductores residentes en CABA y GBA.",
+        "insight": "Las notas sobre incrementos en infracciones viales generan consultas masivas de tránsito y bolsillo.",
+        "accion_sugerida": "Publicar un cuadro completo con el detalle de los nuevos montos por cada tipo de falta.",
         "enfoques_sugeridos": [
-          "Claves y alcances legales de la medida promulgada por el Gobierno",
-          "Reacciones encontradas en el arco político y judicial"
+          "Cuánto cuestan las infracciones más comunes",
+          "El impacto de la suba en el presupuesto de los automovilistas"
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Régimen penal juvenil: cambia la reglamentación publicada por el Gobierno",
-            "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
+            "titulo": "Multas transito caras ciudad aumentaron 18 infraccion comun cuesta 100000",
+            "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
           },
           {
             "medio": "Ámbito",
-            "titulo": "El Gobierno reglamentó el Régimen Penal Juvenil: cuáles son los cambios y cómo se aplicará",
-            "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
+            "titulo": "Multas mas caras la ciudad que infracciones suben y hasta cuanto pueden llegar",
+            "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-hasta-cuanto-pueden-llegar-n6319399"
           },
           {
-            "medio": "Página 12",
-            "titulo": "El gobierno reglamentó su nuevo régimen penal juvenil y ya puede encarcelar a chicos de 14 años",
-            "link": "https://www.pagina12.com.ar/2026/09/07/el-gobierno-reglamento-su-nuevo-regimen-penal-juvenil-y-ya-puede-encarcelar-a-chicos-de-14-anos/"
+            "medio": "Cronista",
+            "titulo": "Aumentan las multas en caba desde septiembre y conductores podrian pagar mas de 4600000 por el error que es mas facil de cometer",
+            "link": "https://www.cronista.com/informacion-gral/aumentan-las-multas-en-caba-desde-septiembre-y-conductores-podrian-pagar-mas-de-4600000-por-el-error-que-es-mas-facil-de-cometer/"
           }
         ],
         "cobertura": {
           "Perfil": 0,
-          "Clarín": 1,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "TN": 1
+          "Clarin": 2,
+          "Ambito": 1,
+          "Cronista": 1,
+          "La Nacion": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Pagina 12": 0
         }
       },
       {
-        "tema": "Alertas meteorológicas por bajas temperaturas y viento Zonda en distintas provincias",
-        "tipo": "perfil_pierde",
-        "por_que_importa": "El clima extremo es uno de los disparadores más potentes de tráfico orgánico en Google Discover y búsquedas móviles.",
-        "insight": "La competencia multiplica las alertas regionales mientras Perfil se queda atrás en volumen de notas de servicio.",
-        "accion_sugerida": "Ampliar el despliegue informativo con un mapa y detalle provincia por provincia de las alertas vigentes.",
+        "tema": "Advertencia de la ONU sobre los riesgos existenciales de la inteligencia artificial",
+        "tipo": "sin_cobertura_perfil",
+        "por_que_importa": "Combina tecnología y futuro con un fuerte atractivo para lectores interesados en tendencias globales.",
+        "insight": "Los artículos sobre regulación de la inteligencia artificial traccionan muy bien en Google Discover.",
+        "accion_sugerida": "Desarrollar un enfoque sobre las peticiones de organismos internacionales y el freno tecnológico.",
         "enfoques_sugeridos": [
-          "Zonas afectadas por la ola polar y marcas térmicas bajo cero",
-          "Precauciones necesarias ante las ráfagas de viento Zonda"
+          "Los peligros señalados por las Naciones Unidas",
+          "La respuesta de las grandes tecnológicas ante los pedidos de control"
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Hay alerta amarilla por frío extremo, vientos y Zonda para este lunes 7 de septiembre: las provincias",
-            "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-vientos-y-zonda-para-este-lunes-7-de-septiembre-las-provincias-nid06092026/"
+            "medio": "Clarín",
+            "titulo": "Onu llamo esfuerzo internacional evitar inteligencia artificial vuelva incontrolable",
+            "link": "https://www.clarin.com/internacional/onu-llamo-esfuerzo-internacional-evitar-inteligencia-artificial-vuelva-incontrolable_0_XLEpFaDdcq.html"
           },
           {
-            "medio": "Clarín",
-            "titulo": "Super Niño 2026 Argentina en vivo: provincias afectadas esperan lluvias, ola polar cambia clima lunes 7 septiembre",
-            "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-provincias-afectadas-esperan-lluvias-ola-polar-cambia-clima-lunes-7-septiembre_0_KFTc531F8P.html"
+            "medio": "Ámbito",
+            "titulo": "Seria advertencia la onu la inteligencia artificial es un riesgo existencial la humanidad",
+            "link": "https://www.ambito.com/informacion-general/seria-advertencia-la-onu-la-inteligencia-artificial-es-un-riesgo-existencial-la-humanidad-n6319386"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "Regular la inteligencia artificial la onu pide actuar antes de que sea demasiado tarde",
+            "link": "https://www.pagina12.com.ar/2026/09/07/regular-la-inteligencia-artificial-la-onu-pide-actuar-antes-de-que-sea-demasiado-tarde-n6319399"
+          }
+        ],
+        "cobertura": {
+          "Perfil": 0,
+          "Clarin": 1,
+          "Ambito": 1,
+          "Pagina 12": 1,
+          "La Nacion": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Cronista": 0
+        }
+      },
+      {
+        "tema": "Lanzamiento de los nuevos créditos UVA del Banco Nación para compra de automóviles",
+        "tipo": "perfil_pierde",
+        "por_que_importa": "Tiene un atractivo comercial inmenso para la audiencia interesada en consumo y financiación.",
+        "insight": "Los competidores dominan los resultados de búsqueda con guías detalladas de requisitos y cuotas.",
+        "accion_sugerida": "Publicar tablas comparativas y calculadoras de cuotas para captar tráfico de intención.",
+        "enfoques_sugeridos": [
+          "Requisitos y montos máximos a financiar",
+          "Comparativa con otras líneas de crédito del mercado"
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Creditos para comprar autos banco nacion presta hasta 100 millones sin prenda y estas son las cuotas",
+            "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-son-las-cuotas.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Sturzenegger defendio los nuevos creditos del banco nacion para comprar autos",
+            "link": "https://www.lanacion.com.ar/autos/sturzenegger-defendio-los-nuevos-creditos-del-banco-nacion-para-comprar-autos-nid07092026/"
           },
           {
             "medio": "TN",
-            "titulo": "Hay alerta amarilla por viento Zonda y ráfagas de hasta 100 km/h en siete provincias",
-            "link": "https://https://tn.com.ar/sociedad/2026/09/07/hay-alerta-amarilla-por-viento-zonda-y-rafagas-de-hasta-100-kmh-en-siete-provincias/"
+            "titulo": "Como son los creditos uva que lanzo el banco nacion para autos 0km y usados se podran financiar hasta 100 millones",
+            "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
           }
         ],
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 2,
-          "Clarín": 1,
-          "TN": 16,
-          "Ámbito": 2
-        }
-      },
-      {
-        "tema": "Emisión de instrumentos financieros locales para financiar el proyecto Vaca Muerta Sur",
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Cobertura económica y energética exclusiva",
-        "motivo_oportunidad": "Al haber sido cubierto únicamente por Clarín, Perfil tiene vía libre para captar el interés de lectores enfocados en negocios y energía.",
-        "por_que_importa": "Vaca Muerta representa el principal motor de inversión y expectativas económicas del país.",
-        "insight": "Los contenidos de energía y mercados financieros tienen alta fidelidad de lectura y un perfil de audiencia muy valioso.",
-        "accion_sugerida": "Publicar un artículo propio profundizando en cómo operará este financiamiento local para la petrolera.",
-        "enfoques_sugeridos": [
-          "Detalles de la emisión de deuda para acelerar el proyecto exportador",
-          "Expectativas del sector energético y bursátil"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Clarín",
-            "titulo": "Vaca Muerta Sur sale a mercado local a financiar recta final megaproyecto exportador",
-            "link": "https://www.clarin.com/energia-y-mineria/vaca-muerta-sur-sale-mercado-local-financiar-recta-final-megaproyecto-exportador_0_PTGWxOsUrY.html"
-          }
-        ],
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 1
+          "La Nacion": 2,
+          "TN": 2,
+          "Cronista": 1,
+          "Clarin": 0,
+          "Infobae": 0,
+          "Ambito": 0,
+          "Pagina 12": 0
         }
       }
     ]
