@@ -1,175 +1,252 @@
 {
   "fecha_analisis": "2026-09-07",
-  "hipercompetencia": [],
+  "hipercompetencia": [
+    {
+      "tema": "Lanzamiento de créditos UVA del Banco Nación para compra de automóviles",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 12,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 3,
+      "perfil": 3,
+      "competencia_total": 9,
+      "medio_lider": "El Cronista",
+      "cobertura_medio_lider": 4,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 3,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 3,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 4
+      },
+      "por_que_importa": "Alta demanda de información sobre financiación en un contexto de incertidumbre económica.",
+      "insight": "Es un tema de utilidad directa para la audiencia con alta probabilidad de búsqueda transaccional.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar una guía práctica sobre requisitos y costos reales.",
+      "enfoques_sugeridos": [
+        "Simulador de cuotas comparativo contra inflación",
+        "Análisis de viabilidad para el usuario promedio"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "La extensión del plazo es lo revolucionario: Sturzenegger defendió la tasa de los nuevos créditos para autos del Banco Nación",
+          "link": "https://www.perfil.com/noticias/economia/la-extension-del-plazo-es-lo-revolucionario-sturzenegger-defendio-la-tasa-de-los-nuevos-creditos-para-autos-del-banco-nacion.phtml"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Como son los créditos UVA que lanzó el Banco Nación para autos 0km y usados: se podrán financiar hasta 100 millones",
+          "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
+        },
+        {
+          "medio": "El Cronista",
+          "titulo": "Banco Nación lanza créditos UVA para comprar autos 0 km y usados: tasas, plazos y cuotas",
+          "link": "https://www.cronista.com/finanzas-mercados/banco-nacion-lanza-creditos-uva-para-comprar-autos-0-km-y-usados-tasas-plazos-y-cuotas/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    }
+  ],
   "perfil_pierde": [
     {
-      "tema": "Triunfo electoral de la ultraderecha (AfD / SSchall / Sajonia) en las elecciones regionales de Alemania",
+      "tema": "Asignación de letras atadas al tipo de cambio al BCRA por parte del Gobierno para contener al dólar",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 3,
+      "total_notas": 5,
+      "cantidad_medios": 5,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 7,
+      "competencia_total": 5,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Es una medida de impacto macroeconómico directo sobre la cotización del dólar.",
+      "insight": "Perfil no tiene cobertura mientras que la competencia ya abordó el ángulo de intervención.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Realizar un análisis sobre el impacto en las reservas y expectativas del mercado.",
+      "enfoques_sugeridos": [
+        "Impacto en la brecha cambiaria",
+        "Opinión de especialistas sobre la sostenibilidad de la medida"
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Caputo da US 2000 millones poder fuego Bausili intervenir bonos dolar",
+          "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "El Gobierno le dio USD 2.000 millones en letras atadas al tipo de cambio al Banco Central para contener al dólar",
+          "link": "https://www.infobae.com/economia/2026/09/07/el-gobierno-le-dio-usd-2000-millones-en-letras-atadas-al-tipo-de-cambio-al-banco-central-para-contener-al-dolar/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El Gobierno le dio al BCRA bonos para contener la cotización del dólar antes de las elecciones",
+          "link": "https://tn.com.ar/economia/2026/09/07/el-gobierno-le-dio-al-bcra-bonos-para-contener-la-cotizacion-del-dolar-antes-de-las-elecciones/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 5
+    }
+  ],
+  "sin_cobertura_perfil": [
+    {
+      "tema": "Triunfo electoral de la ultraderecha en Alemania y repercusiones políticas",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 8,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 8,
       "medio_lider": "Clarín",
       "cobertura_medio_lider": 3,
       "brecha": 3,
       "cobertura": {
         "Perfil": 0,
         "Clarín": 3,
-        "Infobae": 0,
+        "Infobae": 1,
         "TN": 0,
         "Ámbito": 3,
         "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Es un hecho político de relevancia internacional con impacto global en la agenda de derechas.",
-      "insight": "La competencia (Clarín, Ámbito) ya tiene tres notas; Perfil presenta un vacío de cobertura total en este evento clave.",
+      "por_que_importa": "Evento político de gran escala con impacto en la agenda global.",
+      "insight": "Perfil está ausente en un tema de alta relevancia internacional cubierto por los principales competidores.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un análisis de contexto inmediato y una nota de impacto regional.",
+      "accion_sugerida": "Nota de análisis sobre el ascenso de la derecha en Europa y sus efectos para Argentina.",
       "enfoques_sugeridos": [
-        "El mapa político alemán tras el ascenso de la ultraderecha.",
-        "Repercusiones económicas y diplomáticas en la Unión Europea."
+        "Perfiles de los nuevos liderazgos",
+        "Análisis de las repercusiones en la política europea"
       ],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Alemania: ultraderecha busca alianzas tras histórico triunfo y acorrala a un consternado Friedrich Merz",
+          "titulo": "Alemania ultraderecha busca alianzas historico triunfo acorrala consternado Friedrich Merz",
           "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "De vender perfumes a liderar la ultraderecha: quién es Ulrich Siegmund, el nuevo fenómeno político de Alemania",
+          "link": "https://www.infobae.com/america/mundo/2026/09/07/de-vender-perfumes-a-liderar-la-ultraderecha-quien-es-ulrich-siegmund-el-nuevo-fenomeno-politico-de-alemania/"
         },
         {
           "medio": "Ámbito",
           "titulo": "Europa entra en shock por el triunfo de la AfD en Alemania",
           "link": "https://www.ambito.com/mundo/europa-entra-shock-el-triunfo-la-afd-alemania-n6319246"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "Alemania: la extrema derecha se impondría en la elección regional clave de Sajonia",
-          "link": "https://www.pagina12.com.ar/2026/09/06/alemania-la-extrema-derecha-se-impondria-en-la-eleccion-regional-clave-de-sajonia/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
+      "cantidad_medios_competencia": 4
+    }
+  ],
+  "oportunidades": [],
+  "fortalezas_perfil": [],
+  "prioridades_del_dia": [
     {
-      "tema": "Reglamentación y alcance del nuevo Régimen Penal Juvenil",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
+      "tema": "Asignación de letras atadas al tipo de cambio al BCRA por parte del Gobierno para contener al dólar",
+      "prioridad": 1,
+      "tipo": "Economía",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 2,
+      "total_notas": 5,
+      "cantidad_medios": 5,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 2,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es una medida gubernamental de alto impacto social y debate público constante en Argentina.",
-      "insight": "El tema está siendo capturado por la competencia sin presencia de Perfil, pese a su interés periodístico.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Realizar una nota explicativa sobre el alcance y la aplicación práctica de la ley.",
-      "enfoques_sugeridos": [
-        "Claves para entender quiénes son los menores alcanzados.",
-        "Voces a favor y en contra de la baja de edad punible."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Ámbito",
-          "titulo": "Régimen Penal Juvenil: las claves de cómo se aplicará y cuáles son los cambios",
-          "link": "https://www.ambito.com/politica/regimen-penal-juvenil-las-claves-como-se-aplicara-y-cuales-son-son-los-cambios-n6319228"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El Gobierno reglamentó el Régimen Penal Juvenil: cuáles son los cambios y cómo se aplicará",
-          "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "El gobierno reglamentó su nuevo régimen penal juvenil y ya puede encarcelar a chicos de 14 años",
-          "link": "https://www.pagina12.com.ar/2026/09/07/el-gobierno-reglamento-su-nuevo-regimen-penal-juvenil-y-ya-puede-encarcelar-a-chicos-de-14-anos/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 2
-    },
-    {
-      "tema": "Aumento y actualización de tarifas de multas de tránsito en la Ciudad de Buenos Aires",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 4,
+      "competencia_total": 5,
       "medio_lider": "Clarín",
-      "cobertura_medio_lider": 2,
-      "brecha": 2,
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "Clarín": 2,
-        "Infobae": 0,
-        "TN": 0,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 1,
         "Ámbito": 1,
         "Página 12": 0,
         "El Cronista": 1
       },
-      "por_que_importa": "Servicio directo para la audiencia local con alto potencial de búsqueda en Google Discover.",
-      "insight": "Es un tema de utilidad inmediata que la audiencia busca activamente; Perfil está ausente.",
+      "por_que_importa": "Perfil no tiene cobertura y es un tema crítico de economía.",
+      "insight": "Es una omisión importante en la sección financiera que debemos corregir de inmediato.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Guía de servicio detallada con los nuevos valores y ejemplos prácticos.",
+      "accion_sugerida": "Publicar análisis de impacto y repercusiones en la cotización del dólar.",
       "enfoques_sugeridos": [
-        "Lista completa de los nuevos valores por infracción.",
-        "Cómo consultar y pagar multas online en CABA."
+        "Impacto en la brecha",
+        "Contexto pre-electoral"
       ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Multas tránsito caras Ciudad aumentaron 18 infracción común cuesta 100000",
-          "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Multas más caras en la Ciudad: qué infracciones suben y cuánto pueden llegar a costar",
-          "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-cuanto-pueden-llegar-n6319399"
-        },
-        {
-          "medio": "El Cronista",
-          "titulo": "Aumentan las multas en CABA desde septiembre y conductores podrían pagar más de $ 4.600.000 por el error que es más fácil de cometer",
-          "link": "https://www.cronista.com/informacion-gral/aumentan-las-multas-en-caba-desde-septiembre-y-conductores-podrian-pagar-mas-de-4600000-por-el-error-que-es-mas-facil-de-cometer/"
-        }
-      ],
+      "ejemplos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    }
-  ],
-  "sin_cobertura_perfil": [
+      "cantidad_medios_competencia": 5
+    },
     {
-      "tema": "Aumento de tarifas de servicios o transporte (trenes con demoras por protocolos de alcoholemia)",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
+      "tema": "Triunfo electoral de la ultraderecha en Alemania y repercusiones políticas",
+      "prioridad": 2,
+      "tipo": "Internacional",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
+      "total_notas": 8,
+      "cantidad_medios": 4,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 3,
+      "competencia_total": 8,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 3,
+      "brecha": 3,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 3,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 3,
+        "Página 12": 1,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Perfil tiene 0 cobertura en un tema de alto impacto global.",
+      "insight": "Es necesario que Perfil aporte una mirada propia sobre este fenómeno político internacional.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Cobertura en profundidad sobre los resultados electorales.",
+      "enfoques_sugeridos": [
+        "Análisis del impacto en la estabilidad de la UE",
+        "Lectura política del ascenso de la ultraderecha"
+      ],
+      "ejemplos": [],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Anuncio del gobierno bonaerense sobre impuesto del 2% a premios de apuestas online",
+      "prioridad": 3,
+      "tipo": "Economía / Local",
+      "tipo_de_oportunidad": "",
+      "total_notas": 2,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 2,
       "medio_lider": "Clarín",
       "cobertura_medio_lider": 1,
       "brecha": 1,
@@ -177,608 +254,191 @@
         "Perfil": 0,
         "Clarín": 1,
         "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 1,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Impacto masivo en la movilidad diaria del lector del AMBA.",
-      "insight": "Es un tema de servicio público urgente ignorado por Perfil.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Nota de servicio sobre estado de servicios y motivos de las demoras.",
-      "enfoques_sugeridos": [
-        "Estado del servicio en tiempo real para el usuario.",
-        "Detalles del nuevo protocolo de alcoholemia y cómo afecta las frecuencias."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Demoras líneas trenes Mitre Sarmiento Roca implementación nuevo protocoloco control alcoholemia",
-          "link": "https://www.clarin.com/sociedad/demoras-lineas-trenes-mitre-sarmiento-roca-implementacion-nuevo-protocoloco-control-alcoholemia_0_4xZ7ALSMUD.html"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "Demoras y cancelaciones en los trenes Roca, Mitre y Sarmiento: miles de personas afectadas",
-          "link": "https://www.pagina12.com.ar/2026/09/07/demoras-y-cancelaciones-en-los-trenes-roca-mitre-y-sarmiento-miles-de-personas-afectadas/"
-        },
-        {
-          "medio": "El Cronista",
-          "titulo": "Los trenes Mitre, Sarmiento y Roca circulan con fuertes demoras y cancelaciones: las razones",
-          "link": "https://www.cronista.com/informacion-gral/los-trenes-mitre-sarmiento-y-roca-circulan-con-fuertes-demoras-y-cancelaciones-las-razones/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Anuncios y detalles de créditos hipotecarios y licitaciones del FGS",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 1,
-      "medio_lider": "El Cronista",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Alta intención de búsqueda transaccional y financiera por parte del público interesado en vivienda.",
-      "insight": "Es una oportunidad de posicionamiento SEO en temas financieros.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Nota de guía financiera explicando cómo acceder a los créditos.",
-      "enfoques_sugeridos": [
-        "Requisitos para acceder a las nuevas licitaciones del FGS.",
-        "Análisis de viabilidad para compradores UVA."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Nuevos créditos hipotecarios: los principales bancos participan en la primera licitación con los...",
-          "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/nuevos-creditos-hipotecarios-los-principales-bancos-participan-en-la-primera-licitacion-con-los-nid07092026/"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Créditos hipotecarios UVA se recuperaron por cuarto mes consecutivo y ahora el mercado espera una...",
-          "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-uva-se-recuperaron-por-cuarto-mes-consecutivo-y-ahora-el-mercado-espera-una-nid07092026/"
-        },
-        {
-          "medio": "El Cronista",
-          "titulo": "La primera gran licitación de plazos fijos para dar hipotecarios ya tiene fecha: ¿cuándo será?",
-          "link": "https://www.cronista.com/finanzas-mercados/la-primera-gran-licitacion-de-plazos-fijos-para-dar-hipotecarios-ya-tiene-fecha-cuando-sera/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
-    }
-  ],
-  "oportunidades": [
-    {
-      "tema": "Iniciativa de joven de Pinamar para crear plataforma cívica y de participación",
-      "prioridad": 0,
-      "tipo": "oportunidad",
-      "tipo_de_oportunidad": "Contenido inspiracional / Historias de vida",
-      "total_notas": 0,
-      "cantidad_medios": 0,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 0,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 0,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
+        "TN": 1,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Son historias con gran potencial de viralización en redes sociales.",
-      "insight": "El tema es ideal para el perfil de lector joven o de interés general de Perfil.",
-      "motivo": "",
-      "motivo_oportunidad": "Perfil puede capitalizar una temática de alto engagement local que hasta ahora solo fue tratada por La Nación.",
-      "accion_sugerida": "Entrevista profunda con el protagonista para generar una pieza exclusiva.",
-      "enfoques_sugeridos": [
-        "La historia detrás del emprendedor cívico de 18 años.",
-        "Impacto real de la plataforma en la participación vecinal."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Tiene 18, descubrió los juegos de poder y creó una plataforma para una Argentina mejor",
-          "link": "https://www.lanacion.com.ar/lifestyle/tiene-18-descubrio-los-juegos-de-poder-y-creo-una-plataforma-para-una-argentina-mejor-jovenes-nid09022026/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 0
-    }
-  ],
-  "fortalezas_perfil": [],
-  "prioridades_del_dia": [
-    {
-      "tema": "Triunfo electoral de la ultraderecha (AfD / SSchall / Sajonia) en las elecciones regionales de Alemania",
-      "prioridad": 1,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 7,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 3,
-      "brecha": 3,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 3,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 3,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es un evento geopolítico de máxima trascendencia donde Perfil tiene una brecha de cobertura total.",
-      "insight": "Es la brecha más crítica dado que otros medios ya están liderando con múltiples notas.",
+      "por_que_importa": "Perfil no ha cubierto esta novedad impositiva local de alto interés.",
+      "insight": "La audiencia busca información clara sobre nuevas cargas fiscales.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Cobertura exhaustiva urgente.",
+      "accion_sugerida": "Explicar el impacto para los usuarios de plataformas de apuestas online.",
       "enfoques_sugeridos": [
-        "Impacto geopolítico en la unión europea.",
-        "Análisis de las causas del ascenso de la ultraderecha alemana."
+        "A quiénes afecta y cómo se aplica",
+        "Reacción de las plataformas y el sector"
       ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Alemania: ultraderecha busca alianzas tras histórico triunfo y acorrala a un consternado Friedrich Merz",
-          "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Europa entra en shock por el triunfo de la AfD en Alemania",
-          "link": "https://www.ambito.com/mundo/europa-entra-shock-el-triunfo-la-afd-alemania-n6319246"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "Alemania: la extrema derecha se impondría en la elección regional clave de Sajonia",
-          "link": "https://www.pagina12.com.ar/2026/09/06/alemania-la-extrema-derecha-se-impondria-en-la-eleccion-regional-clave-de-sajonia/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Reglamentación y alcance del nuevo Régimen Penal Juvenil",
-      "prioridad": 2,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 2,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 2,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Tema de alto impacto nacional con audiencia interesada en debates legislativos y seguridad.",
-      "insight": "Es una oportunidad de posicionarse en un tema central de la agenda local.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar nota de servicio y análisis jurídico.",
-      "enfoques_sugeridos": [
-        "Desglose técnico de la reglamentación.",
-        "Opiniones de expertos sobre la eficacia de la medida."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Ámbito",
-          "titulo": "Régimen Penal Juvenil: las claves de cómo se aplicará y cuáles son los cambios",
-          "link": "https://www.ambito.com/politica/regimen-penal-juvenil-las-claves-como-se-aplicara-y-cuales-son-son-los-cambios-n6319228"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El Gobierno reglamentó el Régimen Penal Juvenil: cuáles son los cambios y cómo se aplicará",
-          "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
-        },
-        {
-          "medio": "Página 12",
-          "titulo": "El gobierno reglamentó su nuevo régimen penal juvenil y ya puede encarcelar a chicos de 14 años",
-          "link": "https://www.pagina12.com.ar/2026/09/07/el-gobierno-reglamento-su-nuevo-regimen-penal-juvenil-y-ya-puede-encarcelar-a-chicos-de-14-anos/"
-        }
-      ],
+      "ejemplos": [],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "cantidad_medios_competencia": 2
-    },
-    {
-      "tema": "Aumento y actualización de tarifas de multas de tránsito en la Ciudad de Buenos Aires",
-      "prioridad": 3,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 4,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 2,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 0,
-        "Clarín": 2,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Utilidad de servicio inmediato, clave para el tráfico orgánico y consultas en dispositivos móviles.",
-      "insight": "Es un tema de servicio público donde Perfil puede captar gran volumen de tráfico local.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Crear nota de servicio útil para el automovilista.",
-      "enfoques_sugeridos": [
-        "Guía de precios actualizados en CABA.",
-        "Cómo evitar multas comunes mediante el conocimiento del nuevo reglamento."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Multas tránsito caras Ciudad aumentaron 18 infracción común cuesta 100000",
-          "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Multas más caras en la Ciudad: qué infracciones suben y cuánto pueden llegar a costar",
-          "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-cuanto-pueden-llegar-n6319399"
-        },
-        {
-          "medio": "El Cronista",
-          "titulo": "Aumentan las multas en CABA desde septiembre y conductores podrían pagar más de $ 4.600.000 por el error que es más fácil de cometer",
-          "link": "https://www.cronista.com/informacion-gral/aumentan-las-multas-en-caba-desde-septiembre-y-conductores-podrian-pagar-mas-de-4600000-por-el-error-que-es-mas-facil-de-cometer/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
     }
   ],
   "analisis_completo": {
-    "hipercompetencia": [],
-    "perfil_pierde": [
+    "hipercompetencia": [
       {
-        "tema": "Triunfo electoral de la ultraderecha (AfD / SSchall / Sajonia) en las elecciones regionales de Alemania",
+        "tema": "Lanzamiento de créditos UVA del Banco Nación para compra de automóviles",
         "prioridad": 0,
-        "tipo": "perfil_pierde",
+        "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
-        "total_notas": 7,
-        "cantidad_medios": 3,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 7,
-        "medio_lider": "Clarín",
-        "cobertura_medio_lider": 3,
-        "brecha": 3,
+        "total_notas": 12,
+        "cantidad_medios": 5,
+        "cobertura_perfil": 3,
+        "perfil": 3,
+        "competencia_total": 9,
+        "medio_lider": "El Cronista",
+        "cobertura_medio_lider": 4,
+        "brecha": 1,
         "cobertura": {
-          "Perfil": 0,
-          "Clarín": 3,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 3,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Es un hecho político de relevancia internacional con impacto global en la agenda de derechas.",
-        "insight": "La competencia (Clarín, Ámbito) ya tiene tres notas; Perfil presenta un vacío de cobertura total en este evento clave.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar un análisis de contexto inmediato y una nota de impacto regional.",
-        "enfoques_sugeridos": [
-          "El mapa político alemán tras el ascenso de la ultraderecha.",
-          "Repercusiones económicas y diplomáticas en la Unión Europea."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Clarín",
-            "titulo": "Alemania: ultraderecha busca alianzas tras histórico triunfo y acorrala a un consternado Friedrich Merz",
-            "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Europa entra en shock por el triunfo de la AfD en Alemania",
-            "link": "https://www.ambito.com/mundo/europa-entra-shock-el-triunfo-la-afd-alemania-n6319246"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "Alemania: la extrema derecha se impondría en la elección regional clave de Sajonia",
-            "link": "https://www.pagina12.com.ar/2026/09/06/alemania-la-extrema-derecha-se-impondria-en-la-eleccion-regional-clave-de-sajonia/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      },
-      {
-        "tema": "Reglamentación y alcance del nuevo Régimen Penal Juvenil",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 3,
-        "cantidad_medios": 2,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 3,
-        "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 2,
-        "brecha": 2,
-        "cobertura": {
-          "Perfil": 0,
+          "Perfil": 3,
           "Clarín": 0,
           "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Es una medida gubernamental de alto impacto social y debate público constante en Argentina.",
-        "insight": "El tema está siendo capturado por la competencia sin presencia de Perfil, pese a su interés periodístico.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Realizar una nota explicativa sobre el alcance y la aplicación práctica de la ley.",
-        "enfoques_sugeridos": [
-          "Claves para entender quiénes son los menores alcanzados.",
-          "Voces a favor y en contra de la baja de edad punible."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Ámbito",
-            "titulo": "Régimen Penal Juvenil: las claves de cómo se aplicará y cuáles son los cambios",
-            "link": "https://www.ambito.com/politica/regimen-penal-juvenil-las-claves-como-se-aplicara-y-cuales-son-son-los-cambios-n6319228"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "El Gobierno reglamentó el Régimen Penal Juvenil: cuáles son los cambios y cómo se aplicará",
-            "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
-          },
-          {
-            "medio": "Página 12",
-            "titulo": "El gobierno reglamentó su nuevo régimen penal juvenil y ya puede encarcelar a chicos de 14 años",
-            "link": "https://www.pagina12.com.ar/2026/09/07/el-gobierno-reglamento-su-nuevo-regimen-penal-juvenil-y-ya-puede-encarcelar-a-chicos-de-14-anos/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 2
-      },
-      {
-        "tema": "Aumento y actualización de tarifas de multas de tránsito en la Ciudad de Buenos Aires",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 4,
-        "cantidad_medios": 3,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 4,
-        "medio_lider": "Clarín",
-        "cobertura_medio_lider": 2,
-        "brecha": 2,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 2,
-          "Infobae": 0,
-          "TN": 0,
+          "TN": 3,
           "Ámbito": 1,
-          "Página 12": 0,
-          "El Cronista": 1
+          "Página 12": 1,
+          "El Cronista": 4
         },
-        "por_que_importa": "Servicio directo para la audiencia local con alto potencial de búsqueda en Google Discover.",
-        "insight": "Es un tema de utilidad inmediata que la audiencia busca activamente; Perfil está ausente.",
+        "por_que_importa": "Alta demanda de información sobre financiación en un contexto de incertidumbre económica.",
+        "insight": "Es un tema de utilidad directa para la audiencia con alta probabilidad de búsqueda transaccional.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Guía de servicio detallada con los nuevos valores y ejemplos prácticos.",
+        "accion_sugerida": "Publicar una guía práctica sobre requisitos y costos reales.",
         "enfoques_sugeridos": [
-          "Lista completa de los nuevos valores por infracción.",
-          "Cómo consultar y pagar multas online en CABA."
+          "Simulador de cuotas comparativo contra inflación",
+          "Análisis de viabilidad para el usuario promedio"
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Multas tránsito caras Ciudad aumentaron 18 infracción común cuesta 100000",
-            "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
+            "medio": "Perfil",
+            "titulo": "La extensión del plazo es lo revolucionario: Sturzenegger defendió la tasa de los nuevos créditos para autos del Banco Nación",
+            "link": "https://www.perfil.com/noticias/economia/la-extension-del-plazo-es-lo-revolucionario-sturzenegger-defendio-la-tasa-de-los-nuevos-creditos-para-autos-del-banco-nacion.phtml"
           },
           {
-            "medio": "Ámbito",
-            "titulo": "Multas más caras en la Ciudad: qué infracciones suben y cuánto pueden llegar a costar",
-            "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-cuanto-pueden-llegar-n6319399"
+            "medio": "TN",
+            "titulo": "Como son los créditos UVA que lanzó el Banco Nación para autos 0km y usados: se podrán financiar hasta 100 millones",
+            "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
           },
           {
             "medio": "El Cronista",
-            "titulo": "Aumentan las multas en CABA desde septiembre y conductores podrían pagar más de $ 4.600.000 por el error que es más fácil de cometer",
-            "link": "https://www.cronista.com/informacion-gral/aumentan-las-multas-en-caba-desde-septiembre-y-conductores-podrian-pagar-mas-de-4600000-por-el-error-que-es-mas-facil-de-cometer/"
+            "titulo": "Banco Nación lanza créditos UVA para comprar autos 0 km y usados: tasas, plazos y cuotas",
+            "link": "https://www.cronista.com/finanzas-mercados/banco-nacion-lanza-creditos-uva-para-comprar-autos-0-km-y-usados-tasas-plazos-y-cuotas/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
+        "cantidad_medios_competencia": 4
       }
     ],
-    "sin_cobertura_perfil": [
+    "perfil_pierde": [
       {
-        "tema": "Aumento de tarifas de servicios o transporte (trenes con demoras por protocolos de alcoholemia)",
+        "tema": "Asignación de letras atadas al tipo de cambio al BCRA por parte del Gobierno para contener al dólar",
         "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
+        "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
-        "total_notas": 3,
-        "cantidad_medios": 3,
+        "total_notas": 5,
+        "cantidad_medios": 5,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 3,
+        "competencia_total": 5,
         "medio_lider": "Clarín",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "cobertura": {
           "Perfil": 0,
           "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 1,
+          "Infobae": 1,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 0,
           "El Cronista": 1
         },
-        "por_que_importa": "Impacto masivo en la movilidad diaria del lector del AMBA.",
-        "insight": "Es un tema de servicio público urgente ignorado por Perfil.",
+        "por_que_importa": "Es una medida de impacto macroeconómico directo sobre la cotización del dólar.",
+        "insight": "Perfil no tiene cobertura mientras que la competencia ya abordó el ángulo de intervención.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Nota de servicio sobre estado de servicios y motivos de las demoras.",
+        "accion_sugerida": "Realizar un análisis sobre el impacto en las reservas y expectativas del mercado.",
         "enfoques_sugeridos": [
-          "Estado del servicio en tiempo real para el usuario.",
-          "Detalles del nuevo protocolo de alcoholemia y cómo afecta las frecuencias."
+          "Impacto en la brecha cambiaria",
+          "Opinión de especialistas sobre la sostenibilidad de la medida"
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Demoras líneas trenes Mitre Sarmiento Roca implementación nuevo protocoloco control alcoholemia",
-            "link": "https://www.clarin.com/sociedad/demoras-lineas-trenes-mitre-sarmiento-roca-implementacion-nuevo-protocoloco-control-alcoholemia_0_4xZ7ALSMUD.html"
+            "titulo": "Caputo da US 2000 millones poder fuego Bausili intervenir bonos dolar",
+            "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
           },
           {
-            "medio": "Página 12",
-            "titulo": "Demoras y cancelaciones en los trenes Roca, Mitre y Sarmiento: miles de personas afectadas",
-            "link": "https://www.pagina12.com.ar/2026/09/07/demoras-y-cancelaciones-en-los-trenes-roca-mitre-y-sarmiento-miles-de-personas-afectadas/"
+            "medio": "Infobae",
+            "titulo": "El Gobierno le dio USD 2.000 millones en letras atadas al tipo de cambio al Banco Central para contener al dólar",
+            "link": "https://www.infobae.com/economia/2026/09/07/el-gobierno-le-dio-usd-2000-millones-en-letras-atadas-al-tipo-de-cambio-al-banco-central-para-contener-al-dolar/"
           },
           {
-            "medio": "El Cronista",
-            "titulo": "Los trenes Mitre, Sarmiento y Roca circulan con fuertes demoras y cancelaciones: las razones",
-            "link": "https://www.cronista.com/informacion-gral/los-trenes-mitre-sarmiento-y-roca-circulan-con-fuertes-demoras-y-cancelaciones-las-razones/"
+            "medio": "TN",
+            "titulo": "El Gobierno le dio al BCRA bonos para contener la cotización del dólar antes de las elecciones",
+            "link": "https://tn.com.ar/economia/2026/09/07/el-gobierno-le-dio-al-bcra-bonos-para-contener-la-cotizacion-del-dolar-antes-de-las-elecciones/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      },
+        "cantidad_medios_competencia": 5
+      }
+    ],
+    "sin_cobertura_perfil": [
       {
-        "tema": "Anuncios y detalles de créditos hipotecarios y licitaciones del FGS",
+        "tema": "Triunfo electoral de la ultraderecha en Alemania y repercusiones políticas",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
-        "total_notas": 1,
-        "cantidad_medios": 1,
+        "total_notas": 8,
+        "cantidad_medios": 4,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 1,
-        "medio_lider": "El Cronista",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 1
-        },
-        "por_que_importa": "Alta intención de búsqueda transaccional y financiera por parte del público interesado en vivienda.",
-        "insight": "Es una oportunidad de posicionamiento SEO en temas financieros.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Nota de guía financiera explicando cómo acceder a los créditos.",
-        "enfoques_sugeridos": [
-          "Requisitos para acceder a las nuevas licitaciones del FGS.",
-          "Análisis de viabilidad para compradores UVA."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Nuevos créditos hipotecarios: los principales bancos participan en la primera licitación con los...",
-            "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/nuevos-creditos-hipotecarios-los-principales-bancos-participan-en-la-primera-licitacion-con-los-nid07092026/"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Créditos hipotecarios UVA se recuperaron por cuarto mes consecutivo y ahora el mercado espera una...",
-            "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-uva-se-recuperaron-por-cuarto-mes-consecutivo-y-ahora-el-mercado-espera-una-nid07092026/"
-          },
-          {
-            "medio": "El Cronista",
-            "titulo": "La primera gran licitación de plazos fijos para dar hipotecarios ya tiene fecha: ¿cuándo será?",
-            "link": "https://www.cronista.com/finanzas-mercados/la-primera-gran-licitacion-de-plazos-fijos-para-dar-hipotecarios-ya-tiene-fecha-cuando-sera/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 1
-      }
-    ],
-    "oportunidades": [
-      {
-        "tema": "Iniciativa de joven de Pinamar para crear plataforma cívica y de participación",
-        "prioridad": 0,
-        "tipo": "oportunidad",
-        "tipo_de_oportunidad": "Contenido inspiracional / Historias de vida",
-        "total_notas": 0,
-        "cantidad_medios": 0,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 0,
+        "competencia_total": 8,
         "medio_lider": "Clarín",
-        "cobertura_medio_lider": 0,
-        "brecha": 0,
+        "cobertura_medio_lider": 3,
+        "brecha": 3,
         "cobertura": {
           "Perfil": 0,
-          "Clarín": 0,
-          "Infobae": 0,
+          "Clarín": 3,
+          "Infobae": 1,
           "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
+          "Ámbito": 3,
+          "Página 12": 1,
           "El Cronista": 0
         },
-        "por_que_importa": "Son historias con gran potencial de viralización en redes sociales.",
-        "insight": "El tema es ideal para el perfil de lector joven o de interés general de Perfil.",
+        "por_que_importa": "Evento político de gran escala con impacto en la agenda global.",
+        "insight": "Perfil está ausente en un tema de alta relevancia internacional cubierto por los principales competidores.",
         "motivo": "",
-        "motivo_oportunidad": "Perfil puede capitalizar una temática de alto engagement local que hasta ahora solo fue tratada por La Nación.",
-        "accion_sugerida": "Entrevista profunda con el protagonista para generar una pieza exclusiva.",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Nota de análisis sobre el ascenso de la derecha en Europa y sus efectos para Argentina.",
         "enfoques_sugeridos": [
-          "La historia detrás del emprendedor cívico de 18 años.",
-          "Impacto real de la plataforma en la participación vecinal."
+          "Perfiles de los nuevos liderazgos",
+          "Análisis de las repercusiones en la política europea"
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Tiene 18, descubrió los juegos de poder y creó una plataforma para una Argentina mejor",
-            "link": "https://www.lanacion.com.ar/lifestyle/tiene-18-descubrio-los-juegos-de-poder-y-creo-una-plataforma-para-una-argentina-mejor-jovenes-nid09022026/"
+            "medio": "Clarín",
+            "titulo": "Alemania ultraderecha busca alianzas historico triunfo acorrala consternado Friedrich Merz",
+            "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "De vender perfumes a liderar la ultraderecha: quién es Ulrich Siegmund, el nuevo fenómeno político de Alemania",
+            "link": "https://www.infobae.com/america/mundo/2026/09/07/de-vender-perfumes-a-liderar-la-ultraderecha-quien-es-ulrich-siegmund-el-nuevo-fenomeno-politico-de-alemania/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Europa entra en shock por el triunfo de la AfD en Alemania",
+            "link": "https://www.ambito.com/mundo/europa-entra-shock-el-triunfo-la-afd-alemania-n6319246"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 0
+        "cantidad_medios_competencia": 4
       }
     ],
+    "oportunidades": [],
     "fortalezas_perfil": []
   },
-  "total_temas": 6
+  "total_temas": 3
 }
