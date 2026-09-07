@@ -1,51 +1,103 @@
 {
-  "fecha_analisis": "7 de septiembre de 2026",
+  "fecha_analisis": "2026-09-07",
   "hipercompetencia": [
     {
-      "tema": "Internación de Mirtha Legrand en el Sanatorio Mater Dei",
+      "tema": "Cotización del dólar blue",
       "prioridad": 0,
       "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
-      "total_notas": 5,
+      "total_notas": 4,
       "cantidad_medios": 4,
       "cobertura_perfil": 1,
       "perfil": 1,
-      "competencia_total": 4,
-      "medio_lider": "El Cronista",
-      "cobertura_medio_lider": 2,
-      "brecha": 1,
+      "competencia_total": 3,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
       "cobertura": {
         "Perfil": 1,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Es el principal indicador de inestabilidad cambiaria y termómetro de la economía cotidiana en Argentina.",
+      "insight": "La audiencia busca actualizaciones en tiempo real y brechas respecto al dólar oficial para toma de decisiones financieras.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Mantener actualización constante del precio de compra y venta y comparativa con el MEP y CCL.",
+      "enfoques_sugeridos": [
+        "Evolución de la brecha cambiaria tras el canje de bonos del BCRA.",
+        "Análisis de la demanda de blue en el inicio de la semana."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "A cuanto cotiza el dolar blue hoy lunes 7 de septiembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-7-de-septiembre.phtml"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Dolar blue hoy cuanto opera este lunes 7 septiembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-7-septiembre-n6319201"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "Dolar blue dolar hoy a cuanto cotizan el lunes 7 de septiembre de 2026",
+          "link": "https://www.pagina12.com.ar/2026/09/07/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-lunes-7-de-septiembre-de-2026-n6319399"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
+    },
+    {
+      "tema": "Internación de Mirtha Legrand",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 3,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 1,
         "Ámbito": 1,
         "Página 12": 0,
-        "El Cronista": 2
+        "El Cronista": 1
       },
-      "por_que_importa": "Es una de las figuras indiscutidas de la televisión argentina y su salud genera alto interés en todas las audiencias, especialmente en buscadores y redes sociales.",
-      "insight": "Los lectores buscan constantemente partes médicos oficiales y actualizaciones sobre su estado clínico.",
+      "por_que_importa": "Figura máxima del espectáculo nacional cuya salud genera una preocupación transversal en la sociedad.",
+      "insight": "La suspensión de su programa y el diagnóstico de bronquitis activan alertas en Discover y búsquedas de interés masivo.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Realizar un seguimiento minuto a minuto con enfoque empático y rigurosidad médica.",
+      "accion_sugerida": "Publicar nota de salud con actualización del parte médico del Mater Dei.",
       "enfoques_sugeridos": [
-        "Detalles del parte médico oficial y evolución clínica",
-        "Repercusiones en el mundo del espectáculo y colegas"
+        "Último parte médico y quiénes acompañan a Mirtha en la internación.",
+        "Cronología de su salud en el último año tras las ausencias televisivas."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Internación de Mirtha Legrand en el Sanatorio Mater Dei",
-          "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-esta-internada-como-se-encuentra-la-diva-nid07092026/"
+          "titulo": "Que se sabe de la salud de Mirtha Legrand",
+          "link": "https://www.lanacion.com.ar/espectaculos/que-se-sabe-de-la-salud-de-mirtha-legrand-nid07092026/"
         },
         {
           "medio": "TN",
-          "titulo": "Detalles médicos de la internación de Mirtha Legrand",
+          "titulo": "Mirtha Legrand esta internada en el Mater Dei por una bronquitis",
           "link": "https://tn.com.ar/show/famosos/2026/09/07/mirtha-legrand-esta-internada-en-el-mater-dei-por-una-bronquitis/"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Parte médico e internación de Mirtha Legrand",
+          "titulo": "Como sigue la salud Mirtha Legrand ausentarse su programa",
           "link": "https://www.ambito.com/espectaculos/como-sigue-la-salud-mirtha-legrand-ausentarse-su-programa-n6319278"
         }
       ],
@@ -54,165 +106,165 @@
       "cantidad_medios_competencia": 3
     },
     {
-      "tema": "Lanzamiento de créditos UVA del Banco Nación para compra de automóviles",
+      "tema": "Reglamentación del Régimen Penal Juvenil",
       "prioridad": 0,
       "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
       "total_notas": 5,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 2,
-      "perfil": 2,
-      "competencia_total": 3,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 2,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 2,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 2,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Impacta directamente en la clase media y en el sector automotor en un contexto de búsqueda de opciones de financiación.",
-      "insight": "Las notas de servicio con montos, cuotas y requisitos explícitos traccionan muchísimo tráfico orgánico.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Armar calculadoras o guías paso a paso con ejemplos de sueldos necesarios y cuotas mensuales.",
-      "enfoques_sugeridos": [
-        "Comparativa de cuotas y requisitos para acceder al préstamo",
-        "Impacto en la reactivación de ventas de vehículos 0km y usados"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Nuevos créditos del Banco Nación para compra de automóviles",
-          "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-son-las-cuotas.phtml"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Detalles de los créditos UVA del Banco Nación para vehículos",
-          "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
-        },
-        {
-          "medio": "El Cronista",
-          "titulo": "Lanzamiento de créditos UVA del Banco Nación para compra de automóviles",
-          "link": "https://www.cronista.com/finanzas-mercados/banco-nacion-lanza-creditos-uva-para-comprar-autos-0-km-y-usados-tasas-plazos-y-cuotas/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 2
-    },
-    {
-      "tema": "Tratamiento parlamentario de proyectos sobre morosidad familiar y endeudamiento",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 6,
+      "cantidad_medios": 4,
       "cobertura_perfil": 1,
       "perfil": 1,
-      "competencia_total": 8,
-      "medio_lider": "Clarín",
+      "competencia_total": 4,
+      "medio_lider": "Ámbito",
       "cobertura_medio_lider": 2,
       "brecha": 1,
       "cobertura": {
         "Perfil": 1,
-        "Clarín": 2,
+        "Clarín": 1,
         "Infobae": 0,
-        "TN": 1,
+        "TN": 0,
         "Ámbito": 2,
         "Página 12": 1,
-        "El Cronista": 2
+        "El Cronista": 0
       },
-      "por_que_importa": "Visibiliza la crisis económica en los hogares y genera una fuerte disputa en el Congreso entre oficialismo y oposición.",
-      "insight": "Los temas que combinan el bolsillo de la gente con la pelea política alta tienen gran rendimiento en Discover.",
+      "por_que_importa": "Es un cambio estructural en las leyes de seguridad y justicia que afecta a menores acusados de delitos.",
+      "insight": "El debate se centra en la operatividad del decreto y los cambios reales en la imputabilidad.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Explicar qué proyectos se debaten y qué sectores se verán beneficiados o afectados directamente.",
+      "accion_sugerida": "Realizar una guía explicativa (Q&A) sobre los puntos clave del decreto 875/2026.",
       "enfoques_sugeridos": [
-        "Estrategia de la oposición para forzar la sesión en Diputados",
-        "Rechazo y lectura del oficialismo frente al endeudamiento de las familias"
+        "Las 5 claves para entender el nuevo régimen penal juvenil.",
+        "Críticas de organismos de DDHH vs. argumentos del Gobierno por la reglamentación."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Convocatoria opositora a sesión en Diputados por morosidad y discapacidad",
-          "link": "https://www.perfil.com/noticias/politica/morosidad-y-discapacidad-la-oposicion-busca-sesionar-este-miercoles-en-diputados.phtml"
+          "titulo": "El gobierno reglamento con el decreto 8752026 el regimen penal juvenil que pasara ahora con los adolescentes acusados de delinquir",
+          "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-reglamento-con-el-decreto-8752026-el-regimen-penal-juvenil-que-pasara-ahora-con-los-adolescentes-acusados-de-delinquir.phtml"
         },
         {
           "medio": "Clarín",
-          "titulo": "Convocatoria a sesión en Diputados por morosidad familiar",
-          "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
+          "titulo": "Regimen penal juvenil cambia reglamentacion publicada gobierno",
+          "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
         },
         {
-          "medio": "El Cronista",
-          "titulo": "Tratamiento parlamentario de proyectos sobre morosidad familiar",
-          "link": "https://www.cronista.com/economia-politica/la-oposicion-lleva-la-morosidad-al-recinto-que-proyectos-buscan-tratar-y-la-mirada-de-milei/"
+          "medio": "Ámbito",
+          "titulo": "Regimen penal juvenil las claves como se aplicara y cuales son los cambios",
+          "link": "https://www.ambito.com/politica/regimen-penal-juvenil-las-claves-como-se-aplicara-y-cuales-son-los-cambios-n6319228"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 5
+      "cantidad_medios_competencia": 3
+    },
+    {
+      "tema": "Canje de bonos del Gobierno al BCRA para intervenir en el dólar",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 3,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Es la estrategia financiera de corto plazo para evitar saltos bruscos en la cotización antes de períodos electorales.",
+      "insight": "Se analiza como un aumento del 'poder de fuego' de Bausili para contener financieros.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Nota de análisis económico sobre el impacto en las reservas y la deuda del BCRA.",
+      "enfoques_sugeridos": [
+        "Por qué el Gobierno canjeó US$ 2.000 millones en títulos: objetivos y riesgos.",
+        "El impacto del canje en la confianza de los mercados y los bonos soberanos."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "El gobierno le canjeo us2000 millones en titulos al bcra para que mantenga contenido al dolar",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Caputo da us 2000 millones poder fuego bausili intervenir bonos dolar",
+          "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El gobierno le dio al bcra bonos para contener la cotizacion del dolar antes de las elecciones",
+          "link": "https://tn.com.ar/economia/2026/09/07/el-gobierno-le-dio-al-bcra-bonos-para-contener-la-cotizacion-del-dolar-antes-de-las-elecciones/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
     }
   ],
   "perfil_pierde": [
     {
-      "tema": "Triunfo de joven productor rural en intendencia de Marcos Juárez",
+      "tema": "Convocatoria opositora a sesión en Diputados por morosidad y discapacidad",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
       "total_notas": 4,
-      "cantidad_medios": 2,
-      "cobertura_perfil": 3,
-      "perfil": 3,
-      "competencia_total": 1,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 3,
       "medio_lider": "Clarín",
       "cobertura_medio_lider": 1,
       "brecha": 0,
       "cobertura": {
-        "Perfil": 3,
+        "Perfil": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 0,
-        "Ámbito": 0,
+        "Ámbito": 1,
         "Página 12": 0,
-        "El Cronista": 0
+        "El Cronista": 1
       },
-      "por_que_importa": "Marca un termómetro político clave en la zona núcleo agrícola y anticipa ánimos electorales.",
-      "insight": "La competencia le dedica coberturas enfocadas tanto en el perfil del candidato como en el impacto económico regional.",
+      "por_que_importa": "Marca la agenda política de la semana y la capacidad de la oposición de unir bloques por temas sociales.",
+      "insight": "El foco está en la emergencia por discapacidad y las deudas familiares.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar la cobertura con análisis políticos profundos sobre el peso del interior productivo.",
+      "accion_sugerida": "Profundizar en los proyectos de ley que se tratarán y el número de bancas aseguradas.",
       "enfoques_sugeridos": [
-        "El impacto del triunfo peronista/agropecuario en la estrategia provincial",
-        "Lectura de los referentes nacionales tras los comicios"
+        "El poroteo en Diputados: quiénes apoyan la sesión por morosidad y discapacidad.",
+        "Testimonios de familias endeudadas detrás del proyecto de ley contra la morosidad."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Entrevista al intendente electo de Marcos Juárez, Germán Font",
-          "link": "https://www.perfil.com/noticias/cordoba/german-font-intendente-electo-de-marcos-juarez-la-gente-estaba-cansada-de-campanas-donde-le-prometian-cosas-y-no-cumplian.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Triunfo electoral en Marcos Juárez con perfil agropecuario",
-          "link": "https://www.lanacion.com.ar/economia/campo/batacazo-en-la-zona-agricola-nucleo-el-nuevo-intendente-de-marcos-juarez-viene-de-una-importante-nid07092026/"
+          "titulo": "Morosidad y discapacidad la oposicion busca sesionar este miercoles en diputados",
+          "link": "https://www.perfil.com/noticias/politica/morosidad-y-discapacidad-la-oposicion-busca-sesionar-este-miercoles-en-diputados.phtml"
         },
         {
           "medio": "Clarín",
-          "titulo": "Triunfo de joven productor rural en intendencia de Marcos Juárez",
-          "link": "https://www.clarin.com/rural/campo-intendencia-joven-productor-cambio-historia-politica-marcos-juarez_0_jhWwfQHZyH.html"
+          "titulo": "Oposicion convoco sesion diputados trata proyectos morosidad familias endeudadas",
+          "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Diputados convocan sesion especial emergencia discapacidad morosidad y deudas",
+          "link": "https://www.ambito.com/politica/diputados-convocan-sesion-especial-emergencia-discapacidad-morosidad-y-deudas-n6319266"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
+      "cantidad_medios_competencia": 3
     },
     {
-      "tema": "Explicaciones e inversiones de Eduardo Elsztain en las Islas Malvinas",
+      "tema": "Declaraciones de Eduardo Elsztain sobre su inversión en Falkland Islands Company",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
@@ -233,30 +285,30 @@
         "Página 12": 0,
         "El Cronista": 1
       },
-      "por_que_importa": "Une al empresariado de primera línea con la causa nacional de Malvinas, generando fuerte repercusión en la opinión pública.",
-      "insight": "La competencia despliega múltiples enfoques sobre las razones del empresario y las críticas recibidas.",
+      "por_que_importa": "Involucra a uno de los empresarios más importantes del país en un tema de soberanía sensible como Malvinas.",
+      "insight": "La explicación sobre la compra de acciones genera controversia y necesita contexto geopolítico.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en notas de investigación o columnas de opinión que contrasten la mirada empresaria con la soberanía.",
+      "accion_sugerida": "Análisis de las implicancias legales y políticas de que un argentino invierta en la compañía de las islas.",
       "enfoques_sugeridos": [
-        "Justificación legal y comercial del empresario",
-        "Repercusiones políticas tras los anuncios de gobierno"
+        "Elsztain y Malvinas: qué hay detrás de su inversión en la Falkland Islands Company.",
+        "La reacción del Gobierno y la Cancillería ante los movimientos de Elsztain."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Declaraciones de Eduardo Elsztain sobre su inversión en Falkland Islands Company",
+          "titulo": "Eduardo elsztain explico por que invirtio en la falkland islands company",
           "link": "https://www.perfil.com/noticias/politica/eduardo-elsztain-explico-por-que-invirtio-en-la-falkland-islands-company.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Explicaciones de Eduardo Elsztain sobre sus inversiones en Malvinas",
+          "titulo": "Eduardo elsztain explico sus inversiones en las islas malvinas",
           "link": "https://www.lanacion.com.ar/politica/eduardo-elsztain-explico-sus-inversiones-en-las-islas-malvinas-nid07092026/"
         },
         {
-          "medio": "El Cronista",
-          "titulo": "Explicaciones empresariales de Eduardo Elsztain sobre Falkland Islands Company",
-          "link": "https://www.cronista.com/economia-politica/por-que-elsztain-invirtio-en-la-empresa-mas-importante-de-malvinas-el-empresario-explico-las-razones-de-su-decision/"
+          "medio": "TN",
+          "titulo": "Las explicaciones de eduardo elsztain sobre sus inversiones en las islas malvinas",
+          "link": "https://tn.com.ar/politica/2026/09/07/las-explicaciones-de-eduardo-elsztain-sobre-sus-inversiones-en-las-islas-malvinas/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -264,61 +316,165 @@
       "cantidad_medios_competencia": 2
     },
     {
-      "tema": "Reglamentación oficial del nuevo Régimen Penal Juvenil",
+      "tema": "Triunfo electoral en Marcos Juárez con perfil agropecuario",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 4,
+      "total_notas": 2,
+      "cantidad_medios": 2,
       "cobertura_perfil": 1,
       "perfil": 1,
-      "competencia_total": 5,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 3,
-      "brecha": 2,
+      "competencia_total": 1,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
       "cobertura": {
         "Perfil": 1,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 0,
-        "Ámbito": 3,
-        "Página 12": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Es una de las medidas de seguridad y políticas públicas más sensibles y debatidas de la agenda actual.",
-      "insight": "Los lectores buscan conocer taxativamente qué cambia en la práctica judicial para los menores de edad.",
+      "por_que_importa": "Es el 'kilómetro cero' de las elecciones y un indicador del humor del sector agropecuario.",
+      "insight": "Se destaca el perfil joven y productor del nuevo intendente como un cambio de época política.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Elaborar placas explicativas y notas de servicio en formato de preguntas y respuestas para SEO.",
+      "accion_sugerida": "Realizar un perfil del intendente electo Germán Font y su plan para el agro.",
       "enfoques_sugeridos": [
-        "Claves y alcances legales del decreto gubernamental",
-        "Reacciones y cruces entre el oficialismo y la oposición"
+        "Germán Font: de la producción agrícola a la intendencia de Marcos Juárez.",
+        "Qué significa para el mapa político nacional el batacazo en la zona núcleo."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Reglamentación del Régimen Penal Juvenil",
-          "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-reglamento-con-el-decreto-8752026-el-regimen-penal-juvenil-que-pasara-ahora-con-los-adolescentes-acusados-de-delinquir.phtml"
+          "titulo": "German font intendente electo de marcos juarez la gente estaba cansada de campanas donde le prometian cosas y no cumplian",
+          "link": "https://www.perfil.com/noticias/cordoba/german-font-intendente-electo-de-marcos-juarez-la-gente-estaba-cansada-de-campanas-donde-le-prometian-cosas-y-no-cumplian.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Batacazo en la zona agricola nucleo el nuevo intendente de marcos juarez viene de una importante",
+          "link": "https://www.lanacion.com.ar/economia/campo/batacazo-en-la-zona-agricola-nucleo-el-nuevo-intendente-de-marcos-juarez-viene-de-una-importante-nid07092026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Cambios por la reglamentación del Régimen Penal Juvenil",
-          "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
+          "titulo": "Campo intendencia joven productor cambio historia politica marcos juarez",
+          "link": "https://www.clarin.com/rural/campo-intendencia-joven-productor-cambio-historia-politica-marcos-juarez_0_jhWwfQHZyH.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Detención del abuelo de Guadalupe Lucero por abuso sexual",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 2,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Caso policial de altísima sensibilidad vinculado a una niña desaparecida.",
+      "insight": "La detención del abuelo abre nuevas hipótesis sobre qué pasó el día de la desaparición.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Seguimiento judicial y conexión con la causa principal de la búsqueda de Guadalupe.",
+      "enfoques_sugeridos": [
+        "El reclamo de la abuela de Guadalupe Lucero: sospechas sobre el entorno familiar.",
+        "Cronología del caso Guadalupe y cómo impacta esta detención en la búsqueda."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Detuvieron al abuelo de guadalupe lucero la nena desaparecida en san luis por abuso sexual",
+          "link": "https://www.perfil.com/noticias/policia/detuvieron-al-abuelo-de-guadalupe-lucero-la-nena-desaparecida-en-san-luis-por-abuso-sexual.phtml"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Reglamentación oficial del Régimen Penal Juvenil por el Gobierno",
-          "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
+          "medio": "Clarín",
+          "titulo": "Detuvieron abuelo guadalupe lucero causa abuso sexual nina",
+          "link": "https://www.clarin.com/policiales/detuvieron-abuelo-guadalupe-lucero-causa-abuso-sexual-nina_0_Im6Z13fe6l.html"
+        },
+        {
+          "medio": "TN",
+          "titulo": "El reclamo de la abuela de guadalupe lucero tras la detencion del abuelo deberian investigar que hizo ese dia",
+          "link": "https://tn.com.ar/policiales/2026/09/07/el-reclamo-de-la-abuela-de-guadalupe-lucero-tras-la-detencion-del-abuelo-deberian-investigar-que-hizo-ese-dia/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
+    }
+  ],
+  "sin_cobertura_perfil": [
+    {
+      "tema": "Triunfo electoral de la ultraderecha en comicios regionales en Alemania",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 5,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 2,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 2,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Terremoto político en la principal potencia europea con el ascenso de la AfD.",
+      "insight": "El resultado condiciona la política migratoria y la estabilidad de la coalición de gobierno alemana.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar análisis internacional sobre las causas del voto a la ultraderecha en Alemania.",
+      "enfoques_sugeridos": [
+        "Las claves del triunfo de la AfD: por qué la ultraderecha arrasó en las regiones alemanas.",
+        "Preocupación en la UE: qué significa el avance de la ultraderecha para el futuro del bloque."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Las claves del terremoto politico en alemania por que arraso la ultraderecha y que implica para merz",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Alemania ultraderecha busca alianzas historico triunfo acorrala consternado friedrich merz",
+          "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Iglesias de alemania expresan su preocupacion por la victoria de la afd nuestros peores temores se han confirmado",
+          "link": "https://www.infobae.com/america/agencias/2026/09/07/iglesias-de-alemania-expresan-su-preocupacion-por-la-victoria-de-la-afd-nuestros-peores-temores-se-han-confirmado/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "cantidad_medios_competencia": 3
-    }
-  ],
-  "sin_cobertura_perfil": [
+    },
     {
-      "tema": "Advertencia de la ONU sobre los riesgos existenciales de la Inteligencia Artificial",
+      "tema": "Llamado de la ONU para regular la inteligencia artificial",
       "prioridad": 0,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
@@ -339,29 +495,29 @@
         "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Trata sobre el futuro tecnológico de la humanidad y genera un alto volumen de lecturas globales.",
-      "insight": "Las alertas de organismos internacionales sobre tecnología tienen un excelente rendimiento en Google Discover por su carácter alarmante y futurista.",
+      "por_que_importa": "Es un tema de frontera tecnológica que afecta la ética, el empleo y la seguridad global.",
+      "insight": "La advertencia sobre el 'riesgo existencial' para la humanidad genera gran interés en audiencias digitales.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un resumen de las recomendaciones de la ONU con opiniones de especialistas locales en IA.",
+      "accion_sugerida": "Nota explicativa sobre las propuestas regulatorias de la ONU frente a la IA.",
       "enfoques_sugeridos": [
-        "El pedido de regulación internacional urgente",
-        "Los riesgos de perder el control sobre los algoritmos avanzados"
+        "IA incontrolable: por qué la ONU pide un esfuerzo internacional urgente para regularla.",
+        "Los riesgos existenciales de la inteligencia artificial según el último reporte de Naciones Unidas."
       ],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Llamado de la ONU para regular la inteligencia artificial",
+          "titulo": "Onu llamo esfuerzo internacional evitar inteligencia artificial vuelva incontrolable",
           "link": "https://www.clarin.com/internacional/onu-llamo-esfuerzo-internacional-evitar-inteligencia-artificial-vuelva-incontrolable_0_XLEpFaDdcq.html"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Advertencia de la ONU sobre los riesgos de la inteligencia artificial",
+          "titulo": "Seria advertencia la onu la inteligencia artificial es un riesgo existencial la humanidad",
           "link": "https://www.ambito.com/informacion-general/seria-advertencia-la-onu-la-inteligencia-artificial-es-un-riesgo-existencial-la-humanidad-n6319386"
         },
         {
           "medio": "Página 12",
-          "titulo": "Exigencia de regulación internacional para la inteligencia artificial",
+          "titulo": "Regular la inteligencia artificial la onu pide actuar antes de que sea demasiado tarde",
           "link": "https://www.pagina12.com.ar/2026/09/07/regular-la-inteligencia-artificial-la-onu-pide-actuar-antes-de-que-sea-demasiado-tarde-n6319399"
         }
       ],
@@ -370,105 +526,407 @@
       "cantidad_medios_competencia": 3
     },
     {
-      "tema": "Canje de bonos del Gobierno al BCRA para intervenir en el mercado cambiario",
+      "tema": "Aumento de multas de tránsito en la Ciudad de Buenos Aires",
       "prioridad": 0,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 3,
+      "total_notas": 3,
+      "cantidad_medios": 2,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 4,
-      "medio_lider": "Ámbito",
+      "competencia_total": 3,
+      "medio_lider": "Clarín",
       "cobertura_medio_lider": 2,
       "brecha": 2,
       "cobertura": {
         "Perfil": 0,
-        "Clarín": 1,
+        "Clarín": 2,
         "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 2,
+        "TN": 0,
+        "Ámbito": 1,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Es la noticia financiera del día en la Argentina, ya que involucra miles de millones de dólares para contener el tipo de cambio.",
-      "insight": "Los lectores especializados y ahorristas siguen de cerca las herramientas monetarias del equipo económico.",
+      "por_que_importa": "Impacto directo y masivo en la economía de los conductores de CABA.",
+      "insight": "El incremento del 18% lleva multas comunes a $100.000, lo que genera alta utilidad de búsqueda SEO.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Explicar de forma sencilla en qué consiste el canje y qué efectos tendrá sobre los dólares paralelos y las reservas.",
+      "accion_sugerida": "Guía de servicios con los nuevos valores de las multas de tránsito en CABA.",
       "enfoques_sugeridos": [
-        "El volumen de los títulos entregados a Bausili por parte de Caputo",
-        "Repercusiones en la plaza financiera y de bonos"
+        "Tarifario actualizado: cuánto cuestan ahora las infracciones más comunes en la Ciudad.",
+        "Aumento del 18% en multas: cuáles son las faltas que pueden llegar a costar más de $100.000."
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "Canje de bonos del Gobierno al BCRA para intervenir en el dólar",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/"
-        },
-        {
           "medio": "Clarín",
-          "titulo": "Entrega de bonos del Gobierno al BCRA para intervenir en el dólar",
-          "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
+          "titulo": "Multas transito caras ciudad aumentaron 18 infraccion comun cuesta 100000",
+          "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
         },
         {
-          "medio": "TN",
-          "titulo": "Canje de bonos al BCRA para contener el dólar preelectoral",
-          "link": "https://tn.com.ar/economia/2026/09/07/el-gobierno-le-dio-al-bcra-bonos-para-contener-la-cotizacion-dels-dolar-antes-de-las-elecciones/"
+          "medio": "Ámbito",
+          "titulo": "Multas mas caras la ciudad que infracciones suben y hasta cuanto pueden llegar",
+          "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-hasta-cuanto-pueden-llegar-n6319399"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
+      "cantidad_medios_competencia": 2
+    },
+    {
+      "tema": "Intento de homicidio de Federico Aramburú",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 2,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 2,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Caso judicial internacional que involucra a un deportista argentino reconocido.",
+      "insight": "La confesión del principal acusado reactiva el interés informativo sobre el cierre de la causa en París.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Actualización judicial sobre el proceso penal en Francia contra los atacantes de Aramburú.",
+      "enfoques_sugeridos": [
+        "Caso Aramburú: el principal acusado reconoció haber disparado contra el exrugbier.",
+        "Justicia en París: cómo sigue la causa tras la confesión del autor de la muerte de Aramburú."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Ataque costo vida rugbier argentino federico martin aramburu paris",
+          "link": "https://www.clarin.com/sociedad/ataque-costo-vida-rugbier-argentino-federico-martin-aramburu-paris_0_uYIy6Efk0k.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Principal acusado de disparar a aramburu reconoce ser el autor de la muerte del exjugador",
+          "link": "https://www.infobae.com/espana/agencias/2026/09/07/principal-acusado-de-disparar-a-aramburu-reconoce-ser-el-autor-de-la-muerte-del-exjugador/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
     }
   ],
   "oportunidades": [
     {
-      "tema": "Impacto y repercusiones europeas por el triunfo de la ultraderecha en Alemania",
+      "tema": "Fiesta del Asado Criollo y Concurso de Asadores en Moquehuá",
       "prioridad": 0,
       "tipo": "oportunidad",
-      "tipo_de_oportunidad": "Cobertura Internacional de Alta Relevancia",
-      "total_notas": 12,
-      "cantidad_medios": 3,
+      "tipo_de_oportunidad": "Eventos Regionales / Escapadas",
+      "total_notas": 0,
+      "cantidad_medios": 0,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 12,
+      "competencia_total": 0,
       "medio_lider": "Clarín",
-      "cobertura_medio_lider": 4,
-      "brecha": 4,
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
       "cobertura": {
         "Perfil": 0,
-        "Clarín": 4,
-        "Infobae": 4,
+        "Clarín": 0,
+        "Infobae": 0,
         "TN": 0,
-        "Ámbito": 4,
+        "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Modifica el mapa político del viejo continente y moviliza a los principales bloques democráticos y religiosos.",
-      "insight": "Las noticias de geopolítica internacional con tono de análisis profundo traccionan muy bien en lectores cultos y ávidos de contexto.",
+      "por_que_importa": "Es una festividad tradicional que atrae visitantes a localidades del interior bonaerense.",
+      "insight": "La búsqueda de 'qué hacer el fin de semana' potencia estas notas en Google Discover.",
       "motivo": "",
-      "motivo_oportunidad": "Varios competidores fuertes ya publicaron notas sobre el tema, pero Perfil cuenta con un espacio propicio para ofrecer una columna analítica propia sin quedar rezagado en la agenda global.",
-      "accion_sugerida": "Redactar un análisis sobre el efecto dominó que este fenómeno puede tener en otras democracias occidentales.",
+      "motivo_oportunidad": "Alta relevancia para audiencias interesadas en turismo de cercanía y gastronomía.",
+      "accion_sugerida": "Publicar la grilla completa y recomendaciones para viajar a Moquehuá.",
       "enfoques_sugeridos": [
-        "Reacción de la Unión Europea y temor a la agenda prorrusa",
-        "El rol de los partidos tradicionales ante el avance de la AfD"
+        "Fiesta del Asado Criollo 2026: cronograma de actividades y cómo inscribirse al concurso de asadores.",
+        "Escapadas: Moquehuá se prepara para una nueva edición de su clásica fiesta gastronómica."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Análisis sobre el triunfo de la ultraderecha en Alemania",
-          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
-        },
+          "titulo": "Concurso de asadores en la fiesta del asado criollo 2026 en moquehua cuando es programacion y que",
+          "link": "https://www.lanacion.com.ar/que-sale/concurso-de-asadores-en-la-fiesta-del-asado-criollo-2026-en-moquehua-cuando-es-programacion-y-que-nid07092026/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 0
+    },
+    {
+      "tema": "Nuevas condiciones de financiación de Toyota en septiembre",
+      "prioridad": 0,
+      "tipo": "oportunidad",
+      "tipo_de_oportunidad": "Consumo / Automotor",
+      "total_notas": 0,
+      "cantidad_medios": 0,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 0,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "La 'Tasa 0' es un imán para compradores de vehículos en el contexto actual.",
+      "insight": "El modelo 'estrella' de Toyota suele ser el más buscado por el consumidor medio argentino.",
+      "motivo": "",
+      "motivo_oportunidad": "Interés por oportunidades de compra en un mercado con alta inflación.",
+      "accion_sugerida": "Nota de servicio comparando la financiación de Toyota con el resto del mercado.",
+      "enfoques_sugeridos": [
+        "Vuelve la Tasa 0: los detalles de la nueva financiación de Toyota para septiembre.",
+        "Comprar un auto en cuotas: cuáles son los modelos incluidos en la nueva promoción de Toyota."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Tasa 0 y mas monto toyota mejoro la finfinanciacion de su modelo estrella en septiembre 2026",
+          "link": "https://www.lanacion.com.ar/autos/tasa-0-y-mas-monto-toyota-mejoro-la-finfinanciacion-de-su-modelo-estrella-en-septiembre-2026-nid07092026/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 0
+    },
+    {
+      "tema": "Shows de Javier Santaolalla en Argentina",
+      "prioridad": 0,
+      "tipo": "oportunidad",
+      "tipo_de_oportunidad": "Cultura / Divulgación Científica",
+      "total_notas": 0,
+      "cantidad_medios": 0,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 0,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Santaolalla es el mayor divulgador científico en español actual con eventos masivos agotados.",
+      "insight": "El cruce entre ciencia y espectáculo atrae a un público nicho pero muy fiel.",
+      "motivo": "",
+      "motivo_oportunidad": "Personalidad con fuerte llegada a audiencias jóvenes y académicas.",
+      "accion_sugerida": "Nota de agenda con fechas, precios y sedes de los shows de Santaolalla.",
+      "enfoques_sugeridos": [
+        "Javier Santaolalla en Argentina: fechas y lugares para ver al divulgador científico del momento.",
+        "Del Big Bang a los corazones rotos: de qué trata el nuevo show de Javier Santaolalla."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Del boson de higgs aos corazones rotos como y cuando sondas shows en argentina de javier",
+          "link": "https://www.lanacion.com.ar/que-sale/del-boson-de-higgs-a-los-corazones-rotos-como-y-cuando-sondas-shows-en-argentina-de-javier-nid03092026/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 0
+    },
+    {
+      "tema": "Grilla del festival República Folklore",
+      "prioridad": 0,
+      "tipo": "oportunidad",
+      "tipo_de_oportunidad": "Entretenimiento / Música",
+      "total_notas": 0,
+      "cantidad_medios": 0,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 0,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Es un evento clave de la agenda cultural nacional con gran despliegue de artistas populares.",
+      "insight": "La presencia de artistas de distintos géneros (trap y folklore) amplía el espectro de audiencia.",
+      "motivo": "",
+      "motivo_oportunidad": "Convocatoria de artistas de primer nivel como Abel Pintos y Cazzu.",
+      "accion_sugerida": "Nota con la grilla día por día y precios de las entradas.",
+      "enfoques_sugeridos": [
+        "República Folklore: el festival que une a Abel Pintos, Soledad y Cazzu en un mismo escenario.",
+        "Grilla completa de República Folklore: qué día toca cada artista y cómo sacar entradas."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Cazzu abel pintos soledad y el chaqueno palavecino que dia toca cada artista en republica folklore",
+          "link": "https://www.lanacion.com.ar/que-sale/cazzu-abel-pintos-soledad-y-el-chaqueno-palavecino-que-dia-toca-cada-artista-en-republica-folklore-nid04092026/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 0
+    }
+  ],
+  "fortalezas_perfil": [],
+  "prioridades_del_dia": [
+    {
+      "tema": "Aumento de multas de tránsito en la Ciudad de Buenos Aires",
+      "prioridad": 1,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 3,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 2,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Impacto económico directo en el bolsillo de los ciudadanos porteños por el fuerte incremento del 18%.",
+      "insight": "La audiencia busca con desesperación los nuevos montos para saber cuánto deberán pagar por infracciones comunes.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar de inmediato una guía de servicios con los nuevos valores y las multas más caras.",
+      "enfoques_sugeridos": [
+        "Guía de multas en CABA: los nuevos montos tras el aumento y cómo quedan las faltas comunes.",
+        "Infracciones de $100.000: la lista completa de multas de tránsito que subieron en la Ciudad."
+      ],
+      "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Repercusión europea por victoria de la extrema derecha en Alemania",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/victoria-extrema-derecha-estado-aleman-envia-senal-europa_0_vEPbz93pVj.html"
+          "titulo": "Multas transito caras ciudad aumentaron 18 infraccion comun cuesta 100000",
+          "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Repercusiones en Europa por victoria electoral de la AfD en Alemania",
-          "link": "https://www.ambito.com/mundo/europa-entra-shock-el-triunfo-la-afd-alemania-n6319246"
+          "titulo": "Multas mas caras la ciudad que infracciones suben y hasta cuanto pueden llegar",
+          "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-hasta-cuanto-pueden-llegar-n6319399"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
+    },
+    {
+      "tema": "Triunfo electoral de la ultraderecha en comicios regionales en Alemania",
+      "prioridad": 2,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 5,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 2,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 2,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Es el evento internacional más relevante del día con implicancias para la política global y local.",
+      "insight": "El avance de la AfD en Alemania es una tendencia que resuena con debates políticos internos en Argentina.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desarrollar un análisis profundo del 'terremoto' alemán y sus causas políticas y sociales.",
+      "enfoques_sugeridos": [
+        "Terremoto político en Alemania: por qué el triunfo de la ultraderecha sacude a Europa.",
+        "Las claves del fenómeno AfD: el análisis del avance de la ultraderecha en las elecciones regionales."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Las claves del terremoto politico en alemania por que arraso la ultraderecha y que implica para merz",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Iglesias de alemania expresan su preocupacion por la victoria de la afd nuestros peores temores se han confirmado",
+          "link": "https://www.infobae.com/america/agencias/2026/09/07/iglesias-de-alemania-expresan-su-preocupacion-por-la-victoria-de-la-afd-nuestros-peores-temores-se-han-confirmado/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 3
+    },
+    {
+      "tema": "Internación de Mirtha Legrand",
+      "prioridad": 3,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 3,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Es un tema de altísimo potencial en Google Discover y búsquedas de tiempo real por la relevancia de la figura.",
+      "insight": "Perfil tiene 0 cobertura frente a varios medios que ya publicaron múltiples notas sobre su salud.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Cobertura urgente sobre el estado de salud de la conductora y la suspensión de su programa.",
+      "enfoques_sugeridos": [
+        "Mirtha Legrand internada: qué dice el primer parte médico del Sanatorio Mater Dei.",
+        "Preocupación por la salud de Mirtha Legrand: por qué fue internada y quiénes la acompañan."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Que se sabe de la salud de Mirtha Legrand",
+          "link": "https://www.lanacion.com.ar/espectaculos/que-se-sabe-de-la-salud-de-mirtha-legrand-nid07092026/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Mirtha Legrand esta internada en el Mater Dei por una bronquitis",
+          "link": "https://tn.com.ar/show/famosos/2026/09/07/mirtha-legrand-esta-internada-en-el-mater-dei-por-una-bronquitis/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -476,55 +934,105 @@
       "cantidad_medios_competencia": 3
     }
   ],
-  "fortalezas_perfil": [],
-  "prioridades_del_dia": [],
   "analisis_completo": {
     "hipercompetencia": [
       {
-        "tema": "Internación de Mirtha Legrand en el Sanatorio Mater Dei",
+        "tema": "Cotización del dólar blue",
         "prioridad": 0,
         "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
-        "total_notas": 5,
+        "total_notas": 4,
         "cantidad_medios": 4,
         "cobertura_perfil": 1,
         "perfil": 1,
-        "competencia_total": 4,
-        "medio_lider": "El Cronista",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
+        "competencia_total": 3,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
         "cobertura": {
           "Perfil": 1,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 1,
+          "El Cronista": 1
+        },
+        "por_que_importa": "Es el principal indicador de inestabilidad cambiaria y termómetro de la economía cotidiana en Argentina.",
+        "insight": "La audiencia busca actualizaciones en tiempo real y brechas respecto al dólar oficial para toma de decisiones financieras.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Mantener actualización constante del precio de compra y venta y comparativa con el MEP y CCL.",
+        "enfoques_sugeridos": [
+          "Evolución de la brecha cambiaria tras el canje de bonos del BCRA.",
+          "Análisis de la demanda de blue en el inicio de la semana."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "A cuanto cotiza el dolar blue hoy lunes 7 de septiembre",
+            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-7-de-septiembre.phtml"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Dolar blue hoy cuanto opera este lunes 7 septiembre",
+            "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-7-septiembre-n6319201"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "Dolar blue dolar hoy a cuanto cotizan el lunes 7 de septiembre de 2026",
+            "link": "https://www.pagina12.com.ar/2026/09/07/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-lunes-7-de-septiembre-de-2026-n6319399"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 3
+      },
+      {
+        "tema": "Internación de Mirtha Legrand",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 3,
+        "cantidad_medios": 3,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 3,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
           "Clarín": 0,
           "Infobae": 0,
           "TN": 1,
           "Ámbito": 1,
           "Página 12": 0,
-          "El Cronista": 2
+          "El Cronista": 1
         },
-        "por_que_importa": "Es una de las figuras indiscutidas de la televisión argentina y su salud genera alto interés en todas las audiencias, especialmente en buscadores y redes sociales.",
-        "insight": "Los lectores buscan constantemente partes médicos oficiales y actualizaciones sobre su estado clínico.",
+        "por_que_importa": "Figura máxima del espectáculo nacional cuya salud genera una preocupación transversal en la sociedad.",
+        "insight": "La suspensión de su programa y el diagnóstico de bronquitis activan alertas en Discover y búsquedas de interés masivo.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Realizar un seguimiento minuto a minuto con enfoque empático y rigurosidad médica.",
+        "accion_sugerida": "Publicar nota de salud con actualización del parte médico del Mater Dei.",
         "enfoques_sugeridos": [
-          "Detalles del parte médico oficial y evolución clínica",
-          "Repercusiones en el mundo del espectáculo y colegas"
+          "Último parte médico y quiénes acompañan a Mirtha en la internación.",
+          "Cronología de su salud en el último año tras las ausencias televisivas."
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Internación de Mirtha Legrand en el Sanatorio Mater Dei",
-            "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-esta-internada-como-se-encuentra-la-diva-nid07092026/"
+            "titulo": "Que se sabe de la salud de Mirtha Legrand",
+            "link": "https://www.lanacion.com.ar/espectaculos/que-se-sabe-de-la-salud-de-mirtha-legrand-nid07092026/"
           },
           {
             "medio": "TN",
-            "titulo": "Detalles médicos de la internación de Mirtha Legrand",
+            "titulo": "Mirtha Legrand esta internada en el Mater Dei por una bronquitis",
             "link": "https://tn.com.ar/show/famosos/2026/09/07/mirtha-legrand-esta-internada-en-el-mater-dei-por-una-bronquitis/"
           },
           {
             "medio": "Ámbito",
-            "titulo": "Parte médico e internación de Mirtha Legrand",
+            "titulo": "Como sigue la salud Mirtha Legrand ausentarse su programa",
             "link": "https://www.ambito.com/espectaculos/como-sigue-la-salud-mirtha-legrand-ausentarse-su-programa-n6319278"
           }
         ],
@@ -533,165 +1041,165 @@
         "cantidad_medios_competencia": 3
       },
       {
-        "tema": "Lanzamiento de créditos UVA del Banco Nación para compra de automóviles",
+        "tema": "Reglamentación del Régimen Penal Juvenil",
         "prioridad": 0,
         "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
         "total_notas": 5,
-        "cantidad_medios": 3,
-        "cobertura_perfil": 2,
-        "perfil": 2,
-        "competencia_total": 3,
-        "medio_lider": "TN",
-        "cobertura_medio_lider": 2,
-        "brecha": 0,
-        "cobertura": {
-          "Perfil": 2,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 2,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 1
-        },
-        "por_que_importa": "Impacta directamente en la clase media y en el sector automotor en un contexto de búsqueda de opciones de financiación.",
-        "insight": "Las notas de servicio con montos, cuotas y requisitos explícitos traccionan muchísimo tráfico orgánico.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Armar calculadoras o guías paso a paso con ejemplos de sueldos necesarios y cuotas mensuales.",
-        "enfoques_sugeridos": [
-          "Comparativa de cuotas y requisitos para acceder al préstamo",
-          "Impacto en la reactivación de ventas de vehículos 0km y usados"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Nuevos créditos del Banco Nación para compra de automóviles",
-            "link": "https://www.perfil.com/noticias/economia/creditos-para-comprar-autos-banco-nacion-presta-hasta-100-millones-sin-prenda-y-estas-son-las-cuotas.phtml"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Detalles de los créditos UVA del Banco Nación para vehículos",
-            "link": "https://tn.com.ar/economia/2026/09/07/como-son-los-creditos-uva-que-lanzo-el-banco-nacion-para-autos-0km-y-usados-se-podran-financiar-hasta-100-millones/"
-          },
-          {
-            "medio": "El Cronista",
-            "titulo": "Lanzamiento de créditos UVA del Banco Nación para compra de automóviles",
-            "link": "https://www.cronista.com/finanzas-mercados/banco-nacion-lanza-creditos-uva-para-comprar-autos-0-km-y-usados-tasas-plazos-y-cuotas/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 2
-      },
-      {
-        "tema": "Tratamiento parlamentario de proyectos sobre morosidad familiar y endeudamiento",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 9,
-        "cantidad_medios": 6,
+        "cantidad_medios": 4,
         "cobertura_perfil": 1,
         "perfil": 1,
-        "competencia_total": 8,
-        "medio_lider": "Clarín",
+        "competencia_total": 4,
+        "medio_lider": "Ámbito",
         "cobertura_medio_lider": 2,
         "brecha": 1,
         "cobertura": {
           "Perfil": 1,
-          "Clarín": 2,
+          "Clarín": 1,
           "Infobae": 0,
-          "TN": 1,
+          "TN": 0,
           "Ámbito": 2,
           "Página 12": 1,
-          "El Cronista": 2
+          "El Cronista": 0
         },
-        "por_que_importa": "Visibiliza la crisis económica en los hogares y genera una fuerte disputa en el Congreso entre oficialismo y oposición.",
-        "insight": "Los temas que combinan el bolsillo de la gente con la pelea política alta tienen gran rendimiento en Discover.",
+        "por_que_importa": "Es un cambio estructural en las leyes de seguridad y justicia que afecta a menores acusados de delitos.",
+        "insight": "El debate se centra en la operatividad del decreto y los cambios reales en la imputabilidad.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Explicar qué proyectos se debaten y qué sectores se verán beneficiados o afectados directamente.",
+        "accion_sugerida": "Realizar una guía explicativa (Q&A) sobre los puntos clave del decreto 875/2026.",
         "enfoques_sugeridos": [
-          "Estrategia de la oposición para forzar la sesión en Diputados",
-          "Rechazo y lectura del oficialismo frente al endeudamiento de las familias"
+          "Las 5 claves para entender el nuevo régimen penal juvenil.",
+          "Críticas de organismos de DDHH vs. argumentos del Gobierno por la reglamentación."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Convocatoria opositora a sesión en Diputados por morosidad y discapacidad",
-            "link": "https://www.perfil.com/noticias/politica/morosidad-y-discapacidad-la-oposicion-busca-sesionar-este-miercoles-en-diputados.phtml"
+            "titulo": "El gobierno reglamento con el decreto 8752026 el regimen penal juvenil que pasara ahora con los adolescentes acusados de delinquir",
+            "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-reglamento-con-el-decreto-8752026-el-regimen-penal-juvenil-que-pasara-ahora-con-los-adolescentes-acusados-de-delinquir.phtml"
           },
           {
             "medio": "Clarín",
-            "titulo": "Convocatoria a sesión en Diputados por morosidad familiar",
-            "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
+            "titulo": "Regimen penal juvenil cambia reglamentacion publicada gobierno",
+            "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
           },
           {
-            "medio": "El Cronista",
-            "titulo": "Tratamiento parlamentario de proyectos sobre morosidad familiar",
-            "link": "https://www.cronista.com/economia-politica/la-oposicion-lleva-la-morosidad-al-recinto-que-proyectos-buscan-tratar-y-la-mirada-de-milei/"
+            "medio": "Ámbito",
+            "titulo": "Regimen penal juvenil las claves como se aplicara y cuales son los cambios",
+            "link": "https://www.ambito.com/politica/regimen-penal-juvenil-las-claves-como-se-aplicara-y-cuales-son-los-cambios-n6319228"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 5
+        "cantidad_medios_competencia": 3
+      },
+      {
+        "tema": "Canje de bonos del Gobierno al BCRA para intervenir en el dólar",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 3,
+        "cantidad_medios": 3,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 3,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Es la estrategia financiera de corto plazo para evitar saltos bruscos en la cotización antes de períodos electorales.",
+        "insight": "Se analiza como un aumento del 'poder de fuego' de Bausili para contener financieros.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Nota de análisis económico sobre el impacto en las reservas y la deuda del BCRA.",
+        "enfoques_sugeridos": [
+          "Por qué el Gobierno canjeó US$ 2.000 millones en títulos: objetivos y riesgos.",
+          "El impacto del canje en la confianza de los mercados y los bonos soberanos."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "El gobierno le canjeo us2000 millones en titulos al bcra para que mantenga contenido al dolar",
+            "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Caputo da us 2000 millones poder fuego bausili intervenir bonos dolar",
+            "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
+          },
+          {
+            "medio": "TN",
+            "titulo": "El gobierno le dio al bcra bonos para contener la cotizacion del dolar antes de las elecciones",
+            "link": "https://tn.com.ar/economia/2026/09/07/el-gobierno-le-dio-al-bcra-bonos-para-contener-la-cotizacion-del-dolar-antes-de-las-elecciones/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 3
       }
     ],
     "perfil_pierde": [
       {
-        "tema": "Triunfo de joven productor rural en intendencia de Marcos Juárez",
+        "tema": "Convocatoria opositora a sesión en Diputados por morosidad y discapacidad",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
         "total_notas": 4,
-        "cantidad_medios": 2,
-        "cobertura_perfil": 3,
-        "perfil": 3,
-        "competencia_total": 1,
+        "cantidad_medios": 4,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 3,
         "medio_lider": "Clarín",
         "cobertura_medio_lider": 1,
         "brecha": 0,
         "cobertura": {
-          "Perfil": 3,
+          "Perfil": 1,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 0,
-          "Ámbito": 0,
+          "Ámbito": 1,
           "Página 12": 0,
-          "El Cronista": 0
+          "El Cronista": 1
         },
-        "por_que_importa": "Marca un termómetro político clave en la zona núcleo agrícola y anticipa ánimos electorales.",
-        "insight": "La competencia le dedica coberturas enfocadas tanto en el perfil del candidato como en el impacto económico regional.",
+        "por_que_importa": "Marca la agenda política de la semana y la capacidad de la oposición de unir bloques por temas sociales.",
+        "insight": "El foco está en la emergencia por discapacidad y las deudas familiares.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar la cobertura con análisis políticos profundos sobre el peso del interior productivo.",
+        "accion_sugerida": "Profundizar en los proyectos de ley que se tratarán y el número de bancas aseguradas.",
         "enfoques_sugeridos": [
-          "El impacto del triunfo peronista/agropecuario en la estrategia provincial",
-          "Lectura de los referentes nacionales tras los comicios"
+          "El poroteo en Diputados: quiénes apoyan la sesión por morosidad y discapacidad.",
+          "Testimonios de familias endeudadas detrás del proyecto de ley contra la morosidad."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Entrevista al intendente electo de Marcos Juárez, Germán Font",
-            "link": "https://www.perfil.com/noticias/cordoba/german-font-intendente-electo-de-marcos-juarez-la-gente-estaba-cansada-de-campanas-donde-le-prometian-cosas-y-no-cumplian.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Triunfo electoral en Marcos Juárez con perfil agropecuario",
-            "link": "https://www.lanacion.com.ar/economia/campo/batacazo-en-la-zona-agricola-nucleo-el-nuevo-intendente-de-marcos-juarez-viene-de-una-importante-nid07092026/"
+            "titulo": "Morosidad y discapacidad la oposicion busca sesionar este miercoles en diputados",
+            "link": "https://www.perfil.com/noticias/politica/morosidad-y-discapacidad-la-oposicion-busca-sesionar-este-miercoles-en-diputados.phtml"
           },
           {
             "medio": "Clarín",
-            "titulo": "Triunfo de joven productor rural en intendencia de Marcos Juárez",
-            "link": "https://www.clarin.com/rural/campo-intendencia-joven-productor-cambio-historia-politica-marcos-juarez_0_jhWwfQHZyH.html"
+            "titulo": "Oposicion convoco sesion diputados trata proyectos morosidad familias endeudadas",
+            "link": "https://www.clarin.com/politica/oposicion-convoco-sesion-diputados-trata-proyectos-morosidad-familias-endeudadas_0_ewokUQK3JY.html"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Diputados convocan sesion especial emergencia discapacidad morosidad y deudas",
+            "link": "https://www.ambito.com/politica/diputados-convocan-sesion-especial-emergencia-discapacidad-morosidad-y-deudas-n6319266"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 1
+        "cantidad_medios_competencia": 3
       },
       {
-        "tema": "Explicaciones e inversiones de Eduardo Elsztain en las Islas Malvinas",
+        "tema": "Declaraciones de Eduardo Elsztain sobre su inversión en Falkland Islands Company",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
@@ -712,30 +1220,30 @@
           "Página 12": 0,
           "El Cronista": 1
         },
-        "por_que_importa": "Une al empresariado de primera línea con la causa nacional de Malvinas, generando fuerte repercusión en la opinión pública.",
-        "insight": "La competencia despliega múltiples enfoques sobre las razones del empresario y las críticas recibidas.",
+        "por_que_importa": "Involucra a uno de los empresarios más importantes del país en un tema de soberanía sensible como Malvinas.",
+        "insight": "La explicación sobre la compra de acciones genera controversia y necesita contexto geopolítico.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Profundizar en notas de investigación o columnas de opinión que contrasten la mirada empresaria con la soberanía.",
+        "accion_sugerida": "Análisis de las implicancias legales y políticas de que un argentino invierta en la compañía de las islas.",
         "enfoques_sugeridos": [
-          "Justificación legal y comercial del empresario",
-          "Repercusiones políticas tras los anuncios de gobierno"
+          "Elsztain y Malvinas: qué hay detrás de su inversión en la Falkland Islands Company.",
+          "La reacción del Gobierno y la Cancillería ante los movimientos de Elsztain."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Declaraciones de Eduardo Elsztain sobre su inversión en Falkland Islands Company",
+            "titulo": "Eduardo elsztain explico por que invirtio en la falkland islands company",
             "link": "https://www.perfil.com/noticias/politica/eduardo-elsztain-explico-por-que-invirtio-en-la-falkland-islands-company.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Explicaciones de Eduardo Elsztain sobre sus inversiones en Malvinas",
+            "titulo": "Eduardo elsztain explico sus inversiones en las islas malvinas",
             "link": "https://www.lanacion.com.ar/politica/eduardo-elsztain-explico-sus-inversiones-en-las-islas-malvinas-nid07092026/"
           },
           {
-            "medio": "El Cronista",
-            "titulo": "Explicaciones empresariales de Eduardo Elsztain sobre Falkland Islands Company",
-            "link": "https://www.cronista.com/economia-politica/por-que-elsztain-invirtio-en-la-empresa-mas-importante-de-malvinas-el-empresario-explico-las-razones-de-su-decision/"
+            "medio": "TN",
+            "titulo": "Las explicaciones de eduardo elsztain sobre sus inversiones en las islas malvinas",
+            "link": "https://tn.com.ar/politica/2026/09/07/las-explicaciones-de-eduardo-elsztain-sobre-sus-inversiones-en-las-islas-malvinas/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -743,61 +1251,165 @@
         "cantidad_medios_competencia": 2
       },
       {
-        "tema": "Reglamentación oficial del nuevo Régimen Penal Juvenil",
+        "tema": "Triunfo electoral en Marcos Juárez con perfil agropecuario",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
-        "total_notas": 6,
-        "cantidad_medios": 4,
+        "total_notas": 2,
+        "cantidad_medios": 2,
         "cobertura_perfil": 1,
         "perfil": 1,
-        "competencia_total": 5,
-        "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 3,
-        "brecha": 2,
+        "competencia_total": 1,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
         "cobertura": {
           "Perfil": 1,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 0,
-          "Ámbito": 3,
-          "Página 12": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Es una de las medidas de seguridad y políticas públicas más sensibles y debatidas de la agenda actual.",
-        "insight": "Los lectores buscan conocer taxativamente qué cambia en la práctica judicial para los menores de edad.",
+        "por_que_importa": "Es el 'kilómetro cero' de las elecciones y un indicador del humor del sector agropecuario.",
+        "insight": "Se destaca el perfil joven y productor del nuevo intendente como un cambio de época política.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Elaborar placas explicativas y notas de servicio en formato de preguntas y respuestas para SEO.",
+        "accion_sugerida": "Realizar un perfil del intendente electo Germán Font y su plan para el agro.",
         "enfoques_sugeridos": [
-          "Claves y alcances legales del decreto gubernamental",
-          "Reacciones y cruces entre el oficialismo y la oposición"
+          "Germán Font: de la producción agrícola a la intendencia de Marcos Juárez.",
+          "Qué significa para el mapa político nacional el batacazo en la zona núcleo."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Reglamentación del Régimen Penal Juvenil",
-            "link": "https://www.perfil.com/noticias/sociedad/el-gobierno-reglamento-con-el-decreto-8752026-el-regimen-penal-juvenil-que-pasara-ahora-con-los-adolescentes-acusados-de-delinquir.phtml"
+            "titulo": "German font intendente electo de marcos juarez la gente estaba cansada de campanas donde le prometian cosas y no cumplian",
+            "link": "https://www.perfil.com/noticias/cordoba/german-font-intendente-electo-de-marcos-juarez-la-gente-estaba-cansada-de-campanas-donde-le-prometian-cosas-y-no-cumplian.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Batacazo en la zona agricola nucleo el nuevo intendente de marcos juarez viene de una importante",
+            "link": "https://www.lanacion.com.ar/economia/campo/batacazo-en-la-zona-agricola-nucleo-el-nuevo-intendente-de-marcos-juarez-viene-de-una-importante-nid07092026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Cambios por la reglamentación del Régimen Penal Juvenil",
-            "link": "https://www.clarin.com/politica/regimen-penal-juvenil-cambia-reglamentacion-publicada-gobierno_0_rTppMRPiCH.html"
+            "titulo": "Campo intendencia joven productor cambio historia politica marcos juarez",
+            "link": "https://www.clarin.com/rural/campo-intendencia-joven-productor-cambio-historia-politica-marcos-juarez_0_jhWwfQHZyH.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Detención del abuelo de Guadalupe Lucero por abuso sexual",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 3,
+        "cantidad_medios": 3,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 2,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Caso policial de altísima sensibilidad vinculado a una niña desaparecida.",
+        "insight": "La detención del abuelo abre nuevas hipótesis sobre qué pasó el día de la desaparición.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Seguimiento judicial y conexión con la causa principal de la búsqueda de Guadalupe.",
+        "enfoques_sugeridos": [
+          "El reclamo de la abuela de Guadalupe Lucero: sospechas sobre el entorno familiar.",
+          "Cronología del caso Guadalupe y cómo impacta esta detención en la búsqueda."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Detuvieron al abuelo de guadalupe lucero la nena desaparecida en san luis por abuso sexual",
+            "link": "https://www.perfil.com/noticias/policia/detuvieron-al-abuelo-de-guadalupe-lucero-la-nena-desaparecida-en-san-luis-por-abuso-sexual.phtml"
           },
           {
-            "medio": "Ámbito",
-            "titulo": "Reglamentación oficial del Régimen Penal Juvenil por el Gobierno",
-            "link": "https://www.ambito.com/politica/el-gobierno-reglamento-el-regimen-penal-juvenil-cuales-son-los-cambios-y-como-se-aplicara-n6319210"
+            "medio": "Clarín",
+            "titulo": "Detuvieron abuelo guadalupe lucero causa abuso sexual nina",
+            "link": "https://www.clarin.com/policiales/detuvieron-abuelo-guadalupe-lucero-causa-abuso-sexual-nina_0_Im6Z13fe6l.html"
+          },
+          {
+            "medio": "TN",
+            "titulo": "El reclamo de la abuela de guadalupe lucero tras la detencion del abuelo deberian investigar que hizo ese dia",
+            "link": "https://tn.com.ar/policiales/2026/09/07/el-reclamo-de-la-abuela-de-guadalupe-lucero-tras-la-detencion-del-abuelo-deberian-investigar-que-hizo-ese-dia/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 2
+      }
+    ],
+    "sin_cobertura_perfil": [
+      {
+        "tema": "Triunfo electoral de la ultraderecha en comicios regionales en Alemania",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 5,
+        "cantidad_medios": 3,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 5,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 2,
+        "brecha": 2,
+        "cobertura": {
+          "Perfil": 0,
+          "Clarín": 2,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 2,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Terremoto político en la principal potencia europea con el ascenso de la AfD.",
+        "insight": "El resultado condiciona la política migratoria y la estabilidad de la coalición de gobierno alemana.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Publicar análisis internacional sobre las causas del voto a la ultraderecha en Alemania.",
+        "enfoques_sugeridos": [
+          "Las claves del triunfo de la AfD: por qué la ultraderecha arrasó en las regiones alemanas.",
+          "Preocupación en la UE: qué significa el avance de la ultraderecha para el futuro del bloque."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Las claves del terremoto politico en alemania por que arraso la ultraderecha y que implica para merz",
+            "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Alemania ultraderecha busca alianzas historico triunfo acorrala consternado friedrich merz",
+            "link": "https://www.clarin.com/mundo/alemania-ultraderecha-busca-alianzas-historico-triunfo-acorrala-consternado-friedrich-merz_0_ZJjSKT6hqK.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Iglesias de alemania expresan su preocupacion por la victoria de la afd nuestros peores temores se han confirmado",
+            "link": "https://www.infobae.com/america/agencias/2026/09/07/iglesias-de-alemania-expresan-su-preocupacion-por-la-victoria-de-la-afd-nuestros-peores-temores-se-han-confirmado/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
         "cantidad_medios_competencia": 3
-      }
-    ],
-    "sin_cobertura_perfil": [
+      },
       {
-        "tema": "Advertencia de la ONU sobre los riesgos existenciales de la Inteligencia Artificial",
+        "tema": "Llamado de la ONU para regular la inteligencia artificial",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
@@ -818,29 +1430,29 @@
           "Página 12": 1,
           "El Cronista": 0
         },
-        "por_que_importa": "Trata sobre el futuro tecnológico de la humanidad y genera un alto volumen de lecturas globales.",
-        "insight": "Las alertas de organismos internacionales sobre tecnología tienen un excelente rendimiento en Google Discover por su carácter alarmante y futurista.",
+        "por_que_importa": "Es un tema de frontera tecnológica que afecta la ética, el empleo y la seguridad global.",
+        "insight": "La advertencia sobre el 'riesgo existencial' para la humanidad genera gran interés en audiencias digitales.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar un resumen de las recomendaciones de la ONU con opiniones de especialistas locales en IA.",
+        "accion_sugerida": "Nota explicativa sobre las propuestas regulatorias de la ONU frente a la IA.",
         "enfoques_sugeridos": [
-          "El pedido de regulación internacional urgente",
-          "Los riesgos de perder el control sobre los algoritmos avanzados"
+          "IA incontrolable: por qué la ONU pide un esfuerzo internacional urgente para regularla.",
+          "Los riesgos existenciales de la inteligencia artificial según el último reporte de Naciones Unidas."
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Llamado de la ONU para regular la inteligencia artificial",
+            "titulo": "Onu llamo esfuerzo internacional evitar inteligencia artificial vuelva incontrolable",
             "link": "https://www.clarin.com/internacional/onu-llamo-esfuerzo-internacional-evitar-inteligencia-artificial-vuelva-incontrolable_0_XLEpFaDdcq.html"
           },
           {
             "medio": "Ámbito",
-            "titulo": "Advertencia de la ONU sobre los riesgos de la inteligencia artificial",
+            "titulo": "Seria advertencia la onu la inteligencia artificial es un riesgo existencial la humanidad",
             "link": "https://www.ambito.com/informacion-general/seria-advertencia-la-onu-la-inteligencia-artificial-es-un-riesgo-existencial-la-humanidad-n6319386"
           },
           {
             "medio": "Página 12",
-            "titulo": "Exigencia de regulación internacional para la inteligencia artificial",
+            "titulo": "Regular la inteligencia artificial la onu pide actuar antes de que sea demasiado tarde",
             "link": "https://www.pagina12.com.ar/2026/09/07/regular-la-inteligencia-artificial-la-onu-pide-actuar-antes-de-que-sea-demasiado-tarde-n6319399"
           }
         ],
@@ -849,113 +1461,271 @@
         "cantidad_medios_competencia": 3
       },
       {
-        "tema": "Canje de bonos del Gobierno al BCRA para intervenir en el mercado cambiario",
+        "tema": "Aumento de multas de tránsito en la Ciudad de Buenos Aires",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
-        "total_notas": 4,
-        "cantidad_medios": 3,
+        "total_notas": 3,
+        "cantidad_medios": 2,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 4,
-        "medio_lider": "Ámbito",
+        "competencia_total": 3,
+        "medio_lider": "Clarín",
         "cobertura_medio_lider": 2,
         "brecha": 2,
         "cobertura": {
           "Perfil": 0,
-          "Clarín": 1,
+          "Clarín": 2,
           "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 2,
+          "TN": 0,
+          "Ámbito": 1,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Es la noticia financiera del día en la Argentina, ya que involucra miles de millones de dólares para contener el tipo de cambio.",
-        "insight": "Los lectores especializados y ahorristas siguen de cerca las herramientas monetarias del equipo económico.",
+        "por_que_importa": "Impacto directo y masivo en la economía de los conductores de CABA.",
+        "insight": "El incremento del 18% lleva multas comunes a $100.000, lo que genera alta utilidad de búsqueda SEO.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Explicar de forma sencilla en qué consiste el canje y qué efectos tendrá sobre los dólares paralelos y las reservas.",
+        "accion_sugerida": "Guía de servicios con los nuevos valores de las multas de tránsito en CABA.",
         "enfoques_sugeridos": [
-          "El volumen de los títulos entregados a Bausili por parte de Caputo",
-          "Repercusiones en la plaza financiera y de bonos"
+          "Tarifario actualizado: cuánto cuestan ahora las infracciones más comunes en la Ciudad.",
+          "Aumento del 18% en multas: cuáles son las faltas que pueden llegar a costar más de $100.000."
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Canje de bonos del Gobierno al BCRA para intervenir en el dólar",
-            "link": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/"
-          },
-          {
             "medio": "Clarín",
-            "titulo": "Entrega de bonos del Gobierno al BCRA para intervenir en el dólar",
-            "link": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html"
+            "titulo": "Multas transito caras ciudad aumentaron 18 infraccion comun cuesta 100000",
+            "link": "https://www.clarin.com/ciudades/multas-transito-caras-ciudad-aumentaron-18-infraccion-comun-cuesta-100000_0_AzG63lIVqJ.html"
           },
           {
-            "medio": "TN",
-            "titulo": "Canje de bonos al BCRA para contener el dólar preelectoral",
-            "link": "https://tn.com.ar/economia/2026/09/07/el-gobierno-le-dio-al-bcra-bonos-para-contener-la-cotizacion-dels-dolar-antes-de-las-elecciones/"
+            "medio": "Ámbito",
+            "titulo": "Multas mas caras la ciudad que infracciones suben y hasta cuanto pueden llegar",
+            "link": "https://www.ambito.com/autos/multas-mas-caras-la-ciudad-que-infracciones-suben-y-hasta-cuanto-pueden-llegar-n6319399"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
+        "cantidad_medios_competencia": 2
+      },
+      {
+        "tema": "Intento de homicidio de Federico Aramburú",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 2,
+        "cantidad_medios": 2,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 2,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Caso judicial internacional que involucra a un deportista argentino reconocido.",
+        "insight": "La confesión del principal acusado reactiva el interés informativo sobre el cierre de la causa en París.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Actualización judicial sobre el proceso penal en Francia contra los atacantes de Aramburú.",
+        "enfoques_sugeridos": [
+          "Caso Aramburú: el principal acusado reconoció haber disparado contra el exrugbier.",
+          "Justicia en París: cómo sigue la causa tras la confesión del autor de la muerte de Aramburú."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Clarín",
+            "titulo": "Ataque costo vida rugbier argentino federico martin aramburu paris",
+            "link": "https://www.clarin.com/sociedad/ataque-costo-vida-rugbier-argentino-federico-martin-aramburu-paris_0_uYIy6Efk0k.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Principal acusado de disparar a aramburu reconoce ser el autor de la muerte del exjugador",
+            "link": "https://www.infobae.com/espana/agencias/2026/09/07/principal-acusado-de-disparar-a-aramburu-reconoce-ser-el-autor-de-la-muerte-del-exjugador/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 2
       }
     ],
     "oportunidades": [
       {
-        "tema": "Impacto y repercusiones europeas por el triunfo de la ultraderecha en Alemania",
+        "tema": "Fiesta del Asado Criollo y Concurso de Asadores en Moquehuá",
         "prioridad": 0,
         "tipo": "oportunidad",
-        "tipo_de_oportunidad": "Cobertura Internacional de Alta Relevancia",
-        "total_notas": 12,
-        "cantidad_medios": 3,
+        "tipo_de_oportunidad": "Eventos Regionales / Escapadas",
+        "total_notas": 0,
+        "cantidad_medios": 0,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 12,
+        "competencia_total": 0,
         "medio_lider": "Clarín",
-        "cobertura_medio_lider": 4,
-        "brecha": 4,
+        "cobertura_medio_lider": 0,
+        "brecha": 0,
         "cobertura": {
           "Perfil": 0,
-          "Clarín": 4,
-          "Infobae": 4,
+          "Clarín": 0,
+          "Infobae": 0,
           "TN": 0,
-          "Ámbito": 4,
+          "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Modifica el mapa político del viejo continente y moviliza a los principales bloques democráticos y religiosos.",
-        "insight": "Las noticias de geopolítica internacional con tono de análisis profundo traccionan muy bien en lectores cultos y ávidos de contexto.",
+        "por_que_importa": "Es una festividad tradicional que atrae visitantes a localidades del interior bonaerense.",
+        "insight": "La búsqueda de 'qué hacer el fin de semana' potencia estas notas en Google Discover.",
         "motivo": "",
-        "motivo_oportunidad": "Varios competidores fuertes ya publicaron notas sobre el tema, pero Perfil cuenta con un espacio propicio para ofrecer una columna analítica propia sin quedar rezagado en la agenda global.",
-        "accion_sugerida": "Redactar un análisis sobre el efecto dominó que este fenómeno puede tener en otras democracias occidentales.",
+        "motivo_oportunidad": "Alta relevancia para audiencias interesadas en turismo de cercanía y gastronomía.",
+        "accion_sugerida": "Publicar la grilla completa y recomendaciones para viajar a Moquehuá.",
         "enfoques_sugeridos": [
-          "Reacción de la Unión Europea y temor a la agenda prorrusa",
-          "El rol de los partidos tradicionales ante el avance de la AfD"
+          "Fiesta del Asado Criollo 2026: cronograma de actividades y cómo inscribirse al concurso de asadores.",
+          "Escapadas: Moquehuá se prepara para una nueva edición de su clásica fiesta gastronómica."
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Análisis sobre el triunfo de la ultraderecha en Alemania",
-            "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-terremoto-politico-en-alemania-por-que-arraso-la-ultraderecha-y-que-implica-para-merz-nid07092026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Repercusión europea por victoria de la extrema derecha en Alemania",
-            "link": "https://www.clarin.com/new-york-times-international-weekly/victoria-extrema-derecha-estado-aleman-envia-senal-europa_0_vEPbz93pVj.html"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Repercusiones en Europa por victoria electoral de la AfD en Alemania",
-            "link": "https://www.ambito.com/mundo/europa-entra-shock-el-triunfo-la-afd-alemania-n6319246"
+            "titulo": "Concurso de asadores en la fiesta del asado criollo 2026 en moquehua cuando es programacion y que",
+            "link": "https://www.lanacion.com.ar/que-sale/concurso-de-asadores-en-la-fiesta-del-asado-criollo-2026-en-moquehua-cuando-es-programacion-y-que-nid07092026/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
+        "cantidad_medios_competencia": 0
+      },
+      {
+        "tema": "Nuevas condiciones de financiación de Toyota en septiembre",
+        "prioridad": 0,
+        "tipo": "oportunidad",
+        "tipo_de_oportunidad": "Consumo / Automotor",
+        "total_notas": 0,
+        "cantidad_medios": 0,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 0,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 0,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "La 'Tasa 0' es un imán para compradores de vehículos en el contexto actual.",
+        "insight": "El modelo 'estrella' de Toyota suele ser el más buscado por el consumidor medio argentino.",
+        "motivo": "",
+        "motivo_oportunidad": "Interés por oportunidades de compra en un mercado con alta inflación.",
+        "accion_sugerida": "Nota de servicio comparando la financiación de Toyota con el resto del mercado.",
+        "enfoques_sugeridos": [
+          "Vuelve la Tasa 0: los detalles de la nueva financiación de Toyota para septiembre.",
+          "Comprar un auto en cuotas: cuáles son los modelos incluidos en la nueva promoción de Toyota."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Tasa 0 y mas monto toyota mejoro la finfinanciacion de su modelo estrella en septiembre 2026",
+            "link": "https://www.lanacion.com.ar/autos/tasa-0-y-mas-monto-toyota-mejoro-la-finfinanciacion-de-su-modelo-estrella-en-septiembre-2026-nid07092026/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 0
+      },
+      {
+        "tema": "Shows de Javier Santaolalla en Argentina",
+        "prioridad": 0,
+        "tipo": "oportunidad",
+        "tipo_de_oportunidad": "Cultura / Divulgación Científica",
+        "total_notas": 0,
+        "cantidad_medios": 0,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 0,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 0,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Santaolalla es el mayor divulgador científico en español actual con eventos masivos agotados.",
+        "insight": "El cruce entre ciencia y espectáculo atrae a un público nicho pero muy fiel.",
+        "motivo": "",
+        "motivo_oportunidad": "Personalidad con fuerte llegada a audiencias jóvenes y académicas.",
+        "accion_sugerida": "Nota de agenda con fechas, precios y sedes de los shows de Santaolalla.",
+        "enfoques_sugeridos": [
+          "Javier Santaolalla en Argentina: fechas y lugares para ver al divulgador científico del momento.",
+          "Del Big Bang a los corazones rotos: de qué trata el nuevo show de Javier Santaolalla."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Del boson de higgs aos corazones rotos como y cuando sondas shows en argentina de javier",
+            "link": "https://www.lanacion.com.ar/que-sale/del-boson-de-higgs-a-los-corazones-rotos-como-y-cuando-sondas-shows-en-argentina-de-javier-nid03092026/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 0
+      },
+      {
+        "tema": "Grilla del festival República Folklore",
+        "prioridad": 0,
+        "tipo": "oportunidad",
+        "tipo_de_oportunidad": "Entretenimiento / Música",
+        "total_notas": 0,
+        "cantidad_medios": 0,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 0,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 0,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Es un evento clave de la agenda cultural nacional con gran despliegue de artistas populares.",
+        "insight": "La presencia de artistas de distintos géneros (trap y folklore) amplía el espectro de audiencia.",
+        "motivo": "",
+        "motivo_oportunidad": "Convocatoria de artistas de primer nivel como Abel Pintos y Cazzu.",
+        "accion_sugerida": "Nota con la grilla día por día y precios de las entradas.",
+        "enfoques_sugeridos": [
+          "República Folklore: el festival que une a Abel Pintos, Soledad y Cazzu en un mismo escenario.",
+          "Grilla completa de República Folklore: qué día toca cada artista y cómo sacar entradas."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Cazzu abel pintos soledad y el chaqueno palavecino que dia toca cada artista en republica folklore",
+            "link": "https://www.lanacion.com.ar/que-sale/cazzu-abel-pintos-soledad-y-el-chaqueno-palavecino-que-dia-toca-cada-artista-en-republica-folklore-nid04092026/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 0
       }
     ],
     "fortalezas_perfil": []
   },
-  "total_temas": 9
+  "total_temas": 16
 }
