@@ -1,16 +1,16 @@
 {
-  "fecha_analisis": "2026-10-01",
+  "fecha_analisis": "01 de octubre de 2026",
   "hipercompetencia": [
     {
-      "tema": "Incendio en la estación Constitución y demoras en el transporte",
+      "tema": "Juicio Cuadernos y difusión de imágenes de la bóveda de Cristina Kirchner",
       "prioridad": 0,
       "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 7,
+      "total_notas": 5,
+      "cantidad_medios": 5,
       "cobertura_perfil": 1,
       "perfil": 1,
-      "competencia_total": 6,
+      "competencia_total": 4,
       "medio_lider": "La Nación",
       "cobertura_medio_lider": 1,
       "brecha": 0,
@@ -20,34 +20,87 @@
         "Clarín": 1,
         "Infobae": 1,
         "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Afecta masivamente a la movilidad urbana del AMBA, generando alto tráfico de búsqueda en tiempo real (Google Discover).",
-      "insight": "Es una noticia de última hora que todos los medios cubren simultáneamente debido a su inmediatez e impacto en la audiencia.",
+      "por_que_importa": "Es uno de los temas judiciales y políticos de mayor impacto nacional, con alta tracción en motores de búsqueda y Google Discover.",
+      "insight": "Prácticamente todo el arco de medios nacionales cubrió la exhibición de las fotos y videos de la bóveda, lo que demuestra que la agenda judicial de alto perfil domina el tráfico.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Actualizar el minuto a minuto con foco en el estado de los trenes y la habilitación de la estación.",
+      "accion_sugerida": "Monitorear la reacción del kirchnerismo y preparar galerías interactivas o análisis jurídicos detallados para capturar la segunda ola de búsquedas.",
       "enfoques_sugeridos": [
-        "Impacto en la movilidad y desvíos para pasajeros.",
-        "Informe técnico sobre las causas del principio de incendio."
+        "El detalle técnico de las pruebas presentadas en el juicio oral y su peso probatorio.",
+        "El impacto político de la difusión de las imágenes en plena previa electoral."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Fuego en Constitución: un principio de incendio en la cabecera del Tren Roca genera demoras",
-          "link": "https://www.perfil.com/noticias/sociedad/fuego-en-constitucion-un-principio-de-incendio-en-la-cabecera-del-tren-roca-genera-demoras.phtml"
+          "titulo": "Causa cuadernos: mostraron fotos de la bóveda hallada en la casa de Cristina Kirchner en El Calafate",
+          "link": "https://www.perfil.com/noticias/judiciales/causa-cuadernos-mostraron-fotos-de-la-boveda-hallada-en-la-casa-de-cristina-kirchner-en-el-calafate.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Incendio en la estación Constitución: evacuaron la terminal y bomberos trabaja en el lugar",
-          "link": "https://www.lanacion.com.ar/sociedad/incendio-en-la-estacion-constitucion-evacuaron-la-terminal-y-bomberos-trabaja-en-el-lugar1.phtml"
+          "titulo": "Juicio del caso cuadernos: mostraron el allanamiento a una bóveda de la casa de Cristina Kirchner en",
+          "link": "https://www.lanacion.com.ar/politica/juicio-del-caso-cuadernos-mostraron-el-allanamiento-a-una-boveda-de-la-casa-de-cristina-kirchner-en-nid01102026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Susto en Constitución: se prendió fuego escalera mecánica, evacuaron estación",
-          "link": "https://www.clarin.com/ciudades/susto-constitucion-prendio-fuego-escalera-mecanica-evacuaron-estacion_0_EVxmryIwOe.html"
+          "titulo": "Caso cuadernos: mostraron imágenes de bóveda de Cristina Kirchner casa Calafate",
+          "link": "https://www.clarin.com/politica/caso-cuadernos-mostraron-imagenes-boveda-cristina-kirchner-casa-calafate_0_nmZGykOReD.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Escalada de tensión diplomática entre Argentina y Reino Unido por Malvinas",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 10,
+      "cantidad_medios": 7,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 9,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 2,
+        "Clarín": 2,
+        "Infobae": 1,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 2,
+        "El Cronista": 0
+      },
+      "por_que_importa": "La causa Malvinas moviliza un fuerte sentimiento nacional y genera debates geopolíticos de alto interés para la audiencia digital.",
+      "insight": "La convocatoria de la embajadora argentina en Londres y el rechazo a las acusaciones británicas unificaron la cobertura de la prensa nacional.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Profundizar en las implicancias legales del arbitraje petrolero y la postura de Estados Unidos frente al conflicto.",
+      "enfoques_sugeridos": [
+        "El trasfondo económico y la caída de acciones de las petroleras que operan en Sea Lion.",
+        "La estrategia geopolítica del Gobierno frente a la intransigencia británica."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Malvinas: el gobierno argentino rechazó las acusaciones del Reino Unido",
+          "link": "https://www.perfil.com/noticias/politica/malvinas-el-gobierno-argentino-rechazo-las-acusaciones-del-reino-unido.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "El Gobierno rechazó el reclamo de Reino Unido para frenar el arbitraje por la exploración petrolera",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-el-reclamo-de-reino-unido-para-frenar-el-arbitraje-por-la-exploracion-petrolera-nid01102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Causa Malvinas: EE.UU. llamó a desescalar tensión entre Argentina y Gran Bretaña",
+          "link": "https://www.clarin.com/politica/caso-malvinas-eeuu-llamo-desescalar-tension-argentina-gran-bretana-nid049dhYOBmXK.html"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -55,113 +108,7 @@
       "cantidad_medios_competencia": 6
     },
     {
-      "tema": "Inversiones de TotalEnergies y proyectos energéticos en Vaca Muerta",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 6,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 5,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Involucra miles de millones de dólares bajo el régimen RIGI, un tema económico y político central para la agenda del país.",
-      "insight": "Los portales económicos y generales compiten por detallar los montos y los anuncios realizados en la Argentina Week en París.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en el impacto fiscal y en los plazos de ejecución de las obras anunciadas.",
-      "enfoques_sugeridos": [
-        "Desglose de los 10.000 millones de dólares y su relación con el RIGI.",
-        "Repercusiones en la macroeconomía y la generación de divisas."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "TotalEnergies prepara inversiones millonarias...",
-          "link": "https://www.perfil.com/noticias/economia/totalenergies-prepara-inversiones-millonarias-argentina-proyecta-nuevos-desarrollos-vaca-muerta-tierra-del-fuego-a40.phtml"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "TotalEnergies anunció inversiones por US$10.000 millones...",
-          "link": "https://www.clarin.com/energia-y-mineria/totalenergies-anuncio-argentina-week-inversiones-us10000-millones-aplicara-rigi_0_BgsPocL2HY.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "TotalEnergies anunció inversiones casi US$10.000 millones...",
-          "link": "https://www.ambito.com/energia/totalenergies-anuncio-inversiones-casi-us10000-millones-y-su-ceo-destaco-poder-girar-dividendos-argentina-n6328790"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 5
-    },
-    {
-      "tema": "Fallo de la Corte Suprema y aclaraciones sobre la Ley de Tierras",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 6,
-      "cantidad_medios": 6,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 5,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 1,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Genera fuerte debate institucional, cruces políticos y preocupación por la extranjerización de recursos naturales.",
-      "insight": "La aclaración de la Corte sobre el carácter procesal de su fallo movilizó a todo el arco político y periodístico.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Emitir una nota de análisis legal que explique qué cambia y qué sigue igual con el régimen vigente.",
-      "enfoques_sugeridos": [
-        "El impacto institucional de la respuesta de la Corte ante las críticas.",
-        "Reclamos de la oposición en el Congreso para frenar el DNU."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Corte responde a las críticas por la ley de tierras...",
-          "link": "https://www.perfil.com/noticias/politica/corte-responde-a-las-criticas-por-la-ley-de-tierras-la-descalificacion-y-el-odio-solo-deterioran-las-instituciones-y-la-democracia.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "La Corte defendió su fallo sobre la ley de tierras...",
-          "link": "https://www.lanacion.com.ar/politica/la-corte-defendio-su-fallo-sobre-la-ley-de-tierras-y-dijo-la-descalificacion-y-el-odio-solo-nid01102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Venta tierras extranjeros: Corte Suprema aclaró polémico fallo...",
-          "link": "https://www.clarin.com/politica/venta-tierras-extranjeros-corte-suprema-aclaro-polemico-fallo-tema-procesal-fondo-cuestion_0_fq4IfWN5di.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 5
-    },
-    {
-      "tema": "Discursos y agenda de Javier Milei en su gira por Europa (París y OCDE)",
+      "tema": "Aclaración de la Corte Suprema sobre el fallo de la Ley de Tierras y extranjerización",
       "prioridad": 0,
       "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
@@ -183,30 +130,30 @@
         "Página 12": 1,
         "El Cronista": 1
       },
-      "por_que_importa": "La proyección internacional del Presidente y sus promesas sobre la economía traccionan masivamente clics y debate público.",
-      "insight": "Es el tema político principal del día, con cobertura intensiva en todos los portales nacionales.",
+      "por_que_importa": "El rol de la Corte Suprema y los debates sobre soberanía y recursos naturales generan un intenso tráfico institucional y político.",
+      "insight": "Ante las críticas cruzadas, la Corte debió aclarar el alcance procesal de su fallo, generando cobertura masiva en todos los portales.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar con notas de color sobre las protestas en Francia y las repercusiones de sus declaraciones de reelección.",
+      "accion_sugerida": "Publicar un análisis de especialistas jurídicos que explique en lenguaje sencillo qué cambia y qué sigue igual para los inversores extranjeros.",
       "enfoques_sugeridos": [
-        "Las promesas de crecimiento económico para 2028 desde París.",
-        "El rechazo sindical y social durante la llegada del mandatario."
+        "El cruce político entre el oficialismo, la oposición y el máximo tribunal.",
+        "El impacto económico real de la normativa sobre las inversiones en el sector agropecuario e inmobiliario."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Paris: Javier Milei habla ante inversores...",
-          "link": "https://www.perfil.com/noticias/politica/paris-javier-milei-habla-ante-inversores-durante-la-argentina-week.phtml"
+          "titulo": "Corte responde a las críticas por la ley de tierras: la descalificación y el odio solo deterioran",
+          "link": "https://www.perfil.com/noticias/politica/corte-responde-a-las-criticas-por-la-ley-de-tierras-la-descalificacion-y-el-odio-solo-deterioran-las-instituciones-y-la-democracia.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Milei habló en París de los cambios que impulsó...",
-          "link": "https://www.lanacion.com.ar/politica/milei-hablo-en-paris-de-los-cambios-que-impulso-y-dijo-la-comparacion-con-los-anteriores-gobiernos-nid01102026/"
+          "titulo": "Tras el fallo de la Corte, Elisa Carrió reclamó a Diputados que rechace el DNU de extranjerización",
+          "link": "https://www.lanacion.com.ar/politica/tras-el-fallo-de-la-corte-elisa-carrio-reclamo-a-diputados-que-rechace-el-dnu-de-extranjerizacion-de-nid30092026/"
         },
         {
-          "medio": "TN",
-          "titulo": "Milei habló desde la Argentina Week en París...",
-          "link": "https://tn.com.ar/politica/2026/10/01/milei-hablo-desde-la-argentina-week-in-paris-si-reelegimos-2028-sera-get-mejor-ano-economico-de-la-historia/"
+          "medio": "Clarín",
+          "titulo": "Venta tierras extranjeros: Corte Suprema aclaró polémico fallo tema procesal fondo cuestión",
+          "link": "https://www.clarin.com/politica/venta-tierras-extranjeros-corte-suprema-aclaro-polemico-fallo-tema-procesal-fondo-cuestion_0_fq4IfWN5di.html"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -214,9 +161,117 @@
       "cantidad_medios_competencia": 6
     },
     {
-      "tema": "Incidentes y cruces en el Congreso (Caso Grabois y legisladores)",
+      "tema": "Advertencias y conclusiones de la misión del FMI sobre el crecimiento económico argentino",
       "prioridad": 0,
       "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 6,
+      "cantidad_medios": 6,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 6,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 1
+      },
+      "por_que_importa": "La relación con el organismo internacional y las proyecciones macroeconómicas son clave para la audiencia interesada en economía y finanzas.",
+      "insight": "La advertencia del FMI sobre la necesidad de que el crecimiento se distribuya equitativamente fue replicada por toda la prensa económica.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desarrollar notas explicativas sobre el impacto de las exigencias del FMI en los sectores vulnerables y en la marcha del plan oficial.",
+      "enfoques_sugeridos": [
+        "La lectura oficial frente a los reparos del organismo multilateral.",
+        "El impacto en el empleo y la recuperación del consumo interno."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "El FMI reconoció sus inquietudes por el crecimiento de la economía argentina y habló de una",
+          "link": "https://www.lanacion.com.ar/economia/el-fmi-reconocio-sus-inquietudes-por-el-crecimiento-de-la-economia-argentina-y-hablo-de-una-nid01102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "FMI advirtió importante crecimiento amplie distribuya forma equitativa",
+          "link": "https://www.clarin.com/economia/fmi-advirtio-importante-crecimiento-amplie-distribuya-forma-equitativa_0_eO07smY52s.html"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El FMI advirtió al Gobierno que es importante ampliar el crecimiento a los sectores rezagados",
+          "link": "https://www.ambito.com/economia/el-fmi-advirtio-al-gobierno-que-es-importante-ampliar-el-crecimiento-los-sectores-rezagados-y-los-trabajadores-n6328916"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 6
+    },
+    {
+      "tema": "Anuncio de inversiones energéticas y reuniones de Javier Milei en la Argentina Week en París",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 9,
+      "cantidad_medios": 7,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 8,
+      "medio_lider": "Página 12",
+      "cobertura_medio_lider": 2,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 2,
+        "El Cronista": 2
+      },
+      "por_que_importa": "La gira presidencial y los anuncios millonarios en el exterior traccionan alto interés en Google Discover por su tono optimista y político.",
+      "insight": "La combinación de reuniones con Emmanuel Macron, gobernadores y anuncios de TotalEnergies movilizó coberturas masivas en todos los medios.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Realizar un fact-checking de las proyecciones económicas y un desglose de los convenios firmados con empresas francesas.",
+      "enfoques_sugeridos": [
+        "El impacto de los grandes proyectos de gas y petróleo en la balanza comercial futura.",
+        "Las críticas de la oposición y las protestas sindicales en Francia contra la visita."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Javier Milei en vivo: el presidente habla en Argentina Week en París, reúne gobernadores y visita a Macron",
+          "link": "https://www.clarin.com/politica/javier-milei-vivo-presidente-habla-argentina-week-paris-reune-gobernadores-visita-macron_0_8yBzUrRNFu.html"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Javier Milei habló desde la Argentina Week en París: Si reelegimos, 2028 será el mejor año económico de la historia",
+          "link": "https://tn.com.ar/politica/2026/10/01/milei-hablo-desde-la-argentina-week-en-paris-si-reelegimos-2028-sera-el-mejor-ano-economico-de-la-historia/"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "En París, Javier Milei volvió a hablar de la reelección y prometió que 2028 será el mejor año económico de la historia",
+          "link": "https://www.ambito.com/economia/en-paris-javier-milei-volvio-hablar-la-reeleccion-y-prometio-que-2028-sera-el-mejor-ano-economico-la-historia-n6328747"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 6
+    }
+  ],
+  "perfil_pierde": [
+    {
+      "tema": "Disertación y críticas de Patricia Bullrich en el coloquio de IDEA sobre velocidad de reformas",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
       "total_notas": 5,
       "cantidad_medios": 5,
@@ -233,141 +288,33 @@
         "Infobae": 0,
         "TN": 0,
         "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
+        "Página 12": 0,
+        "El Cronista": 1
       },
-      "por_que_importa": "El nivel de confrontación verbal y física en el parlamento capta la atención de la audiencia interesada en la rosca política.",
-      "insight": "La escalada de declaraciones cruzadas multiplica los artículos de opinión y seguimiento en todos los medios.",
+      "por_que_importa": "Las tensiones y matices dentro del espacio no oficialista frente al rumbo económico generan gran interés político y económico.",
+      "insight": "Mientras Perfil cubrió la presencia de Bullrich de manera más protocolar, la competencia desplegó múltiples notas enfocadas en sus reparos a la estrategia oficial.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Hacer eje en las consecuencias reglamentarias y pedidos de expulsión en la Cámara baja.",
+      "accion_sugerida": "Ampliar la cobertura sobre la interna del PRO y las demandas del sector empresario respecto a la velocidad de los cambios económicos.",
       "enfoques_sugeridos": [
-        "El raid mediático de Juan Grabois tras los forcejeos.",
-        "La postura de los diputados libertarios y pedidos de sanción."
+        "El delicado equilibrio de Bullrich entre el apoyo a Milei y sus críticas al costo argentino.",
+        "La reacción del círculo rojo ante los pedidos de mayor agilidad legislativa."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Grabois habló tras su pelea con los diputados de LLA...",
-          "link": "https://www.perfil.com/noticias/politica/grabois-hablo-tras-su-pelea-con-los-diputados-de-lla-a-loco-loco-y-medio-vos-te-pensas-que-me-voy-a-dejar-correr-por-sinverguenzas.phtml"
+          "titulo": "Bullrich presente en IDEA: la senadora que escucha a empresarios y marca diferencias sin romper con Milei",
+          "link": "https://www.perfil.com/noticias/politica/bullrich-presente-in-idea-la-senadora-que-escucha-a-empresarios-y-marca-diferencias-sin-romper-con-milei.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Habló Andrea Vera, la diputada libertaria que filmó a Grabois...",
-          "link": "https://www.lanacion.com.ar/politica/hablo-andrea-vera-la-diputada-libertaria-que-filmo-a-grabois-durante-su-fuerte-cruce-en-diputados-nid01102026/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Diputados proponen expulsar a Juan Grabois...",
-          "link": "https://www.ambito.com/politica/diputados-proponen-expulsar-juan-grabois-insultar-otros-legisladores-n6328837"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    }
-  ],
-  "perfil_pierde": [
-    {
-      "tema": "Resultados del ranking QS y desempeño de universidades argentinas",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Involucra a la educación superior pública y privada, un tema de alto interés para la comunidad académica y familias.",
-      "insight": "Perfil cubrió de manera acotada mientras que la competencia realizó informes detallados sobre la caída regional.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar con un informe propio sobre las razones de la pérdida de posiciones de las casas de altos estudios.",
-      "enfoques_sugeridos": [
-        "El contraste entre la permanencia de la UBA en el top 10 y el balance negativo general.",
-        "Análisis de inversión en investigación y fuga de talentos."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Ranking QS: la UBA se mantiene en el top 10 regional...",
-          "link": "https://www.lanacion.com.ar/sociedad/ranking-qs-la-uba-se-mantiene-en-el-top-10-regional-pero-el-pais-obtuvo-el-balance-mas-negativo-en-nid01102026/"
+          "titulo": "Bullrich pidió velocidad para la economía y puso reparos a la estrategia oficial por la ley de tierras",
+          "link": "https://www.lanacion.com.ar/economia/bullrich-pidio-velocidad-para-la-economia-y-puso-reparos-a-la-oficial-por-la-ley-de-nid01102026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Argentina, país de la región que cayó en ranking universidades",
-          "link": "https://www.clarin.com/sociedad/argentina-pais-region-cayo-ranking-universidades_0_vhEo3R4mOh.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Ranking QS: la UBA sigue en el top 10 regional...",
-          "link": "https://tn.com.ar/sociedad/2026/10/01/ranking-qs-la-uba-sigue-en-el-top-10-regional-pero-las-universidades-argentinas-tuvieron-la-mayor-caida-de-america-latina/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Liquidación de divisas del agro y exportaciones de maíz en septiembre",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 4,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es un termómetro clave para las reservas del Banco Central y la estabilidad cambiaria.",
-      "insight": "La competencia le dio un tratamiento destacado con cifras y análisis macroeconómicos profundos, superando la cobertura simple de Perfil.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar un informe de impacto sobre cómo estas cifras modifican las expectativas del BCRA para el último trimestre.",
-      "enfoques_sugeridos": [
-        "El rol del maíz en el récord de liquidación de septiembre.",
-        "Expectativas de ingreso de dólares de cara a las elecciones."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Por los embarques de maíz en septiembre creció un 17%...",
-          "link": "https://www.lanacion.com.ar/economia/campo/por-los-embarques-de-maiz-en-septiembre-crecio-un-17-la-liquidacion-de-divisas-por-exportaciones-de-nid01102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Ingresaron US$ 3.228 millones por maíz...",
-          "link": "https://www.clarin.com/rural/ingresaron-us-3228-millones-maiz-liquidacion-agro-crecio-17-septiembre_0_hUXzJTEnne.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El agro liquidó US$3.228 millones septiembre...",
-          "link": "https://www.ambito.com/economia/el-agro-liquido-us3228-millones-septiembre-y-alcanzo-el-tercer-mejor-registro-25-anos-n6328761"
+          "titulo": "Patricia Bullrich llega a IDEA con agenda propia: disertación ante empresarios y almuerzo clave electoral",
+          "link": "https://www.clarin.com/politica/patricia-bullrich-llega-idea-agenda-propia-disertacion-empresarios-almuerzo-clave-electoral_0_xDtO2X6Ghf.html"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -375,52 +322,52 @@
       "cantidad_medios_competencia": 4
     },
     {
-      "tema": "Incidente de seguridad en vuelo de Flydubai y presunto atentado",
+      "tema": "Aumento en la cotización del dólar oficial y presión sobre las reservas",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
+      "total_notas": 17,
       "cantidad_medios": 7,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 6,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 0,
+      "cobertura_perfil": 3,
+      "perfil": 3,
+      "competencia_total": 14,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 5,
+      "brecha": 2,
       "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
+        "Perfil": 3,
+        "La Nación": 2,
+        "Clarín": 0,
         "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
+        "TN": 2,
+        "Ámbito": 5,
         "Página 12": 1,
-        "El Cronista": 0
+        "El Cronista": 3
       },
-      "por_que_importa": "Es una noticia internacional de alto impacto con tripulantes y pasajeros involucrados en situaciones extremas en pleno vuelo.",
-      "insight": "Varios medios publicaron coberturas múltiples con perfiles de los protagonistas, mientras Perfil tuvo menor despliegue.",
+      "por_que_importa": "El comportamiento del dólar es el indicador más consultado diariamente por la audiencia argentina en buscadores.",
+      "insight": "Perfil cubrió el dólar blue de forma aislada, mientras que los principales competidores publicaron coberturas en vivo y análisis profundos sobre la suba del oficial y los futuros.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Realizar un resumen actualizado con la palabra de las autoridades de aviación internacional y de los pasajeros héroes.",
+      "accion_sugerida": "Implementar un formato de cobertura en tiempo real (minuto a minuto) para las cotizaciones cambiarias y financieras.",
       "enfoques_sugeridos": [
-        "La investigación sobre posibles vínculos terroristas o trastornos mentales del copiloto.",
-        "El reconocimiento a los pasajeros que evitaron una tragedia."
+        "La estrategia del Banco Central frente a la menor oferta y la presión preelectoral.",
+        "El impacto de la suba del oficial en los contratos y la inflación."
       ],
       "ejemplos": [
         {
-          "medio": "Clarín",
-          "titulo": "Ataque vuelo Flydubai: investigan copiloto...",
-          "link": "https://www.clarin.com/mundo/ataque-vuelo-flydubai-investigan-copiloto-actuo-terrorismo-trastorno-mental-afirman-examinando-escenarios_0_9A7dJevYAq.html"
+          "medio": "Perfil",
+          "titulo": "A cuánto cotiza el dólar blue hoy jueves 1 de octubre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-jueves-1-de-octubre.phtml"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Las personas indicadas en el momento indicado...",
-          "link": "https://www.infobae.com/america/mundo/2026/10/01/las-personas-indicadas-en-el-momento-indicado-como-cuatro-pasajeros-israelies-evitaron-que-se-estrellara-el-vuelo-de-flydubai/"
+          "medio": "La Nación",
+          "titulo": "El dólar oficial muestra una leve suba y vuelve a su valor más alto del año",
+          "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-oficial-muestra-una-leve-suba-y-vuelve-a-su-valor-mas-alto-del-ano-nid01102026/"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Gritos, pánico y golpes: así fueron dramáticos minutos...",
-          "link": "https://www.ambito.com/mundo/gritos-panico-y-golpes-asi-fueron-dramaticos-minutos-bordo-del-vuelo-flydubai-n6328781"
+          "titulo": "El dólar abre octubre en $1.517 y la City mira de cerca la compra de reservas",
+          "link": "https://www.ambito.com/finanzas/el-dolar-abre-octubre-1517-y-la-city-mira-cerca-la-compra-reservas-n6328786"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -428,97 +375,153 @@
       "cantidad_medios_competencia": 6
     },
     {
-      "tema": "Femicidio y hallazgo de menor asesinada en Berazategui",
+      "tema": "Detención del fiscal general de Bolivia y exministro por vínculos con el narcotráfico",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 2,
-      "cantidad_medios": 2,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 2,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "total_notas": 6,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 5,
+      "medio_lider": "Infobae",
+      "cobertura_medio_lider": 3,
+      "brecha": 2,
       "cobertura": {
-        "Perfil": 0,
+        "Perfil": 1,
         "La Nación": 0,
         "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
+        "Infobae": 3,
+        "TN": 0,
         "Ámbito": 0,
-        "Página 12": 0,
+        "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Los casos policiales de extrema gravedad generan alto tráfico y lectura sostenida en las secciones de sociedad y policiales.",
-      "insight": "La competencia cubrió con detalles de autopsia y detenciones en simultáneo, superando la cobertura general de Perfil.",
+      "por_que_importa": "Los escándalos de corrupción y narcotráfico en países vecinos generan alto tráfico internacional en Google Discover.",
+      "insight": "Perfil se limitó a una nota breve, en tanto medios como Infobae y Clarín desplegaron seguimientos detallados y perfiles de los implicados.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Hacer un seguimiento riguroso de las pericias y las declaraciones de los familiares.",
+      "accion_sugerida": "Ampliar la mesa internacional para dar cobertura de última hora a los grandes sacudones políticos de la región.",
       "enfoques_sugeridos": [
-        "Los resultados de la autopsia y los elementos probatorios.",
-        "El avance de la detención del entorno familiar."
+        "Las derivaciones judiciales y el pedido de extradición de Estados Unidos.",
+        "El impacto político para el gobierno boliviano en año electoral."
       ],
       "ejemplos": [
         {
-          "medio": "Clarín",
-          "titulo": "Horror Berazategui: hallaron ahorcada con signos abuso...",
-          "link": "https://www.clarin.com/policiales/horror-berazategui-hallaron-ahorcada-signos-abuso-sexual-nena-11-anos-detuvieron-familiares_0_3DZLPxX3O0.html"
+          "medio": "Perfil",
+          "titulo": "Detuvieron al fiscal general de Bolivia y al exministro Eduardo del Castillo por una investigación sobre presuntos vínculos con el narcotráfico",
+          "link": "https://www.perfil.com/noticias/internacional/detuvieron-al-fiscal-general-de-bolivia-y-al-exministro-eduardo-del-castillo-por-una-investigacion-sobre-presuntos-vinculos-con-el-narcotraf.phtml"
         },
         {
-          "medio": "TN",
-          "titulo": "Golpes, una hemorragia y signos de abuso...",
-          "link": "https://tn.com.ar/policiales/2026/10/01/golpes-una-hemorragia-y-signos-de-abuso-que-revelo-la-autopsia-de-la-nena-de-11-anos-que-encontraron-muerta-en-berazategui/"
+          "medio": "Clarín",
+          "titulo": "Detienen fiscal general Bolivia acusado Estados Unidos vínculos narcotráfico",
+          "link": "https://www.clarin.com/mundo/detienen-fiscal-general-bolivia-acusado-estados-unidos-vinculos-narcotrafico_0_KHckXKFhKI.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Uno a uno: quiénes son los detenidos vinculados al narcotráfico que identificó el gobierno de Bolivia",
+          "link": "https://www.infobae.com/america/america-latina/2026/10/01/uno-a-uno-quienes-son-los-detenidos-vinculados-al-narcotrafico-que-identifico-el-gobierno-de-bolivia/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 2
-    }
-  ],
-  "sin_cobertura_perfil": [
+      "cantidad_medios_competencia": 3
+    },
     {
-      "tema": "Elecciones presidenciales en Brasil (Lula vs. oposición y seguridad)",
+      "tema": "Incidente e investigación sobre el vuelo de Flydubai y declaraciones de Netanyahu",
       "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
+      "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 7,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 7,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "total_notas": 15,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 2,
+      "perfil": 2,
+      "competencia_total": 13,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 5,
+      "brecha": 3,
       "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
+        "Perfil": 2,
+        "La Nación": 4,
+        "Clarín": 3,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 5,
         "Página 12": 1,
-        "El Cronista": 1
+        "El Cronista": 0
       },
-      "por_que_importa": "La política del principal socio comercial de Argentina es un tema geopolítico de primer orden para nuestra audiencia.",
-      "insight": "Perfil no registró notas sobre el proceso electoral brasileño actual, mientras que la competencia lo cubre con enviados y coberturas en vivo.",
+      "por_que_importa": "Las historias de suspenso aéreo, terrorismo y seguridad internacional tienen un rendimiento excepcional en redes y Discover.",
+      "insight": "La competencia abordó el caso desde múltiples ángulos (perfil del piloto, hipótesis de terrorismo y seguridad aérea), superando la cobertura puntual de Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Establecer una sección de cobertura especial sobre el escenario electoral en Brasil de cara al fin de semana.",
+      "accion_sugerida": "Construir notas de contexto y 'minuto a minuto' cuando ocurran eventos de alto impacto global en aerolíneas comerciales.",
       "enfoques_sugeridos": [
-        "El impacto de la violencia y la religión en la recta final de los comicios.",
-        "La situación económica y el desempleo en la era Lula."
+        "Las fallas en los protocolos de seguridad de las cabinas comerciales.",
+        "Las declaraciones cruzadas entre autoridades israelíes y de Omán sobre el copiloto."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Netanyahu afirma que el piloto que quiso estrellar el avión pasó por adoctrinamiento islámica radical",
+          "link": "https://www.perfil.com/noticias/internacional/netanyahu-afirma-que-el-piloto-que-quiso-estrellar-el-avion-paso-por-adoctrinamiento-islamica-radical.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Terror en avión de Flydubai en vivo: apuñalaron a un piloto en un vuelo a Israel y lograron aterrizar",
+          "link": "https://www.lanacion.com.ar/el-mundo/terror-en-avion-de-flyubai-in-vivo-apunalaron-a-un-piloto-en-un-vuelo-a-israel-y-lograron-aterrizar-nid30092026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Ataque vuelo Flydubai: investigan copiloto actuó terrorismo trastorno mental afirman examinando escenarios",
+          "link": "https://www.clarin.com/mundo/ataque-vuelo-flydubai-investigan-copiloto-actuo-terrorismo-trastorno-mental-afirman-examinando-escenarios_0_9A7dJevYAq.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Apertura de elecciones presidenciales y cobertura en vivo de la primera vuelta en Brasil",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 13,
+      "cantidad_medios": 6,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 13,
+      "medio_lider": "El Cronista",
+      "cobertura_medio_lider": 4,
+      "brecha": 4,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 3,
+        "Clarín": 3,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 4
+      },
+      "por_que_importa": "Los comicios en el principal socio comercial de Argentina determinan la agenda geopolítica y económica sudamericana.",
+      "insight": "La Nación, Clarín e Infobae montaron coberturas en vivo desde temprano, mientras que Perfil careció de un seguimiento en tiempo real de la jornada electoral brasileña.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Diseñar coberturas especiales con blogs en vivo para las citas electorales de la región.",
+      "enfoques_sugeridos": [
+        "El impacto de la polarización entre Lula y la oposición en los mercados financieros.",
+        "El fantasma de la abstención récord y su lectura política."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Bolsonaro Jr...",
+          "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Bolsonaro Jr. y las últimas noticias hoy",
           "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Elecciones Brasil 2026: candidatos presidente",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-2026-candidatos-presidente_0_lubrz2YgMP.html"
+          "titulo": "Elecciones Brasil: desinterés electoral agita fantasma abstención récord domingo",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-desinteres-electoral-agita-fantasma-abstencion-record-domingo_0_bUus6x91zH.html"
         },
         {
           "medio": "Infobae",
@@ -528,108 +531,216 @@
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 7
-    },
+      "cantidad_medios_competencia": 6
+    }
+  ],
+  "sin_cobertura_perfil": [
     {
-      "tema": "Ejecución fallida con inyección letal a Christa Pike en Estados Unidos",
+      "tema": "Trágico homicidio y abuso de niña de 11 años en Berazategui",
       "prioridad": 0,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
+      "total_notas": 5,
+      "cantidad_medios": 4,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "competencia_total": 5,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
       "cobertura": {
         "Perfil": 0,
         "La Nación": 1,
         "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
+        "Infobae": 1,
+        "TN": 2,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Las historias de crónica internacional insólitas o depenales extremos tienen altísimo rendimiento en Google Discover.",
-      "insight": "Múltiples medios cubrieron el inusual suceso de la reclusa que sobrevivió a la inyección, evidenciando un vacío en Perfil.",
+      "por_que_importa": "Los casos policiales de gran crudeza y conmoción social generan picos masivos de audiencia y consumo en buscadores.",
+      "insight": "Perfil ignoró por completo un hecho que monopolizó la sección policial y de impacto social en Clarín, La Nación e Infobae.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Redactar un perfil de la reclusa y un análisis médico-legal sobre las fallas en los procedimientos de ejecución en EE.UU.",
+      "accion_sugerida": "Establecer alertas rojas en la redacción policial para no quedar rezagados en crímenes de conmoción pública.",
       "enfoques_sugeridos": [
-        "Los detalles médicos de la supervivencia a dos inyecciones letales.",
-        "El debate ético y legal en torno a la pena de muerte en Tennessee."
+        "Los detalles de la autopsia y el avance de la investigación sobre los familiares detenidos.",
+        "Los reclamos de justicia de los vecinos y el rol de los organismos de protección infantil."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Aseguran que Christa Pike sobrevivió a dos inyecciones letales...",
-          "link": "https://www.lanacion.com.ar/estados-unidos/aseguran-que-christa-pike-sobrevivio-a-dos-inyecciones-letales-durante-su-ejecucion-en-tennessee-nid01102026/"
+          "titulo": "Encontraron muerta a una niña de 11 años en Berazategui: detuvieron a cuatro familiares por abandono",
+          "link": "https://www.lanacion.com.ar/seguridad/encontraron-muerta-a-una-nina-de-11-anos-en-berazategui-detuvieron-a-cuatro-familiares-nid01102026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Ejecución desconcierto: Christa Pike en Tennessee...",
-          "link": "https://www.clarin.com/mundo/ejecucion-desconcierto-christa-pike-tennessee-aplicaron-inyecciones-letales-sigue-vida_0_1nLA2x6dkU.html"
+          "titulo": "Horror en Berazategui: hallaron ahorcada y con signos de abuso sexual a una nena de 11 años y detuvieron a familiares",
+          "link": "https://www.clarin.com/policiales/horror-berazategui-hallaron-ahorcada-signos-abuso-sexual-nena-11-anos-detuvieron-familiares_0_3DZLPxX3O0.html"
         },
         {
-          "medio": "TN",
-          "titulo": "Estados Unidos: la mujer condenada por torturar...",
-          "link": "https://tn.com.ar/internacional/2026/10/01/estados-unidos-la-mujer-condenada-por-torturar-y-matar-a-una-joven-sobrevivio-al-intento-de-ejecucion-y-fue-hospitalizada/"
+          "medio": "Infobae",
+          "titulo": "Muerte en Berazategui: cómo encontraron a la nena de 11 años fallecida y por qué la Justicia sospecha de su familia",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/10/01/muerte-en-berazategui-como-encontraron-a-la-nena-de-11-anos-fallecida-y-por-que-la-justicia-sospecha-de-su-familia/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
+      "cantidad_medios_competencia": 4
     },
     {
-      "tema": "Prórroga y actualización de subsidios a la luz y el gas en octubre",
+      "tema": "Caída de universidades argentinas en el ranking internacional QS de educación superior",
       "prioridad": 0,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
+      "total_notas": 5,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 4,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "El estado de la educación pública y el prestigio internacional de las universidades genera debate y alto tráfico en la comunidad académica.",
+      "insight": "La competencia destacó el retroceso general del sistema universitario argentino pese a la permanencia de la UBA en el top 10, un ángulo ausente en Perfil.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Entrevistar a rectores y especialistas educativos para analizar las causas de la pérdida de posiciones a nivel regional.",
+      "enfoques_sugeridos": [
+        "El impacto del recorte presupuestario y la falta de inversión en investigación.",
+        "La comparación con los sistemas educativos de Brasil, Chile y México."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Argentina es el país de la región que más cayó en el ranking de universidades",
+          "link": "https://www.clarin.com/sociedad/argentina-pais-region-cayo-ranking-universidades_0_vhEo3R4mOh.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Por qué las universidades argentinas registraron la mayor caída de América Latina en el ranking QS, según los especialistas",
+          "link": "https://www.infobae.com/educacion/2026/10/01/por-que-las-universidades-argentinas-registraron-la-mayor-caida-de-america-latina-en-el-ranking-qs-segun-los-especialistas/"
+        },
+        {
+          "medio": "El Cronista",
+          "titulo": "La UBA volvió a ubicarse entre las 10 mejores universidades de América Latina, pero Argentina cayó en la región",
+          "link": "https://www.cronista.com/informacion-gral/la-uba-volvio-a-ubicarse-entre-las-10-mejores-universidades-de-america-latina-pero-argentina-cayo-en-la-región/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Boda secreta de Jim Carrey con la cantante Min Ah",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 4,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 5,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 2,
+        "Clarín": 0,
+        "Infobae": 1,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Las noticias de espectáculos internacionales y romances de Hollywood tienen un rendimiento excelente y viral en redes sociales.",
+      "insight": "Varios medios de gran llegada cubrieron el enlace sorpresa del actor, mientras Perfil omitió por completo la novedad de farándula internacional.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Incorporar alertas de agencias internacionales de espectáculos para capturar tráfico de lectores de cultura pop.",
+      "enfoques_sugeridos": [
+        "El perfil de Min Ah y la historia de la pareja mantenida en total hermetismo.",
+        "El regreso de Jim Carrey a los primeros portales de noticias."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Jim Carrey se casó con la cantante Min Ah, 31 años menor: la historia de amor que mantuvieron oculta",
+          "link": "https://www.lanacion.com.ar/espectaculos/jim-carrey-se-caso-con-la-cantante-min-ah-31-anos-menor-la-historia-de-amor-que-mantuvieron-oculta-nid01102026/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Quién es Min Ah, la nueva esposa de Jim Carrey",
+          "link": "https://www.infobae.com/entretenimiento/2026/10/01/quien-es-min-ah-la-nueva-esposa-de-jim-carrey/"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Sorpresa en Hollywood: Jim Carrey se casó en secreto con Min Ah, su novia 31 años menor que él",
+          "link": "https://tn.com.ar/show/hollywood/2026/10/01/sorpresa-en-hollywood-jim-carrey-se-caso-en-secreto-con-min-ah-su-novia-31-anos-menor-que-el/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Apelación de fondos buitre ante la Corte Suprema de EE.UU. por el juicio de YPF",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 4,
       "cantidad_medios": 3,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "competencia_total": 4,
+      "medio_lider": "El Cronista",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
       "cobertura": {
         "Perfil": 0,
         "La Nación": 0,
         "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
-        "Ámbito": 1,
+        "Ámbito": 0,
         "Página 12": 0,
-        "El Cronista": 0
+        "El Cronista": 2
       },
-      "por_que_importa": "Impacta directamente en el bolsillo de los hogares argentinos y en la medición de la inflación mensual.",
-      "insight": "Los portales económicos y generales cubrieron en profundidad los nuevos cuadros tarifarios, un tema ausente en la portada de Perfil.",
+      "por_que_importa": "El juicio por la expropiación de YPF representa un pasivo potencial gigantesco y desvela al mercado financiero argentino.",
+      "insight": "La jugada procesal de Burford fue cubierta por Cronista, TN y Clarín, evidenciando un bache en la sección económica de Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar una guía de servicios útil para que los lectores sepan cómo impactarán los aumentos en sus facturas.",
+      "accion_sugerida": "Consultar a analistas de Wall Street para evaluar las chances reales de que la Corte norteamericana tome el caso.",
       "enfoques_sugeridos": [
-        "El tope de aumentos y el mantenimiento de subsidios para sectores vulnerables.",
-        "El impacto en la contención de la inflación de octubre."
+        "Los argumentos presentados por Burford para revertir el fallo adverso.",
+        "El impacto de la noticia en la cotización de los bonos y acciones de la petrolera estatal."
       ],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Gobierno vuelca subsidios luz gas contener inflación octubre",
-          "link": "https://www.clarin.com/economia/gobierno-vuelca-subsidios-luz-gas-contener-inflacion-octubre_0_aJ2xB68e3N.html"
+          "titulo": "Juicio YPF: Burford presentó corte suprema EE.UU. Argentina revertir fallo",
+          "link": "https://www.clarin.com/economia/juicio-ypf-burford-presento-corte-suprema-eeuu-argentina-revertir-fallo_0_6ZS83Cc0cG.html"
         },
         {
           "medio": "TN",
-          "titulo": "El Gobierno extendió los descuentos en la luz y el gas...",
-          "link": "https://tn.com.ar/economia/2026/10/01/el-gobierno-extendio-los-descuentos-en-la-luz-y-el-gas-para-usuarios-con-subsidios-y-fijo-los-nuevos-aumentos-de-tarifas/"
+          "titulo": "Los fondos que perdieron el juicio por YPF presentaron una apelación ante la Corte Suprema de EE.UU.",
+          "link": "https://tn.com.ar/economia/2026/10/01/los-fondos-que-perdieron-el-juicio-por-ypf-presentaron-una-apelacion-ante-la-corte-suprema-de-eeuu/"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "El Gobierno mantiene los subsidios la luz y el gas...",
-          "link": "https://www.ambito.com/economia/el-gobierno-mantiene-los-subsidios-la-luz-y-el-gas-octubre-y-aplica-subas-debajo-del-25-n6328745"
+          "medio": "El Cronista",
+          "titulo": "Tras avanzar en el Ciadi, Burford mueve otra ficha en la disputa por la expropiación de YPF",
+          "link": "https://www.cronista.com/economia-politica/tras-avanzar-en-el-ciadi-burford-mueve-otra-ficha-en-la-disputa-por-la-expropiacion-de-ypf/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -637,46 +748,46 @@
       "cantidad_medios_competencia": 3
     },
     {
-      "tema": "Reglamentación del Fondo de Cese Laboral (FAL) por ARCA",
+      "tema": "Reglamentación del Fondo de Asistencia Laboral (FAL) por parte de ARCA",
       "prioridad": 0,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 2,
+      "total_notas": 8,
       "cantidad_medios": 2,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 2,
+      "competencia_total": 8,
       "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "cobertura_medio_lider": 5,
+      "brecha": 5,
       "cobertura": {
         "Perfil": 0,
         "La Nación": 0,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 0,
-        "Ámbito": 1,
+        "Ámbito": 5,
         "Página 12": 0,
-        "El Cronista": 1
+        "El Cronista": 3
       },
-      "por_que_importa": "Modifica las condiciones laborales y de indemnizaciones en el mercado formal argentino, interesando a empleadores y sindicatos.",
-      "insight": "Es una novedad legislativa y de gestión clave que la competencia abordó con guías e informes técnicos detallados.",
+      "por_que_importa": "Las nuevas normativas sobre aportes patronales y regímenes laborales interesan directamente a empleadores, PyMEs y trabajadores.",
+      "insight": "Ámbito y El Cronista detallaron con precisión los porcentajes y plazos del nuevo fondo de cese, un tema clave de servicio económico ausente en Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Desarrollar un explicativo paso a paso sobre cómo funcionarán los aportes patronales y los despidos a partir de noviembre.",
+      "accion_sugerida": "Publicar una guía de preguntas y respuestas sobre el funcionamiento del FAL y cómo impacta en los recibos de sueldo y cargas sociales.",
       "enfoques_sugeridos": [
-        "Las claves operativas dispuestas por ARCA para el nuevo régimen.",
-        "El impacto financiero para las empresas y los trabajadores."
+        "El porcentaje de contribución que deberán asumir las empresas desde noviembre.",
+        "La recepción del régimen por parte de los sindicatos y las cámaras empresarias."
       ],
       "ejemplos": [
         {
           "medio": "Ámbito",
-          "titulo": "ARCA reglamentó el FAL: cómo y cuándo deberán aportar...",
-          "link": "https://www.ambito.com/economia/arca-reglamento-el-fal-como-y-cuando-deberan-aportar-los-empleadores-n6328741"
+          "titulo": "ARCA reglamentó el FAL: las claves del nuevo régimen que entra en vigencia el 1ro noviembre",
+          "link": "https://www.ambito.com/economia/arca-reglamento-el-fal--las-claves-del-nuevo-regimen-que-entra-vigencia-el-1ro-noviembre-n6328828"
         },
         {
           "medio": "El Cronista",
-          "titulo": "ARCA definió los detalles del FAL: cómo funcionarán...",
+          "titulo": "ARCA definió los detalles del FAL: cómo funcionarán los fondos para despidos",
           "link": "https://www.cronista.com/economia-politica/arca-definio-los-detalles-del-fal-como-funcionaran-los-fondos-para-despidos/"
         }
       ],
@@ -687,42 +798,42 @@
   ],
   "oportunidades": [
     {
-      "tema": "Alerta meteorológica por vientos fuertes y temporal en provincias",
+      "tema": "Aumento patrimonial de Alice Walton y creación de facultad de medicina gratuita",
       "prioridad": 0,
       "tipo": "oportunidades",
-      "tipo_de_oportunidad": "SEO de Servicios y Clima",
+      "tipo_de_oportunidad": "Cobertura Internacional de Impacto / Filantropía",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 1,
-      "medio_lider": "La Nación",
+      "medio_lider": "Clarín",
       "cobertura_medio_lider": 1,
       "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 0,
+        "La Nación": 0,
+        "Clarín": 1,
         "Infobae": 0,
         "TN": 0,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Atrae un caudal enorme de tráfico orgánico rápido y de corto plazo, ideal para posicionar al medio en coberturas de servicio.",
-      "insight": "La competencia aprovecha los reportes oficiales del SMN para captar lectores que buscan información sobre el clima en sus regiones.",
+      "por_que_importa": "Las historias sobre los hombres y mujeres más ricos del mundo y sus donaciones masivas atraen lectores interesados en economía internacional y curiosidades.",
+      "insight": "Ningún otro medio além de Clarín abordó el tema en esta jornada, lo que representa una ventana única para replicar o profundizar con un enfoque propio.",
       "motivo": "",
-      "motivo_oportunidad": "Las alertas del SMN generan búsquedas masivas y sostenidas en Google Discover y buscadores. Perfil no tiene cobertura activa sobre el mapa de provincias afectadas.",
-      "accion_sugerida": "Publicar un servicio actualizado con el listado completo de provincias bajo alerta amarilla y recomendaciones de seguridad.",
+      "motivo_oportunidad": "Clarín publicó una nota sobre la multimillonaria y su inversión filantrópica. Perfil no la cubrió, y tiene gran potencial de tráfico en secciones de tendencias y negocios globales.",
+      "accion_sugerida": "Traducir y adaptar un perfil sobre el patrimonio de la familia Walton y el impacto de su nueva universidad de medicina.",
       "enfoques_sugeridos": [
-        "Mapa interactivo y zonas con mayores ráfagas de viento.",
-        "Recomendaciones de Defensa Civil para evitar accidentes."
+        "Cómo se compone la fortuna de la heredera de Walmart y su relación con la filantropía moderna.",
+        "El modelo de educación médica gratuita en Estados Unidos."
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "Hay alerta amarilla por vientos fuertes para este jueves 1 de octubre...",
-          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-vientos-fuertes-para-este-jueves-1-de-octubre-las-provincias-afectadas-nid01102026/"
+          "medio": "Clarín",
+          "titulo": "Mujer rica mundo Alice Walton acerca 120 mil millones dólares aumento patrimonial...",
+          "link": "https://www.clarin.com/estados-unidos/mujer-rica-mundo-alice-walton-acerca-120-mil-millones-dolares-aumento-patrimonial-33-mil-millones-facultad-medicina-gratuita-inversion-250-millones-dolares-marca-nuevo-capitulo-labor-filantropica_0_81CERf9x6a.html"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -730,10 +841,139 @@
       "cantidad_medios_competencia": 1
     },
     {
-      "tema": "Aumento de tarifas en el ferry de Nueva York por costos de combustible",
+      "tema": "Despegue de la misión espacial Crew-13 hacia la Estación Espacial Internacional",
       "prioridad": 0,
       "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Tendencia Internacional de Consumo",
+      "tipo_de_oportunidad": "Ciencia y Tecnología / Descubrimientos",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "La exploración espacial despierta curiosidad transversal en audiencias de todas las edades.",
+      "insight": "Hay una baja oferta temática de ciencia dura en los portales locales hoy, por lo que destacar esta misión posiciona al medio en innovación.",
+      "motivo": "",
+      "motivo_oportunidad": "Clarín cubrió el lanzamiento espacial. Perfil no lo registró y este tipo de contenidos funciona muy bien en Google Discover por su atractivo visual y de ciencia ficción.",
+      "accion_sugerida": "Publicar un artículo breve con los objetivos científicos de la misión Crew-13 y los tiempos récord de viaje.",
+      "enfoques_sugeridos": [
+        "Los detalles técnicos del viaje más rápido desde la Tierra hacia la Estación Espacial.",
+        "Los experimentos que llevarán a bordo los astronautas."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Despega la misión Crew-13 para intentar el viaje más rápido de EE.UU. a la Estación Espacial",
+          "link": "https://www.clarin.com/estados-unidos/despega-la-mision-crew-13-para-intentar-el-viaje-mas-rapido-de-eeuu-a-la-estacion-espacial_0_2RFfOFEI0u.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Hallazgo arqueológico de la histórica escuela donde Aristóteles educó a Alejandro Magno en Grecia",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Cultura e Historia / Descubrimientos",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Conecta la filosofía antigua con la arqueología moderna, un nicho muy valorado por lectores fieles.",
+      "insight": "Es una temática que no caduca rápidamente y rinde de forma sostenida en redes sociales durante el fin de semana.",
+      "motivo": "",
+      "motivo_oportunidad": "Clarín publicó el hallazgo en Grecia. Perfil no lo tiene y los contenidos históricos de alto nivel cultural generan permanencia en lectura y comparten muy bien.",
+      "accion_sugerida": "Redactar una nota cultural detallando la ubicación del descubrimiento y su importancia para la historia clásica.",
+      "enfoques_sugeridos": [
+        "Cómo lograron los arqueólogos identificar el sitio exacto de la escuela aristotélica.",
+        "El vínculo pedagógico entre Aristóteles y Alejandro Magno."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Hallan en Grecia escuela Aristóteles educó Alejandro Magno",
+          "link": "https://www.clarin.com/internacional/hallan-grecia-escuela-aristoteles-educo-alejandro-magno_0_Gs2XqiAGCy.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Germinación exitosa de una palmera extinta a partir de semillas de 2.000 años de antigüedad",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Ciencia / Naturaleza y Medio Ambiente",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Clarín",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Combina historia antigua, botánica y ciencia ficción hecha realidad, capturando la atención masiva de los lectores.",
+      "insight": "Los contenidos de resurrección de especies o hallazgos biológicos milenarios poseen una altísima tasa de clics en dispositivos móviles.",
+      "motivo": "",
+      "motivo_oportunidad": "Clarín destacó este hito científico. Perfil no lo cubrió y este tipo de notas 'insólitas pero científicas' tienen un rendimiento excelente en Google Discover.",
+      "accion_sugerida": "Desarrollar una nota ágil explicando el proceso de laboratorio mediante el cual lograron revivir las semillas.",
+      "enfoques_sugeridos": [
+        "El secreto detrás de la conservación de material genético durante dos milenios.",
+        "Las propiedades de la palmera judea que los científicos lograron rescatar."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Clarín",
+          "titulo": "Un puñado semillas 2000 años antigüedad resucitaron palmera extinta",
+          "link": "https://www.clarin.com/internacional/punado-semillas-2000-anos-antiguedad-resucitaron-palmera-extinta_0_nNLcvWcT4R.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Exilio de periodista cubano hacia Brasil tras presión del régimen",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Derechos Humanos / Internacionales",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
@@ -752,106 +992,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Funciona muy bien en secciones de curiosidades y tendencias internacionales de movilidad.",
-      "insight": "Infobae suele cubrir estas noticias de servicio exterior que atraen clics por la curiosidad sobre tarifas en metrópolis.",
+      "por_que_importa": "Visibiliza la situación de la libertad de prensa y los derechos humanos en América Latina.",
+      "insight": "Las historias de persecución y éxodo político conectan fuertemente con la línea editorial de análisis internacional.",
       "motivo": "",
-      "motivo_oportunidad": "Permite captar el interés de lectores ávidos de noticias de ciudades globales y costos de transporte urbano.",
-      "accion_sugerida": "Redactar una nota breve sobre el impacto del combustible en los transportes acuáticos de grandes ciudades.",
+      "motivo_oportunidad": "Infobae cubrió la huida del periodista cubano Austin Llerandi. Perfil no lo registró, desaprovechando una historia humana y política de gran sensibilidad.",
+      "accion_sugerida": "Ampliar el despacho de agencia y redactar un artículo sobre el hostigamiento a la prensa independiente en Cuba.",
       "enfoques_sugeridos": [
-        "Comparativa de aumentos en servicios de transporte en EE.UU.",
-        "El impacto para los usuarios diarios del servicio."
+        "El ultimátum del régimen y la decisión de escapar con su esposa embarazada.",
+        "El rol de Brasil como destino de refugio para disidentes caribeños."
       ],
       "ejemplos": [
         {
           "medio": "Infobae",
-          "titulo": "El NYC Ferry subirá la tarifa básica a USD 5...",
-          "link": "https://www.infobae.com/estados-unidos/2026/10/01/el-nyc-ferry-subira-la-tarifa-basica-a-usd-5-frente-al-aumento-del-costo-del-combustible/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
-    },
-    {
-      "tema": "Inauguración de la muestra inmersiva de Mafalda",
-      "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Cultura y Entretenimiento Masivo",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 1,
-      "medio_lider": "Infobae",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 0,
-        "Clarín": 0,
-        "Infobae": 1,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Atrae a un público amplio interesado en propuestas culturales familiares y exposiciones artísticas en CABA.",
-      "insight": "Infobae apostó a cubrir la experiencia inmersiva como un plan destacado de fin de semana.",
-      "motivo": "",
-      "motivo_oportunidad": "Mafalda es un ícono cultural argentino con altísimo poder nostálgico y tracción en redes sociales y buscadores.",
-      "accion_sugerida": "Armar una guía con precios, horarios y detalles de la muestra para posicionarla en recomendaciones de ocio.",
-      "enfoques_sugeridos": [
-        "Recorrido interactivo por el universo de Quino.",
-        "Testimonios de los primeros visitantes y fanáticos."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Infobae",
-          "titulo": "Mafalda inmersiva: la muestra que da vida a los personajes de Quino...",
-          "link": "https://www.infobae.com/teleshow/2026/10/01/mafalda-inmersiva-la-muestra-que-da-vida-a-los-personajes-de-quino-y-emociona-a-los-fans-lo-mejor-del-ser-argentino/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
-    },
-    {
-      "tema": "Incremento de incendios forestales en la Amazonía brasileña",
-      "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Medio Ambiente y Cambio Climático",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 1,
-      "medio_lider": "Infobae",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 0,
-        "Clarín": 0,
-        "Infobae": 1,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "",
-      "insight": "Infobae destacó el salto estadístico de los focos ígneos en septiembre, un dato de relevancia continental.",
-      "motivo": "",
-      "motivo_oportunidad": "Los temas de catástrofes ambientales regionales interesan fuertemente al segmento de lectores preocupados por la ecología.",
-      "accion_sugerida": "Publicar un informe ambiental sobre las consecuencias climáticas de los incendios en el pulmón verde de Sudamérica.",
-      "enfoques_sugeridos": [
-        "El salto del 74% en los registros de incendios según agencias.",
-        "Consecuencias en la biodiversidad y políticas de control."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Infobae",
-          "titulo": "Los incendios en la Amazonía brasileña se disparan un 74% en septiembre",
-          "link": "https://www.infobae.com/america/agencias/2026/10/01/los-incendios-en-la-amazonia-brasilena-se-disparan-un-742-en-septiembre/"
+          "titulo": "Cárcel o exilio: Austin Llerandi, periodista cubano, huye a Brasil con su esposa embarazada tras ultimátum del régimen",
+          "link": "https://www.infobae.com/cuba/2026/10/01/carcel-o-exilio-austin-llerandi-periodista-cubano-huye-a-brasil-con-su-esposa-embarazada-tras-ultimatum-del-regimen/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -861,42 +1015,153 @@
   ],
   "fortalezas_perfil": [
     {
-      "tema": "Salud pública y estadísticas de Hepatitis C",
+      "tema": "Reporte de casos de hepatitis C en Argentina y advertencia sobre diagnóstico tardío",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 0,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 0,
+      "total_notas": 3,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 2,
+      "perfil": 2,
+      "competencia_total": 1,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
       "brecha": 0,
       "cobertura": {
-        "Perfil": 1,
+        "Perfil": 2,
         "La Nación": 0,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 0,
-        "Ámbito": 0,
+        "Ámbito": 1,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Posiciona al medio en temáticas de prevención y salud comunitaria con rigor estadístico.",
-      "insight": "Perfil lideró con un contenido propio enfocado en la prevención y en la cantidad de casos anuales en el país.",
+      "por_que_importa": "Los informes de salud pública y prevención médica son esenciales para posicionar al medio en términos de servicio a la comunidad.",
+      "insight": "Perfil lideró la agenda sanitaria con múltiples notas sobre la incidencia de la hepatitis C, superando la cobertura de sus competidores.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener este tipo de informes de salud pública con infografías claras para potenciar el consumo en redes.",
+      "accion_sugerida": "Mantener esta línea de periodismo sanitario preventivo y complementarlo con infografías interactivas sobre centros de testeo.",
       "enfoques_sugeridos": [
-        "Cómo prevenir el contagio y cuáles son los síntomas clave.",
-        "Estadísticas oficiales sobre los 700-800 casos anuales."
+        "La importancia del diagnóstico temprano para evitar complicaciones hepáticas severas.",
+        "Las estadísticas oficiales y los tratamientos disponibles en el sistema público."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Argentina registra entre 700 y 800 casos de Hepatitis C anualmente...",
+          "titulo": "Hepatitis C en Argentina: reportan entre 700 y 800 casos al año y advierten sobre el diagnóstico tardío",
+          "link": "https://www.perfil.com/noticias/salud/hepatitis-c-en-argentina-reportan-entre-700-y-800-casos-al-ano-y-advierten-sobre-el-diagnostico-tardio.phtml"
+        },
+        {
+          "medio": "Perfil",
+          "titulo": "Argentina registra entre 700 y 800 casos de hepatitis C anualmente: cómo prevenir el contagio",
           "link": "https://www.perfil.com/noticias/salud/argentina-registra-entre-700-y-800-casos-de-a50-hepatitis-c-anualmente-como-prevenir-el-contagio.phtml"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Argentina detecta 800 nuevos casos de hepatitis C al año",
+          "link": "https://www.ambito.com/informacion-general/argentina-detecta-800-nuevos-casos-hepatitis-c-al-ano-n6328895"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Pronóstico de lluvias y tormentas eléctricas para el fin de semana en el AMBA",
+      "prioridad": 0,
+      "tipo": "fortalezas_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 8,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 2,
+      "perfil": 2,
+      "competencia_total": 6,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 2,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 2,
+        "La Nación": 2,
+        "Clarín": 1,
+        "Infobae": 2,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 1,
+        "El Cronista": 0
+      },
+      "por_que_importa": "El clima es uno de los disparadores de tráfico más potentes en buscadores y dispositivos móviles para el público urbano.",
+      "insight": "Perfil anticipó con claridad el pronóstico del SMN para el AMBA, ganándole la delantera a la mayoría de los competidores en inmediatez meteorológica.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Automatizar actualizaciones meteorológicas los días jueves y viernes para capitalizar el pico de búsquedas sobre el clima del fin de semana.",
+      "enfoques_sugeridos": [
+        "El alerta por tormentas eléctricas y caída precipitaciones en zonas urbanas y rurales.",
+        "El impacto del fenómeno del Súper Niño en la variabilidad térmica."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "El SMN anticipó el regreso de las lluvias a50 y tormenta eléctrica para el fin de semana en el AMBA",
+          "link": "https://www.perfil.com/noticias/clima/el-smn-anticipo-el-regreso-de-las-lluvias-a50-y-tormenta-electrica-para-el-fin-de-semana-en-el-amba.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Se viene un nuevo frente desde el Pacífico que traerá más inestabilidad, tormentas, máximas de hasta",
+          "link": "https://www.lanacion.com.ar/sociedad/se-viene-un-nuevo-frente-desde-el-pacifico-que-traera-mas-inestabilidad-tormentas-maximas-de-hasta-nid01102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Clima hoy: llueve temprano en Ciudad, tiempo inestable, peregrinación Luján",
+          "link": "https://www.clarin.com/sociedad/clima-hoy-llueve-temprano-ciudad-tiempo-inestable-peregrinacion-lujan_0_Iqz9aku0LQ.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Análisis sobre el fallo de la Corte Suprema y el contexto político en Modo Fontevecchia",
+      "prioridad": 0,
+      "tipo": "fortalezas_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 2,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 2,
+      "perfil": 2,
+      "competencia_total": 0,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 0,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 2,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "El periodismo de opinión y análisis político profundo es un sello distintivo que aporta valor agregado y fideliza a la audiencia de Perfil.",
+      "insight": "A través de sus columnas editoriales y entrevistas exclusivas (como la realizada a Roberto Gargarella), Perfil marcó agenda propia en el debate institucional.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Potenciar la distribución de estos análisis en formato de newsletter y videocolumnas para maximizar su alcance en redes.",
+      "enfoques_sugeridos": [
+        "La desconexión entre los fallos de la Corte Suprema y el humor social.",
+        "El impacto institucional de la tensión entre los poderes del Estado."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Día 1027: El fallo de la Corte y el efecto mariposa modof",
+          "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-1027-el-fallo-de-la-corte-y-el-efecto-mariposa-modof.phtml"
+        },
+        {
+          "medio": "Perfil",
+          "titulo": "Roberto Gargarella: La Corte tiene roto el radar del humor social modof",
+          "link": "https://www.perfil.com/noticias/modo-fontevecchia/roberto-gargarella-la-corte-tiene-roto-el-radar-del-humor-social-modof.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -904,7 +1169,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Ratificación de condena por envenenamiento masivo de animales en Deán Funes",
+      "tema": "Estadísticas del sector avícola sobre producción y consumo de huevo en Argentina",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -926,20 +1191,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Las noticias de impacto judicial y protección animal generan gran indignación y viralización en redes sociales.",
-      "insight": "Perfil cubrió en exclusiva regional la ratificación de la condena al exintendente, marcando agenda en el interior del país.",
+      "por_que_importa": "Los informes de economía sectorial y consumo masivo interesan tanto al público general como a los actores productivos.",
+      "insight": "Perfil cubrió con exclusividad a través de Canal E las cifras récord del sector avícola, un tema de economía real que la competencia omitió.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Rebotar la nota en la portada nacional para captar tráfico federal interesado en fallos ejemplares contra el maltrato animal.",
+      "accion_sugerida": "Articular con el canal de streaming y economía para replicar estos informes en notas de texto optimizadas para SEO.",
       "enfoques_sugeridos": [
-        "Los detalles del fallo judicial de 4 años de prisión para el exfuncionario.",
-        "El impacto del caso de los 211 perros envenenados en la comunidad."
+        "Por qué Argentina se ubica al tope del consumo y producción per cápita de huevos en la región.",
+        "Los costos de producción y rentabilidad de granjas avícolas frente a la inflación."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Envenenamiento de 211 perros en Deán Funes: ratifican condena...",
-          "link": "https://www.perfil.com/noticias/cordoba/envenenamiento-de-211-perros-en-dean-funes-ratifican-condena-a-4-anos-de-prision-para-el-exintendente-facchin.phtml"
+          "titulo": "Sector avícola: Argentina es el primer país productor de huevo per cápita y consumidor de huevo per cápita",
+          "link": "https://www.perfil.com/noticias/canal-e/sector-avicola-argentina-es-el-primer-pais-productor-de-huevo-per-capita-y-consumidor-de-huevo-per-capita.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -947,7 +1212,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Descubrimiento de posible pintura original de El Greco en Lima",
+      "tema": "Defensa de Natalia Contini a funcionaria que factura desde Barcelona",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -969,63 +1234,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Aporta valor cultural e histórico de jerarquía internacional, atrayendo a un segmento de lectores educados y cultos.",
-      "insight": "Perfil logró cubrir un hallazgo artístico internacional de gran relevancia que pasó desapercibido en otros grandes portales.",
+      "por_que_importa": "Las polémicas políticas con cruces territoriales y provinciales generan alto interés en el debate público local.",
+      "insight": "Perfil mantuvo una cobertura específica sobre la controversia política en Córdoba que el resto de los grandes medios nacionales ignoró.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar con la palabra de los historiadores de arte que analizaron la obra hallada en Perú.",
+      "accion_sugerida": "Hacer un seguimiento de las repercusiones institucionales y éticas del teletrabajo en la administración pública.",
       "enfoques_sugeridos": [
-        "Los estudios científicos que avalan la autenticidad de la obra.",
-        "El recorrido histórico de la pintura hasta su hallazgo en Lima."
+        "Los límites legales y éticos de los funcionarios públicos que ejercen desde el exterior.",
+        "Las declaraciones de defensa de los referentes partidarios."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Una pintura encontrada en Lima podría ser un original de El Greco...",
-          "link": "https://www.perfil.com/noticias/cultura/una-pintura-encontrada-en-lima-podria-ser-un-original-de-el-greco-revelaron-los-estudios.phtml"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 0
-    },
-    {
-      "tema": "Parparo y profundización del conflicto docente en la Universidad Nacional de Córdoba (UNC)",
-      "prioridad": 0,
-      "tipo": "fortalezas_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 0,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 0,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 0,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Muestra la conflictividad universitaria en el interior, un eje central en el debate presupuestario y salarial docente.",
-      "insight": "Perfil detalla con precisión el paro de una semana en la UNC, superando el enfoque centralista de los medios porteños.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Vincular este conflicto con las discusiones generales sobre el presupuesto universitario 2027.",
-      "enfoques_sugeridos": [
-        "El endurecimiento de las medidas de fuerza de los profesores universitarios.",
-        "Impacto en el normal desarrollo de las cursadas en Córdoba."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "UNC: docentes universitarios paran por una semana...",
-          "link": "https://www.perfil.com/noticias/cordoba/unc-docentes-universitarios-paran-por-una-semana-y-se-endurece-el-conflicto.phtml"
+          "titulo": "Natalia Contini defendió a la funcionaria que factura desde Barcelona: Puede facturar desde el lugar en el cual esté",
+          "link": "https://www.perfil.com/noticias/cordoba/natalia-contini-defendio-a-la-funcionaria-que-factura-desde-barcelona-puede-facturar-desde-el-lugar-en-el-cual-este.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -1035,153 +1257,153 @@
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Prórroga y actualización de subsidios a la luz y el gas en octubre",
+      "tema": "Trágico homicidio y abuso de niña de 11 años en Berazategui",
       "prioridad": 1,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
+      "total_notas": 5,
+      "cantidad_medios": 4,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "Clarín",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Impacta directamente en el bolsillo de los hogares argentinos y en la medición de la inflación mensual.",
-      "insight": "Los portales económicos y generales cubrieron en profundidad los nuevos cuadros tarifarios, un tema ausente en la portada de Perfil.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar una guía de servicios útil para que los lectores sepan cómo impactarán los aumentos en sus facturas.",
-      "enfoques_sugeridos": [
-        "El tope de aumentos y el mantenimiento de subsidios para sectores vulnerables.",
-        "El impacto en la contención de la inflación de octubre."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Gobierno vuelca subsidios luz gas contener inflación octubre",
-          "link": "https://www.clarin.com/economia/gobierno-vuelca-subsidios-luz-gas-contener-inflacion-octubre_0_aJ2xB68e3N.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "El Gobierno extendió los descuentos en la luz y el gas...",
-          "link": "https://tn.com.ar/economia/2026/10/01/el-gobierno-extendio-los-descuentos-en-la-luz-y-el-gas-para-usuarios-con-subsidios-y-fijo-los-nuevos-aumentos-de-tarifas/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El Gobierno mantiene los subsidios la luz y el gas...",
-          "link": "https://www.ambito.com/economia/el-gobierno-mantiene-los-subsidios-la-luz-y-el-gas-octubre-y-aplica-subas-debajo-del-25-n6328745"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Resultados del ranking QS y desempeño de universidades argentinas",
-      "prioridad": 2,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Involucra a la educación superior pública y privada, un tema de alto interés para la comunidad académica y familias.",
-      "insight": "Perfil cubrió de manera acotada mientras que la competencia realizó informes detallados sobre la caída regional.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar con un informe propio sobre las razones de la pérdida de posiciones de las casas de altos estudios.",
-      "enfoques_sugeridos": [
-        "El contraste entre la permanencia de la UBA en el top 10 y el balance negativo general.",
-        "Análisis de inversión en investigación y fuga de talentos."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Ranking QS: la UBA se mantiene en el top 10 regional...",
-          "link": "https://www.lanacion.com.ar/sociedad/ranking-qs-la-uba-se-mantiene-en-el-top-10-regional-pero-el-pais-obtuvo-el-balance-mas-negativo-en-nid01102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Argentina, país de la región que cayó en ranking universidades",
-          "link": "https://www.clarin.com/sociedad/argentina-pais-region-cayo-ranking-universidades_0_vhEo3R4mOh.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Ranking QS: la UBA sigue en el top 10 regional...",
-          "link": "https://tn.com.ar/sociedad/2026/10/01/ranking-qs-la-uba-sigue-en-el-top-10-regional-pero-las-universidades-argentinas-tuvieron-la-mayor-caida-de-america-latina/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Elecciones presidenciales en Brasil (Lula vs. oposición y seguridad)",
-      "prioridad": 3,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 7,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 7,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
+      "competencia_total": 5,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
       "cobertura": {
         "Perfil": 0,
         "La Nación": 1,
         "Clarín": 1,
         "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 1
+        "TN": 2,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
       },
-      "por_que_importa": "La política del principal socio comercial de Argentina es un tema geopolítico de primer orden para nuestra audiencia.",
-      "insight": "Perfil no registró notas sobre el proceso electoral brasileño actual, mientras que la competencia lo cubre con enviados y coberturas en vivo.",
+      "por_que_importa": "Es la noticia policial de mayor impacto y conmoción social de la jornada, con un nivel de búsqueda masivo en Google que Perfil ignoró por completo.",
+      "insight": "La competencia (Clarín, La Nación, Infobae, TN) monopolizó el tráfico de la tarde con este caso, evidenciando una falla crítica en la cobertura de última hora de la redacción de Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Establecer una sección de cobertura especial sobre el escenario electoral en Brasil de cara al fin de semana.",
+      "accion_sugerida": "Asignar de inmediato a un periodista de policiales para cubrir los detalles de la autopsia, la declaración de los familiares detenidos y los pedidos de justicia de los vecinos.",
       "enfoques_sugeridos": [
-        "El impacto de la violencia y la religión en la recta final de los comicios.",
-        "La situación económica y el desempleo en la era Lula."
+        "El desglose de los resultados de la autopsia y las pruebas que incriminan al entorno familiar.",
+        "El rol de los servicios locales de asistencia y la conmoción en la comunidad de Berazategui."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Bolsonaro Jr...",
+          "titulo": "Encontraron muerta a una niña de 11 años en Berazategui: detuvieron a cuatro familiares por abandono",
+          "link": "https://www.lanacion.com.ar/seguridad/encontraron-muerta-a-una-nina-de-11-anos-en-berazategui-detuvieron-a-cuatro-familiares-nid01102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Horror en Berazategui: hallaron ahorcada y con signos de abuso sexual a una nena de 11 años y detuvieron a familiares",
+          "link": "https://www.clarin.com/policiales/horror-berazategui-hallaron-ahorcada-signos-abuso-sexual-nena-11-anos-detuvieron-familiares_0_3DZLPxX3O0.html"
+        },
+        {
+          "medio": "TN",
+          "titulo": "Golpes, una hemorragia y signos de abuso: qué reveló la autopsia de la nena de 11 años que encontraron muerta en Berazategui",
+          "link": "https://tn.com.ar/policiales/2026/10/01/golpes-una-hemorragia-y-signos-de-abuso-que-revelo-la-autopsia-de-la-nena-de-11-anos-que-encontraron-muerta-en-berazategui/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Disertación y críticas de Patricia Bullrich en el coloquio de IDEA sobre velocidad de reformas",
+      "prioridad": 2,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 5,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 4,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Las diferencias dentro de la coalición gobernante y aliada respecto al ritmo económico marcan el termómetro político del círculo rojo.",
+      "insight": "Mientras Perfil tuvo una cobertura testimonial, Clarín y La Nación instalaron en sus portales los cortocircuitos generados por las exigencias de mayor velocidad en las reformas.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Profundizar en un análisis político sobre el posicionamiento del PRO frente a las medidas de desregulación del Gobierno nacional.",
+      "enfoques_sugeridos": [
+        "El reclamo empresario de bajar el costo argentino y la respuesta del oficialismo.",
+        "El delicado juego político de Bullrich marcando agenda sin romper con Javier Milei."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Bullrich presente en IDEA: la senadora que escucha a empresarios y marca diferencias sin romper con Milei",
+          "link": "https://www.perfil.com/noticias/politica/bullrich-presente-en-idea-la-senadora-que-escucha-a-empresarios-y-marca-diferencias-sin-romper-con-milei.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Bullrich pidió velocidad para la economía y puso reparos a la estrategia oficial por la ley de tierras",
+          "link": "https://www.lanacion.com.ar/economia/bullrich-pidio-velocidad-para-la-economia-y-puso-reparos-a-la-oficial-por-la-ley-de-nid01102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Patricia Bullrich llega a IDEA con agenda propia: disertación ante empresarios y almuerzo clave electoral",
+          "link": "https://www.clarin.com/politica/patricia-bullrich-llega-idea-agenda-propia-disertacion-empresarios-almuerzo-clave-electoral_0_xDtO2X6Ghf.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 4
+    },
+    {
+      "tema": "Apertura de elecciones presidenciales y cobertura en vivo de la primera vuelta en Brasil",
+      "prioridad": 3,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 13,
+      "cantidad_medios": 6,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 13,
+      "medio_lider": "El Cronista",
+      "cobertura_medio_lider": 4,
+      "brecha": 4,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 3,
+        "Clarín": 3,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 1,
+        "El Cronista": 4
+      },
+      "por_que_importa": "Los comicios en Brasil impactan de lleno en las expectativas financieras, cambiarias y geopolíticas de la Argentina.",
+      "insight": "La competencia directa operó con coberturas en tiempo real y análisis de clima electoral, un terreno donde Perfil quedó rezagado al no contar con un seguimiento minuto a minuto.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desplegar un formato de cobertura en vivo (liveblogging) para el desarrollo de los comicios y sus repercusiones en la región.",
+      "enfoques_sugeridos": [
+        "El panorama económico y bursátil ante el fantasma de la alta abstención y la polarización.",
+        "El rol de los estados clave y las principales figuras que disputan el Senado."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Bolsonaro Jr. y las últimas noticias hoy",
           "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Elecciones Brasil 2026: candidatos presidente",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-2026-candidatos-presidente_0_lubrz2YgMP.html"
+          "titulo": "Elecciones Brasil: desinterés electoral agita fantasma abstención récord domingo",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-desinteres-electoral-agita-fantasma-abstencion-record-domingo_0_bUus6x91zH.html"
         },
         {
           "medio": "Infobae",
@@ -1191,21 +1413,21 @@
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 7
+      "cantidad_medios_competencia": 6
     }
   ],
   "analisis_completo": {
     "hipercompetencia": [
       {
-        "tema": "Incendio en la estación Constitución y demoras en el transporte",
+        "tema": "Juicio Cuadernos y difusión de imágenes de la bóveda de Cristina Kirchner",
         "prioridad": 0,
         "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
-        "total_notas": 7,
-        "cantidad_medios": 7,
+        "total_notas": 5,
+        "cantidad_medios": 5,
         "cobertura_perfil": 1,
         "perfil": 1,
-        "competencia_total": 6,
+        "competencia_total": 4,
         "medio_lider": "La Nación",
         "cobertura_medio_lider": 1,
         "brecha": 0,
@@ -1215,34 +1437,87 @@
           "Clarín": 1,
           "Infobae": 1,
           "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Afecta masivamente a la movilidad urbana del AMBA, generando alto tráfico de búsqueda en tiempo real (Google Discover).",
-        "insight": "Es una noticia de última hora que todos los medios cubren simultáneamente debido a su inmediatez e impacto en la audiencia.",
+        "por_que_importa": "Es uno de los temas judiciales y políticos de mayor impacto nacional, con alta tracción en motores de búsqueda y Google Discover.",
+        "insight": "Prácticamente todo el arco de medios nacionales cubrió la exhibición de las fotos y videos de la bóveda, lo que demuestra que la agenda judicial de alto perfil domina el tráfico.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Actualizar el minuto a minuto con foco en el estado de los trenes y la habilitación de la estación.",
+        "accion_sugerida": "Monitorear la reacción del kirchnerismo y preparar galerías interactivas o análisis jurídicos detallados para capturar la segunda ola de búsquedas.",
         "enfoques_sugeridos": [
-          "Impacto en la movilidad y desvíos para pasajeros.",
-          "Informe técnico sobre las causas del principio de incendio."
+          "El detalle técnico de las pruebas presentadas en el juicio oral y su peso probatorio.",
+          "El impacto político de la difusión de las imágenes en plena previa electoral."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Fuego en Constitución: un principio de incendio en la cabecera del Tren Roca genera demoras",
-            "link": "https://www.perfil.com/noticias/sociedad/fuego-en-constitucion-un-principio-de-incendio-en-la-cabecera-del-tren-roca-genera-demoras.phtml"
+            "titulo": "Causa cuadernos: mostraron fotos de la bóveda hallada en la casa de Cristina Kirchner en El Calafate",
+            "link": "https://www.perfil.com/noticias/judiciales/causa-cuadernos-mostraron-fotos-de-la-boveda-hallada-en-la-casa-de-cristina-kirchner-en-el-calafate.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Incendio en la estación Constitución: evacuaron la terminal y bomberos trabaja en el lugar",
-            "link": "https://www.lanacion.com.ar/sociedad/incendio-en-la-estacion-constitucion-evacuaron-la-terminal-y-bomberos-trabaja-en-el-lugar1.phtml"
+            "titulo": "Juicio del caso cuadernos: mostraron el allanamiento a una bóveda de la casa de Cristina Kirchner en",
+            "link": "https://www.lanacion.com.ar/politica/juicio-del-caso-cuadernos-mostraron-el-allanamiento-a-una-boveda-de-la-casa-de-cristina-kirchner-en-nid01102026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Susto en Constitución: se prendió fuego escalera mecánica, evacuaron estación",
-            "link": "https://www.clarin.com/ciudades/susto-constitucion-prendio-fuego-escalera-mecanica-evacuaron-estacion_0_EVxmryIwOe.html"
+            "titulo": "Caso cuadernos: mostraron imágenes de bóveda de Cristina Kirchner casa Calafate",
+            "link": "https://www.clarin.com/politica/caso-cuadernos-mostraron-imagenes-boveda-cristina-kirchner-casa-calafate_0_nmZGykOReD.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 4
+      },
+      {
+        "tema": "Escalada de tensión diplomática entre Argentina y Reino Unido por Malvinas",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 10,
+        "cantidad_medios": 7,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 9,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 2,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 2,
+          "Clarín": 2,
+          "Infobae": 1,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 2,
+          "El Cronista": 0
+        },
+        "por_que_importa": "La causa Malvinas moviliza un fuerte sentimiento nacional y genera debates geopolíticos de alto interés para la audiencia digital.",
+        "insight": "La convocatoria de la embajadora argentina en Londres y el rechazo a las acusaciones británicas unificaron la cobertura de la prensa nacional.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Profundizar en las implicancias legales del arbitraje petrolero y la postura de Estados Unidos frente al conflicto.",
+        "enfoques_sugeridos": [
+          "El trasfondo económico y la caída de acciones de las petroleras que operan en Sea Lion.",
+          "La estrategia geopolítica del Gobierno frente a la intransigencia británica."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Malvinas: el gobierno argentino rechazó las acusaciones del Reino Unido",
+            "link": "https://www.perfil.com/noticias/politica/malvinas-el-gobierno-argentino-rechazo-las-acusaciones-del-reino-unido.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "El Gobierno rechazó el reclamo de Reino Unido para frenar el arbitraje por la exploración petrolera",
+            "link": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-el-reclamo-de-reino-unido-para-frenar-el-arbitraje-por-la-exploracion-petrolera-nid01102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Causa Malvinas: EE.UU. llamó a desescalar tensión entre Argentina y Gran Bretaña",
+            "link": "https://www.clarin.com/politica/caso-malvinas-eeuu-llamo-desescalar-tension-argentina-gran-bretana-nid049dhYOBmXK.html"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1250,113 +1525,7 @@
         "cantidad_medios_competencia": 6
       },
       {
-        "tema": "Inversiones de TotalEnergies y proyectos energéticos en Vaca Muerta",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 6,
-        "cantidad_medios": 6,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 5,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 0,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 0,
-          "El Cronista": 1
-        },
-        "por_que_importa": "Involucra miles de millones de dólares bajo el régimen RIGI, un tema económico y político central para la agenda del país.",
-        "insight": "Los portales económicos y generales compiten por detallar los montos y los anuncios realizados en la Argentina Week en París.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Profundizar en el impacto fiscal y en los plazos de ejecución de las obras anunciadas.",
-        "enfoques_sugeridos": [
-          "Desglose de los 10.000 millones de dólares y su relación con el RIGI.",
-          "Repercusiones en la macroeconomía y la generación de divisas."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "TotalEnergies prepara inversiones millonarias...",
-            "link": "https://www.perfil.com/noticias/economia/totalenergies-prepara-inversiones-millonarias-argentina-proyecta-nuevos-desarrollos-vaca-muerta-tierra-del-fuego-a40.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "TotalEnergies anunció inversiones por US$10.000 millones...",
-            "link": "https://www.clarin.com/energia-y-mineria/totalenergies-anuncio-argentina-week-inversiones-us10000-millones-aplicara-rigi_0_BgsPocL2HY.html"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "TotalEnergies anunció inversiones casi US$10.000 millones...",
-            "link": "https://www.ambito.com/energia/totalenergies-anuncio-inversiones-casi-us10000-millones-y-su-ceo-destaco-poder-girar-dividendos-argentina-n6328790"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 5
-      },
-      {
-        "tema": "Fallo de la Corte Suprema y aclaraciones sobre la Ley de Tierras",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 6,
-        "cantidad_medios": 6,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 5,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 0,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 1,
-          "El Cronista": 1
-        },
-        "por_que_importa": "Genera fuerte debate institucional, cruces políticos y preocupación por la extranjerización de recursos naturales.",
-        "insight": "La aclaración de la Corte sobre el carácter procesal de su fallo movilizó a todo el arco político y periodístico.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Emitir una nota de análisis legal que explique qué cambia y qué sigue igual con el régimen vigente.",
-        "enfoques_sugeridos": [
-          "El impacto institucional de la respuesta de la Corte ante las críticas.",
-          "Reclamos de la oposición en el Congreso para frenar el DNU."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Corte responde a las críticas por la ley de tierras...",
-            "link": "https://www.perfil.com/noticias/politica/corte-responde-a-las-criticas-por-la-ley-de-tierras-la-descalificacion-y-el-odio-solo-deterioran-las-instituciones-y-la-democracia.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "La Corte defendió su fallo sobre la ley de tierras...",
-            "link": "https://www.lanacion.com.ar/politica/la-corte-defendio-su-fallo-sobre-la-ley-de-tierras-y-dijo-la-descalificacion-y-el-odio-solo-nid01102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Venta tierras extranjeros: Corte Suprema aclaró polémico fallo...",
-            "link": "https://www.clarin.com/politica/venta-tierras-extranjeros-corte-suprema-aclaro-polemico-fallo-tema-procesal-fondo-cuestion_0_fq4IfWN5di.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 5
-      },
-      {
-        "tema": "Discursos y agenda de Javier Milei en su gira por Europa (París y OCDE)",
+        "tema": "Aclaración de la Corte Suprema sobre el fallo de la Ley de Tierras y extranjerización",
         "prioridad": 0,
         "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
@@ -1378,30 +1547,30 @@
           "Página 12": 1,
           "El Cronista": 1
         },
-        "por_que_importa": "La proyección internacional del Presidente y sus promesas sobre la economía traccionan masivamente clics y debate público.",
-        "insight": "Es el tema político principal del día, con cobertura intensiva en todos los portales nacionales.",
+        "por_que_importa": "El rol de la Corte Suprema y los debates sobre soberanía y recursos naturales generan un intenso tráfico institucional y político.",
+        "insight": "Ante las críticas cruzadas, la Corte debió aclarar el alcance procesal de su fallo, generando cobertura masiva en todos los portales.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar con notas de color sobre las protestas en Francia y las repercusiones de sus declaraciones de reelección.",
+        "accion_sugerida": "Publicar un análisis de especialistas jurídicos que explique en lenguaje sencillo qué cambia y qué sigue igual para los inversores extranjeros.",
         "enfoques_sugeridos": [
-          "Las promesas de crecimiento económico para 2028 desde París.",
-          "El rechazo sindical y social durante la llegada del mandatario."
+          "El cruce político entre el oficialismo, la oposición y el máximo tribunal.",
+          "El impacto económico real de la normativa sobre las inversiones en el sector agropecuario e inmobiliario."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Paris: Javier Milei habla ante inversores...",
-            "link": "https://www.perfil.com/noticias/politica/paris-javier-milei-habla-ante-inversores-durante-la-argentina-week.phtml"
+            "titulo": "Corte responde a las críticas por la ley de tierras: la descalificación y el odio solo deterioran",
+            "link": "https://www.perfil.com/noticias/politica/corte-responde-a-las-criticas-por-la-ley-de-tierras-la-descalificacion-y-el-odio-solo-deterioran-las-instituciones-y-la-democracia.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Milei habló en París de los cambios que impulsó...",
-            "link": "https://www.lanacion.com.ar/politica/milei-hablo-en-paris-de-los-cambios-que-impulso-y-dijo-la-comparacion-con-los-anteriores-gobiernos-nid01102026/"
+            "titulo": "Tras el fallo de la Corte, Elisa Carrió reclamó a Diputados que rechace el DNU de extranjerización",
+            "link": "https://www.lanacion.com.ar/politica/tras-el-fallo-de-la-corte-elisa-carrio-reclamo-a-diputados-que-rechace-el-dnu-de-extranjerizacion-de-nid30092026/"
           },
           {
-            "medio": "TN",
-            "titulo": "Milei habló desde la Argentina Week en París...",
-            "link": "https://tn.com.ar/politica/2026/10/01/milei-hablo-desde-la-argentina-week-in-paris-si-reelegimos-2028-sera-get-mejor-ano-economico-de-la-historia/"
+            "medio": "Clarín",
+            "titulo": "Venta tierras extranjeros: Corte Suprema aclaró polémico fallo tema procesal fondo cuestión",
+            "link": "https://www.clarin.com/politica/venta-tierras-extranjeros-corte-suprema-aclaro-polemico-fallo-tema-procesal-fondo-cuestion_0_fq4IfWN5di.html"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1409,9 +1578,117 @@
         "cantidad_medios_competencia": 6
       },
       {
-        "tema": "Incidentes y cruces en el Congreso (Caso Grabois y legisladores)",
+        "tema": "Advertencias y conclusiones de la misión del FMI sobre el crecimiento económico argentino",
         "prioridad": 0,
         "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 6,
+        "cantidad_medios": 6,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 6,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 1,
+          "El Cronista": 1
+        },
+        "por_que_importa": "La relación con el organismo internacional y las proyecciones macroeconómicas son clave para la audiencia interesada en economía y finanzas.",
+        "insight": "La advertencia del FMI sobre la necesidad de que el crecimiento se distribuya equitativamente fue replicada por toda la prensa económica.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Desarrollar notas explicativas sobre el impacto de las exigencias del FMI en los sectores vulnerables y en la marcha del plan oficial.",
+        "enfoques_sugeridos": [
+          "La lectura oficial frente a los reparos del organismo multilateral.",
+          "El impacto en el empleo y la recuperación del consumo interno."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "El FMI reconoció sus inquietudes por el crecimiento de la economía argentina y habló de una",
+            "link": "https://www.lanacion.com.ar/economia/el-fmi-reconocio-sus-inquietudes-por-el-crecimiento-de-la-economia-argentina-y-hablo-de-una-nid01102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "FMI advirtió importante crecimiento amplie distribuya forma equitativa",
+            "link": "https://www.clarin.com/economia/fmi-advirtio-importante-crecimiento-amplie-distribuya-forma-equitativa_0_eO07smY52s.html"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "El FMI advirtió al Gobierno que es importante ampliar el crecimiento a los sectores rezagados",
+            "link": "https://www.ambito.com/economia/el-fmi-advirtio-al-gobierno-que-es-importante-ampliar-el-crecimiento-los-sectores-rezagados-y-los-trabajadores-n6328916"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 6
+      },
+      {
+        "tema": "Anuncio de inversiones energéticas y reuniones de Javier Milei en la Argentina Week en París",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 9,
+        "cantidad_medios": 7,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 8,
+        "medio_lider": "Página 12",
+        "cobertura_medio_lider": 2,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 2,
+          "El Cronista": 2
+        },
+        "por_que_importa": "La gira presidencial y los anuncios millonarios en el exterior traccionan alto interés en Google Discover por su tono optimista y político.",
+        "insight": "La combinación de reuniones con Emmanuel Macron, gobernadores y anuncios de TotalEnergies movilizó coberturas masivas en todos los medios.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Realizar un fact-checking de las proyecciones económicas y un desglose de los convenios firmados con empresas francesas.",
+        "enfoques_sugeridos": [
+          "El impacto de los grandes proyectos de gas y petróleo en la balanza comercial futura.",
+          "Las críticas de la oposición y las protestas sindicales en Francia contra la visita."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Clarín",
+            "titulo": "Javier Milei en vivo: el presidente habla en Argentina Week en París, reúne gobernadores y visita a Macron",
+            "link": "https://www.clarin.com/politica/javier-milei-vivo-presidente-habla-argentina-week-paris-reune-gobernadores-visita-macron_0_8yBzUrRNFu.html"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Javier Milei habló desde la Argentina Week en París: Si reelegimos, 2028 será el mejor año económico de la historia",
+            "link": "https://tn.com.ar/politica/2026/10/01/milei-hablo-desde-la-argentina-week-en-paris-si-reelegimos-2028-sera-el-mejor-ano-economico-de-la-historia/"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "En París, Javier Milei volvió a hablar de la reelección y prometió que 2028 será el mejor año económico de la historia",
+            "link": "https://www.ambito.com/economia/en-paris-javier-milei-volvio-hablar-la-reeleccion-y-prometio-que-2028-sera-el-mejor-ano-economico-la-historia-n6328747"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 6
+      }
+    ],
+    "perfil_pierde": [
+      {
+        "tema": "Disertación y críticas de Patricia Bullrich en el coloquio de IDEA sobre velocidad de reformas",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
         "total_notas": 5,
         "cantidad_medios": 5,
@@ -1428,141 +1705,33 @@
           "Infobae": 0,
           "TN": 0,
           "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 0
+          "Página 12": 0,
+          "El Cronista": 1
         },
-        "por_que_importa": "El nivel de confrontación verbal y física en el parlamento capta la atención de la audiencia interesada en la rosca política.",
-        "insight": "La escalada de declaraciones cruzadas multiplica los artículos de opinión y seguimiento en todos los medios.",
+        "por_que_importa": "Las tensiones y matices dentro del espacio no oficialista frente al rumbo económico generan gran interés político y económico.",
+        "insight": "Mientras Perfil cubrió la presencia de Bullrich de manera más protocolar, la competencia desplegó múltiples notas enfocadas en sus reparos a la estrategia oficial.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Hacer eje en las consecuencias reglamentarias y pedidos de expulsión en la Cámara baja.",
+        "accion_sugerida": "Ampliar la cobertura sobre la interna del PRO y las demandas del sector empresario respecto a la velocidad de los cambios económicos.",
         "enfoques_sugeridos": [
-          "El raid mediático de Juan Grabois tras los forcejeos.",
-          "La postura de los diputados libertarios y pedidos de sanción."
+          "El delicado equilibrio de Bullrich entre el apoyo a Milei y sus críticas al costo argentino.",
+          "La reacción del círculo rojo ante los pedidos de mayor agilidad legislativa."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Grabois habló tras su pelea con los diputados de LLA...",
-            "link": "https://www.perfil.com/noticias/politica/grabois-hablo-tras-su-pelea-con-los-diputados-de-lla-a-loco-loco-y-medio-vos-te-pensas-que-me-voy-a-dejar-correr-por-sinverguenzas.phtml"
+            "titulo": "Bullrich presente en IDEA: la senadora que escucha a empresarios y marca diferencias sin romper con Milei",
+            "link": "https://www.perfil.com/noticias/politica/bullrich-presente-in-idea-la-senadora-que-escucha-a-empresarios-y-marca-diferencias-sin-romper-con-milei.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Habló Andrea Vera, la diputada libertaria que filmó a Grabois...",
-            "link": "https://www.lanacion.com.ar/politica/hablo-andrea-vera-la-diputada-libertaria-que-filmo-a-grabois-durante-su-fuerte-cruce-en-diputados-nid01102026/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Diputados proponen expulsar a Juan Grabois...",
-            "link": "https://www.ambito.com/politica/diputados-proponen-expulsar-juan-grabois-insultar-otros-legisladores-n6328837"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 4
-      }
-    ],
-    "perfil_pierde": [
-      {
-        "tema": "Resultados del ranking QS y desempeño de universidades argentinas",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 3,
-        "cantidad_medios": 3,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 3,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Involucra a la educación superior pública y privada, un tema de alto interés para la comunidad académica y familias.",
-        "insight": "Perfil cubrió de manera acotada mientras que la competencia realizó informes detallados sobre la caída regional.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar con un informe propio sobre las razones de la pérdida de posiciones de las casas de altos estudios.",
-        "enfoques_sugeridos": [
-          "El contraste entre la permanencia de la UBA en el top 10 y el balance negativo general.",
-          "Análisis de inversión en investigación y fuga de talentos."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Ranking QS: la UBA se mantiene en el top 10 regional...",
-            "link": "https://www.lanacion.com.ar/sociedad/ranking-qs-la-uba-se-mantiene-en-el-top-10-regional-pero-el-pais-obtuvo-el-balance-mas-negativo-en-nid01102026/"
+            "titulo": "Bullrich pidió velocidad para la economía y puso reparos a la estrategia oficial por la ley de tierras",
+            "link": "https://www.lanacion.com.ar/economia/bullrich-pidio-velocidad-para-la-economia-y-puso-reparos-a-la-oficial-por-la-ley-de-nid01102026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Argentina, país de la región que cayó en ranking universidades",
-            "link": "https://www.clarin.com/sociedad/argentina-pais-region-cayo-ranking-universidades_0_vhEo3R4mOh.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Ranking QS: la UBA sigue en el top 10 regional...",
-            "link": "https://tn.com.ar/sociedad/2026/10/01/ranking-qs-la-uba-sigue-en-el-top-10-regional-pero-las-universidades-argentinas-tuvieron-la-mayor-caida-de-america-latina/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      },
-      {
-        "tema": "Liquidación de divisas del agro y exportaciones de maíz en septiembre",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 4,
-        "cantidad_medios": 4,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 4,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Es un termómetro clave para las reservas del Banco Central y la estabilidad cambiaria.",
-        "insight": "La competencia le dio un tratamiento destacado con cifras y análisis macroeconómicos profundos, superando la cobertura simple de Perfil.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar un informe de impacto sobre cómo estas cifras modifican las expectativas del BCRA para el último trimestre.",
-        "enfoques_sugeridos": [
-          "El rol del maíz en el récord de liquidación de septiembre.",
-          "Expectativas de ingreso de dólares de cara a las elecciones."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Por los embarques de maíz en septiembre creció un 17%...",
-            "link": "https://www.lanacion.com.ar/economia/campo/por-los-embarques-de-maiz-en-septiembre-crecio-un-17-la-liquidacion-de-divisas-por-exportaciones-de-nid01102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Ingresaron US$ 3.228 millones por maíz...",
-            "link": "https://www.clarin.com/rural/ingresaron-us-3228-millones-maiz-liquidacion-agro-crecio-17-septiembre_0_hUXzJTEnne.html"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "El agro liquidó US$3.228 millones septiembre...",
-            "link": "https://www.ambito.com/economia/el-agro-liquido-us3228-millones-septiembre-y-alcanzo-el-tercer-mejor-registro-25-anos-n6328761"
+            "titulo": "Patricia Bullrich llega a IDEA con agenda propia: disertación ante empresarios y almuerzo clave electoral",
+            "link": "https://www.clarin.com/politica/patricia-bullrich-llega-idea-agenda-propia-disertacion-empresarios-almuerzo-clave-electoral_0_xDtO2X6Ghf.html"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1570,52 +1739,52 @@
         "cantidad_medios_competencia": 4
       },
       {
-        "tema": "Incidente de seguridad en vuelo de Flydubai y presunto atentado",
+        "tema": "Aumento en la cotización del dólar oficial y presión sobre las reservas",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
-        "total_notas": 7,
+        "total_notas": 17,
         "cantidad_medios": 7,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 6,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 0,
+        "cobertura_perfil": 3,
+        "perfil": 3,
+        "competencia_total": 14,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 5,
+        "brecha": 2,
         "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
+          "Perfil": 3,
+          "La Nación": 2,
+          "Clarín": 0,
           "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 1,
+          "TN": 2,
+          "Ámbito": 5,
           "Página 12": 1,
-          "El Cronista": 0
+          "El Cronista": 3
         },
-        "por_que_importa": "Es una noticia internacional de alto impacto con tripulantes y pasajeros involucrados en situaciones extremas en pleno vuelo.",
-        "insight": "Varios medios publicaron coberturas múltiples con perfiles de los protagonistas, mientras Perfil tuvo menor despliegue.",
+        "por_que_importa": "El comportamiento del dólar es el indicador más consultado diariamente por la audiencia argentina en buscadores.",
+        "insight": "Perfil cubrió el dólar blue de forma aislada, mientras que los principales competidores publicaron coberturas en vivo y análisis profundos sobre la suba del oficial y los futuros.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Realizar un resumen actualizado con la palabra de las autoridades de aviación internacional y de los pasajeros héroes.",
+        "accion_sugerida": "Implementar un formato de cobertura en tiempo real (minuto a minuto) para las cotizaciones cambiarias y financieras.",
         "enfoques_sugeridos": [
-          "La investigación sobre posibles vínculos terroristas o trastornos mentales del copiloto.",
-          "El reconocimiento a los pasajeros que evitaron una tragedia."
+          "La estrategia del Banco Central frente a la menor oferta y la presión preelectoral.",
+          "El impacto de la suba del oficial en los contratos y la inflación."
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Ataque vuelo Flydubai: investigan copiloto...",
-            "link": "https://www.clarin.com/mundo/ataque-vuelo-flydubai-investigan-copiloto-actuo-terrorismo-trastorno-mental-afirman-examinando-escenarios_0_9A7dJevYAq.html"
+            "medio": "Perfil",
+            "titulo": "A cuánto cotiza el dólar blue hoy jueves 1 de octubre",
+            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-jueves-1-de-octubre.phtml"
           },
           {
-            "medio": "Infobae",
-            "titulo": "Las personas indicadas en el momento indicado...",
-            "link": "https://www.infobae.com/america/mundo/2026/10/01/las-personas-indicadas-en-el-momento-indicado-como-cuatro-pasajeros-israelies-evitaron-que-se-estrellara-el-vuelo-de-flydubai/"
+            "medio": "La Nación",
+            "titulo": "El dólar oficial muestra una leve suba y vuelve a su valor más alto del año",
+            "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-oficial-muestra-una-leve-suba-y-vuelve-a-su-valor-mas-alto-del-ano-nid01102026/"
           },
           {
             "medio": "Ámbito",
-            "titulo": "Gritos, pánico y golpes: así fueron dramáticos minutos...",
-            "link": "https://www.ambito.com/mundo/gritos-panico-y-golpes-asi-fueron-dramaticos-minutos-bordo-del-vuelo-flydubai-n6328781"
+            "titulo": "El dólar abre octubre en $1.517 y la City mira de cerca la compra de reservas",
+            "link": "https://www.ambito.com/finanzas/el-dolar-abre-octubre-1517-y-la-city-mira-cerca-la-compra-reservas-n6328786"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1623,97 +1792,153 @@
         "cantidad_medios_competencia": 6
       },
       {
-        "tema": "Femicidio y hallazgo de menor asesinada en Berazategui",
+        "tema": "Detención del fiscal general de Bolivia y exministro por vínculos con el narcotráfico",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
-        "total_notas": 2,
-        "cantidad_medios": 2,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 2,
-        "medio_lider": "Clarín",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
+        "total_notas": 6,
+        "cantidad_medios": 4,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 5,
+        "medio_lider": "Infobae",
+        "cobertura_medio_lider": 3,
+        "brecha": 2,
         "cobertura": {
-          "Perfil": 0,
+          "Perfil": 1,
           "La Nación": 0,
           "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
+          "Infobae": 3,
+          "TN": 0,
           "Ámbito": 0,
-          "Página 12": 0,
+          "Página 12": 1,
           "El Cronista": 0
         },
-        "por_que_importa": "Los casos policiales de extrema gravedad generan alto tráfico y lectura sostenida en las secciones de sociedad y policiales.",
-        "insight": "La competencia cubrió con detalles de autopsia y detenciones en simultáneo, superando la cobertura general de Perfil.",
+        "por_que_importa": "Los escándalos de corrupción y narcotráfico en países vecinos generan alto tráfico internacional en Google Discover.",
+        "insight": "Perfil se limitó a una nota breve, en tanto medios como Infobae y Clarín desplegaron seguimientos detallados y perfiles de los implicados.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Hacer un seguimiento riguroso de las pericias y las declaraciones de los familiares.",
+        "accion_sugerida": "Ampliar la mesa internacional para dar cobertura de última hora a los grandes sacudones políticos de la región.",
         "enfoques_sugeridos": [
-          "Los resultados de la autopsia y los elementos probatorios.",
-          "El avance de la detención del entorno familiar."
+          "Las derivaciones judiciales y el pedido de extradición de Estados Unidos.",
+          "El impacto político para el gobierno boliviano en año electoral."
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Horror Berazategui: hallaron ahorcada con signos abuso...",
-            "link": "https://www.clarin.com/policiales/horror-berazategui-hallaron-ahorcada-signos-abuso-sexual-nena-11-anos-detuvieron-familiares_0_3DZLPxX3O0.html"
+            "medio": "Perfil",
+            "titulo": "Detuvieron al fiscal general de Bolivia y al exministro Eduardo del Castillo por una investigación sobre presuntos vínculos con el narcotráfico",
+            "link": "https://www.perfil.com/noticias/internacional/detuvieron-al-fiscal-general-de-bolivia-y-al-exministro-eduardo-del-castillo-por-una-investigacion-sobre-presuntos-vinculos-con-el-narcotraf.phtml"
           },
           {
-            "medio": "TN",
-            "titulo": "Golpes, una hemorragia y signos de abuso...",
-            "link": "https://tn.com.ar/policiales/2026/10/01/golpes-una-hemorragia-y-signos-de-abuso-que-revelo-la-autopsia-de-la-nena-de-11-anos-que-encontraron-muerta-en-berazategui/"
+            "medio": "Clarín",
+            "titulo": "Detienen fiscal general Bolivia acusado Estados Unidos vínculos narcotráfico",
+            "link": "https://www.clarin.com/mundo/detienen-fiscal-general-bolivia-acusado-estados-unidos-vinculos-narcotrafico_0_KHckXKFhKI.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Uno a uno: quiénes son los detenidos vinculados al narcotráfico que identificó el gobierno de Bolivia",
+            "link": "https://www.infobae.com/america/america-latina/2026/10/01/uno-a-uno-quienes-son-los-detenidos-vinculados-al-narcotrafico-que-identifico-el-gobierno-de-bolivia/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 2
-      }
-    ],
-    "sin_cobertura_perfil": [
+        "cantidad_medios_competencia": 3
+      },
       {
-        "tema": "Elecciones presidenciales en Brasil (Lula vs. oposición y seguridad)",
+        "tema": "Incidente e investigación sobre el vuelo de Flydubai y declaraciones de Netanyahu",
         "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
+        "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
-        "total_notas": 7,
-        "cantidad_medios": 7,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 7,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
+        "total_notas": 15,
+        "cantidad_medios": 5,
+        "cobertura_perfil": 2,
+        "perfil": 2,
+        "competencia_total": 13,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 5,
+        "brecha": 3,
         "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 1,
+          "Perfil": 2,
+          "La Nación": 4,
+          "Clarín": 3,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 5,
           "Página 12": 1,
-          "El Cronista": 1
+          "El Cronista": 0
         },
-        "por_que_importa": "La política del principal socio comercial de Argentina es un tema geopolítico de primer orden para nuestra audiencia.",
-        "insight": "Perfil no registró notas sobre el proceso electoral brasileño actual, mientras que la competencia lo cubre con enviados y coberturas en vivo.",
+        "por_que_importa": "Las historias de suspenso aéreo, terrorismo y seguridad internacional tienen un rendimiento excepcional en redes y Discover.",
+        "insight": "La competencia abordó el caso desde múltiples ángulos (perfil del piloto, hipótesis de terrorismo y seguridad aérea), superando la cobertura puntual de Perfil.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Establecer una sección de cobertura especial sobre el escenario electoral en Brasil de cara al fin de semana.",
+        "accion_sugerida": "Construir notas de contexto y 'minuto a minuto' cuando ocurran eventos de alto impacto global en aerolíneas comerciales.",
         "enfoques_sugeridos": [
-          "El impacto de la violencia y la religión en la recta final de los comicios.",
-          "La situación económica y el desempleo en la era Lula."
+          "Las fallas en los protocolos de seguridad de las cabinas comerciales.",
+          "Las declaraciones cruzadas entre autoridades israelíes y de Omán sobre el copiloto."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Netanyahu afirma que el piloto que quiso estrellar el avión pasó por adoctrinamiento islámica radical",
+            "link": "https://www.perfil.com/noticias/internacional/netanyahu-afirma-que-el-piloto-que-quiso-estrellar-el-avion-paso-por-adoctrinamiento-islamica-radical.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Terror en avión de Flydubai en vivo: apuñalaron a un piloto en un vuelo a Israel y lograron aterrizar",
+            "link": "https://www.lanacion.com.ar/el-mundo/terror-en-avion-de-flyubai-in-vivo-apunalaron-a-un-piloto-en-un-vuelo-a-israel-y-lograron-aterrizar-nid30092026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Ataque vuelo Flydubai: investigan copiloto actuó terrorismo trastorno mental afirman examinando escenarios",
+            "link": "https://www.clarin.com/mundo/ataque-vuelo-flydubai-investigan-copiloto-actuo-terrorismo-trastorno-mental-afirman-examinando-escenarios_0_9A7dJevYAq.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 4
+      },
+      {
+        "tema": "Apertura de elecciones presidenciales y cobertura en vivo de la primera vuelta en Brasil",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 13,
+        "cantidad_medios": 6,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 13,
+        "medio_lider": "El Cronista",
+        "cobertura_medio_lider": 4,
+        "brecha": 4,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 3,
+          "Clarín": 3,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 1,
+          "El Cronista": 4
+        },
+        "por_que_importa": "Los comicios en el principal socio comercial de Argentina determinan la agenda geopolítica y económica sudamericana.",
+        "insight": "La Nación, Clarín e Infobae montaron coberturas en vivo desde temprano, mientras que Perfil careció de un seguimiento en tiempo real de la jornada electoral brasileña.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Diseñar coberturas especiales con blogs en vivo para las citas electorales de la región.",
+        "enfoques_sugeridos": [
+          "El impacto de la polarización entre Lula y la oposición en los mercados financieros.",
+          "El fantasma de la abstención récord y su lectura política."
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Bolsonaro Jr...",
+            "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Bolsonaro Jr. y las últimas noticias hoy",
             "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Elecciones Brasil 2026: candidatos presidente",
-            "link": "https://www.clarin.com/mundo/elecciones-brasil-2026-candidatos-presidente_0_lubrz2YgMP.html"
+            "titulo": "Elecciones Brasil: desinterés electoral agita fantasma abstención récord domingo",
+            "link": "https://www.clarin.com/mundo/elecciones-brasil-desinteres-electoral-agita-fantasma-abstencion-record-domingo_0_bUus6x91zH.html"
           },
           {
             "medio": "Infobae",
@@ -1723,108 +1948,216 @@
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 7
-      },
+        "cantidad_medios_competencia": 6
+      }
+    ],
+    "sin_cobertura_perfil": [
       {
-        "tema": "Ejecución fallida con inyección letal a Christa Pike en Estados Unidos",
+        "tema": "Trágico homicidio y abuso de niña de 11 años en Berazategui",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
-        "total_notas": 3,
-        "cantidad_medios": 3,
+        "total_notas": 5,
+        "cantidad_medios": 4,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 3,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
+        "competencia_total": 5,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 2,
+        "brecha": 2,
         "cobertura": {
           "Perfil": 0,
           "La Nación": 1,
           "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
+          "Infobae": 1,
+          "TN": 2,
           "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Las historias de crónica internacional insólitas o depenales extremos tienen altísimo rendimiento en Google Discover.",
-        "insight": "Múltiples medios cubrieron el inusual suceso de la reclusa que sobrevivió a la inyección, evidenciando un vacío en Perfil.",
+        "por_que_importa": "Los casos policiales de gran crudeza y conmoción social generan picos masivos de audiencia y consumo en buscadores.",
+        "insight": "Perfil ignoró por completo un hecho que monopolizó la sección policial y de impacto social en Clarín, La Nación e Infobae.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Redactar un perfil de la reclusa y un análisis médico-legal sobre las fallas en los procedimientos de ejecución en EE.UU.",
+        "accion_sugerida": "Establecer alertas rojas en la redacción policial para no quedar rezagados en crímenes de conmoción pública.",
         "enfoques_sugeridos": [
-          "Los detalles médicos de la supervivencia a dos inyecciones letales.",
-          "El debate ético y legal en torno a la pena de muerte en Tennessee."
+          "Los detalles de la autopsia y el avance de la investigación sobre los familiares detenidos.",
+          "Los reclamos de justicia de los vecinos y el rol de los organismos de protección infantil."
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Aseguran que Christa Pike sobrevivió a dos inyecciones letales...",
-            "link": "https://www.lanacion.com.ar/estados-unidos/aseguran-que-christa-pike-sobrevivio-a-dos-inyecciones-letales-durante-su-ejecucion-en-tennessee-nid01102026/"
+            "titulo": "Encontraron muerta a una niña de 11 años en Berazategui: detuvieron a cuatro familiares por abandono",
+            "link": "https://www.lanacion.com.ar/seguridad/encontraron-muerta-a-una-nina-de-11-anos-en-berazategui-detuvieron-a-cuatro-familiares-nid01102026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Ejecución desconcierto: Christa Pike en Tennessee...",
-            "link": "https://www.clarin.com/mundo/ejecucion-desconcierto-christa-pike-tennessee-aplicaron-inyecciones-letales-sigue-vida_0_1nLA2x6dkU.html"
+            "titulo": "Horror en Berazategui: hallaron ahorcada y con signos de abuso sexual a una nena de 11 años y detuvieron a familiares",
+            "link": "https://www.clarin.com/policiales/horror-berazategui-hallaron-ahorcada-signos-abuso-sexual-nena-11-anos-detuvieron-familiares_0_3DZLPxX3O0.html"
           },
           {
-            "medio": "TN",
-            "titulo": "Estados Unidos: la mujer condenada por torturar...",
-            "link": "https://tn.com.ar/internacional/2026/10/01/estados-unidos-la-mujer-condenada-por-torturar-y-matar-a-una-joven-sobrevivio-al-intento-de-ejecucion-y-fue-hospitalizada/"
+            "medio": "Infobae",
+            "titulo": "Muerte en Berazategui: cómo encontraron a la nena de 11 años fallecida y por qué la Justicia sospecha de su familia",
+            "link": "https://www.infobae.com/sociedad/policiales/2026/10/01/muerte-en-berazategui-como-encontraron-a-la-nena-de-11-anos-fallecida-y-por-que-la-justicia-sospecha-de-su-familia/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
+        "cantidad_medios_competencia": 4
       },
       {
-        "tema": "Prórroga y actualización de subsidios a la luz y el gas en octubre",
+        "tema": "Caída de universidades argentinas en el ranking internacional QS de educación superior",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
-        "total_notas": 3,
+        "total_notas": 5,
+        "cantidad_medios": 5,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 4,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 1
+        },
+        "por_que_importa": "El estado de la educación pública y el prestigio internacional de las universidades genera debate y alto tráfico en la comunidad académica.",
+        "insight": "La competencia destacó el retroceso general del sistema universitario argentino pese a la permanencia de la UBA en el top 10, un ángulo ausente en Perfil.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Entrevistar a rectores y especialistas educativos para analizar las causas de la pérdida de posiciones a nivel regional.",
+        "enfoques_sugeridos": [
+          "El impacto del recorte presupuestario y la falta de inversión en investigación.",
+          "La comparación con los sistemas educativos de Brasil, Chile y México."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Clarín",
+            "titulo": "Argentina es el país de la región que más cayó en el ranking de universidades",
+            "link": "https://www.clarin.com/sociedad/argentina-pais-region-cayo-ranking-universidades_0_vhEo3R4mOh.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Por qué las universidades argentinas registraron la mayor caída de América Latina en el ranking QS, según los especialistas",
+            "link": "https://www.infobae.com/educacion/2026/10/01/por-que-las-universidades-argentinas-registraron-la-mayor-caida-de-america-latina-en-el-ranking-qs-segun-los-especialistas/"
+          },
+          {
+            "medio": "El Cronista",
+            "titulo": "La UBA volvió a ubicarse entre las 10 mejores universidades de América Latina, pero Argentina cayó en la región",
+            "link": "https://www.cronista.com/informacion-gral/la-uba-volvio-a-ubicarse-entre-las-10-mejores-universidades-de-america-latina-pero-argentina-cayo-en-la-región/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 4
+      },
+      {
+        "tema": "Boda secreta de Jim Carrey con la cantante Min Ah",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 5,
+        "cantidad_medios": 4,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 5,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 2,
+        "brecha": 2,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 2,
+          "Clarín": 0,
+          "Infobae": 1,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Las noticias de espectáculos internacionales y romances de Hollywood tienen un rendimiento excelente y viral en redes sociales.",
+        "insight": "Varios medios de gran llegada cubrieron el enlace sorpresa del actor, mientras Perfil omitió por completo la novedad de farándula internacional.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Incorporar alertas de agencias internacionales de espectáculos para capturar tráfico de lectores de cultura pop.",
+        "enfoques_sugeridos": [
+          "El perfil de Min Ah y la historia de la pareja mantenida en total hermetismo.",
+          "El regreso de Jim Carrey a los primeros portales de noticias."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Jim Carrey se casó con la cantante Min Ah, 31 años menor: la historia de amor que mantuvieron oculta",
+            "link": "https://www.lanacion.com.ar/espectaculos/jim-carrey-se-caso-con-la-cantante-min-ah-31-anos-menor-la-historia-de-amor-que-mantuvieron-oculta-nid01102026/"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Quién es Min Ah, la nueva esposa de Jim Carrey",
+            "link": "https://www.infobae.com/entretenimiento/2026/10/01/quien-es-min-ah-la-nueva-esposa-de-jim-carrey/"
+          },
+          {
+            "medio": "TN",
+            "titulo": "Sorpresa en Hollywood: Jim Carrey se casó en secreto con Min Ah, su novia 31 años menor que él",
+            "link": "https://tn.com.ar/show/hollywood/2026/10/01/sorpresa-en-hollywood-jim-carrey-se-caso-en-secreto-con-min-ah-su-novia-31-anos-menor-que-el/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 4
+      },
+      {
+        "tema": "Apelación de fondos buitre ante la Corte Suprema de EE.UU. por el juicio de YPF",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 4,
         "cantidad_medios": 3,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 3,
-        "medio_lider": "Clarín",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
+        "competencia_total": 4,
+        "medio_lider": "El Cronista",
+        "cobertura_medio_lider": 2,
+        "brecha": 2,
         "cobertura": {
           "Perfil": 0,
           "La Nación": 0,
           "Clarín": 1,
           "Infobae": 0,
           "TN": 1,
-          "Ámbito": 1,
+          "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "El Cronista": 2
         },
-        "por_que_importa": "Impacta directamente en el bolsillo de los hogares argentinos y en la medición de la inflación mensual.",
-        "insight": "Los portales económicos y generales cubrieron en profundidad los nuevos cuadros tarifarios, un tema ausente en la portada de Perfil.",
+        "por_que_importa": "El juicio por la expropiación de YPF representa un pasivo potencial gigantesco y desvela al mercado financiero argentino.",
+        "insight": "La jugada procesal de Burford fue cubierta por Cronista, TN y Clarín, evidenciando un bache en la sección económica de Perfil.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar una guía de servicios útil para que los lectores sepan cómo impactarán los aumentos en sus facturas.",
+        "accion_sugerida": "Consultar a analistas de Wall Street para evaluar las chances reales de que la Corte norteamericana tome el caso.",
         "enfoques_sugeridos": [
-          "El tope de aumentos y el mantenimiento de subsidios para sectores vulnerables.",
-          "El impacto en la contención de la inflación de octubre."
+          "Los argumentos presentados por Burford para revertir el fallo adverso.",
+          "El impacto de la noticia en la cotización de los bonos y acciones de la petrolera estatal."
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Gobierno vuelca subsidios luz gas contener inflación octubre",
-            "link": "https://www.clarin.com/economia/gobierno-vuelca-subsidios-luz-gas-contener-inflacion-octubre_0_aJ2xB68e3N.html"
+            "titulo": "Juicio YPF: Burford presentó corte suprema EE.UU. Argentina revertir fallo",
+            "link": "https://www.clarin.com/economia/juicio-ypf-burford-presento-corte-suprema-eeuu-argentina-revertir-fallo_0_6ZS83Cc0cG.html"
           },
           {
             "medio": "TN",
-            "titulo": "El Gobierno extendió los descuentos en la luz y el gas...",
-            "link": "https://tn.com.ar/economia/2026/10/01/el-gobierno-extendio-los-descuentos-en-la-luz-y-el-gas-para-usuarios-con-subsidios-y-fijo-los-nuevos-aumentos-de-tarifas/"
+            "titulo": "Los fondos que perdieron el juicio por YPF presentaron una apelación ante la Corte Suprema de EE.UU.",
+            "link": "https://tn.com.ar/economia/2026/10/01/los-fondos-que-perdieron-el-juicio-por-ypf-presentaron-una-apelacion-ante-la-corte-suprema-de-eeuu/"
           },
           {
-            "medio": "Ámbito",
-            "titulo": "El Gobierno mantiene los subsidios la luz y el gas...",
-            "link": "https://www.ambito.com/economia/el-gobierno-mantiene-los-subsidios-la-luz-y-el-gas-octubre-y-aplica-subas-debajo-del-25-n6328745"
+            "medio": "El Cronista",
+            "titulo": "Tras avanzar en el Ciadi, Burford mueve otra ficha en la disputa por la expropiación de YPF",
+            "link": "https://www.cronista.com/economia-politica/tras-avanzar-en-el-ciadi-burford-mueve-otra-ficha-en-la-disputa-por-la-expropiacion-de-ypf/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1832,46 +2165,46 @@
         "cantidad_medios_competencia": 3
       },
       {
-        "tema": "Reglamentación del Fondo de Cese Laboral (FAL) por ARCA",
+        "tema": "Reglamentación del Fondo de Asistencia Laboral (FAL) por parte de ARCA",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
-        "total_notas": 2,
+        "total_notas": 8,
         "cantidad_medios": 2,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 2,
+        "competencia_total": 8,
         "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
+        "cobertura_medio_lider": 5,
+        "brecha": 5,
         "cobertura": {
           "Perfil": 0,
           "La Nación": 0,
           "Clarín": 0,
           "Infobae": 0,
           "TN": 0,
-          "Ámbito": 1,
+          "Ámbito": 5,
           "Página 12": 0,
-          "El Cronista": 1
+          "El Cronista": 3
         },
-        "por_que_importa": "Modifica las condiciones laborales y de indemnizaciones en el mercado formal argentino, interesando a empleadores y sindicatos.",
-        "insight": "Es una novedad legislativa y de gestión clave que la competencia abordó con guías e informes técnicos detallados.",
+        "por_que_importa": "Las nuevas normativas sobre aportes patronales y regímenes laborales interesan directamente a empleadores, PyMEs y trabajadores.",
+        "insight": "Ámbito y El Cronista detallaron con precisión los porcentajes y plazos del nuevo fondo de cese, un tema clave de servicio económico ausente en Perfil.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Desarrollar un explicativo paso a paso sobre cómo funcionarán los aportes patronales y los despidos a partir de noviembre.",
+        "accion_sugerida": "Publicar una guía de preguntas y respuestas sobre el funcionamiento del FAL y cómo impacta en los recibos de sueldo y cargas sociales.",
         "enfoques_sugeridos": [
-          "Las claves operativas dispuestas por ARCA para el nuevo régimen.",
-          "El impacto financiero para las empresas y los trabajadores."
+          "El porcentaje de contribución que deberán asumir las empresas desde noviembre.",
+          "La recepción del régimen por parte de los sindicatos y las cámaras empresarias."
         ],
         "ejemplos": [
           {
             "medio": "Ámbito",
-            "titulo": "ARCA reglamentó el FAL: cómo y cuándo deberán aportar...",
-            "link": "https://www.ambito.com/economia/arca-reglamento-el-fal-como-y-cuando-deberan-aportar-los-empleadores-n6328741"
+            "titulo": "ARCA reglamentó el FAL: las claves del nuevo régimen que entra en vigencia el 1ro noviembre",
+            "link": "https://www.ambito.com/economia/arca-reglamento-el-fal--las-claves-del-nuevo-regimen-que-entra-vigencia-el-1ro-noviembre-n6328828"
           },
           {
             "medio": "El Cronista",
-            "titulo": "ARCA definió los detalles del FAL: cómo funcionarán...",
+            "titulo": "ARCA definió los detalles del FAL: cómo funcionarán los fondos para despidos",
             "link": "https://www.cronista.com/economia-politica/arca-definio-los-detalles-del-fal-como-funcionaran-los-fondos-para-despidos/"
           }
         ],
@@ -1882,42 +2215,42 @@
     ],
     "oportunidades": [
       {
-        "tema": "Alerta meteorológica por vientos fuertes y temporal en provincias",
+        "tema": "Aumento patrimonial de Alice Walton y creación de facultad de medicina gratuita",
         "prioridad": 0,
         "tipo": "oportunidades",
-        "tipo_de_oportunidad": "SEO de Servicios y Clima",
+        "tipo_de_oportunidad": "Cobertura Internacional de Impacto / Filantropía",
         "total_notas": 1,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
         "perfil": 0,
         "competencia_total": 1,
-        "medio_lider": "La Nación",
+        "medio_lider": "Clarín",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 0,
+          "La Nación": 0,
+          "Clarín": 1,
           "Infobae": 0,
           "TN": 0,
           "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Atrae un caudal enorme de tráfico orgánico rápido y de corto plazo, ideal para posicionar al medio en coberturas de servicio.",
-        "insight": "La competencia aprovecha los reportes oficiales del SMN para captar lectores que buscan información sobre el clima en sus regiones.",
+        "por_que_importa": "Las historias sobre los hombres y mujeres más ricos del mundo y sus donaciones masivas atraen lectores interesados en economía internacional y curiosidades.",
+        "insight": "Ningún otro medio além de Clarín abordó el tema en esta jornada, lo que representa una ventana única para replicar o profundizar con un enfoque propio.",
         "motivo": "",
-        "motivo_oportunidad": "Las alertas del SMN generan búsquedas masivas y sostenidas en Google Discover y buscadores. Perfil no tiene cobertura activa sobre el mapa de provincias afectadas.",
-        "accion_sugerida": "Publicar un servicio actualizado con el listado completo de provincias bajo alerta amarilla y recomendaciones de seguridad.",
+        "motivo_oportunidad": "Clarín publicó una nota sobre la multimillonaria y su inversión filantrópica. Perfil no la cubrió, y tiene gran potencial de tráfico en secciones de tendencias y negocios globales.",
+        "accion_sugerida": "Traducir y adaptar un perfil sobre el patrimonio de la familia Walton y el impacto de su nueva universidad de medicina.",
         "enfoques_sugeridos": [
-          "Mapa interactivo y zonas con mayores ráfagas de viento.",
-          "Recomendaciones de Defensa Civil para evitar accidentes."
+          "Cómo se compone la fortuna de la heredera de Walmart y su relación con la filantropía moderna.",
+          "El modelo de educación médica gratuita en Estados Unidos."
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Hay alerta amarilla por vientos fuertes para este jueves 1 de octubre...",
-            "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-vientos-fuertes-para-este-jueves-1-de-octubre-las-provincias-afectadas-nid01102026/"
+            "medio": "Clarín",
+            "titulo": "Mujer rica mundo Alice Walton acerca 120 mil millones dólares aumento patrimonial...",
+            "link": "https://www.clarin.com/estados-unidos/mujer-rica-mundo-alice-walton-acerca-120-mil-millones-dolares-aumento-patrimonial-33-mil-millones-facultad-medicina-gratuita-inversion-250-millones-dolares-marca-nuevo-capitulo-labor-filantropica_0_81CERf9x6a.html"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1925,10 +2258,139 @@
         "cantidad_medios_competencia": 1
       },
       {
-        "tema": "Aumento de tarifas en el ferry de Nueva York por costos de combustible",
+        "tema": "Despegue de la misión espacial Crew-13 hacia la Estación Espacial Internacional",
         "prioridad": 0,
         "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Tendencia Internacional de Consumo",
+        "tipo_de_oportunidad": "Ciencia y Tecnología / Descubrimientos",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "La exploración espacial despierta curiosidad transversal en audiencias de todas las edades.",
+        "insight": "Hay una baja oferta temática de ciencia dura en los portales locales hoy, por lo que destacar esta misión posiciona al medio en innovación.",
+        "motivo": "",
+        "motivo_oportunidad": "Clarín cubrió el lanzamiento espacial. Perfil no lo registró y este tipo de contenidos funciona muy bien en Google Discover por su atractivo visual y de ciencia ficción.",
+        "accion_sugerida": "Publicar un artículo breve con los objetivos científicos de la misión Crew-13 y los tiempos récord de viaje.",
+        "enfoques_sugeridos": [
+          "Los detalles técnicos del viaje más rápido desde la Tierra hacia la Estación Espacial.",
+          "Los experimentos que llevarán a bordo los astronautas."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Clarín",
+            "titulo": "Despega la misión Crew-13 para intentar el viaje más rápido de EE.UU. a la Estación Espacial",
+            "link": "https://www.clarin.com/estados-unidos/despega-la-mision-crew-13-para-intentar-el-viaje-mas-rapido-de-eeuu-a-la-estacion-espacial_0_2RFfOFEI0u.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Hallazgo arqueológico de la histórica escuela donde Aristóteles educó a Alejandro Magno en Grecia",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Cultura e Historia / Descubrimientos",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Conecta la filosofía antigua con la arqueología moderna, un nicho muy valorado por lectores fieles.",
+        "insight": "Es una temática que no caduca rápidamente y rinde de forma sostenida en redes sociales durante el fin de semana.",
+        "motivo": "",
+        "motivo_oportunidad": "Clarín publicó el hallazgo en Grecia. Perfil no lo tiene y los contenidos históricos de alto nivel cultural generan permanencia en lectura y comparten muy bien.",
+        "accion_sugerida": "Redactar una nota cultural detallando la ubicación del descubrimiento y su importancia para la historia clásica.",
+        "enfoques_sugeridos": [
+          "Cómo lograron los arqueólogos identificar el sitio exacto de la escuela aristotélica.",
+          "El vínculo pedagógico entre Aristóteles y Alejandro Magno."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Clarín",
+            "titulo": "Hallan en Grecia escuela Aristóteles educó Alejandro Magno",
+            "link": "https://www.clarin.com/internacional/hallan-grecia-escuela-aristoteles-educo-alejandro-magno_0_Gs2XqiAGCy.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Germinación exitosa de una palmera extinta a partir de semillas de 2.000 años de antigüedad",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Ciencia / Naturaleza y Medio Ambiente",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "Clarín",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Combina historia antigua, botánica y ciencia ficción hecha realidad, capturando la atención masiva de los lectores.",
+        "insight": "Los contenidos de resurrección de especies o hallazgos biológicos milenarios poseen una altísima tasa de clics en dispositivos móviles.",
+        "motivo": "",
+        "motivo_oportunidad": "Clarín destacó este hito científico. Perfil no lo cubrió y este tipo de notas 'insólitas pero científicas' tienen un rendimiento excelente en Google Discover.",
+        "accion_sugerida": "Desarrollar una nota ágil explicando el proceso de laboratorio mediante el cual lograron revivir las semillas.",
+        "enfoques_sugeridos": [
+          "El secreto detrás de la conservación de material genético durante dos milenios.",
+          "Las propiedades de la palmera judea que los científicos lograron rescatar."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Clarín",
+            "titulo": "Un puñado semillas 2000 años antigüedad resucitaron palmera extinta",
+            "link": "https://www.clarin.com/internacional/punado-semillas-2000-anos-antiguedad-resucitaron-palmera-extinta_0_nNLcvWcT4R.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Exilio de periodista cubano hacia Brasil tras presión del régimen",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Derechos Humanos / Internacionales",
         "total_notas": 1,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
@@ -1947,106 +2409,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Funciona muy bien en secciones de curiosidades y tendencias internacionales de movilidad.",
-        "insight": "Infobae suele cubrir estas noticias de servicio exterior que atraen clics por la curiosidad sobre tarifas en metrópolis.",
+        "por_que_importa": "Visibiliza la situación de la libertad de prensa y los derechos humanos en América Latina.",
+        "insight": "Las historias de persecución y éxodo político conectan fuertemente con la línea editorial de análisis internacional.",
         "motivo": "",
-        "motivo_oportunidad": "Permite captar el interés de lectores ávidos de noticias de ciudades globales y costos de transporte urbano.",
-        "accion_sugerida": "Redactar una nota breve sobre el impacto del combustible en los transportes acuáticos de grandes ciudades.",
+        "motivo_oportunidad": "Infobae cubrió la huida del periodista cubano Austin Llerandi. Perfil no lo registró, desaprovechando una historia humana y política de gran sensibilidad.",
+        "accion_sugerida": "Ampliar el despacho de agencia y redactar un artículo sobre el hostigamiento a la prensa independiente en Cuba.",
         "enfoques_sugeridos": [
-          "Comparativa de aumentos en servicios de transporte en EE.UU.",
-          "El impacto para los usuarios diarios del servicio."
+          "El ultimátum del régimen y la decisión de escapar con su esposa embarazada.",
+          "El rol de Brasil como destino de refugio para disidentes caribeños."
         ],
         "ejemplos": [
           {
             "medio": "Infobae",
-            "titulo": "El NYC Ferry subirá la tarifa básica a USD 5...",
-            "link": "https://www.infobae.com/estados-unidos/2026/10/01/el-nyc-ferry-subira-la-tarifa-basica-a-usd-5-frente-al-aumento-del-costo-del-combustible/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 1
-      },
-      {
-        "tema": "Inauguración de la muestra inmersiva de Mafalda",
-        "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Cultura y Entretenimiento Masivo",
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 1,
-        "medio_lider": "Infobae",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 0,
-          "Clarín": 0,
-          "Infobae": 1,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Atrae a un público amplio interesado en propuestas culturales familiares y exposiciones artísticas en CABA.",
-        "insight": "Infobae apostó a cubrir la experiencia inmersiva como un plan destacado de fin de semana.",
-        "motivo": "",
-        "motivo_oportunidad": "Mafalda es un ícono cultural argentino con altísimo poder nostálgico y tracción en redes sociales y buscadores.",
-        "accion_sugerida": "Armar una guía con precios, horarios y detalles de la muestra para posicionarla en recomendaciones de ocio.",
-        "enfoques_sugeridos": [
-          "Recorrido interactivo por el universo de Quino.",
-          "Testimonios de los primeros visitantes y fanáticos."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Infobae",
-            "titulo": "Mafalda inmersiva: la muestra que da vida a los personajes de Quino...",
-            "link": "https://www.infobae.com/teleshow/2026/10/01/mafalda-inmersiva-la-muestra-que-da-vida-a-los-personajes-de-quino-y-emociona-a-los-fans-lo-mejor-del-ser-argentino/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 1
-      },
-      {
-        "tema": "Incremento de incendios forestales en la Amazonía brasileña",
-        "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Medio Ambiente y Cambio Climático",
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 1,
-        "medio_lider": "Infobae",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 0,
-          "Clarín": 0,
-          "Infobae": 1,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "",
-        "insight": "Infobae destacó el salto estadístico de los focos ígneos en septiembre, un dato de relevancia continental.",
-        "motivo": "",
-        "motivo_oportunidad": "Los temas de catástrofes ambientales regionales interesan fuertemente al segmento de lectores preocupados por la ecología.",
-        "accion_sugerida": "Publicar un informe ambiental sobre las consecuencias climáticas de los incendios en el pulmón verde de Sudamérica.",
-        "enfoques_sugeridos": [
-          "El salto del 74% en los registros de incendios según agencias.",
-          "Consecuencias en la biodiversidad y políticas de control."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Infobae",
-            "titulo": "Los incendios en la Amazonía brasileña se disparan un 74% en septiembre",
-            "link": "https://www.infobae.com/america/agencias/2026/10/01/los-incendios-en-la-amazonia-brasilena-se-disparan-un-742-en-septiembre/"
+            "titulo": "Cárcel o exilio: Austin Llerandi, periodista cubano, huye a Brasil con su esposa embarazada tras ultimátum del régimen",
+            "link": "https://www.infobae.com/cuba/2026/10/01/carcel-o-exilio-austin-llerandi-periodista-cubano-huye-a-brasil-con-su-esposa-embarazada-tras-ultimatum-del-regimen/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2056,42 +2432,153 @@
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Salud pública y estadísticas de Hepatitis C",
+        "tema": "Reporte de casos de hepatitis C en Argentina y advertencia sobre diagnóstico tardío",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 0,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 0,
+        "total_notas": 3,
+        "cantidad_medios": 2,
+        "cobertura_perfil": 2,
+        "perfil": 2,
+        "competencia_total": 1,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 1,
         "brecha": 0,
         "cobertura": {
-          "Perfil": 1,
+          "Perfil": 2,
           "La Nación": 0,
           "Clarín": 0,
           "Infobae": 0,
           "TN": 0,
-          "Ámbito": 0,
+          "Ámbito": 1,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Posiciona al medio en temáticas de prevención y salud comunitaria con rigor estadístico.",
-        "insight": "Perfil lideró con un contenido propio enfocado en la prevención y en la cantidad de casos anuales en el país.",
+        "por_que_importa": "Los informes de salud pública y prevención médica son esenciales para posicionar al medio en términos de servicio a la comunidad.",
+        "insight": "Perfil lideró la agenda sanitaria con múltiples notas sobre la incidencia de la hepatitis C, superando la cobertura de sus competidores.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Mantener este tipo de informes de salud pública con infografías claras para potenciar el consumo en redes.",
+        "accion_sugerida": "Mantener esta línea de periodismo sanitario preventivo y complementarlo con infografías interactivas sobre centros de testeo.",
         "enfoques_sugeridos": [
-          "Cómo prevenir el contagio y cuáles son los síntomas clave.",
-          "Estadísticas oficiales sobre los 700-800 casos anuales."
+          "La importancia del diagnóstico temprano para evitar complicaciones hepáticas severas.",
+          "Las estadísticas oficiales y los tratamientos disponibles en el sistema público."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Argentina registra entre 700 y 800 casos de Hepatitis C anualmente...",
+            "titulo": "Hepatitis C en Argentina: reportan entre 700 y 800 casos al año y advierten sobre el diagnóstico tardío",
+            "link": "https://www.perfil.com/noticias/salud/hepatitis-c-en-argentina-reportan-entre-700-y-800-casos-al-ano-y-advierten-sobre-el-diagnostico-tardio.phtml"
+          },
+          {
+            "medio": "Perfil",
+            "titulo": "Argentina registra entre 700 y 800 casos de hepatitis C anualmente: cómo prevenir el contagio",
             "link": "https://www.perfil.com/noticias/salud/argentina-registra-entre-700-y-800-casos-de-a50-hepatitis-c-anualmente-como-prevenir-el-contagio.phtml"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Argentina detecta 800 nuevos casos de hepatitis C al año",
+            "link": "https://www.ambito.com/informacion-general/argentina-detecta-800-nuevos-casos-hepatitis-c-al-ano-n6328895"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Pronóstico de lluvias y tormentas eléctricas para el fin de semana en el AMBA",
+        "prioridad": 0,
+        "tipo": "fortalezas_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 8,
+        "cantidad_medios": 5,
+        "cobertura_perfil": 2,
+        "perfil": 2,
+        "competencia_total": 6,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 2,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 2,
+          "La Nación": 2,
+          "Clarín": 1,
+          "Infobae": 2,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 1,
+          "El Cronista": 0
+        },
+        "por_que_importa": "El clima es uno de los disparadores de tráfico más potentes en buscadores y dispositivos móviles para el público urbano.",
+        "insight": "Perfil anticipó con claridad el pronóstico del SMN para el AMBA, ganándole la delantera a la mayoría de los competidores en inmediatez meteorológica.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Automatizar actualizaciones meteorológicas los días jueves y viernes para capitalizar el pico de búsquedas sobre el clima del fin de semana.",
+        "enfoques_sugeridos": [
+          "El alerta por tormentas eléctricas y caída precipitaciones en zonas urbanas y rurales.",
+          "El impacto del fenómeno del Súper Niño en la variabilidad térmica."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "El SMN anticipó el regreso de las lluvias a50 y tormenta eléctrica para el fin de semana en el AMBA",
+            "link": "https://www.perfil.com/noticias/clima/el-smn-anticipo-el-regreso-de-las-lluvias-a50-y-tormenta-electrica-para-el-fin-de-semana-en-el-amba.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Se viene un nuevo frente desde el Pacífico que traerá más inestabilidad, tormentas, máximas de hasta",
+            "link": "https://www.lanacion.com.ar/sociedad/se-viene-un-nuevo-frente-desde-el-pacifico-que-traera-mas-inestabilidad-tormentas-maximas-de-hasta-nid01102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Clima hoy: llueve temprano en Ciudad, tiempo inestable, peregrinación Luján",
+            "link": "https://www.clarin.com/sociedad/clima-hoy-llueve-temprano-ciudad-tiempo-inestable-peregrinacion-lujan_0_Iqz9aku0LQ.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 4
+      },
+      {
+        "tema": "Análisis sobre el fallo de la Corte Suprema y el contexto político en Modo Fontevecchia",
+        "prioridad": 0,
+        "tipo": "fortalezas_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 2,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 2,
+        "perfil": 2,
+        "competencia_total": 0,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 0,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 2,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "El periodismo de opinión y análisis político profundo es un sello distintivo que aporta valor agregado y fideliza a la audiencia de Perfil.",
+        "insight": "A través de sus columnas editoriales y entrevistas exclusivas (como la realizada a Roberto Gargarella), Perfil marcó agenda propia en el debate institucional.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Potenciar la distribución de estos análisis en formato de newsletter y videocolumnas para maximizar su alcance en redes.",
+        "enfoques_sugeridos": [
+          "La desconexión entre los fallos de la Corte Suprema y el humor social.",
+          "El impacto institucional de la tensión entre los poderes del Estado."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Día 1027: El fallo de la Corte y el efecto mariposa modof",
+            "link": "https://www.perfil.com/noticias/modo-fontevecchia/dia-1027-el-fallo-de-la-corte-y-el-efecto-mariposa-modof.phtml"
+          },
+          {
+            "medio": "Perfil",
+            "titulo": "Roberto Gargarella: La Corte tiene roto el radar del humor social modof",
+            "link": "https://www.perfil.com/noticias/modo-fontevecchia/roberto-gargarella-la-corte-tiene-roto-el-radar-del-humor-social-modof.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2099,7 +2586,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Ratificación de condena por envenenamiento masivo de animales en Deán Funes",
+        "tema": "Estadísticas del sector avícola sobre producción y consumo de huevo en Argentina",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2121,20 +2608,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Las noticias de impacto judicial y protección animal generan gran indignación y viralización en redes sociales.",
-        "insight": "Perfil cubrió en exclusiva regional la ratificación de la condena al exintendente, marcando agenda en el interior del país.",
+        "por_que_importa": "Los informes de economía sectorial y consumo masivo interesan tanto al público general como a los actores productivos.",
+        "insight": "Perfil cubrió con exclusividad a través de Canal E las cifras récord del sector avícola, un tema de economía real que la competencia omitió.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Rebotar la nota en la portada nacional para captar tráfico federal interesado en fallos ejemplares contra el maltrato animal.",
+        "accion_sugerida": "Articular con el canal de streaming y economía para replicar estos informes en notas de texto optimizadas para SEO.",
         "enfoques_sugeridos": [
-          "Los detalles del fallo judicial de 4 años de prisión para el exfuncionario.",
-          "El impacto del caso de los 211 perros envenenados en la comunidad."
+          "Por qué Argentina se ubica al tope del consumo y producción per cápita de huevos en la región.",
+          "Los costos de producción y rentabilidad de granjas avícolas frente a la inflación."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Envenenamiento de 211 perros en Deán Funes: ratifican condena...",
-            "link": "https://www.perfil.com/noticias/cordoba/envenenamiento-de-211-perros-en-dean-funes-ratifican-condena-a-4-anos-de-prision-para-el-exintendente-facchin.phtml"
+            "titulo": "Sector avícola: Argentina es el primer país productor de huevo per cápita y consumidor de huevo per cápita",
+            "link": "https://www.perfil.com/noticias/canal-e/sector-avicola-argentina-es-el-primer-pais-productor-de-huevo-per-capita-y-consumidor-de-huevo-per-capita.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2142,7 +2629,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Descubrimiento de posible pintura original de El Greco en Lima",
+        "tema": "Defensa de Natalia Contini a funcionaria que factura desde Barcelona",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2164,63 +2651,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Aporta valor cultural e histórico de jerarquía internacional, atrayendo a un segmento de lectores educados y cultos.",
-        "insight": "Perfil logró cubrir un hallazgo artístico internacional de gran relevancia que pasó desapercibido en otros grandes portales.",
+        "por_que_importa": "Las polémicas políticas con cruces territoriales y provinciales generan alto interés en el debate público local.",
+        "insight": "Perfil mantuvo una cobertura específica sobre la controversia política en Córdoba que el resto de los grandes medios nacionales ignoró.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar con la palabra de los historiadores de arte que analizaron la obra hallada en Perú.",
+        "accion_sugerida": "Hacer un seguimiento de las repercusiones institucionales y éticas del teletrabajo en la administración pública.",
         "enfoques_sugeridos": [
-          "Los estudios científicos que avalan la autenticidad de la obra.",
-          "El recorrido histórico de la pintura hasta su hallazgo en Lima."
+          "Los límites legales y éticos de los funcionarios públicos que ejercen desde el exterior.",
+          "Las declaraciones de defensa de los referentes partidarios."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Una pintura encontrada en Lima podría ser un original de El Greco...",
-            "link": "https://www.perfil.com/noticias/cultura/una-pintura-encontrada-en-lima-podria-ser-un-original-de-el-greco-revelaron-los-estudios.phtml"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 0
-      },
-      {
-        "tema": "Parparo y profundización del conflicto docente en la Universidad Nacional de Córdoba (UNC)",
-        "prioridad": 0,
-        "tipo": "fortalezas_perfil",
-        "tipo_de_oportunidad": "",
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 0,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 0,
-        "brecha": 0,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 0,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Muestra la conflictividad universitaria en el interior, un eje central en el debate presupuestario y salarial docente.",
-        "insight": "Perfil detalla con precisión el paro de una semana en la UNC, superando el enfoque centralista de los medios porteños.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Vincular este conflicto con las discusiones generales sobre el presupuesto universitario 2027.",
-        "enfoques_sugeridos": [
-          "El endurecimiento de las medidas de fuerza de los profesores universitarios.",
-          "Impacto en el normal desarrollo de las cursadas en Córdoba."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "UNC: docentes universitarios paran por una semana...",
-            "link": "https://www.perfil.com/noticias/cordoba/unc-docentes-universitarios-paran-por-una-semana-y-se-endurece-el-conflicto.phtml"
+            "titulo": "Natalia Contini defendió a la funcionaria que factura desde Barcelona: Puede facturar desde el lugar en el cual esté",
+            "link": "https://www.perfil.com/noticias/cordoba/natalia-contini-defendio-a-la-funcionaria-que-factura-desde-barcelona-puede-facturar-desde-el-lugar-en-el-cual-este.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2229,5 +2673,5 @@
       }
     ]
   },
-  "total_temas": 21
+  "total_temas": 25
 }
