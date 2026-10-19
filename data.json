@@ -1,680 +1,358 @@
 {
-  "fecha_analisis": "16 de octubre de 2026",
+  "fecha_analisis": "19 de octubre de 2026",
   "hipercompetencia": [
     {
-      "tema": "Fallecimiento y trayectoria del meteorólogo Fernando Confessore",
+      "tema": "Toque de queda y disturbios en Francia",
       "prioridad": 0,
       "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
-      "total_notas": 22,
-      "cantidad_medios": 6,
-      "cobertura_perfil": 3,
-      "perfil": 3,
-      "competencia_total": 19,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 8,
-      "brecha": 5,
+      "total_notas": 12,
+      "cantidad_medios": 7,
+      "cobertura_perfil": 2,
+      "perfil": 2,
+      "competencia_total": 10,
+      "medio_lider": "Infobae",
+      "cobertura_medio_lider": 3,
+      "brecha": 1,
       "cobertura": {
-        "Perfil": 3,
-        "La Nación": 6,
+        "Perfil": 2,
+        "La Nación": 1,
         "Clarín": 1,
         "Infobae": 3,
-        "TN": 8,
-        "Ámbito": 0,
-        "Página 12": 1,
-        "El Cronista": 0
+        "TN": 0,
+        "Ámbito": 2,
+        "Página 12": 2,
+        "El Cronista": 1
       },
-      "por_que_importa": "Es una figura pública y de medios muy querida y recordada por la audiencia masiva argentina, con altísimo tráfico en redes y buscadores.",
-      "insight": "Todos los medios de la competencia cubrieron masivamente la noticia, generando una saturación informativa donde la velocidad y el ángulo emotivo o biográfico marcan la diferencia.",
+      "por_que_importa": "Es el acontecimiento internacional principal de la jornada con fuerte impacto en Europa y resonancia global.",
+      "insight": "Todos los grandes medios de la competencia y Perfil cubren el hecho, lo que demuestra su masividad y tracción en Google Discover.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar notas de color complementarias, reacciones de colegas y el impacto en la audiencia para captar el rebote en Google Discover.",
+      "accion_sugerida": "Monitorear minuto a minuto las nuevas medidas de Macron y las declaraciones de líderes internacionales.",
       "enfoques_sugeridos": [
-        "El emotivo adiós de sus colegas en la pantalla y redes sociales",
-        "Repaso de su trayectoria y cómo se transformó en el rostro de la meteorología en la televisión"
+        "Impacto económico y social de los toques de queda en las principales ciudades francesas.",
+        "Repercusiones políticas y reacciones de líderes globales como Donald Trump."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Fallecimiento y trayectoria del meteorólogo Fernando Confessore",
-          "link": "https://www.perfil.com/noticias/protagonistas/a04-quien-era-fernando-confessore-la-carrera-y-la-familia-del-meteorologo-de-tn-a50-que-murio-a-los-58-anos.phtml"
+          "titulo": "Toque de queda parcial en ciudades de Francia ante la oleada de violencia",
+          "link": "https://www.perfil.com/noticias/breaking-news/toque-de-queda-parcial-en-ciudades-de-francia-ante-la-oleada-de-violencia.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Murio fernando confessore reacciones y mensajes de despedida al meteorologo que trabajaba en el",
-          "link": "https://www.lanacion.com.ar/sociedad/murio-fernando-confessore-reacciones-y-mensajes-de-despedida-al-meteorologo-que-trabajaba-en-el-nid16102026/"
+          "titulo": "Disturbios en Francia: el gobierno de Macron pidió toques de queda para frenar los saqueos",
+          "link": "https://www.lanacion.com.ar/el-mundo/disturbios-en-francia-el-gobierno-macron-pidio-toques-de-queda-para-frenar-los-saqueos-nid19102026/"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Mensajes de despedida tras la muerte de Fernando Confessore en vivo últimas noticias minuto a minuto",
-          "link": "https://www.infobae.com/teleshow/2026/10/16/mensajes-de-despedida-tras-la-muerte-de-fernando-confessore-en-vivo-ultimas-noticias-minuto-a-minuto/"
+          "medio": "Ámbito",
+          "titulo": "Francia endurece la seguridad e impondrá toques queda ante temor nuevos disturbios",
+          "link": "https://www.ambito.com/mundo/francia-endurece-la-seguridad-e-impondra-toques-queda-el-temor-nuevos-disturbios-n6335184"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 6
+    },
+    {
+      "tema": "Cronograma de pagos y aumentos de ANSES",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 14,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 13,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 12,
+      "brecha": 11,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 12,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Es un servicio esencial de altísimo tránsito para jubilados y beneficiarios de planes sociales en Argentina.",
+      "insight": "Es una temática de consulta obligatoria diaria que genera picos masivos de tráfico orgánico y en Discover.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Mantener actualizadas las tablas de cobro y los montos con bonos para capturar la intención de búsqueda directa.",
+      "enfoques_sugeridos": [
+        "Calendario detallado de pagos según terminación de documento para este lunes.",
+        "Montos definitivos de jubilaciones y asignaciones con los incrementos y bonos confirmados."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "ANSES: quiénes cobran jubilaciones, AUH, SUAF, PNC este lunes 19 octubre",
+          "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobran-jubilaciones-auh-suaf-pnc-este-lunes-19-octubre-a35.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Fecha de cobro de ANSES: el cronograma de pagos para este lunes 19 de octubre",
+          "link": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-lunes-19-de-octubre-nid19102026/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
+    },
+    {
+      "tema": "Cotización del dólar oficial y blue",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 21,
+      "cantidad_medios": 8,
+      "cobertura_perfil": 3,
+      "perfil": 3,
+      "competencia_total": 18,
+      "medio_lider": "Infobae",
+      "cobertura_medio_lider": 6,
+      "brecha": 3,
+      "cobertura": {
+        "Perfil": 3,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 6,
+        "TN": 1,
+        "Ámbito": 4,
+        "Página 12": 1,
+        "El Cronista": 4
+      },
+      "por_que_importa": "La economía cotidiana y financiera argentina gira en torno al movimiento cambiario diario.",
+      "insight": "Todos los portales de noticias despliegan coberturas minuto a minuto para satisfacer la alta demanda de la audiencia.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Automatizar los reportes de apertura y cierre de los tipos de cambio para liderar las consultas financieras.",
+      "enfoques_sugeridos": [
+        "Seguimiento en vivo de la cotización del dólar blue y los financieros MEP y CCL.",
+        "Evolución del dólar mayorista y la postura compradora del Banco Central."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "A cuánto cotiza el dólar blue hoy lunes 19 de octubre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-19-de-octubre-a50-bgd.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Dólar hoy: cómo cotizan oficial y diferentes tipos cambio lunes 19 octubre",
+          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-19-octubre_0_NffNAeDwQw.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 7
+    },
+    {
+      "tema": "Impacto del fenómeno El Niño y crecida del río Paraná",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 13,
+      "cantidad_medios": 6,
+      "cobertura_perfil": 3,
+      "perfil": 3,
+      "competencia_total": 10,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 3,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 3,
+        "La Nación": 3,
+        "Clarín": 2,
+        "Infobae": 1,
+        "TN": 0,
+        "Ámbito": 2,
+        "Página 12": 0,
+        "El Cronista": 2
+      },
+      "por_que_importa": "Afecta directamente a miles de desplazados en el Litoral y genera alertas meteorológicas en múltiples provincias.",
+      "insight": "La combinación de emergencias climáticas locales y reportes satelitales moviliza el interés regional y nacional.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desarrollar coberturas geolocalizadas combinando los datos oficiales de Defensa Civil y los informes de la NASA.",
+      "enfoques_sugeridos": [
+        "Crecida del río Paraná y situación de los evacuados y desplazados en Corrientes.",
+        "Alertas meteorológicas amarillas por lluvias, vientos y tormentas en el centro y norte del país."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "El Niño en Corrientes: el Paraná superó el nivel de evacuación en la capital y ya hay 754 desplazados",
+          "link": "https://www.perfil.com/noticias/nea/el-nino-en-corrientes-el-parana-supero-el-nivel-de-evacuacion-en-la-capital-y-ya-hay-754-desplazados.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Hay alerta amarilla por lluvias, nevadas y vientos para este lunes 19 de octubre: las provincias",
+          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-lluvias-nevadas-y-vientos-para-este-lunes-19-de-octubre-las-provincias-nid19102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Super Súper Niño 2026 en Argentina en vivo: llegará a pico de fuertes lluvias y cambiará clima país",
+          "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegara-pico-fuertes-lluvias-cambiara-clima-pais_0_YXf54Qp9KX.html"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "cantidad_medios_competencia": 5
-    },
-    {
-      "tema": "Registro de superávit financiero y fiscal del Gobierno en septiembre",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 7,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 8,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 2,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 2
-      },
-      "por_que_importa": "Es el núcleo de la narrativa económica oficialista y genera fuerte debate sobre la sustentabilidad del modelo y su impacto en las cuentas públicas.",
-      "insight": "La cobertura es generalizada pero los matices difieren entre la celebración de la meta fiscal y la crítica sobre el costo social y el freno a la actividad.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en el desglose de la recaudación y el ajuste del gasto para ofrecer una lectura más analítica que la competencia.",
-      "enfoques_sugeridos": [
-        "El Gobierno volvió a registrar superávit fiscal y financiero en septiembre",
-        "Análisis de cómo se logró la meta y el impacto del recorte en la economía real"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "El Gobierno volvió a registrar superávit financiero en septiembre",
-          "link": "https://www.perfil.com/noticias/economia/el-gobierno-volvio-a-registrar-superavit-financiero-en-septiembre-a40.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El gobierno mostro superavit en septiembre y dijo que cumplio con los acuerdos alcanzados con las",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-mostro-superavit-en-septiembre-y-dijo-que-cumplio-con-los-acuerdos-alcanzados-con-las-nid16102026/"
-        },
-        {
-          "medio": "El Cronista",
-          "titulo": "El gobierno volvio a registrar superavit fiscal y acumula un 12 en lo que va del ano",
-          "link": "https://www.cronista.com/economia-politica/el-gobierno-volvio-a-registrar-superavit-fiscal-y-acumula-un-12-en-lo-que-va-del-ano/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 6
-    },
-    {
-      "tema": "Investigación judicial a la FIFA y exhorto a Suiza por transferencias a Claudio 'Chiqui' Tapia",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Cruza el poder político, la justicia y el fútbol, generando alto interés en la opinión pública más allá de lo estrictamente deportivo.",
-      "insight": "Es una de las agendas judiciales más fuertes del día, donde la primicia documental y el avance de los exhortos internacionales traccionan clicks.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Seguir de cerca los movimientos de la causa en Comodoro Py y las respuestas de la AFA.",
-      "enfoques_sugeridos": [
-        "La Justicia avanza sobre las cuentas: el pedido de explicaciones a la FIFA",
-        "El impacto institucional del escrito enviado a Suiza en medio de la tensión con el Gobierno"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "La justicia pidió explicaciones a la FIFA por casi US 190000 que transfirió a Chiqui Tapia",
-          "link": "https://www.perfil.com/noticias/judiciales/la-justicia-pidio-explicaciones-a-la-fifa-por-casi-us-190000-que-transfirio-a-chiqui-tapia.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "El juez lijo ordeno un exhorto a suiza por transferencias de us190000 de la fifa a claudio chiqui",
-          "link": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-un-exhorto-a-suiza-por-transferencias-de-us190000-de-la-fifa-a-claudio-chiqui-nid16102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Justicia envio exhorto suiza investigar transferencias fifa chiqui tapia",
-          "link": "https://www.clarin.com/politica/justicia-envio-exhorto-suiza-investigar-transferencias-fifa-chiqui-tapia_0_WIOeZjjyLx.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Evolución de la salud del papa León XIV y parte médico oficial",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 16,
-      "cantidad_medios": 7,
-      "cobertura_perfil": 2,
-      "perfil": 2,
-      "competencia_total": 14,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 5,
-      "brecha": 3,
-      "cobertura": {
-        "Perfil": 2,
-        "La Nación": 5,
-        "Clarín": 3,
-        "Infobae": 1,
-        "TN": 2,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "La figura del Papa convoca a una audiencia masiva global y local, con especial sensibilidad en la feligresía argentina.",
-      "insight": "Los partes médicos diarios y los gestos desde el hospital (como llamadas o misas) son altamente consumidos en formatos breves y de última hora.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener actualizados los boletines sobre su recuperación y el estatus de su eventual visita al país.",
-      "enfoques_sugeridos": [
-        "El parte médico confirma una mejoría constante y su reaparición dominical",
-        "Las repercusiones internacionales de sus comunicaciones desde el Policlínico Gemelli"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "El papa León XIV celebró misa en el Policlínico Gemelli y el nuevo parte médico habla de mejora constante",
-          "link": "https://www.perfil.com/noticias/protagonistas/el-papa-leon-xiv-celebro-misa-en-el-policlinico-gemelli-y-el-nuevo-parte-medico-habla-de-mejora-constante.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Salud del papa leon xiv como sigue su recuperacion y que se sabe de la visita a la argentina",
-          "link": "https://www.lanacion.com.ar/el-mundo/salud-del-papa-leon-xiv-como-sigue-su-recuperacion-y-que-se-sabe-de-la-visita-a-la-argentina-nid15102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Conocieron primeras fotos papa leon xiv operacion difundieron nuevo parte medico mejoria constante",
-          "link": "https://www.clarin.com/mundo/conocieron-primeras-fotos-papa-leon-xiv-operacion-difundieron-nuevo-parte-medico-mejoria-constante_0_LMypvIP995.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 6
     }
   ],
   "perfil_pierde": [
     {
-      "tema": "Procesamiento judicial a Diego Spagnuolo por presunta corrupción en la ANDIS",
+      "tema": "Visita de funcionarios de Estados Unidos a la Argentina",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 7,
+      "total_notas": 2,
+      "cantidad_medios": 2,
       "cobertura_perfil": 1,
       "perfil": 1,
-      "competencia_total": 6,
-      "medio_lider": "La Nación",
+      "competencia_total": 1,
+      "medio_lider": "Página 12",
       "cobertura_medio_lider": 1,
       "brecha": 0,
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
         "Página 12": 1,
         "El Cronista": 0
       },
-      "por_que_importa": "Involucra a funcionarios de la actual administración nacional en supuestos hechos de corrupción, un tema de alta sensibilidad política.",
-      "insight": "Aunque Perfil cubre la noticia, la competencia despliega múltiples enfoques (ampliación de cargos, segundas rutas de coimas, repercusiones políticas), opacando la visibilidad del medio.",
+      "por_que_importa": "Involucra la agenda geopolítica y de seguridad vinculada a la administración de Javier Milei.",
+      "insight": "Perfil publica un enfoque escueto mientras que competidores directos profundizan en las implicancias de la misión diplomática.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar la cobertura con notas de análisis sobre el impacto político dentro del oficialismo y los nombres salpicados.",
+      "accion_sugerida": "Ampliar el seguimiento sobre los encuentros bilaterales en materia de narcotráfico, seguridad e inversiones.",
       "enfoques_sugeridos": [
-        "El juez Lijo firmó un nuevo procesamiento por la segunda ruta de coimas en la Agencia de Discapacidad",
-        "El trasfondo político de las irregularidades en un área clave de asistencia social"
+        "El rol de los enviados especiales de Washington en el control del plan económico y de seguridad.",
+        "Repercusiones en la oposición sobre la injerencia y los acuerdos estratégicos con EE.UU."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "El juez Lijo firmó un nuevo procesamiento contra Diego Spagnuolo por una segunda ruta de la coimas en Andis",
-          "link": "https://www.perfil.com/noticias/judiciales/el-juez-lijo-firmo-un-nuevo-procesamiento-contra-diego-spagnuolo-por-una-segunda-ruta-de-la-coimas-andis.phtml"
+          "titulo": "Dos funcionarios clave de Trump llegan para seguir de cerca a Milei: narcotráfico, seguridad e inversiones",
+          "link": "https://www.perfil.com/noticias/internacional/dos-funcionarios-clave-de-trump-llegan-para-seguir-de-cerca-a-milei-narcotrafico-seguridad-e-inversiones-a60.phtml"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Caso andis amplian el procesamiento de spagnuolo y otros acusados por el esquema de sobreprecios en",
-          "link": "https://www.lanacion.com.ar/politica/caso-andis-amplian-el-procesamiento-de-spagnuolo-y-otros-acusados-por-el-esquema-de-sobreprecios-en-nid16102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Juez lijo volvio procesar diego spagnuolo segunda ruta coimas agencia discapacidad",
-          "link": "https://www.clarin.com/politica/juez-lijo-volvio-procesar-diego-spagnuolo-segunda-ruta-coimas-agencia-discapacidad_0_DZfaTCN3Ki.html"
+          "medio": "Página 12",
+          "titulo": "Dos enviados de Trump llegan a la Argentina para controlar que todo marcha acorde al plan",
+          "link": "https://www.pagina12.com.ar/2026/10/18/dos-enviados-de-trump-llegan-a-la-argentina-para-controlar-que-todo-marcha-acorde-al-plan/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 6
+      "cantidad_medios_competencia": 1
     },
     {
-      "tema": "Cruce político entre Diego Santilli, Axel Kicillof y los gobernadores por obras y el 2027",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 8,
-      "cantidad_medios": 6,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 7,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 2,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 2,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 2,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Define el tablero político de cara al mediano plazo, anticipando alianzas, tensiones presupuestarias y la discusión por las reelecciones o candidaturas.",
-      "insight": "La competencia logra posicionar los textuales más fuertes de los dirigentes y coberturas desde distintos foros, ganando terreno en la discusión pública.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Centralizar los cruces políticos en un formato de apostillas o análisis de rosca política que atraiga clics rápidos.",
-      "enfoques_sugeridos": [
-        "Santilli agita el fantasma de la vuelta del kirchnerismo y advierte a los gobernadores",
-        "La respuesta de Kicillof en la cumbre de mandatarios provinciales"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Santilli lanzó una advertencia a los gobernadores por Kicillof y agito el fantasma de la vuelta del kirchnerismo",
-          "link": "https://www.perfil.com/noticias/politica/santilli-lanzo-una-advertencia-a-los-gobernadores-por-kicillof-y-agito-el-fantasma-de-la-vuelta-del-kirchnerismo.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Los gobernadores piden mas obras y santilli lanzo una advertencia deberian estar preocupados si",
-          "link": "https://www.lanacion.com.ar/politica/los-gobernadores-piden-mas-obras-y-santilli-lanzo-una-advertencia-deberian-estar-preocupados-si-nid16102026/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Estamos sufriendo Kicillof le respondió a Santilli y criticó a Milei en una cumbre de gobernadores",
-          "link": "https://www.infobae.com/politica/2026/10/16/estamos-sufriendo-kicillof-le-respondio-a-santilli-y-critico-a-milei-en-una-cumbre-de-gobernadores/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 5
-    },
-    {
-      "tema": "Aumento de la VTV en la Provincia de Buenos Aires y cruces con Sturzenegger",
+      "tema": "Nuevo plan de retiros voluntarios para empleados estatales",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
       "total_notas": 4,
-      "cantidad_medios": 3,
+      "cantidad_medios": 4,
       "cobertura_perfil": 1,
       "perfil": 1,
       "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 2,
-      "brecha": 1,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 2,
-        "Clarín": 1,
+        "La Nación": 0,
+        "Clarín": 0,
         "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
+        "TN": 1,
+        "Ámbito": 1,
         "Página 12": 0,
-        "El Cronista": 0
+        "El Cronista": 1
       },
-      "por_que_importa": "Impacta directamente en el bolsillo de millones de bonaerenses y forma parte de la disputa dialéctica entre Nación y Provincia.",
-      "insight": "La competencia explota el costado de servicio (cuánto cuesta ahora) sumado a la chicana política, logrando un doblegancho de audiencia.",
+      "por_que_importa": "Es una medida económica y fiscal de alto impacto sobre el sector público y el gasto estatal.",
+      "insight": "La competencia despliega múltiples notas con detalles de montos y restricciones, superando la cobertura general de Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar guías de utilidad con los nuevos cuadros tarifarios y el detalle de los requisitos obligatorios.",
+      "accion_sugerida": "Desarrollar notas de servicio explicando quiénes pueden acceder, montos de compensación y límites de la medida.",
       "enfoques_sugeridos": [
-        "Sturzenegger cruzó a Kicillof por el fuerte aumento de la VTV bonaerense",
-        "Cuánto cuesta hacer la revisión técnica obligatoria tras la suba"
+        "Letra chica del decreto: montos, escalas de indemnización en sueldos y restricciones.",
+        "El impacto político y gremial de la profundización del recorte de empleo estatal."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Sturzenegger apuntó contra Kicillof: aumentó VTV en Provincia Buenos Aires",
-          "link": "https://www.perfil.com/noticias/economia/sturzenegger-apunto-contra-kicillof-aumento-vtv-en-provincia-buenos-aires-a40.phtml"
+          "titulo": "El Gobierno lanzó un nuevo plan de retiros voluntarios para estatales: quiénes pueden acceder y cuánto cobrarán",
+          "link": "https://www.perfil.com/noticias/actualidad/el-gobierno-lanzo-un-nuevo-plan-de-retiros-voluntarios-para-estatales-quienes-pueden-acceder-y-cuanto-cobraran.phtml"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Vtv el tramite aumento en la provincia de buenos aires cuanto cuesta ahora hacer la revision",
-          "link": "https://www.lanacion.com.ar/autos/vtv-el-tramite-aumento-en-la-provincia-de-buenos-aires-cuanto-cuesta-ahora-hacer-la-revision-nid16102026/"
+          "medio": "TN",
+          "titulo": "El Gobierno busca profundizar el recorte de empleo estatal con un nuevo plan de retiros voluntarios",
+          "link": "https://tn.com.ar/economia/2026/10/19/el-gobierno-busca-profundizar-el-recorte-de-empleo-estatal-con-un-nuevo-plan-de-retiros-voluntarios/"
         },
         {
-          "medio": "Clarín",
-          "titulo": "Recordar ano viene votes provincia sturzenegger cruzo kicillof aumento vtv",
-          "link": "https://www.clarin.com/politica/recordar-ano-viene-votes-provincia-sturzenegger-cruzo-kicillof-aumento-vtv_0_59LSSKzjEu.html"
+          "medio": "Ámbito",
+          "titulo": "El Gobierno abrió un nuevo plan retiro voluntario estatales: compensaciones 20 sueldos",
+          "link": "https://www.ambito.com/politica/el-gobierno-abrio-un-nuevo-plan-retiro-voluntario-estatales-compensaciones-20-sueldos-n6335155"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 2
+      "cantidad_medios_competencia": 3
     },
     {
-      "tema": "Detención y denuncias contra el médico ginecólogo Gustavo Kumiega por abuso y mala praxis",
+      "tema": "Declaraciones e interna sobre candidaturas de Cristina Kirchner y Axel Kicillof",
       "prioridad": 0,
       "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
       "total_notas": 2,
       "cantidad_medios": 2,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 2,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Los casos policiales de fuerte impacto social y cariz aberrante generan un tráfico sostenido en portales digitales.",
-      "insight": "La competencia detalla los chats y los testimonios de las víctimas, capturando la atención en secciones de seguridad y policiales.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Monitorear el avance de las declaraciones indagatorias y la recopilación de nuevas denuncias.",
-      "enfoques_sugeridos": [
-        "Los aberrantes chats y testimonios que complican al médico detenido",
-        "Cómo operaba el profesional acusado de múltiples casos de abuso"
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Detuvieron al ginecologo chaqueno gustavo kumiega denunciado por abuso sexual y mala praxis",
-          "link": "https://www.lanacion.com.ar/seguridad/detuvieron-al-ginecologo-chaqueno-gustavo-kumiega-denunciado-por-abuso-sexual-y-mala-praxis-nid16102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Duermo desnudo haaland desubicados dialogos doctor kumiega pacientes",
-          "link": "https://www.clarin.com/policiales/duermo-desnudo-haaland-desubicados-dialogos-doctor-kumiega-pacientes_0_8UoRzhOxwY.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 2
-    }
-  ],
-  "sin_cobertura_perfil": [
-    {
-      "tema": "Presentación mundial del auto volador de Tesla por Elon Musk",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 7,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 1,
       "medio_lider": "TN",
-      "cobertura_medio_lider": 3,
-      "brecha": 3,
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
       "cobertura": {
-        "Perfil": 0,
+        "Perfil": 1,
         "La Nación": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 3,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es un contenido de alto impacto tecnológico y viral, con un fuerte rendimiento garantizado en redes sociales y Google Discover.",
-      "insight": "Mientras Perfil estuvo ausente, múltiples medios de la competencia capitalizaron la novedad técnica y los memes asociados al lanzamiento.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Incorporar de manera más ágil notas de tendencias globales e innovación tecnológica disruptiva.",
-      "enfoques_sugeridos": [
-        "Elon Musk presentó el esperado auto volador: características y cuándo saldrá al mercado",
-        "Los mejores memes y reacciones en redes tras el show de Tesla"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Tesla presento auto volador impresionante demostracion encabezada elon musk",
-          "link": "https://www.clarin.com/tecnologia/tesla-presento-auto-volador-impresionante-demostracion-encabezada-elon-musk_0_coC2xmQzG4.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Elon Musk presento su auto volador y las redes no lo perdonaron los memes mas divertidos",
-          "link": "https://tn.com.ar/tecno/redes-sociales/2026/10/16/elon-musk-presento-su-auto-volador-y-las-redes-no-lo-perdonaron-los-memes-mas-divertidos/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Elon Musk presento un auto que vuela el Tesla Roadster",
-          "link": "https://www.ambito.com/autos/elon-musk-presento-un-auto-que-vuela-el-tesla-roadster-n6334466"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    },
-    {
-      "tema": "Anuncio de los shows de U2 en River Plate para 2027: precios y fechas de venta",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 5,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 5,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 2,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
         "Clarín": 0,
-        "Infobae": 0,
-        "TN": 2,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Los grandes recitales internacionales movilizan millones de búsquedas y generan un tráfico masivo de utilidad inmediata para los fans.",
-      "insight": "La competencia cubre con anticipación los detalles de venta de entradas, asegurándose los primeros puestos en los motores de búsqueda.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Crear secciones de servicio para coberturas de grandes conciertos apenas se confirmen las productoras.",
-      "enfoques_sugeridos": [
-        "U2 en River 2027: cuánto cuestan las entradas, mapa de ubicaciones y cuándo salen a la venta",
-        "El esperado regreso de la banda y los detalles de su nuevo videoclip conceptual"
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "U2 toca en river 2027 entradas desde 120000 mapa de ubicaciones y todas las fechas de venta",
-          "link": "https://www.lanacion.com.ar/que-sale/u2-toca-en-river-2027-entradas-desde-120000-mapa-de-ubicaciones-y-todas-las-fechas-de-venta-nid16102026/"
-        },
-        {
-          "medio": "TN",
-          "titulo": "U2 en River cuanto cuestan las entradas y cuando salen a la venta",
-          "link": "https://tn.com.ar/musica/2026/10/16/u2-en-river-cuanto-cuestan-las-entradas-y-cuando-salen-a-la-venta/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "U2 Argentina precios ubicaciones y como y donde comprar las entradas",
-          "link": "https://www.ambito.com/espectaculos/u2-argentina-precios-ubicaciones-y-como-y-donde-comprar-las-entradas-n6334555"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    },
-    {
-      "tema": "Alerta por la crecida de los ríos del Litoral debido al impacto de El Niño",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
         "Infobae": 0,
         "TN": 1,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Afecta a comunidades enteras, zonas turísticas y la producción agropecuaria regional, siendo un tema de interés federal.",
-      "insight": "La Nación, Clarín y TN cubren con despliegue de notas el avance del agua y las medidas de prevención en los puertos.",
+      "por_que_importa": "Define el rearmado y las tensiones dentro de la principal fuerza de oposición política.",
+      "insight": "La competencia aborda el tema con encuestas, análisis de imagen y reuniones reservadas, opacando la cobertura inicial de Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Establecer una red de corresponsales o alertas climáticas permanentes para no perder el pulso de las catástrofes naturales regionales.",
+      "accion_sugerida": "profundizar en los entretelones de la mesa chica opositora y la estrategia electoral de cara a los próximos comicios.",
       "enfoques_sugeridos": [
-        "El agua sigue bajando desde Brasil y pone en alerta a 17 puertos del Litoral",
-        "El río Iguazú está por encima de su nivel habitual y cubrió zonas turísticas"
+        "Análisis de las encuestas de imagen que miden la interna entre la expresidenta y el gobernador bonaerense.",
+        "Reuniones clave y negociaciones por el armado de listas y candidaturas."
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "El agua sigue bajando desde brasil y ya pone en alerta a 17 puertos del litoral",
-          "link": "https://www.lanacion.com.ar/sociedad/el-agua-sigue-bajando-desde-brasil-y-ya-pone-en-alerta-a-17-puertos-del-litoral-nid16102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Desesperacion productores rescate reloj animales avance agua litoral",
-          "link": "https://www.clarin.com/sociedad/desesperacion-productores-rescate-reloj-animales-avance-agua-litoral-0_WRNa1TixVN.html"
+          "medio": "Perfil",
+          "titulo": "La encuesta que agita la interna entre Cristina Kirchner y Axel Kicillof: quién tiene mejor imagen",
+          "link": "https://www.perfil.com/noticias/politica/la-encuesta-que-agita-la-interna-entre-cristina-kirchner-y-axel-kicillof-quien-tiene-mejor-imagen.phtml"
         },
         {
           "medio": "TN",
-          "titulo": "Alerta en el Litoral por El Niño el río Iguazú está 25 metros por encima de su nivel habitual",
-          "link": "https://tn.com.ar/sociedad/2026/10/16/alerta-en-el-litoral-por-el-nino-el-rio-iguazu-esta-25-metros-por-encima-de-su-nivel-habitual-y-el-agua-cubrio-zonas-turisticas/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Hallazgo del cuerpo de una joven dentro de una heladera en Córdoba y búsqueda del novio",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 3,
-      "cantidad_medios": 3,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Los femicidios y crímenes de alto impacto conmueven a la opinión pública y generan una enorme demanda informativa en portales de noticias.",
-      "insight": "Los principales medios nacionales y policiales cubrieron los detalles macabros del hallazgo, una temática en la que Perfil suele tener buen rendimiento si llega a tiempo.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar la cobertura policial con un enfoque en la prevención de la violencia de género y el seguimiento de prófugos.",
-      "enfoques_sugeridos": [
-        "Macabro hallazgo en Córdoba: encontraron a una joven asesinada dentro de una heladera",
-        "Búsqueda intensa del novio prófugo que habría dejado una carta"
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Encontraron muerta a una joven en una heladera tapada con cal en cordoba",
-          "link": "https://www.lanacion.com.ar/seguridad/encontraron-muerta-a-una-joven-en-una-heladera-tapada-con-cal-en-cordoba-nid16102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Macabro hallazgo cruz eje encontraron restos joven escondidos heladera buscan novio",
-          "link": "https://www.clarin.com/policiales/macabro-hallazgo-cruz-eje-encontraron-restos-joven-escondidos-heladera-buscan-novio_0_abnfYdyyp6.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Encontraron muerta a una joven dentro de una heladera en Córdoba su novio está prófugo",
-          "link": "https://tn.com.ar/policiales/2026/10/16/encontraron-muerta-a-una-joven-dentro-de-una-heladera-en-cordoba-su-novio-esta-profugo-y-habria-dejado-una-carta/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    }
-  ],
-  "oportunidades": [
-    {
-      "tema": "Declaraciones de Gabriel Rolón sobre la memoria, el duelo y los recuerdos de los padres",
-      "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Contenido evergreen de bienestar y psicología",
-      "total_notas": 5,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 5,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 5,
-      "brecha": 5,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 5,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Los temas de salud mental, vínculos y reflexión personal tienen una retención de lectura muy alta y fidelizan a la audiencia digital.",
-      "insight": "La competencia aprovecha figuras mediáticas del ámbito psi para capturar clics orgánicos sostenidos.",
-      "motivo": "",
-      "motivo_oportunidad": "La Nación genera alto tráfico con entrevistas y columnas de psicoanálisis que funcionan muy bien en redes y fines de semana. Perfil no cubrió este ángulo específico.",
-      "accion_sugerida": "Producir columnas propias sobre duelo y memoria con especialistas en salud mental.",
-      "enfoques_sugeridos": [
-        "Por qué recordamos a nuestros padres: la mirada psicoanalítica sobre la ausencia",
-        "Cómo procesar la pérdida y transformar el dolor en legado emocional"
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Gabriel rolon psicoanalista sobre los recuerdos nuestros padres que ya notestan se transforman en personas por hace mas nobles",
-          "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-notestan-se-transforman-en-personas-por-hace-mas-nobles-nid13102026/"
+          "titulo": "Cristina Kirchner recibió a Massa: la estrategia para definir candidaturas y la expectativa por una decisión de la ONU",
+          "link": "https://tn.com.ar/politica/2026/10/19/cristina-kirchner-recibio-a-massa-la-estrategia-para-definir-candidaturas-y-la-expectativa-por-una-decision-de-la-onu/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -682,47 +360,97 @@
       "cantidad_medios_competencia": 1
     },
     {
-      "tema": "Desbaratamiento de una banda de falsos médicos que operaban con ambulancias truchas",
+      "tema": "Declaraciones de Alejandra Monteoliva sobre incidentes frente al Congreso",
       "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Nota policial de alto impacto y viralidad",
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 2,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 1,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Genera fuertes cruces institucionales, denuncias judiciales y debate sobre los límites de la protesta social.",
+      "insight": "La competencia cubre tanto las polémicas definiciones de la funcionaria como las presentaciones judiciales posteriores en su contra.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Seguir de cerca la evolución de las denuncias por incitación a la violencia y la postura oficial del Ministerio de Seguridad.",
+      "enfoques_sugeridos": [
+        "El alcance legal de calificar como 'terrorismo' los incidentes en las inmediaciones legislativas.",
+        "La presentación judicial de organizaciones y sectores universitarios contra los dichos de la funcionaria."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Monteoliva calificó de terrorismo los incidentes frente al Congreso",
+          "link": "https://www.perfil.com/noticias/politica/monteoliva-califico-de-terrorismo-los-incidentes-frente-al-congreso.phtml"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "Denunciaron Alejandra Monteoliva discriminación e incitación la violencia contra los universitarios",
+          "link": "https://www.ambito.com/politica/denunciaron-alejandra-monteoliva-discriminacion-e-incitacion-la-violencia-contra-los-universitarios-n6335187"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    }
+  ],
+  "sin_cobertura_perfil": [
+    {
+      "tema": "Secreto militar en la compra de equipamiento para las Fuerzas Armadas y Malvinas",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
       "total_notas": 2,
       "cantidad_medios": 2,
       "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 2,
-      "medio_lider": "Clarín",
+      "medio_lider": "TN",
       "cobertura_medio_lider": 1,
       "brecha": 1,
       "cobertura": {
         "Perfil": 0,
         "La Nación": 0,
-        "Clarín": 1,
+        "Clarín": 0,
         "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 1,
+        "TN": 1,
+        "Ámbito": 1,
+        "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Combina el absurdo con el peligro sanitario, dos elementos que garantizan lectura rápida y viralización en redes.",
-      "insight": "Las estafas vinculadas a la salud pública generan indignación y alto volumen de comentarios y compartidos.",
+      "por_que_importa": "Atraviesa la soberanía nacional, la defensa y la asignación de recursos públicos bajo reserva de Estado.",
+      "insight": "Varios medios líderes posicionan en agenda el decreto de secreto militar, un ángulo que Perfil omitió por completo.",
       "motivo": "",
-      "motivo_oportunidad": "Clarín y Página/12 cubrieron un operativo insólito y peligroso sobre falsos profesionales de la salud. Perfil no lo registró en su portada.",
-      "accion_sugerida": "Desarrollar una nota propia profundizando en cómo operaba la red y qué controles faltaron.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Investigar los alcances de la normativa de secreto militar y el tipo de armamento adquirido en medio de la tensión por Malvinas.",
       "enfoques_sugeridos": [
-        "Instrucciones por WhatsApp y ambulancias truchas: cayó la banda de falsos médicos",
-        "Los riesgos de los servicios de emergencia clandestinos en el conurbano"
+        "El impacto geopolítico y el reclamo de transparencia en las adquisiciones estratégicas para la defensa.",
+        "La reacción de los bloques legislativos ante la imposición del secreto en compras militares."
       ],
       "ejemplos": [
         {
-          "medio": "Clarín",
-          "titulo": "Cae banda falsos medicos dictaban instrucciones suturar whatsapp operaban ambulancias truchas",
-          "link": "https://www.clarin.com/policiales/cae-banda-falsos-medicos-dictaban-instrucciones-suturar-whatsapp-operaban-ambulancias-truchas_0_Xo2MKk07M6.html"
+          "medio": "La Nación",
+          "titulo": "Islas Malvinas: el Gobierno impuso el secreto militar sobre la compra de equipamiento para las Fuerzas Armadas",
+          "link": "https://tn.com.ar/politica/2026/10/19/islas-malvinas-el-gobierno-impuso-el-secreto-militar-sobre-la-compra-de-equipamiento-para-las-fuerzas-armadas/"
         },
         {
-          "medio": "Página 12",
-          "titulo": "Desbaratan una red de medicos falsos con base en Florencio Varela",
-          "link": "https://www.pagina12.com.ar/2026/10/15/desbaratan-una-red-de-medicos-falsos-con-base-en-florencio-varela/"
+          "medio": "Ámbito",
+          "titulo": "Las Fuerzas Armadas comprarán nuevo equipamiento secreto militar mientras crece la tensión Malvinas",
+          "link": "https://www.ambito.com/las-fuerzas-armadas-compraran-nuevo-equipamiento-secreto-militar-mientras-crece-la-tension-malvinas-n6335156"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -730,42 +458,42 @@
       "cantidad_medios_competencia": 2
     },
     {
-      "tema": "Guía práctica para acelerar un teléfono celular lento sin perder datos",
+      "tema": "Aprobación de inversión petrolera en Vaca Muerta bajo el RIGI",
       "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Contenido de servicio y SEO técnico",
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 1,
-      "medio_lider": "La Nación",
+      "medio_lider": "Ámbito",
       "cobertura_medio_lider": 1,
       "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
+        "La Nación": 0,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 0,
-        "Ámbito": 0,
+        "Ámbito": 1,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Atrae tráfico orgánico constante a través de consultas directas en buscadores (How-to queries).",
-      "insight": "Los tutoriales de tecnología básica tienen una vida útil muy prolongada en los buscadores.",
+      "por_que_importa": "Representa una inyección millonaria de divisas y desarrollo energético clave para la macroeconomía argentina.",
+      "insight": "Los portales especializados y de finanzas destacan los US$ 12.000 millones aprobados, un tema estratégico para la sección de economía.",
       "motivo": "",
-      "motivo_oportunidad": "La Nación publica guías de utilidad práctica tecnológica que rankean excelente en Google Search. Perfil carece de este tipo de piezas de servicio en la jornada.",
-      "accion_sugerida": "Crear un formato estándar de notas de servicio tecnológico para captrurar búsquedas de optimización de dispositivos.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un análisis económico sobre el impacto del RIGI en la balanza comercial y el desarrollo de hidrocarburos no convencionales.",
       "enfoques_sugeridos": [
-        "Celular lento: el paso a paso definitivo para acelerarlo sin perder fotos ni archivos",
-        "Trucos sencillos para liberar espacio y memoria RAM en dispositivos Android e iOS"
+        "Detalles del proyecto multimillonario de Pluspetrol y YPF en la cuenca neuquina.",
+        "El rol del régimen de incentivos a las grandes inversiones como ancla para la llegada de capitales externos."
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "Celular lento el paso a paso para acelerarlo sin perder nada",
-          "link": "https://www.lanacion.com.ar/tecnologia/celular-lento-el-paso-a-paso-para-acelerarlo-sin-perder-nada-nid16102026/"
+          "medio": "Ámbito",
+          "titulo": "RIGI: aprueban el multimillonario proyecto petrolero Pluspetrol y YP en Vaca Muerta US$12.000 millones",
+          "link": "https://www.ambito.com/energia/rigi-aprueban-el-multimillonario-proyecto-petrolero-pluspetrol-y-gyp-vaca-muerta-us12000-millones-n6335155"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -773,10 +501,10 @@
       "cantidad_medios_competencia": 1
     },
     {
-      "tema": "Alerta por estafas y robo de datos mediante el uso de TV boxes piratas",
+      "tema": "Reuniones políticas entre el PRO y La Libertad Avanza",
       "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Ciberseguridad y advertencia al consumidor",
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
@@ -795,20 +523,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Apunta a un público masivo que busca entretenimiento gratuito sin conocer los riesgos de robo de tarjetas de crédito.",
-      "insight": "Las alertas de ciberestafas traccionan muy bien en redes sociales por el temor generalizado al fraude digital.",
+      "por_que_importa": "Define las alianzas legislativas y electorales del oficialismo de cara al reacomodamiento partidario.",
+      "insight": "Clarín y otros medios detectan cortocircuitos y desconfianza en el vínculo político, generando alto interés en la sección política.",
       "motivo": "",
-      "motivo_oportunidad": "Clarín publicó una advertencia sobre los riesgos de seguridad al usar dispositivos ilegales para ver contenido. Perfil no abordó la temática.",
-      "accion_sugerida": "Publicar notas de prevención sobre ciberdelitos cotidianos y uso seguro de dispositivos electrónicos.",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Indagar en las negociaciones parlamentarias y los roces territoriales entre dirigentes del PRO y referentes libertarios.",
       "enfoques_sugeridos": [
-        "Alerta por TV boxes: cómo operan los hackers para robar contraseñas y datos bancarios",
-        "El peligro oculto detrás de los dispositivos para ver fútbol y películas gratis"
+        "La puja por espacios de poder y la resistencia interna a un acuerdo de cúpulas.",
+        "El impacto de la estrategia conjunta en las votaciones clave dentro del Congreso."
       ],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Alerta tv boxes ver futbol peliculas gratis pueden robar contraseñas tarjetas credito",
-          "link": "https://www.clarin.com/tecnologia/alerta-tv-boxes-ver-futbol-peliculas-gratis-pueden-robar-contrasenas-tarjetas-credito_0_0eZNBwZceI.html"
+          "titulo": "PRO vuelve reunirse con Libertad Avanza y crece desconfianza acuerdo",
+          "link": "https://www.clarin.com/politica/pro-vuelve-reunirse-libertad-avanza-crece-desconfianza-acuerdo_0_Vp6zJtYasy.html"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -816,42 +544,221 @@
       "cantidad_medios_competencia": 1
     },
     {
-      "tema": "Consejos médicos y psiquiátricos para combatir el insomnio sin medicación",
+      "tema": "Lanzamiento del nuevo índice accionario MSCI Merval",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 2,
+      "cantidad_medios": 2,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 2,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Modifica la metodología de medición y cotización de las principales acciones de la bolsa porteña.",
+      "insight": "Los medios económicos y financieros le otorgan relevancia por su impacto en las carteras de inversión institucional y minorista.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Elaborar un informe financiero detallando qué empresas ingresan y cuáles salen del panel líder con la nueva metodología.",
+      "enfoques_sugeridos": [
+        "El cambio metodológico implementado por la calificadora global en el mercado de capitales local.",
+        "Cómo repercute el nuevo panel en el humor de los inversores bursátiles y los ADRs."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Debuta hoy el nuevo índice MSCI Merval: qué acciones entran y salen del panel líder porteño",
+          "link": "https://www.ambito.com/finanzas/debuta-hoy-el-nuevo-indice-msci-merval-que-acciones-entran-y-salen-del-panel-lider-porteno-n6335190"
+        },
+        {
+          "medio": "El Cronista",
+          "titulo": "Con cambios en la metodología, la global MSCI calculará y difundirá los índices BYMA y Merval",
+          "link": "https://www.cronista.com/finanzas-mercados/con-cambios-en-la-metodologia-la-global-msci-calculara-y-difundira-los-indices-byma-y-merval/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
+    }
+  ],
+  "oportunidades": [
+    {
+      "tema": "Llegada de la red de supercargadores de Tesla a Argentina",
       "prioridad": 0,
       "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Salud, bienestar y hábitos de vida",
+      "tipo_de_oportunidad": "Cobertura de Innovación y Tecnología",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 1,
-      "medio_lider": "La Nación",
+      "medio_lider": "Ámbito",
       "cobertura_medio_lider": 1,
       "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 1,
+        "La Nación": 0,
         "Clarín": 0,
         "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Es una novedad tecnológica y automotriz de gran atractivo para el público entusiasta de la movilidad sustentable.",
+      "insight": "El Cronista y Ámbito cubren la expansión de infraestructura eléctrica, un nicho con excelente rendimiento en Google Discover.",
+      "motivo": "",
+      "motivo_oportunidad": "Perfil no cubrió la llegada de infraestructura de Tesla, un contenido que tracciona muy bien en audiencias jóvenes y nativos digitales.",
+      "accion_sugerida": "Publicar una guía con las rutas prioritarias donde se instalarán los cargadores y los modelos compatibles.",
+      "enfoques_sugeridos": [
+        "Mapa de rutas y cronograma de instalación de los dispositivos de carga rápida en el país.",
+        "El estado actual del mercado de autos eléctricos y la infraestructura de carga en Argentina."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Los supercargadores Tesla llegan la Argentina: qué rutas instalarán los dispositivos",
+          "link": "https://www.ambito.com/autos/los-supercargadores-tesla-llegan-la-argentina-q-rutas-instalaran-los-dispositivos-n6335182"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Visita oficial de Javier Milei a Neuquén para impulsar inversiones",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Agenda Presidencial y Política",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Involucra la agenda presidencial en el interior productivo y su relación con los gobernadores provinciales.",
+      "insight": "TN aborda el viaje presidencial con foco en el vínculo con las provincias y la atracción de capitales energéticos.",
+      "motivo": "",
+      "motivo_oportunidad": "La agenda del Presidente en las provincias genera alto interés sostenido en lectores interesados en la gestión nacional.",
+      "accion_sugerida": "Cobertura en tiempo real de la agenda del mandatario en territorio neuquino y sus reuniones con referentes sectoriales.",
+      "enfoques_sugeridos": [
+        "El objetivo político y económico de la visita en el corazón hidrocarburífero.",
+        "Repercusiones en la dirigencia patagónica frente a las políticas de ajuste y promoción de inversiones."
+      ],
+      "ejemplos": [
+        {
+          "medio": "TN",
+          "titulo": "Javier Milei visita Neuquén para impulsar las inversiones y afianzar su vínculo con las provincias",
+          "link": "https://tn.com.ar/politica/2026/10/19/javier-milei-visita-neuquen-para-impulsar-las-inversiones-y-afianzar-su-vinculo-con-las-provincias/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Reconocimiento internacional a la milanesa napolitana argentina",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Tendencias y Lifestyle",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Infobae",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 1,
         "TN": 0,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Los problemas de sueño afectan a una enorme porción de la población urbana, generando alta empatía y lectura profunda.",
-      "insight": "Los contenidos orientados al bienestar físico y mental se comparten masivamente en plataformas digitales.",
+      "por_que_importa": "Toca fibras culturales identitarias de la gastronomía argentina con alto potencial viral en redes y buscadores.",
+      "insight": "Infobae destaca el posicionamiento global del plato típico, generando interacciones masivas y tráfico fluido.",
       "motivo": "",
-      "motivo_oportunidad": "La Nación aborda soluciones naturales para el descanso con especialistas. Perfil no contó con piezas equivalentes en su edición.",
-      "accion_sugerida": "Desarrollar notas periódicas sobre higiene del sueño consultando a médicos neurólogos y psiquiatras.",
+      "motivo_oportunidad": "Contenido de consumo masivo ideal para posicionamiento en Google Discover durante el fin de semana o lunes por la mañana.",
+      "accion_sugerida": "Desarrollar una nota lifestyle complementaria con ranking de los mejores bodegones o recetas tradicionales.",
       "enfoques_sugeridos": [
-        "Insomnio crónico: los 5 hábitos de vida más efectivos que superan a cualquier pastilla",
-        "Cómo resetear el cerebro para dormir mejor sin depender de fármacos"
+        "Los fundamentos del jurado internacional que ubicó a la milanesa napolitana entre las mejores del mundo.",
+        "El origen porteño del plato y su evolución en la cultura culinaria nacional."
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "Fernando mora psiquiatra sobre el insomnio estos 5 habitos de vida son mucho mas efectivos que la",
-          "link": "https://www.lanacion.com.ar/lifestyle/fernando-mora-psiquiatra-sobre-el-insomnio-estos-5-habitos-de-vida-son-mucho-mas-efectivos-que-la-nid16102026/"
+          "medio": "Infobae",
+          "titulo": "La milanesa napolitana argentina se ubicó entre las cinco mejores del mundo",
+          "link": "https://www.infobae.com/tendencias/2026/10/19/la-milanesa-napolitana-argentina-se-ubico-entre-las-cinco-mejores-del-mundo/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Comparativa regional del precio del gasoil en Argentina",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Economía de Bolsillo y Consumo",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Permite dimensionar el costo de los combustibles locales frente al resto de los países de Latinoamérica.",
+      "insight": "TN expone un ranking regional que evidencia el encarecimiento del insumo logístico fundamental para el transporte.",
+      "motivo": "",
+      "motivo_oportunidad": "Es un tema de utilidad directa para transportistas, productores y automovilistas que genera gran volumen de búsquedas.",
+      "accion_sugerida": "Analizar las causas impositivas y de mercado que posicionan al gasoil argentino entre los más caros de la región.",
+      "enfoques_sugeridos": [
+        "Impacto del precio del combustible en los costos logísticos y el transporte de cargas.",
+        "Ranking comparativo de surtidores en los países vecinos."
+      ],
+      "ejemplos": [
+        {
+          "medio": "TN",
+          "titulo": "El litro de gasoil en el país es el más caro de la región: cuánto cuesta y cómo quedó el ranking regional",
+          "link": "https://tn.com.ar/economia/2026/10/19/el-litro-de-gasoil-en-el-pais-es-el-mas-caro-de-la-region-cuanto-cuesta-y-how-quedo-el-ranking-regional/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -861,7 +768,7 @@
   ],
   "fortalezas_perfil": [
     {
-      "tema": "Modificación de requisitos de ANSES para cobrar el 20% retenido de la AUH",
+      "tema": "Investigación sobre bandas criminales y turismo delictivo transnacional",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -883,20 +790,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Es una temática de altísimo impacto social y de servicio directo para los sectores de menores recursos que dependen de las asignaciones.",
-      "insight": "Perfil supo anticiparse con una pieza de utilidad previsional que supera la cobertura individual del resto de los medios en esta franja horaria.",
+      "por_que_importa": "Expone problemáticas complejas de seguridad regional e internacional con origen en pasos fronterizos.",
+      "insight": "Perfil lidera con una investigación propia en el área de policiales que la competencia no replicó con la misma profundidad.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener esta veta de periodismo utilitario previsional que rinde muy bien en Google Discover.",
+      "accion_sugerida": "Darle visibilidad en la home y redes sociales explotando el diferencial de producción propia.",
       "enfoques_sugeridos": [
-        "ANSES modifica los requisitos para cobrar el 20% retenido de la AUH desde noviembre",
-        "Paso a paso: qué documentación hay que presentar para no perder el beneficio"
+        "Modus operandi de las bandas chilenas que utilizan el Paso Los Libertadores como ruta hacia Europa y EE.UU.",
+        "Cooperación policial transfronteriza para desbaratar redes de turismo delictivo."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "AUH ANSES gobierno modifica requisitos cobrar 20 desde noviembre a40",
-          "link": "https://www.perfil.com/noticias/economia/auh-anses-gobierno-modifica-requisitos-cobrar-20-desde-noviembre-a40.phtml"
+          "titulo": "Turismo delictivo: señalan al Paso Los Libertadores y a Argentina como ruta de bandas chilenas hacia Europa y EE.UU.",
+          "link": "https://www.perfil.com/noticias/policia/a41-turismo-delictivo-senalan-al-paso-los-libertadores-y-a-argentina-como-ruta-de-bandas-chilenas-hacia-europa-y-eeuu.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -904,7 +811,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Prórroga de vencimientos impositivos en ARBA para noviembre y beneficios",
+      "tema": "Premio mundial a expedición científica del Conicet",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -926,20 +833,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Interesa de forma directa a contribuyentes y PyMEs de la provincia de Buenos Aires que buscan alivio fiscal.",
-      "insight": "Perfil logró cubrir con precisión un trámite de gestión bonaerense que suele generar muchas búsquedas por parte de los contribuyentes.",
+      "por_que_importa": "Pone en valor el desarrollo científico nacional y el trabajo de investigadores locales reconocido internacionalmente.",
+      "insight": "Perfil destaca un logro académico y científico que aporta contenido de calidad y prestigio a la sección de sociedad.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Replicar este tipo de coberturas fiscales provinciales con calculadoras o resúmenes claros.",
+      "accion_sugerida": "Entrevistar a los referentes de la expedición para conocer detalles del descubrimiento de nuevas especies.",
       "enfoques_sugeridos": [
-        "ARBA prorrogo el vencimiento de tres impuestos en noviembre: nueva fecha y descuentos",
-        "Cómo acceder al 10% de bonificación en las próximas boletas"
+        "El valor de la ciencia argentina premiada a nivel global tras el descubrimiento de 57 especies.",
+        "Los desafíos de la financiación y el reconocimiento internacional de los investigadores del Conicet."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "ARBA prorrogo el vencimiento de tres impuestos en noviembre nueva fecha y como obtener el 10 de descuento",
-          "link": "https://www.perfil.com/noticias/economia/arba-prorrogo-el-vencimiento-de-tres-impuestos-en-noviembre-nueva-fecha-y-como-obtener-el-10-de-descuento.phtml"
+          "titulo": "La expedición científica que fascinó a millones: descubrió 57 especies y ahora ganó un premio mundial",
+          "link": "https://www.perfil.com/noticias/sociedad/la-expedicion-cientifica-que-fascino-a-millones-descubrio-57-especies-y-ahora-gano-un-premio-mundial-mararg.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -947,7 +854,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Impacto de los agentes de inteligencia artificial en el posicionamiento de marcas",
+      "tema": "Estudio de opinión sobre el rol político de Patricia Bullrich",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -969,20 +876,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Apunta a un nicho corporativo, de marketing y tecnología muy interesado en las transformaciones digitales del mercado.",
-      "insight": "Perfil demuestra fortaleza en contenidos de innovación y negocios tecnológicos avanzados que otros medios omiten en la agenda diaria.",
+      "por_que_importa": "Analiza las proyecciones electorales y la percepción pública de una figura central del oficialismo.",
+      "insight": "Perfil profundiza en métricas de redes sociales y escenarios futuros que no figuran en la agenda diaria de la competencia.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar esta sección con entrevistas a referentes del sector tecnológico y marketing digital.",
+      "accion_sugerida": "Ampliar el análisis con consultores políticos sobre el peso de la ministra en un eventual armado de fórmula.",
       "enfoques_sugeridos": [
-        "Agentes de inteligencia artificial: cómo cambia la forma en que se eligen las marcas",
-        "El nuevo posicionamiento corporativo en la era de los algoritmos conversacionales"
+        "Cómo evalúan las redes sociales la figura de Patricia Bullrich como posible vicepresidenta.",
+        "El reacomodamiento interno de las terminales de Juntos por el Cambio dentro del esquema libertario."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Agentes de inteligencia artificial y posicionamiento en IA como cambia la forma en que se eligen las marcas",
-          "link": "https://www.perfil.com/noticias/digital-solutions/agentes-de-inteligencia-artificial-y-posicionamiento-en-ia-como-cambia-la-forma-en-que-se-eligen-las-marcas-segun-federico-feres.phtml"
+          "titulo": "Bullrich, vice de Milei o no: un estudio revela cómo la prefieren en las redes",
+          "link": "https://www.perfil.com/noticias/politica/bullrich-vice-de-milei-o-no-un-estudio-revela-como-la-prefieren-en-las-redes.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -990,7 +897,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Estrategias comerciales del centro de Córdoba para impulsar ventas por el Día de la Madre",
+      "tema": "Fallos judiciales sobre la administración de Lago Escondido",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -1012,20 +919,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Muestra la economía real y el pulso comercial del interior del país en una fecha clave para el consumo minorista.",
-      "insight": "La cobertura federal y de comercio minorista es un diferencial clásico de Perfil que compite bien contra los portales centralizados en CABA.",
+      "por_que_importa": "Atraviesa causas judiciales de alto perfil político y disputas sobre soberanía y recursos extranjeros.",
+      "insight": "Perfil mantiene una cobertura sostenida de temas judiciales complejos que la competencia desatiende en la jornada.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Potenciar el enfoque federal con relevamientos similares en otras plazas del interior.",
+      "accion_sugerida": "Seguir los próximos pasos procesales del procesamiento ratificado por la Cámara de Casación.",
       "enfoques_sugeridos": [
-        "Comerciantes la pelean con uñas y dientes: la apuesta del centro cordobés por el Día de la Madre",
-        "Descuentos, financiación y expectativas de venta frente al freno del consumo"
+        "Los argumentos de Casación para confirmar el procesamiento a Ricardo Nissen.",
+        "El trasfondo político y legal en torno al control de capitales extranjeros en zonas de frontera."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Los comerciantes la estan peleando con unas y dientes la apuesta del centro para impulsar las ventas por el dia de la madre",
-          "link": "https://www.perfil.com/noticias/cordoba/los-comerciantes-la-estan-peleando-con-unas-y-dientes-la-apuesta-del-centro-para-impulsar-las-ventas-por-el-dia-la-madre.phtml"
+          "titulo": "Casación confirmó el procesamiento a Ricardo Nissen por fiscalizar a la empresa de capitales extranjeros que administra Lago Escondido",
+          "link": "https://www.perfil.com/noticias/politica/casacion-confirmo-el-procesamiento-a-ricardo-nissen-por-fiscalizar-a-la-empresa-de-capitales-extranjeros-que-administra-lago-escondido-a60.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -1035,826 +942,494 @@
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Presentación mundial del auto volador de Tesla por Elon Musk",
+      "tema": "Secreto militar en la compra de equipamiento para las Fuerzas Armadas y Malvinas",
       "prioridad": 1,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 4,
+      "total_notas": 2,
+      "cantidad_medios": 2,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 7,
+      "competencia_total": 2,
       "medio_lider": "TN",
-      "cobertura_medio_lider": 3,
-      "brecha": 3,
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
       "cobertura": {
         "Perfil": 0,
         "La Nación": 0,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 3,
-        "Ámbito": 2,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es una de las grandes noticias tecnológicas de la jornada con enorme potencial viral y de posicionamiento en Google Discover.",
-      "insight": "La competencia capturó todo el tráfico de tecnología e innovación mientras Perfil no registró cobertura.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar de inmediato un resumen técnico y las repercusiones en redes sociales del Tesla Roadster volador.",
-      "enfoques_sugeridos": [
-        "Elon Musk presentó el auto volador: cómo es el Tesla Roadster y cuándo saldrá al mercado",
-        "Las dudas sobre seguridad y los divertidos memes que inundaron las redes sociales"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Clarín",
-          "titulo": "Tesla presento auto volador impresionante demostracion encabezada elon musk",
-          "link": "https://www.clarin.com/tecnologia/tesla-presento-auto-volador-impresionante-demostracion-encabezada-elon-musk_0_coC2xmQzG4.html"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Elon Musk presento su auto volador y las redes no lo perdonaron los memes mas divertidos",
-          "link": "https://tn.com.ar/tecno/redes-sociales/2026/10/16/elon-musk-presento-su-auto-volador-y-las-redes-no-lo-perdonaron-los-memes-mas-divertidos/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
-    },
-    {
-      "tema": "Procesamiento judicial a Diego Spagnuolo por presunta corrupción en la ANDIS",
-      "prioridad": 2,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 7,
-      "cantidad_medios": 7,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 6,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Atraviesa la agenda de corrupción y gestión del Estado, siendo un eje político ineludible para un diario de referencia nacional.",
-      "insight": "La competencia marca la agenda judicial con múltiples enfoques mientras Perfil tiene una presencia mínima.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en el entramado de las coimas y las ramificaciones políticas dentro de la Agencia de Discapacidad.",
-      "enfoques_sugeridos": [
-        "El juez Lijo procesó por segunda vez a Diego Spagnuolo por el esquema de sobreprecios",
-        "El impacto institucional de las nuevas causas por corrupción en áreas sensibles del Gobierno"
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "El juez Lijo firmó un nuevo procesamiento contra Diego Spagnuolo por una segunda ruta de la coimas en Andis",
-          "link": "https://www.perfil.com/noticias/judiciales/el-juez-lijo-firmo-un-nuevo-procesamiento-contra-diego-spagnuolo-por-una-segunda-ruta-de-la-coimas-andis.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Caso andis amplian el procesamiento de spagnuolo y otros acusados por el esquema de sobreprecios en",
-          "link": "https://www.lanacion.com.ar/politica/caso-andis-amplian-el-procesamiento-de-spagnuolo-y-otros-acusados-por-el-esquema-de-sobreprecios-en-nid16102026/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 6
-    },
-    {
-      "tema": "Anuncio de los shows de U2 en River Plate para 2027: precios y fechas de venta",
-      "prioridad": 3,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 5,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 5,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 2,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
         "Clarín": 0,
         "Infobae": 0,
-        "TN": 2,
+        "TN": 1,
         "Ámbito": 1,
-        "Página 12": 1,
+        "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Genera una enorme masa de búsquedas activas por parte de los usuarios, siendo clave para el tráfico de entretenimiento y servicio.",
-      "insight": "La competencia captura todo el caudal de tráfico de preventa y ticketing sin resistencia por parte de Perfil.",
+      "por_que_importa": "Atraviesa la soberanía nacional, la defensa y la asignación de recursos públicos bajo reserva de Estado.",
+      "insight": "Varios medios líderes posicionan en agenda el decreto de secreto militar, un ángulo que Perfil omitió por completo.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar inmediatamente una guía de compra, precios y ubicaciones para capturar el tráfico orgánico.",
+      "accion_sugerida": "Investigar los alcances de la normativa de secreto militar y el tipo de armamento adquirido en medio de la tensión por Malvinas.",
       "enfoques_sugeridos": [
-        "U2 en River 2027: precios de entradas, mapa de ubicaciones y cuándo arranca la venta",
-        "El regreso de la legendaria banda y su impacto en la agenda de grandes recitales"
+        "El impacto geopolítico y el reclamo de transparencia en las adquisiciones estratégicas para la defensa.",
+        "La reacción de los bloques legislativos ante la imposición del secreto en compras militares."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "U2 toca en river 2027 entradas desde 120000 mapa de ubicaciones y todas las fechas de venta",
-          "link": "https://www.lanacion.com.ar/que-sale/u2-toca-en-river-2027-entradas-desde-120000-mapa-de-ubicaciones-y-todas-las-fechas-de-venta-nid16102026/"
+          "titulo": "Islas Malvinas: el Gobierno impuso el secreto militar sobre la compra de equipamiento para las Fuerzas Armadas",
+          "link": "https://tn.com.ar/politica/2026/10/19/islas-malvinas-el-gobierno-impuso-el-secreto-militar-sobre-la-compra-de-equipamiento-para-las-fuerzas-armadas/"
         },
         {
-          "medio": "TN",
-          "titulo": "U2 en River cuanto cuestan las entradas y cuando salen a la venta",
-          "link": "https://tn.com.ar/musica/2026/10/16/u2-en-river-cuanto-cuestan-las-entradas-y-cuando-salen-a-la-venta/"
+          "medio": "Ámbito",
+          "titulo": "Las Fuerzas Armadas comprarán nuevo equipamiento secreto militar mientras crece la tensión Malvinas",
+          "link": "https://www.ambito.com/las-fuerzas-armadas-compraran-nuevo-equipamiento-secreto-militar-mientras-crece-la-tension-malvinas-n6335156"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
+      "cantidad_medios_competencia": 2
+    },
+    {
+      "tema": "Aprobación de inversión petrolera en Vaca Muerta bajo el RIGI",
+      "prioridad": 2,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Representa una inyección millonaria de divisas y desarrollo energético clave para la macroeconomía argentina.",
+      "insight": "Los portales especializados y de finanzas destacan los US$ 12.000 millones aprobados, un tema estratégico para la sección de economía.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar un análisis económico sobre el impacto del RIGI en la balanza comercial y el desarrollo de hidrocarburos no convencionales.",
+      "enfoques_sugeridos": [
+        "Detalles del proyecto multimillonario de Pluspetrol y YPF en la cuenca neuquina.",
+        "El rol del régimen de incentivos a las grandes inversiones como ancla para la llegada de capitales externos."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Ámbito",
+          "titulo": "RIGI: aprueban el multimillonario proyecto petrolero Pluspetrol y YP en Vaca Muerta US$12.000 millones",
+          "link": "https://www.ambito.com/energia/rigi-aprueban-el-multimillonario-proyecto-petrolero-pluspetrol-y-gyp-vaca-muerta-us12000-millones-n6335155"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Llegada de la red de supercargadores de Tesla a Argentina",
+      "prioridad": 3,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Es una novedad tecnológica y automotriz de gran atractivo para el público entusiasta de la movilidad sustentable.",
+      "insight": "El Cronista y Ámbito cubren la expansión de infraestructura eléctrica, un nicho con excelente rendimiento en Google Discover.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Publicar una guía con las rutas prioritarias donde se instalarán los cargadores y los modelos compatibles.",
+      "enfoques_sugeridos": [
+        "Mapa de rutas y cronograma de instalación de los dispositivos de carga rápida en el país.",
+        "El estado actual del mercado de autos eléctricos y la infraestructura de carga en Argentina."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Ámbito",
+          "titulo": "Los supercargadores Tesla llegan la Argentina: qué rutas instalarán los dispositivos",
+          "link": "https://www.ambito.com/autos/los-supercargadores-tesla-llegan-la-argentina-q-rutas-instalaran-los-dispositivos-n6335182"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
     }
   ],
   "analisis_completo": {
     "hipercompetencia": [
       {
-        "tema": "Fallecimiento y trayectoria del meteorólogo Fernando Confessore",
+        "tema": "Toque de queda y disturbios en Francia",
         "prioridad": 0,
         "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
-        "total_notas": 22,
-        "cantidad_medios": 6,
-        "cobertura_perfil": 3,
-        "perfil": 3,
-        "competencia_total": 19,
-        "medio_lider": "TN",
-        "cobertura_medio_lider": 8,
-        "brecha": 5,
+        "total_notas": 12,
+        "cantidad_medios": 7,
+        "cobertura_perfil": 2,
+        "perfil": 2,
+        "competencia_total": 10,
+        "medio_lider": "Infobae",
+        "cobertura_medio_lider": 3,
+        "brecha": 1,
         "cobertura": {
-          "Perfil": 3,
-          "La Nación": 6,
+          "Perfil": 2,
+          "La Nación": 1,
           "Clarín": 1,
           "Infobae": 3,
-          "TN": 8,
-          "Ámbito": 0,
-          "Página 12": 1,
-          "El Cronista": 0
+          "TN": 0,
+          "Ámbito": 2,
+          "Página 12": 2,
+          "El Cronista": 1
         },
-        "por_que_importa": "Es una figura pública y de medios muy querida y recordada por la audiencia masiva argentina, con altísimo tráfico en redes y buscadores.",
-        "insight": "Todos los medios de la competencia cubrieron masivamente la noticia, generando una saturación informativa donde la velocidad y el ángulo emotivo o biográfico marcan la diferencia.",
+        "por_que_importa": "Es el acontecimiento internacional principal de la jornada con fuerte impacto en Europa y resonancia global.",
+        "insight": "Todos los grandes medios de la competencia y Perfil cubren el hecho, lo que demuestra su masividad y tracción en Google Discover.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar notas de color complementarias, reacciones de colegas y el impacto en la audiencia para captar el rebote en Google Discover.",
+        "accion_sugerida": "Monitorear minuto a minuto las nuevas medidas de Macron y las declaraciones de líderes internacionales.",
         "enfoques_sugeridos": [
-          "El emotivo adiós de sus colegas en la pantalla y redes sociales",
-          "Repaso de su trayectoria y cómo se transformó en el rostro de la meteorología en la televisión"
+          "Impacto económico y social de los toques de queda en las principales ciudades francesas.",
+          "Repercusiones políticas y reacciones de líderes globales como Donald Trump."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Fallecimiento y trayectoria del meteorólogo Fernando Confessore",
-            "link": "https://www.perfil.com/noticias/protagonistas/a04-quien-era-fernando-confessore-la-carrera-y-la-familia-del-meteorologo-de-tn-a50-que-murio-a-los-58-anos.phtml"
+            "titulo": "Toque de queda parcial en ciudades de Francia ante la oleada de violencia",
+            "link": "https://www.perfil.com/noticias/breaking-news/toque-de-queda-parcial-en-ciudades-de-francia-ante-la-oleada-de-violencia.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Murio fernando confessore reacciones y mensajes de despedida al meteorologo que trabajaba en el",
-            "link": "https://www.lanacion.com.ar/sociedad/murio-fernando-confessore-reacciones-y-mensajes-de-despedida-al-meteorologo-que-trabajaba-en-el-nid16102026/"
+            "titulo": "Disturbios en Francia: el gobierno de Macron pidió toques de queda para frenar los saqueos",
+            "link": "https://www.lanacion.com.ar/el-mundo/disturbios-en-francia-el-gobierno-macron-pidio-toques-de-queda-para-frenar-los-saqueos-nid19102026/"
           },
           {
-            "medio": "Infobae",
-            "titulo": "Mensajes de despedida tras la muerte de Fernando Confessore en vivo últimas noticias minuto a minuto",
-            "link": "https://www.infobae.com/teleshow/2026/10/16/mensajes-de-despedida-tras-la-muerte-de-fernando-confessore-en-vivo-ultimas-noticias-minuto-a-minuto/"
+            "medio": "Ámbito",
+            "titulo": "Francia endurece la seguridad e impondrá toques queda ante temor nuevos disturbios",
+            "link": "https://www.ambito.com/mundo/francia-endurece-la-seguridad-e-impondra-toques-queda-el-temor-nuevos-disturbios-n6335184"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 6
+      },
+      {
+        "tema": "Cronograma de pagos y aumentos de ANSES",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 14,
+        "cantidad_medios": 3,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 13,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 12,
+        "brecha": 11,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 12,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 1
+        },
+        "por_que_importa": "Es un servicio esencial de altísimo tránsito para jubilados y beneficiarios de planes sociales en Argentina.",
+        "insight": "Es una temática de consulta obligatoria diaria que genera picos masivos de tráfico orgánico y en Discover.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Mantener actualizadas las tablas de cobro y los montos con bonos para capturar la intención de búsqueda directa.",
+        "enfoques_sugeridos": [
+          "Calendario detallado de pagos según terminación de documento para este lunes.",
+          "Montos definitivos de jubilaciones y asignaciones con los incrementos y bonos confirmados."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "ANSES: quiénes cobran jubilaciones, AUH, SUAF, PNC este lunes 19 octubre",
+            "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobran-jubilaciones-auh-suaf-pnc-este-lunes-19-octubre-a35.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Fecha de cobro de ANSES: el cronograma de pagos para este lunes 19 de octubre",
+            "link": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-lunes-19-de-octubre-nid19102026/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 2
+      },
+      {
+        "tema": "Cotización del dólar oficial y blue",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 21,
+        "cantidad_medios": 8,
+        "cobertura_perfil": 3,
+        "perfil": 3,
+        "competencia_total": 18,
+        "medio_lider": "Infobae",
+        "cobertura_medio_lider": 6,
+        "brecha": 3,
+        "cobertura": {
+          "Perfil": 3,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 6,
+          "TN": 1,
+          "Ámbito": 4,
+          "Página 12": 1,
+          "El Cronista": 4
+        },
+        "por_que_importa": "La economía cotidiana y financiera argentina gira en torno al movimiento cambiario diario.",
+        "insight": "Todos los portales de noticias despliegan coberturas minuto a minuto para satisfacer la alta demanda de la audiencia.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Automatizar los reportes de apertura y cierre de los tipos de cambio para liderar las consultas financieras.",
+        "enfoques_sugeridos": [
+          "Seguimiento en vivo de la cotización del dólar blue y los financieros MEP y CCL.",
+          "Evolución del dólar mayorista y la postura compradora del Banco Central."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "A cuánto cotiza el dólar blue hoy lunes 19 de octubre",
+            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-19-de-octubre-a50-bgd.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este",
+            "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Dólar hoy: cómo cotizan oficial y diferentes tipos cambio lunes 19 octubre",
+            "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-19-octubre_0_NffNAeDwQw.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 7
+      },
+      {
+        "tema": "Impacto del fenómeno El Niño y crecida del río Paraná",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 13,
+        "cantidad_medios": 6,
+        "cobertura_perfil": 3,
+        "perfil": 3,
+        "competencia_total": 10,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 3,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 3,
+          "La Nación": 3,
+          "Clarín": 2,
+          "Infobae": 1,
+          "TN": 0,
+          "Ámbito": 2,
+          "Página 12": 0,
+          "El Cronista": 2
+        },
+        "por_que_importa": "Afecta directamente a miles de desplazados en el Litoral y genera alertas meteorológicas en múltiples provincias.",
+        "insight": "La combinación de emergencias climáticas locales y reportes satelitales moviliza el interés regional y nacional.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Desarrollar coberturas geolocalizadas combinando los datos oficiales de Defensa Civil y los informes de la NASA.",
+        "enfoques_sugeridos": [
+          "Crecida del río Paraná y situación de los evacuados y desplazados en Corrientes.",
+          "Alertas meteorológicas amarillas por lluvias, vientos y tormentas en el centro y norte del país."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "El Niño en Corrientes: el Paraná superó el nivel de evacuación en la capital y ya hay 754 desplazados",
+            "link": "https://www.perfil.com/noticias/nea/el-nino-en-corrientes-el-parana-supero-el-nivel-de-evacuacion-en-la-capital-y-ya-hay-754-desplazados.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Hay alerta amarilla por lluvias, nevadas y vientos para este lunes 19 de octubre: las provincias",
+            "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-lluvias-nevadas-y-vientos-para-este-lunes-19-de-octubre-las-provincias-nid19102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Super Súper Niño 2026 en Argentina en vivo: llegará a pico de fuertes lluvias y cambiará clima país",
+            "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegara-pico-fuertes-lluvias-cambiara-clima-pais_0_YXf54Qp9KX.html"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
         "cantidad_medios_competencia": 5
-      },
-      {
-        "tema": "Registro de superávit financiero y fiscal del Gobierno en septiembre",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 9,
-        "cantidad_medios": 7,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 8,
-        "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "El Cronista": 2
-        },
-        "por_que_importa": "Es el núcleo de la narrativa económica oficialista y genera fuerte debate sobre la sustentabilidad del modelo y su impacto en las cuentas públicas.",
-        "insight": "La cobertura es generalizada pero los matices difieren entre la celebración de la meta fiscal y la crítica sobre el costo social y el freno a la actividad.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Profundizar en el desglose de la recaudación y el ajuste del gasto para ofrecer una lectura más analítica que la competencia.",
-        "enfoques_sugeridos": [
-          "El Gobierno volvió a registrar superávit fiscal y financiero en septiembre",
-          "Análisis de cómo se logró la meta y el impacto del recorte en la economía real"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "El Gobierno volvió a registrar superávit financiero en septiembre",
-            "link": "https://www.perfil.com/noticias/economia/el-gobierno-volvio-a-registrar-superavit-financiero-en-septiembre-a40.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "El gobierno mostro superavit en septiembre y dijo que cumplio con los acuerdos alcanzados con las",
-            "link": "https://www.lanacion.com.ar/economia/el-gobierno-mostro-superavit-en-septiembre-y-dijo-que-cumplio-con-los-acuerdos-alcanzados-con-las-nid16102026/"
-          },
-          {
-            "medio": "El Cronista",
-            "titulo": "El gobierno volvio a registrar superavit fiscal y acumula un 12 en lo que va del ano",
-            "link": "https://www.cronista.com/economia-politica/el-gobierno-volvio-a-registrar-superavit-fiscal-y-acumula-un-12-en-lo-que-va-del-ano/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 6
-      },
-      {
-        "tema": "Investigación judicial a la FIFA y exhorto a Suiza por transferencias a Claudio 'Chiqui' Tapia",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 4,
-        "cantidad_medios": 4,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 3,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 0,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Cruza el poder político, la justicia y el fútbol, generando alto interés en la opinión pública más allá de lo estrictamente deportivo.",
-        "insight": "Es una de las agendas judiciales más fuertes del día, donde la primicia documental y el avance de los exhortos internacionales traccionan clicks.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Seguir de cerca los movimientos de la causa en Comodoro Py y las respuestas de la AFA.",
-        "enfoques_sugeridos": [
-          "La Justicia avanza sobre las cuentas: el pedido de explicaciones a la FIFA",
-          "El impacto institucional del escrito enviado a Suiza en medio de la tensión con el Gobierno"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "La justicia pidió explicaciones a la FIFA por casi US 190000 que transfirió a Chiqui Tapia",
-            "link": "https://www.perfil.com/noticias/judiciales/la-justicia-pidio-explicaciones-a-la-fifa-por-casi-us-190000-que-transfirio-a-chiqui-tapia.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "El juez lijo ordeno un exhorto a suiza por transferencias de us190000 de la fifa a claudio chiqui",
-            "link": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-un-exhorto-a-suiza-por-transferencias-de-us190000-de-la-fifa-a-claudio-chiqui-nid16102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Justicia envio exhorto suiza investigar transferencias fifa chiqui tapia",
-            "link": "https://www.clarin.com/politica/justicia-envio-exhorto-suiza-investigar-transferencias-fifa-chiqui-tapia_0_WIOeZjjyLx.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      },
-      {
-        "tema": "Evolución de la salud del papa León XIV y parte médico oficial",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 16,
-        "cantidad_medios": 7,
-        "cobertura_perfil": 2,
-        "perfil": 2,
-        "competencia_total": 14,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 5,
-        "brecha": 3,
-        "cobertura": {
-          "Perfil": 2,
-          "La Nación": 5,
-          "Clarín": 3,
-          "Infobae": 1,
-          "TN": 2,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "La figura del Papa convoca a una audiencia masiva global y local, con especial sensibilidad en la feligresía argentina.",
-        "insight": "Los partes médicos diarios y los gestos desde el hospital (como llamadas o misas) son altamente consumidos en formatos breves y de última hora.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Mantener actualizados los boletines sobre su recuperación y el estatus de su eventual visita al país.",
-        "enfoques_sugeridos": [
-          "El parte médico confirma una mejoría constante y su reaparición dominical",
-          "Las repercusiones internacionales de sus comunicaciones desde el Policlínico Gemelli"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "El papa León XIV celebró misa en el Policlínico Gemelli y el nuevo parte médico habla de mejora constante",
-            "link": "https://www.perfil.com/noticias/protagonistas/el-papa-leon-xiv-celebro-misa-en-el-policlinico-gemelli-y-el-nuevo-parte-medico-habla-de-mejora-constante.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Salud del papa leon xiv como sigue su recuperacion y que se sabe de la visita a la argentina",
-            "link": "https://www.lanacion.com.ar/el-mundo/salud-del-papa-leon-xiv-como-sigue-su-recuperacion-y-que-se-sabe-de-la-visita-a-la-argentina-nid15102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Conocieron primeras fotos papa leon xiv operacion difundieron nuevo parte medico mejoria constante",
-            "link": "https://www.clarin.com/mundo/conocieron-primeras-fotos-papa-leon-xiv-operacion-difundieron-nuevo-parte-medico-mejoria-constante_0_LMypvIP995.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 6
       }
     ],
     "perfil_pierde": [
       {
-        "tema": "Procesamiento judicial a Diego Spagnuolo por presunta corrupción en la ANDIS",
+        "tema": "Visita de funcionarios de Estados Unidos a la Argentina",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
-        "total_notas": 7,
-        "cantidad_medios": 7,
+        "total_notas": 2,
+        "cantidad_medios": 2,
         "cobertura_perfil": 1,
         "perfil": 1,
-        "competencia_total": 6,
-        "medio_lider": "La Nación",
+        "competencia_total": 1,
+        "medio_lider": "Página 12",
         "cobertura_medio_lider": 1,
         "brecha": 0,
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
           "Página 12": 1,
           "El Cronista": 0
         },
-        "por_que_importa": "Involucra a funcionarios de la actual administración nacional en supuestos hechos de corrupción, un tema de alta sensibilidad política.",
-        "insight": "Aunque Perfil cubre la noticia, la competencia despliega múltiples enfoques (ampliación de cargos, segundas rutas de coimas, repercusiones políticas), opacando la visibilidad del medio.",
+        "por_que_importa": "Involucra la agenda geopolítica y de seguridad vinculada a la administración de Javier Milei.",
+        "insight": "Perfil publica un enfoque escueto mientras que competidores directos profundizan en las implicancias de la misión diplomática.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar la cobertura con notas de análisis sobre el impacto político dentro del oficialismo y los nombres salpicados.",
+        "accion_sugerida": "Ampliar el seguimiento sobre los encuentros bilaterales en materia de narcotráfico, seguridad e inversiones.",
         "enfoques_sugeridos": [
-          "El juez Lijo firmó un nuevo procesamiento por la segunda ruta de coimas en la Agencia de Discapacidad",
-          "El trasfondo político de las irregularidades en un área clave de asistencia social"
+          "El rol de los enviados especiales de Washington en el control del plan económico y de seguridad.",
+          "Repercusiones en la oposición sobre la injerencia y los acuerdos estratégicos con EE.UU."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "El juez Lijo firmó un nuevo procesamiento contra Diego Spagnuolo por una segunda ruta de la coimas en Andis",
-            "link": "https://www.perfil.com/noticias/judiciales/el-juez-lijo-firmo-un-nuevo-procesamiento-contra-diego-spagnuolo-por-una-segunda-ruta-de-la-coimas-andis.phtml"
+            "titulo": "Dos funcionarios clave de Trump llegan para seguir de cerca a Milei: narcotráfico, seguridad e inversiones",
+            "link": "https://www.perfil.com/noticias/internacional/dos-funcionarios-clave-de-trump-llegan-para-seguir-de-cerca-a-milei-narcotrafico-seguridad-e-inversiones-a60.phtml"
           },
           {
-            "medio": "La Nación",
-            "titulo": "Caso andis amplian el procesamiento de spagnuolo y otros acusados por el esquema de sobreprecios en",
-            "link": "https://www.lanacion.com.ar/politica/caso-andis-amplian-el-procesamiento-de-spagnuolo-y-otros-acusados-por-el-esquema-de-sobreprecios-en-nid16102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Juez lijo volvio procesar diego spagnuolo segunda ruta coimas agencia discapacidad",
-            "link": "https://www.clarin.com/politica/juez-lijo-volvio-procesar-diego-spagnuolo-segunda-ruta-coimas-agencia-discapacidad_0_DZfaTCN3Ki.html"
+            "medio": "Página 12",
+            "titulo": "Dos enviados de Trump llegan a la Argentina para controlar que todo marcha acorde al plan",
+            "link": "https://www.pagina12.com.ar/2026/10/18/dos-enviados-de-trump-llegan-a-la-argentina-para-controlar-que-todo-marcha-acorde-al-plan/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 6
+        "cantidad_medios_competencia": 1
       },
       {
-        "tema": "Cruce político entre Diego Santilli, Axel Kicillof y los gobernadores por obras y el 2027",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 8,
-        "cantidad_medios": 6,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 7,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 2,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 2,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Define el tablero político de cara al mediano plazo, anticipando alianzas, tensiones presupuestarias y la discusión por las reelecciones o candidaturas.",
-        "insight": "La competencia logra posicionar los textuales más fuertes de los dirigentes y coberturas desde distintos foros, ganando terreno en la discusión pública.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Centralizar los cruces políticos en un formato de apostillas o análisis de rosca política que atraiga clics rápidos.",
-        "enfoques_sugeridos": [
-          "Santilli agita el fantasma de la vuelta del kirchnerismo y advierte a los gobernadores",
-          "La respuesta de Kicillof en la cumbre de mandatarios provinciales"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Santilli lanzó una advertencia a los gobernadores por Kicillof y agito el fantasma de la vuelta del kirchnerismo",
-            "link": "https://www.perfil.com/noticias/politica/santilli-lanzo-una-advertencia-a-los-gobernadores-por-kicillof-y-agito-el-fantasma-de-la-vuelta-del-kirchnerismo.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Los gobernadores piden mas obras y santilli lanzo una advertencia deberian estar preocupados si",
-            "link": "https://www.lanacion.com.ar/politica/los-gobernadores-piden-mas-obras-y-santilli-lanzo-una-advertencia-deberian-estar-preocupados-si-nid16102026/"
-          },
-          {
-            "medio": "Infobae",
-            "titulo": "Estamos sufriendo Kicillof le respondió a Santilli y criticó a Milei en una cumbre de gobernadores",
-            "link": "https://www.infobae.com/politica/2026/10/16/estamos-sufriendo-kicillof-le-respondio-a-santilli-y-critico-a-milei-en-una-cumbre-de-gobernadores/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 5
-      },
-      {
-        "tema": "Aumento de la VTV en la Provincia de Buenos Aires y cruces con Sturzenegger",
+        "tema": "Nuevo plan de retiros voluntarios para empleados estatales",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
         "total_notas": 4,
-        "cantidad_medios": 3,
+        "cantidad_medios": 4,
         "cobertura_perfil": 1,
         "perfil": 1,
         "competencia_total": 3,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 2,
-          "Clarín": 1,
+          "La Nación": 0,
+          "Clarín": 0,
           "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
+          "TN": 1,
+          "Ámbito": 1,
           "Página 12": 0,
-          "El Cronista": 0
+          "El Cronista": 1
         },
-        "por_que_importa": "Impacta directamente en el bolsillo de millones de bonaerenses y forma parte de la disputa dialéctica entre Nación y Provincia.",
-        "insight": "La competencia explota el costado de servicio (cuánto cuesta ahora) sumado a la chicana política, logrando un doblegancho de audiencia.",
+        "por_que_importa": "Es una medida económica y fiscal de alto impacto sobre el sector público y el gasto estatal.",
+        "insight": "La competencia despliega múltiples notas con detalles de montos y restricciones, superando la cobertura general de Perfil.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar guías de utilidad con los nuevos cuadros tarifarios y el detalle de los requisitos obligatorios.",
+        "accion_sugerida": "Desarrollar notas de servicio explicando quiénes pueden acceder, montos de compensación y límites de la medida.",
         "enfoques_sugeridos": [
-          "Sturzenegger cruzó a Kicillof por el fuerte aumento de la VTV bonaerense",
-          "Cuánto cuesta hacer la revisión técnica obligatoria tras la suba"
+          "Letra chica del decreto: montos, escalas de indemnización en sueldos y restricciones.",
+          "El impacto político y gremial de la profundización del recorte de empleo estatal."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Sturzenegger apuntó contra Kicillof: aumentó VTV en Provincia Buenos Aires",
-            "link": "https://www.perfil.com/noticias/economia/sturzenegger-apunto-contra-kicillof-aumento-vtv-en-provincia-buenos-aires-a40.phtml"
+            "titulo": "El Gobierno lanzó un nuevo plan de retiros voluntarios para estatales: quiénes pueden acceder y cuánto cobrarán",
+            "link": "https://www.perfil.com/noticias/actualidad/el-gobierno-lanzo-un-nuevo-plan-de-retiros-voluntarios-para-estatales-quienes-pueden-acceder-y-cuanto-cobraran.phtml"
           },
           {
-            "medio": "La Nación",
-            "titulo": "Vtv el tramite aumento en la provincia de buenos aires cuanto cuesta ahora hacer la revision",
-            "link": "https://www.lanacion.com.ar/autos/vtv-el-tramite-aumento-en-la-provincia-de-buenos-aires-cuanto-cuesta-ahora-hacer-la-revision-nid16102026/"
+            "medio": "TN",
+            "titulo": "El Gobierno busca profundizar el recorte de empleo estatal con un nuevo plan de retiros voluntarios",
+            "link": "https://tn.com.ar/economia/2026/10/19/el-gobierno-busca-profundizar-el-recorte-de-empleo-estatal-con-un-nuevo-plan-de-retiros-voluntarios/"
           },
           {
-            "medio": "Clarín",
-            "titulo": "Recordar ano viene votes provincia sturzenegger cruzo kicillof aumento vtv",
-            "link": "https://www.clarin.com/politica/recordar-ano-viene-votes-provincia-sturzenegger-cruzo-kicillof-aumento-vtv_0_59LSSKzjEu.html"
+            "medio": "Ámbito",
+            "titulo": "El Gobierno abrió un nuevo plan retiro voluntario estatales: compensaciones 20 sueldos",
+            "link": "https://www.ambito.com/politica/el-gobierno-abrio-un-nuevo-plan-retiro-voluntario-estatales-compensaciones-20-sueldos-n6335155"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 2
+        "cantidad_medios_competencia": 3
       },
       {
-        "tema": "Detención y denuncias contra el médico ginecólogo Gustavo Kumiega por abuso y mala praxis",
+        "tema": "Declaraciones e interna sobre candidaturas de Cristina Kirchner y Axel Kicillof",
         "prioridad": 0,
         "tipo": "perfil_pierde",
         "tipo_de_oportunidad": "",
         "total_notas": 2,
         "cantidad_medios": 2,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 2,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Los casos policiales de fuerte impacto social y cariz aberrante generan un tráfico sostenido en portales digitales.",
-        "insight": "La competencia detalla los chats y los testimonios de las víctimas, capturando la atención en secciones de seguridad y policiales.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Monitorear el avance de las declaraciones indagatorias y la recopilación de nuevas denuncias.",
-        "enfoques_sugeridos": [
-          "Los aberrantes chats y testimonios que complican al médico detenido",
-          "Cómo operaba el profesional acusado de múltiples casos de abuso"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Detuvieron al ginecologo chaqueno gustavo kumiega denunciado por abuso sexual y mala praxis",
-            "link": "https://www.lanacion.com.ar/seguridad/detuvieron-al-ginecologo-chaqueno-gustavo-kumiega-denunciado-por-abuso-sexual-y-mala-praxis-nid16102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Duermo desnudo haaland desubicados dialogos doctor kumiega pacientes",
-            "link": "https://www.clarin.com/policiales/duermo-desnudo-haaland-desubicados-dialogos-doctor-kumiega-pacientes_0_8UoRzhOxwY.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 2
-      }
-    ],
-    "sin_cobertura_perfil": [
-      {
-        "tema": "Presentación mundial del auto volador de Tesla por Elon Musk",
-        "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
-        "tipo_de_oportunidad": "",
-        "total_notas": 7,
-        "cantidad_medios": 4,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 7,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 1,
         "medio_lider": "TN",
-        "cobertura_medio_lider": 3,
-        "brecha": 3,
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
         "cobertura": {
-          "Perfil": 0,
+          "Perfil": 1,
           "La Nación": 0,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 3,
-          "Ámbito": 2,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Es un contenido de alto impacto tecnológico y viral, con un fuerte rendimiento garantizado en redes sociales y Google Discover.",
-        "insight": "Mientras Perfil estuvo ausente, múltiples medios de la competencia capitalizaron la novedad técnica y los memes asociados al lanzamiento.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Incorporar de manera más ágil notas de tendencias globales e innovación tecnológica disruptiva.",
-        "enfoques_sugeridos": [
-          "Elon Musk presentó el esperado auto volador: características y cuándo saldrá al mercado",
-          "Los mejores memes y reacciones en redes tras el show de Tesla"
-        ],
-        "ejemplos": [
-          {
-            "medio": "Clarín",
-            "titulo": "Tesla presento auto volador impresionante demostracion encabezada elon musk",
-            "link": "https://www.clarin.com/tecnologia/tesla-presento-auto-volador-impresionante-demostracion-encabezada-elon-musk_0_coC2xmQzG4.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Elon Musk presento su auto volador y las redes no lo perdonaron los memes mas divertidos",
-            "link": "https://tn.com.ar/tecno/redes-sociales/2026/10/16/elon-musk-presento-su-auto-volador-y-las-redes-no-lo-perdonaron-los-memes-mas-divertidos/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Elon Musk presento un auto que vuela el Tesla Roadster",
-            "link": "https://www.ambito.com/autos/elon-musk-presento-un-auto-que-vuela-el-tesla-roadster-n6334466"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 4
-      },
-      {
-        "tema": "Anuncio de los shows de U2 en River Plate para 2027: precios y fechas de venta",
-        "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
-        "tipo_de_oportunidad": "",
-        "total_notas": 5,
-        "cantidad_medios": 4,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 5,
-        "medio_lider": "TN",
-        "cobertura_medio_lider": 2,
-        "brecha": 2,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
           "Clarín": 0,
-          "Infobae": 0,
-          "TN": 2,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Los grandes recitales internacionales movilizan millones de búsquedas y generan un tráfico masivo de utilidad inmediata para los fans.",
-        "insight": "La competencia cubre con anticipación los detalles de venta de entradas, asegurándose los primeros puestos en los motores de búsqueda.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Crear secciones de servicio para coberturas de grandes conciertos apenas se confirmen las productoras.",
-        "enfoques_sugeridos": [
-          "U2 en River 2027: cuánto cuestan las entradas, mapa de ubicaciones y cuándo salen a la venta",
-          "El esperado regreso de la banda y los detalles de su nuevo videoclip conceptual"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "U2 toca en river 2027 entradas desde 120000 mapa de ubicaciones y todas las fechas de venta",
-            "link": "https://www.lanacion.com.ar/que-sale/u2-toca-en-river-2027-entradas-desde-120000-mapa-de-ubicaciones-y-todas-las-fechas-de-venta-nid16102026/"
-          },
-          {
-            "medio": "TN",
-            "titulo": "U2 en River cuanto cuestan las entradas y cuando salen a la venta",
-            "link": "https://tn.com.ar/musica/2026/10/16/u2-en-river-cuanto-cuestan-las-entradas-y-cuando-salen-a-la-venta/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "U2 Argentina precios ubicaciones y como y donde comprar las entradas",
-            "link": "https://www.ambito.com/espectaculos/u2-argentina-precios-ubicaciones-y-como-y-donde-comprar-las-entradas-n6334555"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 4
-      },
-      {
-        "tema": "Alerta por la crecida de los ríos del Litoral debido al impacto de El Niño",
-        "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
-        "tipo_de_oportunidad": "",
-        "total_notas": 3,
-        "cantidad_medios": 3,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 3,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
           "Infobae": 0,
           "TN": 1,
           "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Afecta a comunidades enteras, zonas turísticas y la producción agropecuaria regional, siendo un tema de interés federal.",
-        "insight": "La Nación, Clarín y TN cubren con despliegue de notas el avance del agua y las medidas de prevención en los puertos.",
+        "por_que_importa": "Define el rearmado y las tensiones dentro de la principal fuerza de oposición política.",
+        "insight": "La competencia aborda el tema con encuestas, análisis de imagen y reuniones reservadas, opacando la cobertura inicial de Perfil.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Establecer una red de corresponsales o alertas climáticas permanentes para no perder el pulso de las catástrofes naturales regionales.",
+        "accion_sugerida": "profundizar en los entretelones de la mesa chica opositora y la estrategia electoral de cara a los próximos comicios.",
         "enfoques_sugeridos": [
-          "El agua sigue bajando desde Brasil y pone en alerta a 17 puertos del Litoral",
-          "El río Iguazú está por encima de su nivel habitual y cubrió zonas turísticas"
+          "Análisis de las encuestas de imagen que miden la interna entre la expresidenta y el gobernador bonaerense.",
+          "Reuniones clave y negociaciones por el armado de listas y candidaturas."
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "El agua sigue bajando desde brasil y ya pone en alerta a 17 puertos del litoral",
-            "link": "https://www.lanacion.com.ar/sociedad/el-agua-sigue-bajando-desde-brasil-y-ya-pone-en-alerta-a-17-puertos-del-litoral-nid16102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Desesperacion productores rescate reloj animales avance agua litoral",
-            "link": "https://www.clarin.com/sociedad/desesperacion-productores-rescate-reloj-animales-avance-agua-litoral-0_WRNa1TixVN.html"
+            "medio": "Perfil",
+            "titulo": "La encuesta que agita la interna entre Cristina Kirchner y Axel Kicillof: quién tiene mejor imagen",
+            "link": "https://www.perfil.com/noticias/politica/la-encuesta-que-agita-la-interna-entre-cristina-kirchner-y-axel-kicillof-quien-tiene-mejor-imagen.phtml"
           },
           {
             "medio": "TN",
-            "titulo": "Alerta en el Litoral por El Niño el río Iguazú está 25 metros por encima de su nivel habitual",
-            "link": "https://tn.com.ar/sociedad/2026/10/16/alerta-en-el-litoral-por-el-nino-el-rio-iguazu-esta-25-metros-por-encima-de-su-nivel-habitual-y-el-agua-cubrio-zonas-turisticas/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      },
-      {
-        "tema": "Hallazgo del cuerpo de una joven dentro de una heladera en Córdoba y búsqueda del novio",
-        "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
-        "tipo_de_oportunidad": "",
-        "total_notas": 3,
-        "cantidad_medios": 3,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 3,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Los femicidios y crímenes de alto impacto conmueven a la opinión pública y generan una enorme demanda informativa en portales de noticias.",
-        "insight": "Los principales medios nacionales y policiales cubrieron los detalles macabros del hallazgo, una temática en la que Perfil suele tener buen rendimiento si llega a tiempo.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar la cobertura policial con un enfoque en la prevención de la violencia de género y el seguimiento de prófugos.",
-        "enfoques_sugeridos": [
-          "Macabro hallazgo en Córdoba: encontraron a una joven asesinada dentro de una heladera",
-          "Búsqueda intensa del novio prófugo que habría dejado una carta"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Encontraron muerta a una joven en una heladera tapada con cal en cordoba",
-            "link": "https://www.lanacion.com.ar/seguridad/encontraron-muerta-a-una-joven-en-una-heladera-tapada-con-cal-en-cordoba-nid16102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Macabro hallazgo cruz eje encontraron restos joven escondidos heladera buscan novio",
-            "link": "https://www.clarin.com/policiales/macabro-hallazgo-cruz-eje-encontraron-restos-joven-escondidos-heladera-buscan-novio_0_abnfYdyyp6.html"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Encontraron muerta a una joven dentro de una heladera en Córdoba su novio está prófugo",
-            "link": "https://tn.com.ar/policiales/2026/10/16/encontraron-muerta-a-una-joven-dentro-de-una-heladera-en-cordoba-su-novio-esta-profugo-y-habria-dejado-una-carta/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      }
-    ],
-    "oportunidades": [
-      {
-        "tema": "Declaraciones de Gabriel Rolón sobre la memoria, el duelo y los recuerdos de los padres",
-        "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Contenido evergreen de bienestar y psicología",
-        "total_notas": 5,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 5,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 5,
-        "brecha": 5,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 5,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Los temas de salud mental, vínculos y reflexión personal tienen una retención de lectura muy alta y fidelizan a la audiencia digital.",
-        "insight": "La competencia aprovecha figuras mediáticas del ámbito psi para capturar clics orgánicos sostenidos.",
-        "motivo": "",
-        "motivo_oportunidad": "La Nación genera alto tráfico con entrevistas y columnas de psicoanálisis que funcionan muy bien en redes y fines de semana. Perfil no cubrió este ángulo específico.",
-        "accion_sugerida": "Producir columnas propias sobre duelo y memoria con especialistas en salud mental.",
-        "enfoques_sugeridos": [
-          "Por qué recordamos a nuestros padres: la mirada psicoanalítica sobre la ausencia",
-          "Cómo procesar la pérdida y transformar el dolor en legado emocional"
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Gabriel rolon psicoanalista sobre los recuerdos nuestros padres que ya notestan se transforman en personas por hace mas nobles",
-            "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-notestan-se-transforman-en-personas-por-hace-mas-nobles-nid13102026/"
+            "titulo": "Cristina Kirchner recibió a Massa: la estrategia para definir candidaturas y la expectativa por una decisión de la ONU",
+            "link": "https://tn.com.ar/politica/2026/10/19/cristina-kirchner-recibio-a-massa-la-estrategia-para-definir-candidaturas-y-la-expectativa-por-una-decision-de-la-onu/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1862,47 +1437,97 @@
         "cantidad_medios_competencia": 1
       },
       {
-        "tema": "Desbaratamiento de una banda de falsos médicos que operaban con ambulancias truchas",
+        "tema": "Declaraciones de Alejandra Monteoliva sobre incidentes frente al Congreso",
         "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Nota policial de alto impacto y viralidad",
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 2,
+        "cantidad_medios": 2,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 1,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Genera fuertes cruces institucionales, denuncias judiciales y debate sobre los límites de la protesta social.",
+        "insight": "La competencia cubre tanto las polémicas definiciones de la funcionaria como las presentaciones judiciales posteriores en su contra.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Seguir de cerca la evolución de las denuncias por incitación a la violencia y la postura oficial del Ministerio de Seguridad.",
+        "enfoques_sugeridos": [
+          "El alcance legal de calificar como 'terrorismo' los incidentes en las inmediaciones legislativas.",
+          "La presentación judicial de organizaciones y sectores universitarios contra los dichos de la funcionaria."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Monteoliva calificó de terrorismo los incidentes frente al Congreso",
+            "link": "https://www.perfil.com/noticias/politica/monteoliva-califico-de-terrorismo-los-incidentes-frente-al-congreso.phtml"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "Denunciaron Alejandra Monteoliva discriminación e incitación la violencia contra los universitarios",
+            "link": "https://www.ambito.com/politica/denunciaron-alejandra-monteoliva-discriminacion-e-incitacion-la-violencia-contra-los-universitarios-n6335187"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      }
+    ],
+    "sin_cobertura_perfil": [
+      {
+        "tema": "Secreto militar en la compra de equipamiento para las Fuerzas Armadas y Malvinas",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
         "total_notas": 2,
         "cantidad_medios": 2,
         "cobertura_perfil": 0,
         "perfil": 0,
         "competencia_total": 2,
-        "medio_lider": "Clarín",
+        "medio_lider": "TN",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "cobertura": {
           "Perfil": 0,
           "La Nación": 0,
-          "Clarín": 1,
+          "Clarín": 0,
           "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 1,
+          "TN": 1,
+          "Ámbito": 1,
+          "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Combina el absurdo con el peligro sanitario, dos elementos que garantizan lectura rápida y viralización en redes.",
-        "insight": "Las estafas vinculadas a la salud pública generan indignación y alto volumen de comentarios y compartidos.",
+        "por_que_importa": "Atraviesa la soberanía nacional, la defensa y la asignación de recursos públicos bajo reserva de Estado.",
+        "insight": "Varios medios líderes posicionan en agenda el decreto de secreto militar, un ángulo que Perfil omitió por completo.",
         "motivo": "",
-        "motivo_oportunidad": "Clarín y Página/12 cubrieron un operativo insólito y peligroso sobre falsos profesionales de la salud. Perfil no lo registró en su portada.",
-        "accion_sugerida": "Desarrollar una nota propia profundizando en cómo operaba la red y qué controles faltaron.",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Investigar los alcances de la normativa de secreto militar y el tipo de armamento adquirido en medio de la tensión por Malvinas.",
         "enfoques_sugeridos": [
-          "Instrucciones por WhatsApp y ambulancias truchas: cayó la banda de falsos médicos",
-          "Los riesgos de los servicios de emergencia clandestinos en el conurbano"
+          "El impacto geopolítico y el reclamo de transparencia en las adquisiciones estratégicas para la defensa.",
+          "La reacción de los bloques legislativos ante la imposición del secreto en compras militares."
         ],
         "ejemplos": [
           {
-            "medio": "Clarín",
-            "titulo": "Cae banda falsos medicos dictaban instrucciones suturar whatsapp operaban ambulancias truchas",
-            "link": "https://www.clarin.com/policiales/cae-banda-falsos-medicos-dictaban-instrucciones-suturar-whatsapp-operaban-ambulancias-truchas_0_Xo2MKk07M6.html"
+            "medio": "La Nación",
+            "titulo": "Islas Malvinas: el Gobierno impuso el secreto militar sobre la compra de equipamiento para las Fuerzas Armadas",
+            "link": "https://tn.com.ar/politica/2026/10/19/islas-malvinas-el-gobierno-impuso-el-secreto-militar-sobre-la-compra-de-equipamiento-para-las-fuerzas-armadas/"
           },
           {
-            "medio": "Página 12",
-            "titulo": "Desbaratan una red de medicos falsos con base en Florencio Varela",
-            "link": "https://www.pagina12.com.ar/2026/10/15/desbaratan-una-red-de-medicos-falsos-con-base-en-florencio-varela/"
+            "medio": "Ámbito",
+            "titulo": "Las Fuerzas Armadas comprarán nuevo equipamiento secreto militar mientras crece la tensión Malvinas",
+            "link": "https://www.ambito.com/las-fuerzas-armadas-compraran-nuevo-equipamiento-secreto-militar-mientras-crece-la-tension-malvinas-n6335156"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1910,42 +1535,42 @@
         "cantidad_medios_competencia": 2
       },
       {
-        "tema": "Guía práctica para acelerar un teléfono celular lento sin perder datos",
+        "tema": "Aprobación de inversión petrolera en Vaca Muerta bajo el RIGI",
         "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Contenido de servicio y SEO técnico",
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
         "total_notas": 1,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
         "perfil": 0,
         "competencia_total": 1,
-        "medio_lider": "La Nación",
+        "medio_lider": "Ámbito",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 1,
+          "La Nación": 0,
           "Clarín": 0,
           "Infobae": 0,
           "TN": 0,
-          "Ámbito": 0,
+          "Ámbito": 1,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Atrae tráfico orgánico constante a través de consultas directas en buscadores (How-to queries).",
-        "insight": "Los tutoriales de tecnología básica tienen una vida útil muy prolongada en los buscadores.",
+        "por_que_importa": "Representa una inyección millonaria de divisas y desarrollo energético clave para la macroeconomía argentina.",
+        "insight": "Los portales especializados y de finanzas destacan los US$ 12.000 millones aprobados, un tema estratégico para la sección de economía.",
         "motivo": "",
-        "motivo_oportunidad": "La Nación publica guías de utilidad práctica tecnológica que rankean excelente en Google Search. Perfil carece de este tipo de piezas de servicio en la jornada.",
-        "accion_sugerida": "Crear un formato estándar de notas de servicio tecnológico para captrurar búsquedas de optimización de dispositivos.",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Publicar un análisis económico sobre el impacto del RIGI en la balanza comercial y el desarrollo de hidrocarburos no convencionales.",
         "enfoques_sugeridos": [
-          "Celular lento: el paso a paso definitivo para acelerarlo sin perder fotos ni archivos",
-          "Trucos sencillos para liberar espacio y memoria RAM en dispositivos Android e iOS"
+          "Detalles del proyecto multimillonario de Pluspetrol y YPF en la cuenca neuquina.",
+          "El rol del régimen de incentivos a las grandes inversiones como ancla para la llegada de capitales externos."
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Celular lento el paso a paso para acelerarlo sin perder nada",
-            "link": "https://www.lanacion.com.ar/tecnologia/celular-lento-el-paso-a-paso-para-acelerarlo-sin-perder-nada-nid16102026/"
+            "medio": "Ámbito",
+            "titulo": "RIGI: aprueban el multimillonario proyecto petrolero Pluspetrol y YP en Vaca Muerta US$12.000 millones",
+            "link": "https://www.ambito.com/energia/rigi-aprueban-el-multimillonario-proyecto-petrolero-pluspetrol-y-gyp-vaca-muerta-us12000-millones-n6335155"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1953,10 +1578,10 @@
         "cantidad_medios_competencia": 1
       },
       {
-        "tema": "Alerta por estafas y robo de datos mediante el uso de TV boxes piratas",
+        "tema": "Reuniones políticas entre el PRO y La Libertad Avanza",
         "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Ciberseguridad y advertencia al consumidor",
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
         "total_notas": 1,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
@@ -1975,20 +1600,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Apunta a un público masivo que busca entretenimiento gratuito sin conocer los riesgos de robo de tarjetas de crédito.",
-        "insight": "Las alertas de ciberestafas traccionan muy bien en redes sociales por el temor generalizado al fraude digital.",
+        "por_que_importa": "Define las alianzas legislativas y electorales del oficialismo de cara al reacomodamiento partidario.",
+        "insight": "Clarín y otros medios detectan cortocircuitos y desconfianza en el vínculo político, generando alto interés en la sección política.",
         "motivo": "",
-        "motivo_oportunidad": "Clarín publicó una advertencia sobre los riesgos de seguridad al usar dispositivos ilegales para ver contenido. Perfil no abordó la temática.",
-        "accion_sugerida": "Publicar notas de prevención sobre ciberdelitos cotidianos y uso seguro de dispositivos electrónicos.",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Indagar en las negociaciones parlamentarias y los roces territoriales entre dirigentes del PRO y referentes libertarios.",
         "enfoques_sugeridos": [
-          "Alerta por TV boxes: cómo operan los hackers para robar contraseñas y datos bancarios",
-          "El peligro oculto detrás de los dispositivos para ver fútbol y películas gratis"
+          "La puja por espacios de poder y la resistencia interna a un acuerdo de cúpulas.",
+          "El impacto de la estrategia conjunta en las votaciones clave dentro del Congreso."
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Alerta tv boxes ver futbol peliculas gratis pueden robar contraseñas tarjetas credito",
-            "link": "https://www.clarin.com/tecnologia/alerta-tv-boxes-ver-futbol-peliculas-gratis-pueden-robar-contrasenas-tarjetas-credito_0_0eZNBwZceI.html"
+            "titulo": "PRO vuelve reunirse con Libertad Avanza y crece desconfianza acuerdo",
+            "link": "https://www.clarin.com/politica/pro-vuelve-reunirse-libertad-avanza-crece-desconfianza-acuerdo_0_Vp6zJtYasy.html"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1996,42 +1621,221 @@
         "cantidad_medios_competencia": 1
       },
       {
-        "tema": "Consejos médicos y psiquiátricos para combatir el insomnio sin medicación",
+        "tema": "Lanzamiento del nuevo índice accionario MSCI Merval",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 2,
+        "cantidad_medios": 2,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 2,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 1
+        },
+        "por_que_importa": "Modifica la metodología de medición y cotización de las principales acciones de la bolsa porteña.",
+        "insight": "Los medios económicos y financieros le otorgan relevancia por su impacto en las carteras de inversión institucional y minorista.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Elaborar un informe financiero detallando qué empresas ingresan y cuáles salen del panel líder con la nueva metodología.",
+        "enfoques_sugeridos": [
+          "El cambio metodológico implementado por la calificadora global en el mercado de capitales local.",
+          "Cómo repercute el nuevo panel en el humor de los inversores bursátiles y los ADRs."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Ámbito",
+            "titulo": "Debuta hoy el nuevo índice MSCI Merval: qué acciones entran y salen del panel líder porteño",
+            "link": "https://www.ambito.com/finanzas/debuta-hoy-el-nuevo-indice-msci-merval-que-acciones-entran-y-salen-del-panel-lider-porteno-n6335190"
+          },
+          {
+            "medio": "El Cronista",
+            "titulo": "Con cambios en la metodología, la global MSCI calculará y difundirá los índices BYMA y Merval",
+            "link": "https://www.cronista.com/finanzas-mercados/con-cambios-en-la-metodologia-la-global-msci-calculara-y-difundira-los-indices-byma-y-merval/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 2
+      }
+    ],
+    "oportunidades": [
+      {
+        "tema": "Llegada de la red de supercargadores de Tesla a Argentina",
         "prioridad": 0,
         "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Salud, bienestar y hábitos de vida",
+        "tipo_de_oportunidad": "Cobertura de Innovación y Tecnología",
         "total_notas": 1,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
         "perfil": 0,
         "competencia_total": 1,
-        "medio_lider": "La Nación",
+        "medio_lider": "Ámbito",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 1,
+          "La Nación": 0,
           "Clarín": 0,
           "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Es una novedad tecnológica y automotriz de gran atractivo para el público entusiasta de la movilidad sustentable.",
+        "insight": "El Cronista y Ámbito cubren la expansión de infraestructura eléctrica, un nicho con excelente rendimiento en Google Discover.",
+        "motivo": "",
+        "motivo_oportunidad": "Perfil no cubrió la llegada de infraestructura de Tesla, un contenido que tracciona muy bien en audiencias jóvenes y nativos digitales.",
+        "accion_sugerida": "Publicar una guía con las rutas prioritarias donde se instalarán los cargadores y los modelos compatibles.",
+        "enfoques_sugeridos": [
+          "Mapa de rutas y cronograma de instalación de los dispositivos de carga rápida en el país.",
+          "El estado actual del mercado de autos eléctricos y la infraestructura de carga en Argentina."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Ámbito",
+            "titulo": "Los supercargadores Tesla llegan la Argentina: qué rutas instalarán los dispositivos",
+            "link": "https://www.ambito.com/autos/los-supercargadores-tesla-llegan-la-argentina-q-rutas-instalaran-los-dispositivos-n6335182"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Visita oficial de Javier Milei a Neuquén para impulsar inversiones",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Agenda Presidencial y Política",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Involucra la agenda presidencial en el interior productivo y su relación con los gobernadores provinciales.",
+        "insight": "TN aborda el viaje presidencial con foco en el vínculo con las provincias y la atracción de capitales energéticos.",
+        "motivo": "",
+        "motivo_oportunidad": "La agenda del Presidente en las provincias genera alto interés sostenido en lectores interesados en la gestión nacional.",
+        "accion_sugerida": "Cobertura en tiempo real de la agenda del mandatario en territorio neuquino y sus reuniones con referentes sectoriales.",
+        "enfoques_sugeridos": [
+          "El objetivo político y económico de la visita en el corazón hidrocarburífero.",
+          "Repercusiones en la dirigencia patagónica frente a las políticas de ajuste y promoción de inversiones."
+        ],
+        "ejemplos": [
+          {
+            "medio": "TN",
+            "titulo": "Javier Milei visita Neuquén para impulsar las inversiones y afianzar su vínculo con las provincias",
+            "link": "https://tn.com.ar/politica/2026/10/19/javier-milei-visita-neuquen-para-impulsar-las-inversiones-y-afianzar-su-vinculo-con-las-provincias/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Reconocimiento internacional a la milanesa napolitana argentina",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Tendencias y Lifestyle",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "Infobae",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 1,
           "TN": 0,
           "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Los problemas de sueño afectan a una enorme porción de la población urbana, generando alta empatía y lectura profunda.",
-        "insight": "Los contenidos orientados al bienestar físico y mental se comparten masivamente en plataformas digitales.",
+        "por_que_importa": "Toca fibras culturales identitarias de la gastronomía argentina con alto potencial viral en redes y buscadores.",
+        "insight": "Infobae destaca el posicionamiento global del plato típico, generando interacciones masivas y tráfico fluido.",
         "motivo": "",
-        "motivo_oportunidad": "La Nación aborda soluciones naturales para el descanso con especialistas. Perfil no contó con piezas equivalentes en su edición.",
-        "accion_sugerida": "Desarrollar notas periódicas sobre higiene del sueño consultando a médicos neurólogos y psiquiatras.",
+        "motivo_oportunidad": "Contenido de consumo masivo ideal para posicionamiento en Google Discover durante el fin de semana o lunes por la mañana.",
+        "accion_sugerida": "Desarrollar una nota lifestyle complementaria con ranking de los mejores bodegones o recetas tradicionales.",
         "enfoques_sugeridos": [
-          "Insomnio crónico: los 5 hábitos de vida más efectivos que superan a cualquier pastilla",
-          "Cómo resetear el cerebro para dormir mejor sin depender de fármacos"
+          "Los fundamentos del jurado internacional que ubicó a la milanesa napolitana entre las mejores del mundo.",
+          "El origen porteño del plato y su evolución en la cultura culinaria nacional."
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "Fernando mora psiquiatra sobre el insomnio estos 5 habitos de vida son mucho mas efectivos que la",
-            "link": "https://www.lanacion.com.ar/lifestyle/fernando-mora-psiquiatra-sobre-el-insomnio-estos-5-habitos-de-vida-son-mucho-mas-efectivos-que-la-nid16102026/"
+            "medio": "Infobae",
+            "titulo": "La milanesa napolitana argentina se ubicó entre las cinco mejores del mundo",
+            "link": "https://www.infobae.com/tendencias/2026/10/19/la-milanesa-napolitana-argentina-se-ubico-entre-las-cinco-mejores-del-mundo/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Comparativa regional del precio del gasoil en Argentina",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Economía de Bolsillo y Consumo",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Permite dimensionar el costo de los combustibles locales frente al resto de los países de Latinoamérica.",
+        "insight": "TN expone un ranking regional que evidencia el encarecimiento del insumo logístico fundamental para el transporte.",
+        "motivo": "",
+        "motivo_oportunidad": "Es un tema de utilidad directa para transportistas, productores y automovilistas que genera gran volumen de búsquedas.",
+        "accion_sugerida": "Analizar las causas impositivas y de mercado que posicionan al gasoil argentino entre los más caros de la región.",
+        "enfoques_sugeridos": [
+          "Impacto del precio del combustible en los costos logísticos y el transporte de cargas.",
+          "Ranking comparativo de surtidores en los países vecinos."
+        ],
+        "ejemplos": [
+          {
+            "medio": "TN",
+            "titulo": "El litro de gasoil en el país es el más caro de la región: cuánto cuesta y cómo quedó el ranking regional",
+            "link": "https://tn.com.ar/economia/2026/10/19/el-litro-de-gasoil-en-el-pais-es-el-mas-caro-de-la-region-cuanto-cuesta-y-how-quedo-el-ranking-regional/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2041,7 +1845,7 @@
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Modificación de requisitos de ANSES para cobrar el 20% retenido de la AUH",
+        "tema": "Investigación sobre bandas criminales y turismo delictivo transnacional",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2063,20 +1867,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Es una temática de altísimo impacto social y de servicio directo para los sectores de menores recursos que dependen de las asignaciones.",
-        "insight": "Perfil supo anticiparse con una pieza de utilidad previsional que supera la cobertura individual del resto de los medios en esta franja horaria.",
+        "por_que_importa": "Expone problemáticas complejas de seguridad regional e internacional con origen en pasos fronterizos.",
+        "insight": "Perfil lidera con una investigación propia en el área de policiales que la competencia no replicó con la misma profundidad.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Mantener esta veta de periodismo utilitario previsional que rinde muy bien en Google Discover.",
+        "accion_sugerida": "Darle visibilidad en la home y redes sociales explotando el diferencial de producción propia.",
         "enfoques_sugeridos": [
-          "ANSES modifica los requisitos para cobrar el 20% retenido de la AUH desde noviembre",
-          "Paso a paso: qué documentación hay que presentar para no perder el beneficio"
+          "Modus operandi de las bandas chilenas que utilizan el Paso Los Libertadores como ruta hacia Europa y EE.UU.",
+          "Cooperación policial transfronteriza para desbaratar redes de turismo delictivo."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "AUH ANSES gobierno modifica requisitos cobrar 20 desde noviembre a40",
-            "link": "https://www.perfil.com/noticias/economia/auh-anses-gobierno-modifica-requisitos-cobrar-20-desde-noviembre-a40.phtml"
+            "titulo": "Turismo delictivo: señalan al Paso Los Libertadores y a Argentina como ruta de bandas chilenas hacia Europa y EE.UU.",
+            "link": "https://www.perfil.com/noticias/policia/a41-turismo-delictivo-senalan-al-paso-los-libertadores-y-a-argentina-como-ruta-de-bandas-chilenas-hacia-europa-y-eeuu.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2084,7 +1888,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Prórroga de vencimientos impositivos en ARBA para noviembre y beneficios",
+        "tema": "Premio mundial a expedición científica del Conicet",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2106,20 +1910,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Interesa de forma directa a contribuyentes y PyMEs de la provincia de Buenos Aires que buscan alivio fiscal.",
-        "insight": "Perfil logró cubrir con precisión un trámite de gestión bonaerense que suele generar muchas búsquedas por parte de los contribuyentes.",
+        "por_que_importa": "Pone en valor el desarrollo científico nacional y el trabajo de investigadores locales reconocido internacionalmente.",
+        "insight": "Perfil destaca un logro académico y científico que aporta contenido de calidad y prestigio a la sección de sociedad.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Replicar este tipo de coberturas fiscales provinciales con calculadoras o resúmenes claros.",
+        "accion_sugerida": "Entrevistar a los referentes de la expedición para conocer detalles del descubrimiento de nuevas especies.",
         "enfoques_sugeridos": [
-          "ARBA prorrogo el vencimiento de tres impuestos en noviembre: nueva fecha y descuentos",
-          "Cómo acceder al 10% de bonificación en las próximas boletas"
+          "El valor de la ciencia argentina premiada a nivel global tras el descubrimiento de 57 especies.",
+          "Los desafíos de la financiación y el reconocimiento internacional de los investigadores del Conicet."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "ARBA prorrogo el vencimiento de tres impuestos en noviembre nueva fecha y como obtener el 10 de descuento",
-            "link": "https://www.perfil.com/noticias/economia/arba-prorrogo-el-vencimiento-de-tres-impuestos-en-noviembre-nueva-fecha-y-como-obtener-el-10-de-descuento.phtml"
+            "titulo": "La expedición científica que fascinó a millones: descubrió 57 especies y ahora ganó un premio mundial",
+            "link": "https://www.perfil.com/noticias/sociedad/la-expedicion-cientifica-que-fascino-a-millones-descubrio-57-especies-y-ahora-gano-un-premio-mundial-mararg.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2127,7 +1931,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Impacto de los agentes de inteligencia artificial en el posicionamiento de marcas",
+        "tema": "Estudio de opinión sobre el rol político de Patricia Bullrich",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2149,20 +1953,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Apunta a un nicho corporativo, de marketing y tecnología muy interesado en las transformaciones digitales del mercado.",
-        "insight": "Perfil demuestra fortaleza en contenidos de innovación y negocios tecnológicos avanzados que otros medios omiten en la agenda diaria.",
+        "por_que_importa": "Analiza las proyecciones electorales y la percepción pública de una figura central del oficialismo.",
+        "insight": "Perfil profundiza en métricas de redes sociales y escenarios futuros que no figuran en la agenda diaria de la competencia.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar esta sección con entrevistas a referentes del sector tecnológico y marketing digital.",
+        "accion_sugerida": "Ampliar el análisis con consultores políticos sobre el peso de la ministra en un eventual armado de fórmula.",
         "enfoques_sugeridos": [
-          "Agentes de inteligencia artificial: cómo cambia la forma en que se eligen las marcas",
-          "El nuevo posicionamiento corporativo en la era de los algoritmos conversacionales"
+          "Cómo evalúan las redes sociales la figura de Patricia Bullrich como posible vicepresidenta.",
+          "El reacomodamiento interno de las terminales de Juntos por el Cambio dentro del esquema libertario."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Agentes de inteligencia artificial y posicionamiento en IA como cambia la forma en que se eligen las marcas",
-            "link": "https://www.perfil.com/noticias/digital-solutions/agentes-de-inteligencia-artificial-y-posicionamiento-en-ia-como-cambia-la-forma-en-que-se-eligen-las-marcas-segun-federico-feres.phtml"
+            "titulo": "Bullrich, vice de Milei o no: un estudio revela cómo la prefieren en las redes",
+            "link": "https://www.perfil.com/noticias/politica/bullrich-vice-de-milei-o-no-un-estudio-revela-como-la-prefieren-en-las-redes.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2170,7 +1974,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Estrategias comerciales del centro de Córdoba para impulsar ventas por el Día de la Madre",
+        "tema": "Fallos judiciales sobre la administración de Lago Escondido",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2192,20 +1996,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Muestra la economía real y el pulso comercial del interior del país en una fecha clave para el consumo minorista.",
-        "insight": "La cobertura federal y de comercio minorista es un diferencial clásico de Perfil que compite bien contra los portales centralizados en CABA.",
+        "por_que_importa": "Atraviesa causas judiciales de alto perfil político y disputas sobre soberanía y recursos extranjeros.",
+        "insight": "Perfil mantiene una cobertura sostenida de temas judiciales complejos que la competencia desatiende en la jornada.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Potenciar el enfoque federal con relevamientos similares en otras plazas del interior.",
+        "accion_sugerida": "Seguir los próximos pasos procesales del procesamiento ratificado por la Cámara de Casación.",
         "enfoques_sugeridos": [
-          "Comerciantes la pelean con uñas y dientes: la apuesta del centro cordobés por el Día de la Madre",
-          "Descuentos, financiación y expectativas de venta frente al freno del consumo"
+          "Los argumentos de Casación para confirmar el procesamiento a Ricardo Nissen.",
+          "El trasfondo político y legal en torno al control de capitales extranjeros en zonas de frontera."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Los comerciantes la estan peleando con unas y dientes la apuesta del centro para impulsar las ventas por el dia de la madre",
-            "link": "https://www.perfil.com/noticias/cordoba/los-comerciantes-la-estan-peleando-con-unas-y-dientes-la-apuesta-del-centro-para-impulsar-las-ventas-por-el-dia-la-madre.phtml"
+            "titulo": "Casación confirmó el procesamiento a Ricardo Nissen por fiscalizar a la empresa de capitales extranjeros que administra Lago Escondido",
+            "link": "https://www.perfil.com/noticias/politica/casacion-confirmo-el-procesamiento-a-ricardo-nissen-por-fiscalizar-a-la-empresa-de-capitales-extranjeros-que-administra-lago-escondido-a60.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2214,5 +2018,5 @@
       }
     ]
   },
-  "total_temas": 21
+  "total_temas": 20
 }
