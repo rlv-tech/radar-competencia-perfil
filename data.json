@@ -1,491 +1,116 @@
 {
-  "fecha_analisis": "2026-10-21",
+  "fecha_analisis": "22 de octubre de 2026",
   "hipercompetencia": [
     {
-      "tema": "Cruce político e insultos entre Javier Milei y Pedro Sánchez con mención a Lali Espósito",
+      "tema": "Aprobación de la ley de discapacidad en Diputados",
       "prioridad": 0,
       "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
-      "total_notas": 21,
-      "cantidad_medios": 8,
-      "cobertura_perfil": 2,
-      "perfil": 2,
-      "competencia_total": 19,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 4,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 2,
-        "La Nación": 4,
-        "Clarín": 3,
-        "Infobae": 3,
-        "TN": 2,
-        "Ámbito": 3,
-        "Página 12": 3,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Es el conflicto geopolítico y cultural de mayor tracción en la agenda iberoamericana del día, con altísimo consumo en Discover y redes.",
-      "insight": "Todos los medios de la competencia cubren el tema de forma intensiva, lo que obliga a Perfil a no perder el tren de la conversación digital.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Mantener la actualización constante del minuto a minuto con análisis sobre el impacto en la relación bilateral.",
-      "enfoques_sugeridos": [
-        "El impacto económico y diplomático de la escalada verbal en España.",
-        "La reacción de la oposición y el arco político local ante los dichos del Presidente."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "La respuesta de Pedro Sánchez a Milei: me encanta este temazo argentino por fanático de Lali",
-          "link": "https://www.perfil.com/noticias/politica/la-respuesta-de-pedro-sanchez-a-milei-me-encanta-este-temazo-argentino-por-fanatico-de-lali.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Milei volvió a atacar a Pedro Sánchez en su visita a España: es un impresentable dictador",
-          "link": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-pedro-sanchez-en-su-visita-a-espana-es-un-impresentable-dictador-nid21102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Fanático: irónica respuesta de Pedro Sánchez a canción de Lali Espósito e insultos de Milei",
-          "link": "https://www.clarin.com/politica/fanatico-ironica-respuesta-pedro-sanchez-cancion-lali-esposito-insultos-milei_0_APxqGbrhcY.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 7
-    },
-    {
-      "tema": "Sesión en la Cámara de Diputados sobre propiedad privada, endeudamiento y discapacidad",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 8,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 8,
-      "medio_lider": "El Cronista",
-      "cobertura_medio_lider": 2,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 2
-      },
-      "por_que_importa": "Define la agenda legislativa de la semana y moviliza a la audiencia interesada en la política parlamentaria nacional.",
-      "insight": "La cobertura coral demuestra que es un hito informativo ineludible para el tráfico directo y de portales de noticias.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar crónicas en desarrollo con foco en los cruces más picantes y las votaciones clave.",
-      "enfoques_sugeridos": [
-        "El porqué de la tensión oficialista para conseguir quórum y aprobar sus iniciativas.",
-        "El impacto social de los proyectos debatidos en materia de discapacidad y tierras."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Diputados: tras blindar su DNU 70 LLA lleva al recinto la ley de tierras, K, discapacidad y endeudamiento",
-          "link": "https://www.perfil.com/noticias/politica/diputados-tras-blindar-su-dnu-70-lla-lleva-al-recinto-la-ley-de-tierras-k-discapacidad-y-endeudamiento-a60.phtml"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Diputados hoy en vivo: debaten discapacidad, endeudamiento familiar e inviolabilidad de la propiedad privada",
-          "link": "https://www.clarin.com/politica/diputados-hoy-vivo-debaten-discapacidad-endeudamiento-familiar-inviolabilidad-propiedad-privada_0_Yf27T2arHZ.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "El oficialismo lleva a sesión en Diputados su versión de discapacidad, morosidad e inviolabilidad de la propiedad privada",
-          "link": "https://www.ambito.com/politica/el-oficialismo-lleva-sesion-diputados-su-version-discapacidad-morosidad-e-inviolabilidad-la-propiedad-privada-n6335931"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 7
-    },
-    {
-      "tema": "Actualización y cotización del dólar oficial y dólar blue",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 15,
-      "cantidad_medios": 8,
-      "cobertura_perfil": 2,
-      "perfil": 2,
-      "competencia_total": 13,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 4,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 2,
-        "La Nación": 1,
-        "Clarín": 1,
-        "Infobae": 1,
-        "TN": 3,
-        "Ámbito": 4,
-        "Página 12": 1,
-        "El Cronista": 2
-      },
-      "por_que_importa": "Es el contenido de servicio más consultado diariamente por la audiencia argentina en buscadores.",
-      "insight": "La demanda es constante y obliga a todos los portales a mantener indicadores en tiempo real optimizados para SEO.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Actualizar los widgets y notas de cotización con subtítulos claros y datos precisos al cierre.",
-      "enfoques_sugeridos": [
-        "El comportamiento de las brechas cambiarias frente al riesgo país.",
-        "El impacto de la cotización en los precios minoristas."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "A cuánto cotiza el dólar blue hoy miércoles 21 de octubre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-21-octubre-a50-bgd.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y el precio del paralelo minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-21-octubre_0_3G7xxgNrsp.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 7
-    },
-    {
-      "tema": "Evolución y alertas por el fenómeno de El Niño y crecida de ríos en el Litoral",
-      "prioridad": 0,
-      "tipo": "hipercompetencia",
-      "tipo_de_oportunidad": "",
-      "total_notas": 16,
-      "cantidad_medios": 8,
+      "total_notas": 11,
+      "cantidad_medios": 7,
       "cobertura_perfil": 3,
       "perfil": 3,
-      "competencia_total": 13,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 5,
-      "brecha": 2,
+      "competencia_total": 8,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 2,
+      "brecha": 0,
       "cobertura": {
         "Perfil": 3,
-        "La Nación": 5,
-        "Clarín": 3,
-        "Infobae": 1,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 1
-      },
-      "por_que_importa": "Afecta directamente a la producción agropecuaria, infraestructura y seguridad de miles de habitantes en varias provincias.",
-      "insight": "La pluralidad de enfoques científicos y sociales genera un volumen alto de notas en los principales diarios.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Centralizar la información meteorológica en un formato visualmente atractivo para Google Discover.",
-      "enfoques_sugeridos": [
-        "Los costos económicos para el sector agropecuario por el desborde de ríos.",
-        "Las medidas preventivas de los gobiernos provinciales ante el pico del fenómeno."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "El Pacífico se vuelve 50% más azul por El Niño: qué significa para la vida marina",
-          "link": "https://www.perfil.com/noticias/clima/el-pacifico-se-vuelve-a50-mas-azul-por-el-nino-que-significa-para-la-vida-marina.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Super Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará",
-          "link": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-sobre-los-efectos-que-tendra-el-fenomeno-en-la-argentina-y-cuando-impactara-nid19102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Súper Niño 2026 en Argentina en vivo: ciudades en riesgo de inundación y llega el pico de crecida",
-          "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-ciudades-riesgo-inundacion-llega-pico-crecida_0_Dj4pnOq6Lc.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 7
-    }
-  ],
-  "perfil_pierde": [
-    {
-      "tema": "Investigación sobre la desaparición de la docente en Corrientes y detenciones",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 8,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 7,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 3,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 2,
-        "Clarín": 2,
-        "Infobae": 0,
-        "TN": 3,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es un caso policial de alto impacto emocional y seguimiento masivo en la opinión pública argentina.",
-      "insight": "Mientras Perfil cuenta con una cobertura escasa, la competencia despliega múltiples notas con avances de la causa y peritajes.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Reforzar el seguimiento judicial y policial con notas de actualización diaria sobre los testimonios y sospechosos.",
-      "enfoques_sugeridos": [
-        "Las contradicciones en las declaraciones de los detenidos que complican la investigación.",
-        "El recluso pedido de justicia de la familia y los rastrillajes en la zona."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Encontraron a una mujer asesinada en una zanja tras ir a una fiesta y detuvieron a un sospechoso",
-          "link": "https://www.perfil.com/noticias/policia/encontraron-a-una-mujer-asesinada-en-una-zanja-tras-ir-a-una-fiesta-y-detuvieron-a-un-sospechoso.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree",
-          "link": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Detienen pareja puesteros desaparición maestra correntina y puesta en escena",
-          "link": "https://www.clarin.com/policiales/detienen-pareja-puesteros-desaparicion-maestra-correntina-puesta-escena_0_WxKxDJzDd9.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Salud del papa León XIV y reaparición pública en el Vaticano",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 8,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 8,
-      "medio_lider": "Ámbito",
-      "cobertura_medio_lider": 2,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 1,
         "La Nación": 1,
         "Clarín": 1,
-        "Infobae": 1,
-        "TN": 1,
+        "Infobae": 0,
+        "TN": 2,
         "Ámbito": 2,
         "Página 12": 1,
         "El Cronista": 1
       },
-      "por_que_importa": "La figura papal y sus posibles visitas al país generan un interés masivo en la audiencia religiosa y general.",
-      "insight": "La competencia capitaliza cada parte médico y aparición en el papamóvil, superando la única mención de Perfil.",
+      "por_que_importa": "Es el eje político y legislativo central de la jornada, con fuerte impacto social en la agenda pública argentina.",
+      "insight": "Todos los medios principales cubrieron el tema de manera masiva, reflejando su indiscutible centralidad en la agenda.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Crear un seguimiento especial sobre la salud del sumo pontífice y las señales en torno a su viaje a Argentina.",
+      "accion_sugerida": "Mantener la cobertura minuto a minuto con análisis sobre el impacto presupuestario y las negociaciones políticas.",
       "enfoques_sugeridos": [
-        "El estado clínico del Papa tras su intervención quirúrgica pulmonar.",
-        "Los gestos hacia la Argentina que alimentan las expectativas de su visita."
+        "El mapa de acuerdos y la trastienda de la votación en la Cámara baja.",
+        "El impacto real del nuevo régimen sobre los beneficiarios y prestadores."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "El papa León XIV y su estado de salud",
-          "link": "https://www.perfil.com"
+          "titulo": "Ley de discapacidad: sin los diputados de Llaryora el Gobierno logró aprobar su proyecto con el peronismo",
+          "link": "https://www.perfil.com/noticias/cordoba/ley-de-discapacidad-sin-los-diputados-de-llaryora-el-gobierno-logro-aprobar-su-proyecto-con-el-peronismo.phtml"
         },
         {
           "medio": "La Nación",
-          "titulo": "Qué se sabe del estado de salud del papa León XIV y de su visita a la Argentina",
-          "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-del-estado-de-salud-del-papa-leon-xiv-y-de-su-visita-a-la-argentina-nid19102026/"
+          "titulo": "El oficialismo logró el apoyo del peronismo y se encamina a aprobar su proyecto de discapacidad",
+          "link": "https://www.lanacion.com.ar/politica/el-oficialismo-logro-el-apoyo-del-peronismo-y-se-encamina-a-aprobar-su-proyecto-de-discapacidad-nid21102026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Buenas señales: León XIV retomó audiencias y paseo en papamóvil ante los fieles",
-          "link": "https://www.clarin.com/mundo/buenas-senales-leon-xiv-retomo-audiencias-paseo-papamovil-fieles_0_ihhjzPkBwy.html"
+          "titulo": "Diputados en marcha: el oficialismo aprobó por tercios la nueva ley de discapacidad",
+          "link": "https://www.clarin.com/politica/diputados-marcha-gobierno-oficialismo-aprobo-tercios-nueva-ley-discapacidad_0_DSp4nPsvpj.html"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 7
+      "cantidad_medios_competencia": 6
     },
     {
-      "tema": "Trágico fallecimiento de un niño por ameba comecerebros en Catamarca",
+      "tema": "Declaración de organizaciones terroristas a bandas criminales y carteles",
       "prioridad": 0,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 4,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 3,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 0,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 1,
-        "Ámbito": 1,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es una noticia de alto impacto sanitario y conmoción pública por lo inusual y grave del caso.",
-      "insight": "La competencia profundiza en las causas y en las medidas sanitarias tomadas, dejando a Perfil con una cobertura mínima.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar con notas de servicio y explicativas sobre los riesgos y prevención de este tipo de infecciones.",
-      "enfoques_sugeridos": [
-        "El cierre preventivo de las termas y los análisis de agua ordenados por la Justicia.",
-        "Qué es la ameba comecerebros y cuáles son los síntomas de alerta."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Un niño de 10 años falleció a causa de la ameba come cerebros en las termas de Fiambalá",
-          "link": "https://www.perfil.com/noticias/sociedad/un-nino-de-10-anos-fallecio-a-causa-de-la-ameba-come-cerebros-en-las-termas-de-fiabala.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Murió un niño de 10 años tras resultar infectado por una ameba comecerebros: investigan aguas",
-          "link": "https://www.lanacion.com.ar/sociedad/murio-un-nino-de-10-anos-tras-resultar-infectado-por-una-ameba-comecerebros-investigan-aguas-nid21102026/"
-        },
-        {
-          "medio": "TN",
-          "titulo": "Cerraron las termas de Catamarca tras la muerte de un nene de 10 años por la ameba comecerebros",
-          "link": "https://tn.com.ar/sociedad/2026/10/21/cerraron-las-termas-de-catamarca-tras-la-muerte-de-un-nene-de-10-anos-por-la-ameba-comecerebros/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
-    },
-    {
-      "tema": "Accidente y parte médico del actor Fabián Gianola",
-      "prioridad": 0,
-      "tipo": "perfil_pierde",
+      "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
       "total_notas": 5,
       "cantidad_medios": 4,
       "cobertura_perfil": 1,
       "perfil": 1,
       "competencia_total": 4,
-      "medio_lider": "TN",
+      "medio_lider": "Clarín",
       "cobertura_medio_lider": 2,
       "brecha": 1,
       "cobertura": {
         "Perfil": 1,
-        "La Nación": 1,
-        "Clarín": 0,
-        "Infobae": 1,
-        "TN": 2,
-        "Ámbito": 0,
+        "La Nación": 0,
+        "Clarín": 2,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 1,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "El espectáculo y la farándula nacional traccionan clics de manera inmediata en portales digitales.",
-      "insight": "Varios medios compiten con detalles del estado de salud del actor, mientras Perfil cubre marginalmente el hecho.",
+      "por_que_importa": "Involucra un giro geopolítico y de seguridad nacional de alto impacto impulsado por el Gobierno.",
+      "insight": "La medida generó un despliegue masivo en la prensa nacional por su peso en política exterior y seguridad.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Monitorear las declaraciones de los protagonistas y actualizar el parte médico oficial.",
+      "accion_sugerida": "Profundizar en los efectos diplomáticos y operativos de la decisión oficial.",
       "enfoques_sugeridos": [
-        "El relato del conductor del vehículo y los detalles del accidente en Zona Norte.",
-        "La intervención quirúrgica y la evolución de su fractura expuesta."
+        "El alcance legal del decreto de seguridad nacional sobre carteles internacionales.",
+        "Las reacciones de los países involucrados en la medida."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Accidente de Fabián Gianola",
-          "link": "https://www.perfil.com"
+          "titulo": "El gobierno declaró organizaciones terroristas al Cártel de Sinaloa y a otras cinco bandas criminales",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-declaro-organizaciones-terroristas-al-cartel-de-sinaloa-y-a-otras-cinco-bandas-criminales.phtml"
         },
         {
-          "medio": "La Nación",
-          "titulo": "Fue un susto grande: el actor Fabián Gianola fue atropellado y deberá ser operado",
-          "link": "https://www.lanacion.com.ar/espectaculos/television/fue-un-susto-grande-el-actor-fabian-gianola-fueron-atropellado-y-debera-ser-operado-nid20102026/"
+          "medio": "Clarín",
+          "titulo": "Javier Milei y medidas en vivo: el Gobierno declaró organizaciones terroristas al Cártel de Sinaloa y grupos narco paramilitares",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-declaro-organizaciones-terroristas-cartel-sinaloa-grupos-narco-paramilitares_0_KpzSFarmsR.html"
         },
         {
-          "medio": "Infobae",
-          "titulo": "El testimonio de Fabián Gianola luego de ser atropellado: El conductor dijo que no estaba atento",
-          "link": "https://www.infobae.com/teleshow/2026/10/21/el-testimonio-de-fabian-gianola-luego-de-ser-atropellado-el-conductor-dijo-que-no-estaba-atento/"
+          "medio": "TN",
+          "titulo": "Javier Milei declaró terroristas a cinco organizaciones criminales y guerrilleras de México, Colombia y Ecuador",
+          "link": "https://tn.com.ar/politica/2026/10/22/javier-milei-declaro-terroristas-a-cinco-organizaciones-criminales-y-guerrilleras-de-mexico-colombia-y-ecuador/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "cantidad_medios_competencia": 3
-    }
-  ],
-  "sin_cobertura_perfil": [
-    {
-      "tema": "Elecciones y balotaje presidencial en Brasil 2026: sondeos y recta final",
-      "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
-      "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 9,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 6,
-      "brecha": 6,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 6,
-        "Clarín": 1,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Los comicios en el país vecino son clave para la geopolítica regional y el comercio exterior argentino.",
-      "insight": "Perfil registra una ausencia total de notas, desaprovechando el interés internacional que despierta la definición electoral brasileña.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Establecer una sección de cobertura especial sobre el balotaje y las encuestas de última hora en Brasil.",
-      "enfoques_sugeridos": [
-        "El impacto económico y político de la contienda para el Mercosur.",
-        "La estrategia de los candidatos para captar al votante indeciso en los estados clave."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Elecciones Brasil 2026 en vivo: encuestas, final de las campañas para el balotaje y el minuto a minuto",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid21102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Elecciones Brasil vivo: quién ganó el debate, Lula, Bolsonaro, últimas encuestas y cuenta regresiva al balotaje",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-gano-debate-lula-bolsonaro-ultimas-encuestas-cuenta-regresiva-balotaje_0_EquQXd8YqM.html"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Balotaje Brasil: Lula da Silva y Flávio Bolsonaro buscan captar el voto indeciso en estados clave",
-          "link": "https://www.ambito.com/mundo/balotaje-brasil-lula-da-silva-y-flavio-bolsonaro-buscan-captar-el-voto-indeciso-estados-clave-n6336143"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
     },
     {
-      "tema": "Aumento del costo de la canasta básica y supermercados en provincias argentinas",
+      "tema": "Adjudicación de la venta de acciones de AySA",
       "prioridad": 0,
-      "tipo": "sin_cobertura_perfil",
+      "tipo": "hipercompetencia",
       "tipo_de_oportunidad": "",
       "total_notas": 3,
       "cantidad_medios": 3,
@@ -505,30 +130,30 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Refleja la realidad inflacionaria y el poder adquisitivo de los hogares en el interior del país.",
-      "insight": "La competencia aborda el tema desde enfoques económicos y de consumo, un segmento donde Perfil no aportó contenido.",
+      "por_que_importa": "Es la privatización y venta de activos estatales más relevante del plan económico actual.",
+      "insight": "La cobertura económica de este hito acaparó la atención de los principales portales de noticias y diarios económicos.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Publicar informes especiales sobre el costo de vida comparativo entre el AMBA y las distintas regiones.",
+      "accion_sugerida": "Analizar los plazos de firma, el perfil del grupo comprador y el impacto fiscal de la operación.",
       "enfoques_sugeridos": [
-        "Cuáles son las provincias donde más caro resulta llenar el changuito de compras.",
-        "El impacto de la retracción del consumo en los comercios locales."
+        "El detalle de la oferta ganadora y los próximos pasos de las privatizaciones.",
+        "El impacto en las tarifas y la prestación del servicio sanitario."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Inflación y costo de vida en el interior",
-          "link": "https://www.lanacion.com.ar"
+          "titulo": "El Gobierno fijó la fecha para firmar la venta del 90% de las acciones de AySA por 340 millones",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-fijo-la-fecha-para-firmar-la-venta-del-90-de-las-acciones-de-aysa-por-340-millones-de-nid22102026/"
         },
         {
           "medio": "TN",
-          "titulo": "Llenar el changuito ya cuesta más de 1 millón en cinco provincias: cómo quedó el ranking en septiembre",
-          "link": "https://tn.com.ar/economia/2026/10/21/llenar-el-changuito-ya-cuesta-mais-de-1-millon-en-cinco-provincias-como-quedo-el-ranking-en-septiembre/"
+          "titulo": "El Gobierno adjudicó el 90% de las acciones de AySA al grupo que ofertó US$340 millones y fijó cuándo se firmará el contrato",
+          "link": "https://tn.com.ar/economia/2026/10/22/el-gobierno-adjudico-el-90-de-las-acciones-de-aysa-al-grupo-que-oferto-us340-millones-y-fijo-cuando-se-firmara-el-contrato/"
         },
         {
           "medio": "Ámbito",
-          "titulo": "Inflación: qué provincias cuesta más llenar el changuito y cuáles hubo mayores aumentos mensuales",
-          "link": "https://www.ambito.com/economia/inflacion-que-provincias-cuesta-mais-llenar-el-changuito-y-cuales-hubo-mayores-aumentos-mensuales-n6336188"
+          "titulo": "Avanzan las privatizaciones: el gobierno de Javier Milei adjudicó la venta de AySA por US$340 millones",
+          "link": "https://www.ambito.com/economia/avanzan-las-privatizaciones-el-gobierno-javier-milei-adjudico-la-venta-aysa-us340-millones-n6336599"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -536,7 +161,329 @@
       "cantidad_medios_competencia": 3
     },
     {
-      "tema": "Anuncio de preventa y llegada de la banda U2 a la Argentina",
+      "tema": "Inversión de Toyota bajo el RIGI para vehículo electrificado",
+      "prioridad": 0,
+      "tipo": "hipercompetencia",
+      "tipo_de_oportunidad": "",
+      "total_notas": 3,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 2,
+      "medio_lider": "Ámbito",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Representa una de las inversiones industriales más importantes bajo el régimen de incentivos para grandes inversiones.",
+      "insight": "Medios económicos y generales destacaron la apuesta automotriz por su magnitud y el impacto tecnológico.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Seguir de cerca la reconversión de la planta de Zárate y el impacto en exportaciones.",
+      "enfoques_sugeridos": [
+        "El rol del RIGI como imán para la industria automotriz y la transición energética.",
+        "Los plazos de producción del nuevo vehículo electrificado en el país."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Nuevo RIGI oficializado: Toyota invertirá US$ 1.341 millones en un vehículo electrificado",
+          "link": "https://www.perfil.com/noticias/economia/nuevo-rigi-oficializado-toyota-invertira-us-1341-millones-en-un-vehiculo-electrificado-que-todavia-no-se-fabrica-en-argentina.phtml"
+        },
+        {
+          "medio": "Ámbito",
+          "titulo": "El Gobierno aprobó el ingreso de Toyota al RIGI para fabricar una pick-up híbrida en Zárate",
+          "link": "https://www.ambito.com/economia/el-gobierno-aprobo-el-ingreso-toyota-al-rigi-fabricar-una-pick-up-hibrida-zarate-n6336597"
+        },
+        {
+          "medio": "El Cronista",
+          "titulo": "El RIGI se anota otro récord: la mayor inversión en la industria automotriz y en los vehículos del futuro",
+          "link": "https://www.cronista.com/negocios/el-rigi-se-anota-otra-regla-de-inversion-en-la-industria-automotriz"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
+    }
+  ],
+  "perfil_pierde": [
+    {
+      "tema": "Alertas meteorológicas y tormentas severas en AMBA y provincias",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 14,
+      "cantidad_medios": 7,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 13,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 4,
+      "brecha": 3,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 4,
+        "Clarín": 2,
+        "Infobae": 2,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 3,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Es un tema de servicio público esencial con altísimo tráfico orgánico y rendimiento en Google Discover.",
+      "insight": "Perfil tiene cobertura básica, mientras que la competencia despliega múltiples notas de servicio, horarios y zonas afectadas.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Ampliar la cobertura de alertas climáticas con actualizaciones constantes de servicio y mapas interactivos.",
+      "enfoques_sugeridos": [
+        "Minuto a minuto de la llegada de tormentas fuertes y caída de granizo.",
+        "Recomendaciones de seguridad y zonas bajo alerta naranja y amarilla."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Cuándo vuelven las lluvias a la Ciudad de Buenos Aires y cómo estará el clima este 22 de octubre",
+          "link": "https://www.perfil.com/noticias/clima/cuando-vuelven-las-lluvias-a-la-ciudad-de-buenos-aires-como-estara-el-clima-este-22-de-octubre.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este jueves 22 de octubre",
+          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-jueves-22-de-octubre-las-provincias-afectadas-nid22102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Advertencia AMBA: continúan tormentas el jueves con alerta naranja en 10 provincias",
+          "link": "https://www.clarin.com/sociedad/advertencia-amba-continuan-tormentas-jueves-alerta-naranja-10-provincias-posible-caida-granizo_0_xlhbTrQWjz.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 6
+    },
+    {
+      "tema": "Gira internacional de Javier Milei en Madrid y repercusiones políticas",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 11,
+      "cantidad_medios": 6,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 10,
+      "medio_lider": "Página 12",
+      "cobertura_medio_lider": 3,
+      "brecha": 2,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 2,
+        "Clarín": 0,
+        "Infobae": 2,
+        "TN": 2,
+        "Ámbito": 1,
+        "Página 12": 3,
+        "El Cronista": 0
+      },
+      "por_que_importa": "La agenda exterior del Presidente genera polarización y alto interés en la audiencia política.",
+      "insight": "La competencia aborda la gira desde múltiples ángulos críticos y de repercusión internacional, superando la única nota de Perfil.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Monitorear con corresponsalías en Europa y sumar análisis sobre el impacto diplomático de los cruces verbales.",
+      "enfoques_sugeridos": [
+        "Las reacciones de la política española ante las declaraciones del mandatario argentino.",
+        "El balance económico y político de los encuentros bilaterales en Madrid."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Negocios, diplomacia y anticomunismo: quiénes son los enviados de Trump que se reúnen con Quirno",
+          "link": "https://www.perfil.com/noticias/politica/negocios-diplomacia-y-anticomunismo-quienes-saben-de-los-enviados-de-trump.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Javier Milei y sus medidas en vivo durante su gira en Madrid: el mandatario acusó al presidente...",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/"
+        },
+        {
+          "medio": "Página 12",
+          "titulo": "Milei mendiga fotos en Madrid y hasta los candidatos de la derecha lo desairaron",
+          "link": "https://www.pagina12.com.ar/2026/10/22/milei-mendiga-fotos-en-madrid-y-hasta-los-candidatos-de-la-derecha-lo-desairaron/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 5
+    },
+    {
+      "tema": "Avances en la investigación por el femicidio de la docente en Corrientes",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 6,
+      "cantidad_medios": 6,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 5,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 1,
+      "brecha": 0,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 1,
+        "Clarín": 1,
+        "Infobae": 1,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 1,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Los casos policiales de alto impacto con detenciones recientes traccionan masivamente en la audiencia digital.",
+      "insight": "Mientras Perfil mantiene una cobertura mínima, medios como Clarín, Infobae y TN actualizan constantemente los detalles de los operativos.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Reforzar la sección de Policiales con seguimientos en tiempo real de los avances judiciales.",
+      "enfoques_sugeridos": [
+        "El rol del capataz detenido y las pruebas recolectadas en la escena.",
+        "El reclamo de justicia de la comunidad educativa y los familiares."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Detuvieron a un capataz vinculado al femicidio de docente en Corrientes",
+          "link": "https://www.perfil.com/noticias/policia/corrientes-detencion.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Detuvieron a un capataz de estancia por el femicidio de la docente desaparecida en Corrientes",
+          "link": "https://www.lanacion.com.ar/seguridad/detuvieron-a-un-capataz-de-estancia-por-el-femicidio-de-la-docente-desaparecida-en-corrientes-nid22102026/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Corrientes: ordenaron dos nuevas detenciones en la causa por la desaparición de la docente Nancy Godoy",
+          "link": "https://www.infobae.com/sociedad/policiales/2026/10/21/corrientes-ordenaron-dos-nuevas-detenciones-en-la-causa-por-la-desaparicion-de-la-docente-nancy-godoy/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 5
+    },
+    {
+      "tema": "Evolución y pico del fenómeno climático El Niño en Argentina",
+      "prioridad": 0,
+      "tipo": "perfil_pierde",
+      "tipo_de_oportunidad": "",
+      "total_notas": 8,
+      "cantidad_medios": 3,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 7,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 6,
+      "brecha": 5,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 6,
+        "Clarín": 1,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Interesa fuertemente al sector agropecuario y a la sociedad ante proyecciones de lluvias y temperaturas extremas.",
+      "insight": "La Nación y Clarín lideran la cobertura científica y de impacto regional con múltiples notas de especialistas, superando a Perfil.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desarrollar informes especiales con referentes en climatología sobre el impacto en las distintas regiones productivas.",
+      "enfoques_sugeridos": [
+        "Cronograma de intensificación del fenómeno y alertas para el sector agropecuario.",
+        "Impacto de la nubosidad y anomalías térmicas en la primavera-verano."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Clima y perspectivas ante la llegada de nuevas condiciones meteorológicas",
+          "link": "https://www.perfil.com/noticias/clima/perspectivas.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Inti Bonomo, especialista en ciencias ambientales, sobre la evolución del Súper Niño",
+          "link": "https://www.lanacion.com.ar/sociedad/inti-bonomo-especialista-en-ciencias-ambientales-sobre-la-evolucion-del-super-nino-va-a-seguir-creciendo-y-el-pico-va-a-ser-en-diciembre-nid21102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Súper Niño 2026 en Argentina en vivo: pico de fuertes lluvias y provincias afectadas",
+          "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-pico-fuertes-lluvias-provincias-afectadas_0_O8voSAqVpS.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 2
+    }
+  ],
+  "sin_cobertura_perfil": [
+    {
+      "tema": "Seguimiento y sondeos del balotaje presidencial en Brasil",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 11,
+      "cantidad_medios": 5,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 11,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 5,
+      "brecha": 5,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 5,
+        "Clarín": 1,
+        "Infobae": 3,
+        "TN": 0,
+        "Ámbito": 1,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Las elecciones en el principal socio comercial de Argentina son de máxima relevancia geopolítica regional.",
+      "insight": "La Nación, Clarín e Infobae cubren exhaustivamente las encuestas y la estrategia digital, mientras Perfil está totalmente ausente.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Establecer una cobertura permanente de la coyuntura política brasileña de cara al balotaje.",
+      "enfoques_sugeridos": [
+        "El impacto de la polarización entre Lula y Flavio Bolsonaro en el Mercosur.",
+        "El rol de las redes sociales y los algoritmos en la recta final de la campaña."
+      ],
+      "ejemplos": [
+        {
+          "medio": "La Nación",
+          "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Flavio Bolsonaro camino al balotaje",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-camino-al-balotaje-hoy-jueves-22-de-octubre-nid22102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Elecciones Brasil en vivo: últimas encuestas y cuenta regresiva al balotaje",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-ultimas-encuestas-cuenta-regresiva-balotaje-lula-flavio-bolsonaro_0_j4JKRICgRe.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Lula afirma que Bolsonaro se tiró un farol para evitar revelar su secreto bancario",
+          "link": "https://www.infobae.com/america/agencias/2026/10/22/lula-afirma-que-bolsonaro-se-tiro-un-farol-para-evitar-revelar-su-secreto-bancario-y-acepta-sus-condiciones-nid22102026/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 5
+    },
+    {
+      "tema": "Apertura de sesiones y restricciones parciales en el Aeropuerto de Ezeiza",
       "prioridad": 0,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
@@ -545,43 +492,38 @@
       "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 2,
-      "medio_lider": "TN",
+      "medio_lider": "La Nación",
       "cobertura_medio_lider": 1,
       "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 0,
+        "La Nación": 1,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 1,
-        "Ámbito": 1,
+        "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Los grandes recitales internacionales movilizan a una enorme masa de lectores y generan altas expectativas de consumo.",
-      "insight": "Es un tema de alto rendimiento en redes sociales y buscadores que la competencia cubre activamente mientras Perfil está ausente.",
+      "por_que_importa": "Afecta directamente planes de viaje, turismo y logística de miles de pasajeros nacionales e internacionales.",
+      "insight": "La Nación y TN publicaron guías detalladas sobre los vuelos afectados por obras, un contenido muy buscado en SEO.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Desarrollar una guía útil con precios, ubicaciones y métodos de pago para los fanáticos.",
+      "accion_sugerida": "Incorporar notas de servicio sobre infraestructura aeroportuaria y reprogramación de vuelos.",
       "enfoques_sugeridos": [
-        "El impacto económico y la cotización de los tickets para shows internacionales.",
-        "Los detalles técnicos y de producción del esperado regreso de la banda."
+        "El cronograma de reducción de la pista principal y qué deben saber los pasajeros.",
+        "Demoras y alternativas para los vuelos durante los 18 días de obras."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Conciertos internacionales en Argentina",
-          "link": "https://www.lanacion.com.ar"
+          "titulo": "Reducen la pista principal de Ezeiza por obras; los salarios registrados le ganaron a la inflación",
+          "link": "https://www.lanacion.com.ar/sociedad/reducen-la-pista-principal-de-ezeiza-por-obras-los-salarios-registrados-le-ganaron-a-la-inflacion-nid22102026/"
         },
         {
           "medio": "TN",
-          "titulo": "U2 actuará en el descanso del partido de la NFL en la víspera de Acción de Gracias",
-          "link": "https://tn.com.ar/musica/noticias/2026/10/21/u2-actuara-en-el-descanso-del-partido-de-la-nfl-en-la-víspera-de-accion-de-gracias/"
-        },
-        {
-          "medio": "Ámbito",
-          "titulo": "Preventa entradas U2 Argentina: precios, ubicaciones y cómo y dónde comprar",
-          "link": "https://www.ambito.com/espectaculos/preventa-entradas-u2-argentina-precios-ubicaciones-y-como-y-donde-comprar-n6336174"
+          "titulo": "Cierre parcial de Ezeiza por obras durante 18 días: qué vuelos se verán afectados y qué deben saber los pasajeros",
+          "link": "https://tn.com.ar/economia/2026/10/22/cierre-parcial-de-ezeiza-por-obras-durante-18-dias-que-vuelos-se-veran-afectados-y-que-deben-saber-los-pasajeros/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -589,52 +531,95 @@
       "cantidad_medios_competencia": 2
     },
     {
-      "tema": "Actualización de montos y haberes de ANSES para jubilaciones y asignaciones de noviembre",
+      "tema": "Alerta sanitaria europea por el primer caso mortal del virus Shamonda",
       "prioridad": 0,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
+      "total_notas": 2,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 7,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 7,
-      "brecha": 7,
+      "competencia_total": 2,
+      "medio_lider": "Infobae",
+      "cobertura_medio_lider": 2,
+      "brecha": 2,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 7,
+        "La Nación": 0,
         "Clarín": 0,
-        "Infobae": 0,
+        "Infobae": 2,
         "TN": 0,
         "Ámbito": 0,
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Es información previsional de estricta utilidad práctica para millones de jubilados y beneficiarios de planes sociales.",
-      "insight": "Contenido de altísimo tráfico orgánico y rendimiento en Google Discover que Perfil dejó vacante frente a la competencia.",
+      "por_que_importa": "Los temas de salud global y nuevos virus generan gran curiosidad y tráfico en portales de noticias.",
+      "insight": "Infobae y medios internacionales cubrieron el caso registrado en Francia y el monitoreo del ECDC, sin eco en Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Crear notas de servicio estructuradas con tablas claras de montos, bonos y fechas de cobro.",
+      "accion_sugerida": "Mantener un radar activo sobre alertas sanitarias internacionales emitidas por organismos globales.",
       "enfoques_sugeridos": [
-        "El impacto del bono extraordinario frente a la evolución de la inflación.",
-        "El calendario de pagos detallado para jubilados, AUH y pensiones."
+        "Qué es el virus Shamonda y cuáles son los insectos vectores.",
+        "El grado de preocupación de las autoridades sanitarias europeas."
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "SUAF de Anses: el monto de las asignaciones familiares en noviembre de 2026",
-          "link": "https://www.lanacion.com.ar/economia/suaf-de-anses-el-monto-de-las-asignaciones-familiares-en-noviembre-de-2026-nid21102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Calendario y aumentos de ANSES",
-          "link": "https://www.clarin.com"
+          "medio": "Infobae",
+          "titulo": "El ECDC vigila la situación tras la muerte en Francia de un hombre con el virus Shamonda",
+          "link": "https://www.infobae.com/america/agencias/2026/10/22/el-ecdc-vigila-la-situacion-tras-la-muerte-en-francia-de-un-hombre-con-el-virus-shamonda-nid22102026/"
         },
         {
           "medio": "Infobae",
-          "titulo": "Actualización previsional y bonos",
-          "link": "https://www.infobae.com"
+          "titulo": "Qué se sabe del virus Shamonda tras el primer caso en humanos registrado en Francia",
+          "link": "https://www.infobae.com/salud/ciencia/2026/10/22/que-se-sabe-del-virus-shamonda-tras-el-primer-caso-en-humanos-registrado-en-francia-cuales-sonda-los-mosquitos-que-actuan-como-vectores-nid22102026/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Crisis política y destitución exprés en el gabinete de Colombia",
+      "prioridad": 0,
+      "tipo": "sin_cobertura_perfil",
+      "tipo_de_oportunidad": "",
+      "total_notas": 4,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 4,
+      "medio_lider": "Infobae",
+      "cobertura_medio_lider": 4,
+      "brecha": 4,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 4,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Muestra las tensiones institucionales y caídas de gabinetes en gobiernos latinoamericanos.",
+      "insight": "Infobae dedicó múltiples coberturas detallando la salida de Rodrigo Lara del Ministerio del Interior, un tema desatendido en Perfil.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Ampliar el corredor informativo de política latinoamericana más allá de Brasil.",
+      "enfoques_sugeridos": [
+        "Los motivos detrás de la salida récord de ministros en el gobierno colombiano.",
+        "Repercusiones en el arco político y legislativo."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Infobae",
+          "titulo": "Abelardo de la Espriella anunció la salida de Rodrigo Lara del Ministerio del Interior",
+          "link": "https://www.infobae.com/colombia/2026/10/22/abelardo-de-la-espriella-anuncio-la-salida-de-rodrigo-lara-del-ministerio-del-interior-y-desato-reacciones-en-los-politicos-se-dejo-utilizar-y-termino-cumpliendo-el-papel-de-titere-politico-nid22102026/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Rodrigo Lara salió del Ministerio del Interior y le produjo otro récord al Gobierno",
+          "link": "https://www.infobae.com/colombia/2026/10/22/rodrigo-lara-salio-del-ministerio-del-interior-y-le-produjo-otro-record-al-gobierno-de-abelardo-de-la-espriella-el-que-menos-tiempo-duro-en-el-cargo-en-la-historia-nid22102026/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -644,102 +629,16 @@
   ],
   "oportunidades": [
     {
-      "tema": "Estrategia de inversión y rentabilidad en alquileres de verano en la Costa Atlántica",
+      "tema": "Guía útil sobre validez de licencias de conducir digitales en Mi Argentina",
       "prioridad": 0,
       "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Tendencia de consumo y turismo",
+      "tipo_de_oportunidad": "SEO Evergreen / Servicio",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
       "perfil": 0,
       "competencia_total": 1,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Interesa tanto a propietarios como a turistas que planean sus vacaciones con anticipación frente a un contexto económico complejo.",
-      "insight": "Permite captar tráfico anticipado de SEO mediante guías prácticas y análisis de rentabilidad inmobiliaria.",
-      "motivo": "",
-      "motivo_oportunidad": "La temporada estival se acerca y genera un pico de búsquedas sobre inversiones inmobiliarias que ningún otro medio explotó masivamente hoy, salvo La Nación.",
-      "accion_sugerida": "Redactar un informe con consultas a martilleros sobre los destinos más rentables de la costa este año.",
-      "enfoques_sugeridos": [
-        "Qué balnearios ofrecen mayor margen de ganancia para inversores inmobiliarios.",
-        "Los precios estimados de alquileres temporarios para el próximo verano."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Alquileres de verano: qué localidades de la costa ofrecen mejor margen de ganancia para invertir",
-          "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/alquileres-de-verano-que-localidades-de-la-costa-ofrecen-mejor-margen-de-ganancia-para-invertir-nid21102026/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
-    },
-    {
-      "tema": "Análisis de la economía del comportamiento y psicología del contacto visual al hablar",
-      "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Bienestar y contenidos virales",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 1,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 1,
-      "brecha": 1,
-      "cobertura": {
-        "Perfil": 0,
-        "La Nación": 1,
-        "Clarín": 0,
-        "Infobae": 0,
-        "TN": 0,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Apunta a nichos de lectores ávidos de autoconocimiento y análisis de vínculos personales.",
-      "insight": "Es una veta de contenido blando que fideliza lectores y genera alto tiempo de permanencia en la página.",
-      "motivo": "",
-      "motivo_oportunidad": "Los artículos de psicología cotidiana y lenguaje no verbal tienen un excelente rendimiento orgánico en redes sociales y Discover.",
-      "accion_sugerida": "Publicar una nota consultando a especialistas en psicología sobre el significado de evitar la mirada.",
-      "enfoques_sugeridos": [
-        "Qué dice la psicología sobre las personas que evitan mirar a los ojos durante una conversación.",
-        "Claves para interpretar la comunicación no verbal en las relaciones de pareja."
-      ],
-      "ejemplos": [
-        {
-          "medio": "La Nación",
-          "titulo": "Qué significa que una persona nunca te mire a los ojos cuando habla, según la psicología",
-          "link": "https://www.lanacion.com.ar/lifestyle/que-significa-que-una-persona-nunca-te-mire-a-los-ojos-cuando-habla-segun-la-psicologia-nid21102026/"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 1
-    },
-    {
-      "tema": "Apertura de nuevas rutas gastronómicas y ley de turismo en la provincia de Buenos Aires",
-      "prioridad": 0,
-      "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Turismo y economía regional",
-      "total_notas": 1,
-      "cantidad_medios": 1,
-      "cobertura_perfil": 0,
-      "perfil": 0,
-      "competencia_total": 1,
-      "medio_lider": "Ámbito",
+      "medio_lider": "El Cronista",
       "cobertura_medio_lider": 1,
       "brecha": 1,
       "cobertura": {
@@ -748,24 +647,24 @@
         "Clarín": 0,
         "Infobae": 0,
         "TN": 0,
-        "Ámbito": 1,
+        "Ámbito": 0,
         "Página 12": 0,
-        "El Cronista": 0
+        "El Cronista": 1
       },
-      "por_que_importa": "Impacta en pequeños emprendedores, municipios y propuestas de escapadas de fin de semana.",
-      "insight": "Ofrece la oportunidad de posicionarse en búsquedas de turismo de cercanía y gastronomía regional.",
+      "por_que_importa": "Es un contenido evergreen de alto valor práctico para conductores, excelente para posicionamiento SEO y Discover.",
+      "insight": "El Cronista cubrió la guía paso a paso para circular sin internet, un nicho de servicio que Perfil no abordó en esta jornada.",
       "motivo": "",
-      "motivo_oportunidad": "La sanción de marcos normativos para el turismo gastronómico moviliza interés local y regional en el territorio bonaerense.",
-      "accion_sugerida": "Desarrollar una nota explicativa sobre cómo funcionarán las nuevas rutas culinarias y el sello bonaerense.",
+      "motivo_oportunidad": "Contenido de utilidad práctica permanente que genera tráfico constante desde buscadores.",
+      "accion_sugerida": "Publicar manuales de servicio y preguntas frecuentes sobre trámites digitales cotidianos.",
       "enfoques_sugeridos": [
-        "El mapa de los nuevos circuitos gastronómicos impulsados por la Provincia.",
-        "El impacto económico para pymes y prestadores turísticos locales."
+        "Paso a paso para acceder a la licencia digital sin conexión a internet.",
+        "Qué documentación exige la ley en controles de tránsito para evitar multas."
       ],
       "ejemplos": [
         {
-          "medio": "Ámbito",
-          "titulo": "Rige la ley de turismo gastronómico en la Provincia: rutas culinarias y un sello de gastronomía bonaerense",
-          "link": "https://www.ambito.com/politica/rige-la-ley-turismo-gastronomico-la-provincia-rutas-culinarias-y-un-sello-gastronomia-bonaerense-n6336104"
+          "medio": "El Cronista",
+          "titulo": "Licencia de conducir en Mi Argentina: cómo mostrarla sin internet y qué tener en cuenta en controles",
+          "link": "https://www.cronista.com/informacion-gral/licencia-de-conducir-en-mi-argentina-como-mostrarla-sin-internet-y-que-tener-en-cuenta-si-te-paran-en-un-control-de-transito/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -773,10 +672,53 @@
       "cantidad_medios_competencia": 1
     },
     {
-      "tema": "Impacto de la inteligencia artificial en el mercado de celulares económicos y gama baja",
+      "tema": "Récord de importaciones por compras vía courier en Argentina",
       "prioridad": 0,
       "tipo": "oportunidades",
-      "tipo_de_oportunidad": "Tecnología y consumo masivo",
+      "tipo_de_oportunidad": "Economía de consumo / Exclusiva",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "TN",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 0
+      },
+      "por_que_importa": "Refleja los cambios en los hábitos de consumo y comercio exterior del sector minorista.",
+      "insight": "TN reportó cifras millonarias superando registros anteriores, un dato económico relevante desatendido en Perfil.",
+      "motivo": "",
+      "motivo_oportunidad": "Permite conectar una tendencia macroeconómica con el bolsillo y las decisiones de compra del lector.",
+      "accion_sugerida": "Analizar el fenómeno del e-commerce internacional y su impacto en la balanza comercial y el consumo local.",
+      "enfoques_sugeridos": [
+        "Por qué se dispararon las compras puerta a puerta en lo que va del año.",
+        "Límites, franquicias vigentes y costos para traer productos del exterior."
+      ],
+      "ejemplos": [
+        {
+          "medio": "TN",
+          "titulo": "Las compras vía courier acumularon US$960 millones en nueve meses y superaron todo lo importado durante 2025",
+          "link": "https://tn.com.ar/economia/2026/10/22/las-compras-via-courier-acumularon-us960-millones-en-nueve-meses-y-superaron-todo-lo-importado-durante-2025/"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Estudio internacional sobre calidad de sistemas de salud y la paradoja argentina",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Sociedad y Salud / Análisis",
       "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
@@ -795,20 +737,63 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "",
-      "insight": "Atrae a un público tecnológico y general que busca renovar sus equipos con presupuestos acotados.",
+      "por_que_importa": "Los rankings internacionales sobre salud pública generan debate y alto engagement en la audiencia.",
+      "insight": "Clarín publicó un análisis sobre el lugar que ocupa el país en el ranking de 32 naciones, tema ausente en Perfil.",
       "motivo": "",
-      "motivo_oportunidad": "La irrupción de funciones de IA en dispositivos móviles económicos abre un debate sobre la obsolescencia y los precios.",
-      "accion_sugerida": "Analizar cómo los procesadores modernos adaptan la inteligencia artificial a teléfonos accesibles.",
+      "motivo_oportunidad": "Combina datos duros internacionales con el interés local en cuestiones de bienestar.",
+      "accion_sugerida": "Desarrollar informes de salud con infografías comparativas sobre prestaciones y eficiencia sanitaria.",
       "enfoques_sugeridos": [
-        "La crisis inesperada en la gama baja por la exigencia de hardware para IA.",
-        "Qué modelos económicos ya incorporan herramientas avanzadas de asistencia virtual."
+        "Dónde se ubica la Argentina frente a otros países en materia de calidad médica.",
+        "La paradoja entre recursos profesionales y accesibilidad al sistema."
       ],
       "ejemplos": [
         {
           "medio": "Clarín",
-          "titulo": "Celulares baratos en peligro: la crisis inesperada que desató el boom de inteligencia artificial",
-          "link": "https://www.clarin.com/tecnologia/celulares-baratos-peligro-crisis-inesperada-desato-boom-inteligencia-artificial_0_RBggzG8ezX.html"
+          "titulo": "Ranking calidad salud en 32 países: en qué lugar quedó la Argentina y la paradoja que sorprende",
+          "link": "https://www.clarin.com/sociedad/ranking-calidad-salud-32-paises-lugar-quedo-argentina-paradoja-sorprende_0_EHxmvy2642.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 1
+    },
+    {
+      "tema": "Aumento en la demanda de Cedear como cobertura preelectoral",
+      "prioridad": 0,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "Finanzas / Inversiones",
+      "total_notas": 1,
+      "cantidad_medios": 1,
+      "cobertura_perfil": 0,
+      "perfil": 0,
+      "competencia_total": 1,
+      "medio_lider": "El Cronista",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
+      "cobertura": {
+        "Perfil": 0,
+        "La Nación": 0,
+        "Clarín": 0,
+        "Infobae": 0,
+        "TN": 0,
+        "Ámbito": 0,
+        "Página 12": 0,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Interesa directamente a inversores minoristas y corporativos que buscan proteger ahorros en la plaza bursátil.",
+      "insight": "El Cronista destacó el salto en la operativa bursátil, un ángulo financiero que Perfil no profundizó hoy.",
+      "motivo": "",
+      "motivo_oportunidad": "Atrae a una audiencia de alto valor comercial interesada en el manejo de carteras financieras.",
+      "accion_sugerida": "Ofrecer secciones de finanzas personales con recomendaciones de analistas de mercado.",
+      "enfoques_sugeridos": [
+        "Cómo operan los inversores locales para dolarizarse a través de la bolsa.",
+        "Los Cedear más líquidos y elegidos frente a la volatilidad."
+      ],
+      "ejemplos": [
+        {
+          "medio": "El Cronista",
+          "titulo": "La cobertura preelectoral se disparó en la Bolsa: la demanda de Cedear crece al 109%",
+          "link": "https://www.cronista.com/finanzas-mercados/la-cobertura-preelectoral-se-disparo-en-la-bolsa-la-demanda-de-cedear-crece-al-109/"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -818,7 +803,7 @@
   ],
   "fortalezas_perfil": [
     {
-      "tema": "Fallo judicial en Córdoba sobre la causa de Oscar González",
+      "tema": "Organización de patrimonios, herencias y testamentos",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -840,20 +825,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Es una causa de alto impacto político e institucional en la provincia de Córdoba que marca agenda local y nacional.",
-      "insight": "Perfil demuestra liderazgo regional absoluto al cubrir en exclusiva un tema judicial de gran sensibilidad pública.",
+      "por_que_importa": "Es un contenido de interés práctico sobre cuestiones legales y familiares que genera retención y lectura profunda.",
+      "insight": "Perfil lidera con una pieza dedicada en su edición de Córdoba, marcando agenda en contenidos de asesoramiento legal.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Sustentar la cobertura con análisis jurídicos sobre los fundamentos del fallo y las reacciones de los familiares de las víctimas.",
+      "accion_sugerida": "Ampliar este tipo de guías legales con casos prácticos y consultas a especialistas en derecho civil.",
       "enfoques_sugeridos": [
-        "Las repercusiones políticas del fallo salomónico que dictó culpabilidad sin prisión efectiva.",
-        "El reclamo de revisión por parte de la querella y el impacto en la Legislatura cordobesa."
+        "Cómo estructurar un testamento legalmente válido en la legislación argentina.",
+        "Estrategias para la planificación patrimonial familiar y prevención de litigios."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Oscar González y un fallo salomónico: culpable, pero sin cárcel",
-          "link": "https://www.perfil.com/noticias/cordoba/oscar-gonzalez-y-un-fallo-salomonico-culpable-pero-sin-carcel.phtml"
+          "titulo": "Herencias y testamentos: cómo organizar el patrimonio y decidir quién recibirá los bienes",
+          "link": "https://www.perfil.com/noticias/cordoba/herencias-y-testamentos-como-organizar-el-patrimonio-y-decidir-quien-recibira-los-bienes.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -861,7 +846,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Designación de Itatí Demarchi en el Consejo de la Magistratura de Córdoba",
+      "tema": "Paritarias y sueldos de mecánicos para octubre de 2026",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -883,20 +868,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Involucra nombramientos clave en la estructura judicial provincial con fuertes ramificaciones políticas.",
-      "insight": "Perfil mantiene un monitoreo institucional riguroso en Córdoba que no es replicado por el resto de los grandes medios.",
+      "por_que_importa": "Información salarial de utilidad directa para trabajadores de un sector clave, con gran tracción en búsquedas.",
+      "insight": "Perfil cubrió en exclusiva la grilla salarial y sumas no remunerativas, superando a la competencia en inmediatez de servicio.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Profundizar en los antecedentes de los nuevos magistrados y los equilibrios de poder en el Consejo.",
+      "accion_sugerida": "Mantener actualizadas las tablas paritarias de los principales gremios mes a mes.",
       "enfoques_sugeridos": [
-        "El posicionamiento político detrás de la designación celebrada por el arco municipal.",
-        "Los desafíos institucionales que deberá afrontar el organismo."
+        "Escalas salariales completas y categorías actualizadas para mecánicos.",
+        "Impacto de las sumas no remunerativas en el bolsillo de los trabajadores."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Accastello celebró que Itatí Demarchi Arballo llegue al Consejo de la Magistratura: Un orgullo para nuestra ciudad",
-          "link": "https://www.perfil.com/noticias/cordoba/accastello-celebro-que-itati-demarchi-arballo-llegue-al-consejo-de-la-magistratura-un-orgullo-para-nuestra-ciudad.phtml"
+          "titulo": "Sueldos mecánicos octubre 2026: grilla completa, básicos y sumas no remunerativas",
+          "link": "https://www.perfil.com/noticias/economia/sueldos-mecanicos-octubre-2026-grilla-completa-basicos-sumas-no-remunerativas-a40.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -904,7 +889,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Elevación a juicio por tortura y muerte de un detenido en la cárcel de Bouwer",
+      "tema": "Renovación de la cartilla médica digital de PAMI",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -926,20 +911,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Expone graves violaciones a los derechos humanos dentro del sistema penitenciario provincial.",
-      "insight": "La cobertura en solitario de Perfil subraya su compromiso con la crónica policial y judicial de investigación en el interior.",
+      "por_que_importa": "Afecta directamente a jubilados y pensionados, un segmento demográfico muy fiel en consumo digital.",
+      "insight": "Perfil se adelantó al publicar los detalles sobre el uso de la nueva cartilla digital, marcando una ventaja en servicio.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Seguir de cerca el proceso oral y las responsabilidades funcionales de los agentes implicados.",
+      "accion_sugerida": "Desarrollar instructivos visuales sencillos para facilitar trámites digitales a adultos mayores.",
       "enfoques_sugeridos": [
-        "Los detalles de la instrucción fiscal que determinaron la elevación a juicio por torturas seguidas de muerte.",
-        "Las condiciones de encierro y los reiterados cuestionamientos al Servicio Penitenciario."
+        "Paso a paso para buscar profesionales y centros de salud en la nueva cartilla.",
+        "Ventajas y dificultades de la digitalización de prestaciones para afiliados."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "Córdoba: elevan a juicio una causa por tortura y muerte de un detenido en la cárcel de Bouwer",
-          "link": "https://www.perfil.com/noticias/cordoba/cordoba-elevan-a-juicio-una-causa-por-tortura-y-muerte-de-un-detenido-en-la-carcel-de-bouwer.phtml"
+          "titulo": "PAMI renovó cartilla médica digital: cuáles son las nuevas opciones para buscar profesionales",
+          "link": "https://www.perfil.com/noticias/economia/pami-renovo-cartilla-medica-digital-cuales-nuevas-opciones-buscar-profesionales-centros-salud-a40.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -947,7 +932,7 @@
       "cantidad_medios_competencia": 0
     },
     {
-      "tema": "Análisis de la industria del espectáculo en Córdoba ante costos en alza y consumo retraído",
+      "tema": "Absolución por legítima defensa en discusión de tránsito en Córdoba",
       "prioridad": 0,
       "tipo": "fortalezas_perfil",
       "tipo_de_oportunidad": "",
@@ -969,20 +954,20 @@
         "Página 12": 0,
         "El Cronista": 0
       },
-      "por_que_importa": "Refleja el impacto directo de la crisis económica sobre el sector cultural y del entretenimiento en el interior productivo.",
-      "insight": "Muestra la capacidad de Perfil para generar contenidos económicos y culturales con mirada federal y propia.",
+      "por_que_importa": "Trata un fallo judicial de alto impacto social y mediático que genera debate en la opinión pública.",
+      "insight": "Perfil cubrió en exclusividad los fundamentos de la absolución del automovilista, destacándose en cobertura judicial regional.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Ampliar el informe con testimonios de productores teatrales, músicos y gestores culturales locales.",
+      "accion_sugerida": "Profundizar en la jurisprudencia sobre legítima defensa en conflictos urbanos.",
       "enfoques_sugeridos": [
-        "Cómo se reconfigura la cartelera de espectáculos frente a la caída del poder adquisitivo.",
-        "Las estrategias de los productores para sostener la rentabilidad con costos dolarizados."
+        "Los argumentos del tribunal para dictar la absolución tras el homicidio vial.",
+        "El impacto del fallo en la discusión sobre la violencia urbana y vial."
       ],
       "ejemplos": [
         {
           "medio": "Perfil",
-          "titulo": "La industria del espectáculo en Córdoba: cómo se combinan más proyectos con costos en alza y consumo retraído",
-          "link": "https://www.perfil.com/noticias/cordoba/la-industria-del-espectaculo-en-cordoba-como-se-combinan-mas-proyectos-con-costos-en-alza-y-consumo-retraido.phtml"
+          "titulo": "Por legítima defensa absolvieron a un automovilista que mató a otro tras una discusión de tránsito",
+          "link": "https://www.perfil.com/noticias/cordoba/por-legitima-defensa-absolvieron-a-un-automovilista-que-mato-a-otro-tras-una-discusion-de-transito.phtml"
         }
       ],
       "medios_que_mas_publicaron": [],
@@ -992,652 +977,267 @@
   ],
   "prioridades_del_dia": [
     {
-      "tema": "Elecciones y balotaje presidencial en Brasil 2026: sondeos y recta final",
+      "tema": "Seguimiento y sondeos del balotaje presidencial en Brasil",
       "prioridad": 1,
       "tipo": "sin_cobertura_perfil",
       "tipo_de_oportunidad": "",
-      "total_notas": 9,
-      "cantidad_medios": 4,
+      "total_notas": 11,
+      "cantidad_medios": 5,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 9,
+      "competencia_total": 11,
       "medio_lider": "La Nación",
-      "cobertura_medio_lider": 6,
-      "brecha": 6,
+      "cobertura_medio_lider": 5,
+      "brecha": 5,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 6,
+        "La Nación": 5,
         "Clarín": 1,
-        "Infobae": 0,
+        "Infobae": 3,
         "TN": 0,
         "Ámbito": 1,
-        "Página 12": 1,
-        "El Cronista": 0
+        "Página 12": 0,
+        "El Cronista": 1
       },
-      "por_que_importa": "Los comicios en el país vecino son clave para la geopolítica regional y el comercio exterior argentino.",
-      "insight": "Perfil registra una ausencia total de notas, desaprovechando el interés internacional que despierta la definición electoral brasileña.",
+      "por_que_importa": "Es un hecho geopolítico regional de máxima gravedad y atención que Perfil omitió por completo frente a una fuerte cobertura de la competencia.",
+      "insight": "La competencia despliega recursos informativos constantes sobre el balotaje entre Lula y Flavio Bolsonaro, evidenciando un bache operativo en la sección internacional de Perfil.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Establecer una sección de cobertura especial sobre el balotaje y las encuestas de última hora en Brasil.",
+      "accion_sugerida": "Crear un espacio de cobertura permanente sobre la campaña brasileña y sus consecuencias para la economía argentina.",
       "enfoques_sugeridos": [
-        "El impacto económico y político de la contienda para el Mercosur.",
-        "La estrategia de los candidatos para captar al votante indeciso en los estados clave."
+        "El impacto del balotaje brasileño en el futuro comercial y político del Mercosur.",
+        "La estrategia digital y el rol de las encuestas en la recta final."
       ],
       "ejemplos": [
         {
           "medio": "La Nación",
-          "titulo": "Elecciones Brasil 2026 en vivo: encuestas, final de las campañas para el balotaje y el minuto a minuto",
-          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid21102026/"
+          "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Flavio Bolsonaro camino al balotaje",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-camino-al-balotaje-hoy-jueves-22-de-octubre-nid22102026/"
         },
         {
           "medio": "Clarín",
-          "titulo": "Elecciones Brasil vivo: quién ganó el debate, Lula, Bolsonaro, últimas encuestas y cuenta regresiva al balotaje",
-          "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-gano-debate-lula-bolsonaro-ultimas-encuestas-cuenta-regresiva-balotaje_0_EquQXd8YqM.html"
+          "titulo": "Elecciones Brasil en vivo: últimas encuestas y cuenta regresiva al balotaje",
+          "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-ultimas-encuestas-cuenta-regresiva-balotaje-lula-flavio-bolsonaro_0_j4JKRICgRe.html"
         },
         {
-          "medio": "Ámbito",
-          "titulo": "Balotaje Brasil: Lula da Silva y Flávio Bolsonaro buscan captar el voto indeciso en estados clave",
-          "link": "https://www.ambito.com/mundo/balotaje-brasil-lula-da-silva-y-flavio-bolsonaro-buscan-captar-el-voto-indeciso-estados-clave-n6336143"
+          "medio": "Infobae",
+          "titulo": "Lula afirma que Bolsonaro se tiró un farol para evitar revelar su secreto bancario",
+          "link": "https://www.infobae.com/america/agencias/2026/10/22/lula-afirma-que-bolsonaro-se-tiro-un-farol-para-evitar-revelar-su-secreto-bancario-y-acepta-sus-condiciones-nid22102026/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 4
+      "cantidad_medios_competencia": 5
     },
     {
-      "tema": "Actualización de montos y haberes de ANSES para jubilaciones y asignaciones de noviembre",
+      "tema": "Alertas meteorológicas y tormentas severas en AMBA y provincias",
       "prioridad": 2,
-      "tipo": "sin_cobertura_perfil",
+      "tipo": "perfil_pierde",
       "tipo_de_oportunidad": "",
-      "total_notas": 7,
+      "total_notas": 14,
+      "cantidad_medios": 7,
+      "cobertura_perfil": 1,
+      "perfil": 1,
+      "competencia_total": 13,
+      "medio_lider": "La Nación",
+      "cobertura_medio_lider": 4,
+      "brecha": 3,
+      "cobertura": {
+        "Perfil": 1,
+        "La Nación": 4,
+        "Clarín": 2,
+        "Infobae": 2,
+        "TN": 1,
+        "Ámbito": 0,
+        "Página 12": 3,
+        "El Cronista": 1
+      },
+      "por_que_importa": "Constituye una de las principales fuentes de tráfico orgánico y visualizaciones en Google Discover para cualquier diario digital.",
+      "insight": "Mientras la competencia satura con reportes de servicio, mapas de riesgo y horarios precisos de llegada de tormentas, Perfil se limita a una única nota genérica.",
+      "motivo": "",
+      "motivo_oportunidad": "",
+      "accion_sugerida": "Desplegar una cobertura en tiempo real con actualizaciones continuas sobre zonas afectadas y suspensión de servicios.",
+      "enfoques_sugeridos": [
+        "Minuto a minuto de la alerta naranja y caída de granizo en el AMBA y interior.",
+        "Recomendaciones oficiales de protección ante ráfagas intensas y tormentas."
+      ],
+      "ejemplos": [
+        {
+          "medio": "Perfil",
+          "titulo": "Cuándo vuelven las lluvias a la Ciudad de Buenos Aires y cómo estará el clima este 22 de octubre",
+          "link": "https://www.perfil.com/noticias/clima/cuando-vuelven-las-lluvias-a-la-ciudad-de-buenos-aires-como-estara-el-clima-este-22-de-octubre.phtml"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este jueves 22 de octubre",
+          "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-jueves-22-de-octubre-las-provincias-afectadas-nid22102026/"
+        },
+        {
+          "medio": "Clarín",
+          "titulo": "Advertencia AMBA: continúan tormentas el jueves con alerta naranja en 10 provincias",
+          "link": "https://www.clarin.com/sociedad/advertencia-amba-continuan-tormentas-jueves-alerta-naranja-10-provincias-posible-caida-granizo_0_xlhbTrQWjz.html"
+        }
+      ],
+      "medios_que_mas_publicaron": [],
+      "medios_que_cubrieron": [],
+      "cantidad_medios_competencia": 6
+    },
+    {
+      "tema": "Guía útil sobre validez de licencias de conducir digitales en Mi Argentina",
+      "prioridad": 3,
+      "tipo": "oportunidades",
+      "tipo_de_oportunidad": "",
+      "total_notas": 1,
       "cantidad_medios": 1,
       "cobertura_perfil": 0,
       "perfil": 0,
-      "competencia_total": 7,
-      "medio_lider": "La Nación",
-      "cobertura_medio_lider": 7,
-      "brecha": 7,
+      "competencia_total": 1,
+      "medio_lider": "El Cronista",
+      "cobertura_medio_lider": 1,
+      "brecha": 1,
       "cobertura": {
         "Perfil": 0,
-        "La Nación": 7,
+        "La Nación": 0,
         "Clarín": 0,
         "Infobae": 0,
         "TN": 0,
         "Ámbito": 0,
         "Página 12": 0,
-        "El Cronista": 0
+        "El Cronista": 1
       },
-      "por_que_importa": "Es información previsional de estricta utilidad práctica para millones de jubilados y beneficiarios de planes sociales.",
-      "insight": "Contenido de altísimo tráfico orgánico y rendimiento en Google Discover que Perfil dejó vacante frente a la competencia.",
+      "por_que_importa": "Es un contenido de alta demanda permanente en buscadores (SEO evergreen) que aporta tráfico constante sin depender de la coyuntura diaria.",
+      "insight": "La competencia detecta nichos de utilidad práctica que Perfil desatiende en su portada, perdiendo lectores interesados en trámites y servicios.",
       "motivo": "",
       "motivo_oportunidad": "",
-      "accion_sugerida": "Crear notas de servicio estructuradas con tablas claras de montos, bonos y fechas de cobro.",
+      "accion_sugerida": "Crear una sección permanente de guías de trámites y resolver dudas frecuentes de los ciudadanos.",
       "enfoques_sugeridos": [
-        "El impacto del bono extraordinario frente a la evolución de la inflación.",
-        "El calendario de pagos detallado para jubilados, AUH y pensiones."
+        "Cómo visualizar la licencia de conducir en la app oficial sin conexión a internet.",
+        "Qué multas se pueden evitar y cuáles son los requisitos exigidos en controles viales."
       ],
       "ejemplos": [
         {
-          "medio": "La Nación",
-          "titulo": "SUAF de Anses: el monto de las asignaciones familiares en noviembre de 2026",
-          "link": "https://www.lanacion.com.ar/economia/suaf-de-anses-el-monto-de-las-asignaciones-familiares-en-noviembre-de-2026-nid21102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Calendario y aumentos de ANSES",
-          "link": "https://www.clarin.com"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Actualización previsional y bonos",
-          "link": "https://www.infobae.com"
+          "medio": "El Cronista",
+          "titulo": "Licencia de conducir en Mi Argentina: cómo mostrarla sin internet y qué tener en cuenta en controles",
+          "link": "https://www.cronista.com/informacion-gral/licencia-de-conducir-en-mi-argentina-como-mostrarla-sin-internet-y-que-tener-en-cuenta-si-te-paran-en-un-control-de-transito/"
         }
       ],
       "medios_que_mas_publicaron": [],
       "medios_que_cubrieron": [],
       "cantidad_medios_competencia": 1
-    },
-    {
-      "tema": "Investigación sobre la desaparición de la docente en Corrientes y detenciones",
-      "prioridad": 3,
-      "tipo": "perfil_pierde",
-      "tipo_de_oportunidad": "",
-      "total_notas": 8,
-      "cantidad_medios": 4,
-      "cobertura_perfil": 1,
-      "perfil": 1,
-      "competencia_total": 7,
-      "medio_lider": "TN",
-      "cobertura_medio_lider": 3,
-      "brecha": 2,
-      "cobertura": {
-        "Perfil": 1,
-        "La Nación": 2,
-        "Clarín": 2,
-        "Infobae": 0,
-        "TN": 3,
-        "Ámbito": 0,
-        "Página 12": 0,
-        "El Cronista": 0
-      },
-      "por_que_importa": "Es un caso policial de alto impacto emocional y seguimiento masivo en la opinión pública argentina.",
-      "insight": "Mientras Perfil cuenta con una cobertura escasa, la competencia despliega múltiples notas con avances de la causa y peritajes.",
-      "motivo": "",
-      "motivo_oportunidad": "",
-      "accion_sugerida": "Reforzar el seguimiento judicial y policial con notas de actualización diaria sobre los testimonios y sospechosos.",
-      "enfoques_sugeridos": [
-        "Las contradicciones en las declaraciones de los detenidos que complican la investigación.",
-        "El recluso pedido de justicia de la familia y los rastrillajes en la zona."
-      ],
-      "ejemplos": [
-        {
-          "medio": "Perfil",
-          "titulo": "Encontraron a una mujer asesinada en una zanja tras ir a una fiesta y detuvieron a un sospechoso",
-          "link": "https://www.perfil.com/noticias/policia/encontraron-a-una-mujer-asesinada-en-una-zanja-tras-ir-a-una-fiesta-y-detuvieron-a-un-sospechoso.phtml"
-        },
-        {
-          "medio": "La Nación",
-          "titulo": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree",
-          "link": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/"
-        },
-        {
-          "medio": "Clarín",
-          "titulo": "Detienen pareja puesteros desaparición maestra correntina y puesta en escena",
-          "link": "https://www.clarin.com/policiales/detienen-pareja-puesteros-desaparicion-maestra-correntina-puesta-escena_0_WxKxDJzDd9.html"
-        }
-      ],
-      "medios_que_mas_publicaron": [],
-      "medios_que_cubrieron": [],
-      "cantidad_medios_competencia": 3
     }
   ],
   "analisis_completo": {
     "hipercompetencia": [
       {
-        "tema": "Cruce político e insultos entre Javier Milei y Pedro Sánchez con mención a Lali Espósito",
+        "tema": "Aprobación de la ley de discapacidad en Diputados",
         "prioridad": 0,
         "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
-        "total_notas": 21,
-        "cantidad_medios": 8,
-        "cobertura_perfil": 2,
-        "perfil": 2,
-        "competencia_total": 19,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 4,
-        "brecha": 2,
-        "cobertura": {
-          "Perfil": 2,
-          "La Nación": 4,
-          "Clarín": 3,
-          "Infobae": 3,
-          "TN": 2,
-          "Ámbito": 3,
-          "Página 12": 3,
-          "El Cronista": 1
-        },
-        "por_que_importa": "Es el conflicto geopolítico y cultural de mayor tracción en la agenda iberoamericana del día, con altísimo consumo en Discover y redes.",
-        "insight": "Todos los medios de la competencia cubren el tema de forma intensiva, lo que obliga a Perfil a no perder el tren de la conversación digital.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Mantener la actualización constante del minuto a minuto con análisis sobre el impacto en la relación bilateral.",
-        "enfoques_sugeridos": [
-          "El impacto económico y diplomático de la escalada verbal en España.",
-          "La reacción de la oposición y el arco político local ante los dichos del Presidente."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "La respuesta de Pedro Sánchez a Milei: me encanta este temazo argentino por fanático de Lali",
-            "link": "https://www.perfil.com/noticias/politica/la-respuesta-de-pedro-sanchez-a-milei-me-encanta-este-temazo-argentino-por-fanatico-de-lali.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Milei volvió a atacar a Pedro Sánchez en su visita a España: es un impresentable dictador",
-            "link": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-pedro-sanchez-en-su-visita-a-espana-es-un-impresentable-dictador-nid21102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Fanático: irónica respuesta de Pedro Sánchez a canción de Lali Espósito e insultos de Milei",
-            "link": "https://www.clarin.com/politica/fanatico-ironica-respuesta-pedro-sanchez-cancion-lali-esposito-insultos-milei_0_APxqGbrhcY.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 7
-      },
-      {
-        "tema": "Sesión en la Cámara de Diputados sobre propiedad privada, endeudamiento y discapacidad",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 9,
-        "cantidad_medios": 8,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 8,
-        "medio_lider": "El Cronista",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 2
-        },
-        "por_que_importa": "Define la agenda legislativa de la semana y moviliza a la audiencia interesada en la política parlamentaria nacional.",
-        "insight": "La cobertura coral demuestra que es un hito informativo ineludible para el tráfico directo y de portales de noticias.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar crónicas en desarrollo con foco en los cruces más picantes y las votaciones clave.",
-        "enfoques_sugeridos": [
-          "El porqué de la tensión oficialista para conseguir quórum y aprobar sus iniciativas.",
-          "El impacto social de los proyectos debatidos en materia de discapacidad y tierras."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Diputados: tras blindar su DNU 70 LLA lleva al recinto la ley de tierras, K, discapacidad y endeudamiento",
-            "link": "https://www.perfil.com/noticias/politica/diputados-tras-blindar-su-dnu-70-lla-lleva-al-recinto-la-ley-de-tierras-k-discapacidad-y-endeudamiento-a60.phtml"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Diputados hoy en vivo: debaten discapacidad, endeudamiento familiar e inviolabilidad de la propiedad privada",
-            "link": "https://www.clarin.com/politica/diputados-hoy-vivo-debaten-discapacidad-endeudamiento-familiar-inviolabilidad-propiedad-privada_0_Yf27T2arHZ.html"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "El oficialismo lleva a sesión en Diputados su versión de discapacidad, morosidad e inviolabilidad de la propiedad privada",
-            "link": "https://www.ambito.com/politica/el-oficialismo-lleva-sesion-diputados-su-version-discapacidad-morosidad-e-inviolabilidad-la-propiedad-privada-n6335931"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 7
-      },
-      {
-        "tema": "Actualización y cotización del dólar oficial y dólar blue",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 15,
-        "cantidad_medios": 8,
-        "cobertura_perfil": 2,
-        "perfil": 2,
-        "competencia_total": 13,
-        "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 4,
-        "brecha": 2,
-        "cobertura": {
-          "Perfil": 2,
-          "La Nación": 1,
-          "Clarín": 1,
-          "Infobae": 1,
-          "TN": 3,
-          "Ámbito": 4,
-          "Página 12": 1,
-          "El Cronista": 2
-        },
-        "por_que_importa": "Es el contenido de servicio más consultado diariamente por la audiencia argentina en buscadores.",
-        "insight": "La demanda es constante y obliga a todos los portales a mantener indicadores en tiempo real optimizados para SEO.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Actualizar los widgets y notas de cotización con subtítulos claros y datos precisos al cierre.",
-        "enfoques_sugeridos": [
-          "El comportamiento de las brechas cambiarias frente al riesgo país.",
-          "El impacto de la cotización en los precios minoristas."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "A cuánto cotiza el dólar blue hoy miércoles 21 de octubre",
-            "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-21-octubre-a50-bgd.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este",
-            "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Dólar hoy y dólar blue en vivo: a cuánto cotiza el oficial y el precio del paralelo minuto a minuto",
-            "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-21-octubre_0_3G7xxgNrsp.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 7
-      },
-      {
-        "tema": "Evolución y alertas por el fenómeno de El Niño y crecida de ríos en el Litoral",
-        "prioridad": 0,
-        "tipo": "hipercompetencia",
-        "tipo_de_oportunidad": "",
-        "total_notas": 16,
-        "cantidad_medios": 8,
+        "total_notas": 11,
+        "cantidad_medios": 7,
         "cobertura_perfil": 3,
         "perfil": 3,
-        "competencia_total": 13,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 5,
-        "brecha": 2,
+        "competencia_total": 8,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 2,
+        "brecha": 0,
         "cobertura": {
           "Perfil": 3,
-          "La Nación": 5,
-          "Clarín": 3,
-          "Infobae": 1,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 1
-        },
-        "por_que_importa": "Afecta directamente a la producción agropecuaria, infraestructura y seguridad de miles de habitantes en varias provincias.",
-        "insight": "La pluralidad de enfoques científicos y sociales genera un volumen alto de notas en los principales diarios.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Centralizar la información meteorológica en un formato visualmente atractivo para Google Discover.",
-        "enfoques_sugeridos": [
-          "Los costos económicos para el sector agropecuario por el desborde de ríos.",
-          "Las medidas preventivas de los gobiernos provinciales ante el pico del fenómeno."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "El Pacífico se vuelve 50% más azul por El Niño: qué significa para la vida marina",
-            "link": "https://www.perfil.com/noticias/clima/el-pacifico-se-vuelve-a50-mas-azul-por-el-nino-que-significa-para-la-vida-marina.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Super Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará",
-            "link": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-sobre-los-efectos-que-tendra-el-fenomeno-en-la-argentina-y-cuando-impactara-nid19102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Súper Niño 2026 en Argentina en vivo: ciudades en riesgo de inundación y llega el pico de crecida",
-            "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-ciudades-riesgo-inundacion-llega-pico-crecida_0_Dj4pnOq6Lc.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 7
-      }
-    ],
-    "perfil_pierde": [
-      {
-        "tema": "Investigación sobre la desaparición de la docente en Corrientes y detenciones",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 8,
-        "cantidad_medios": 4,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 7,
-        "medio_lider": "TN",
-        "cobertura_medio_lider": 3,
-        "brecha": 2,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 2,
-          "Clarín": 2,
-          "Infobae": 0,
-          "TN": 3,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Es un caso policial de alto impacto emocional y seguimiento masivo en la opinión pública argentina.",
-        "insight": "Mientras Perfil cuenta con una cobertura escasa, la competencia despliega múltiples notas con avances de la causa y peritajes.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Reforzar el seguimiento judicial y policial con notas de actualización diaria sobre los testimonios y sospechosos.",
-        "enfoques_sugeridos": [
-          "Las contradicciones en las declaraciones de los detenidos que complican la investigación.",
-          "El recluso pedido de justicia de la familia y los rastrillajes en la zona."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Encontraron a una mujer asesinada en una zanja tras ir a una fiesta y detuvieron a un sospechoso",
-            "link": "https://www.perfil.com/noticias/policia/encontraron-a-una-mujer-asesinada-en-una-zanja-tras-ir-a-una-fiesta-y-detuvieron-a-un-sospechoso.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree",
-            "link": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Detienen pareja puesteros desaparición maestra correntina y puesta en escena",
-            "link": "https://www.clarin.com/policiales/detienen-pareja-puesteros-desaparicion-maestra-correntina-puesta-escena_0_WxKxDJzDd9.html"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      },
-      {
-        "tema": "Salud del papa León XIV y reaparición pública en el Vaticano",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 9,
-        "cantidad_medios": 8,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 8,
-        "medio_lider": "Ámbito",
-        "cobertura_medio_lider": 2,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 1,
           "La Nación": 1,
           "Clarín": 1,
-          "Infobae": 1,
-          "TN": 1,
+          "Infobae": 0,
+          "TN": 2,
           "Ámbito": 2,
           "Página 12": 1,
           "El Cronista": 1
         },
-        "por_que_importa": "La figura papal y sus posibles visitas al país generan un interés masivo en la audiencia religiosa y general.",
-        "insight": "La competencia capitaliza cada parte médico y aparición en el papamóvil, superando la única mención de Perfil.",
+        "por_que_importa": "Es el eje político y legislativo central de la jornada, con fuerte impacto social en la agenda pública argentina.",
+        "insight": "Todos los medios principales cubrieron el tema de manera masiva, reflejando su indiscutible centralidad en la agenda.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Crear un seguimiento especial sobre la salud del sumo pontífice y las señales en torno a su viaje a Argentina.",
+        "accion_sugerida": "Mantener la cobertura minuto a minuto con análisis sobre el impacto presupuestario y las negociaciones políticas.",
         "enfoques_sugeridos": [
-          "El estado clínico del Papa tras su intervención quirúrgica pulmonar.",
-          "Los gestos hacia la Argentina que alimentan las expectativas de su visita."
+          "El mapa de acuerdos y la trastienda de la votación en la Cámara baja.",
+          "El impacto real del nuevo régimen sobre los beneficiarios y prestadores."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "El papa León XIV y su estado de salud",
-            "link": "https://www.perfil.com"
+            "titulo": "Ley de discapacidad: sin los diputados de Llaryora el Gobierno logró aprobar su proyecto con el peronismo",
+            "link": "https://www.perfil.com/noticias/cordoba/ley-de-discapacidad-sin-los-diputados-de-llaryora-el-gobierno-logro-aprobar-su-proyecto-con-el-peronismo.phtml"
           },
           {
             "medio": "La Nación",
-            "titulo": "Qué se sabe del estado de salud del papa León XIV y de su visita a la Argentina",
-            "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-del-estado-de-salud-del-papa-leon-xiv-y-de-su-visita-a-la-argentina-nid19102026/"
+            "titulo": "El oficialismo logró el apoyo del peronismo y se encamina a aprobar su proyecto de discapacidad",
+            "link": "https://www.lanacion.com.ar/politica/el-oficialismo-logro-el-apoyo-del-peronismo-y-se-encamina-a-aprobar-su-proyecto-de-discapacidad-nid21102026/"
           },
           {
             "medio": "Clarín",
-            "titulo": "Buenas señales: León XIV retomó audiencias y paseo en papamóvil ante los fieles",
-            "link": "https://www.clarin.com/mundo/buenas-senales-leon-xiv-retomo-audiencias-paseo-papamovil-fieles_0_ihhjzPkBwy.html"
+            "titulo": "Diputados en marcha: el oficialismo aprobó por tercios la nueva ley de discapacidad",
+            "link": "https://www.clarin.com/politica/diputados-marcha-gobierno-oficialismo-aprobo-tercios-nueva-ley-discapacidad_0_DSp4nPsvpj.html"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 7
+        "cantidad_medios_competencia": 6
       },
       {
-        "tema": "Trágico fallecimiento de un niño por ameba comecerebros en Catamarca",
+        "tema": "Declaración de organizaciones terroristas a bandas criminales y carteles",
         "prioridad": 0,
-        "tipo": "perfil_pierde",
-        "tipo_de_oportunidad": "",
-        "total_notas": 4,
-        "cantidad_medios": 4,
-        "cobertura_perfil": 1,
-        "perfil": 1,
-        "competencia_total": 3,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 0,
-        "cobertura": {
-          "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 1,
-          "Ámbito": 1,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Es una noticia de alto impacto sanitario y conmoción pública por lo inusual y grave del caso.",
-        "insight": "La competencia profundiza en las causas y en las medidas sanitarias tomadas, dejando a Perfil con una cobertura mínima.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar con notas de servicio y explicativas sobre los riesgos y prevención de este tipo de infecciones.",
-        "enfoques_sugeridos": [
-          "El cierre preventivo de las termas y los análisis de agua ordenados por la Justicia.",
-          "Qué es la ameba comecerebros y cuáles son los síntomas de alerta."
-        ],
-        "ejemplos": [
-          {
-            "medio": "Perfil",
-            "titulo": "Un niño de 10 años falleció a causa de la ameba come cerebros en las termas de Fiambalá",
-            "link": "https://www.perfil.com/noticias/sociedad/un-nino-de-10-anos-fallecio-a-causa-de-la-ameba-come-cerebros-en-las-termas-de-fiabala.phtml"
-          },
-          {
-            "medio": "La Nación",
-            "titulo": "Murió un niño de 10 años tras resultar infectado por una ameba comecerebros: investigan aguas",
-            "link": "https://www.lanacion.com.ar/sociedad/murio-un-nino-de-10-anos-tras-resultar-infectado-por-una-ameba-comecerebros-investigan-aguas-nid21102026/"
-          },
-          {
-            "medio": "TN",
-            "titulo": "Cerraron las termas de Catamarca tras la muerte de un nene de 10 años por la ameba comecerebros",
-            "link": "https://tn.com.ar/sociedad/2026/10/21/cerraron-las-termas-de-catamarca-tras-la-muerte-de-un-nene-de-10-anos-por-la-ameba-comecerebros/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 3
-      },
-      {
-        "tema": "Accidente y parte médico del actor Fabián Gianola",
-        "prioridad": 0,
-        "tipo": "perfil_pierde",
+        "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
         "total_notas": 5,
         "cantidad_medios": 4,
         "cobertura_perfil": 1,
         "perfil": 1,
         "competencia_total": 4,
-        "medio_lider": "TN",
+        "medio_lider": "Clarín",
         "cobertura_medio_lider": 2,
         "brecha": 1,
         "cobertura": {
           "Perfil": 1,
-          "La Nación": 1,
-          "Clarín": 0,
-          "Infobae": 1,
-          "TN": 2,
-          "Ámbito": 0,
+          "La Nación": 0,
+          "Clarín": 2,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 1,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "El espectáculo y la farándula nacional traccionan clics de manera inmediata en portales digitales.",
-        "insight": "Varios medios compiten con detalles del estado de salud del actor, mientras Perfil cubre marginalmente el hecho.",
+        "por_que_importa": "Involucra un giro geopolítico y de seguridad nacional de alto impacto impulsado por el Gobierno.",
+        "insight": "La medida generó un despliegue masivo en la prensa nacional por su peso en política exterior y seguridad.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Monitorear las declaraciones de los protagonistas y actualizar el parte médico oficial.",
+        "accion_sugerida": "Profundizar en los efectos diplomáticos y operativos de la decisión oficial.",
         "enfoques_sugeridos": [
-          "El relato del conductor del vehículo y los detalles del accidente en Zona Norte.",
-          "La intervención quirúrgica y la evolución de su fractura expuesta."
+          "El alcance legal del decreto de seguridad nacional sobre carteles internacionales.",
+          "Las reacciones de los países involucrados en la medida."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Accidente de Fabián Gianola",
-            "link": "https://www.perfil.com"
+            "titulo": "El gobierno declaró organizaciones terroristas al Cártel de Sinaloa y a otras cinco bandas criminales",
+            "link": "https://www.perfil.com/noticias/politica/el-gobierno-declaro-organizaciones-terroristas-al-cartel-de-sinaloa-y-a-otras-cinco-bandas-criminales.phtml"
           },
           {
-            "medio": "La Nación",
-            "titulo": "Fue un susto grande: el actor Fabián Gianola fue atropellado y deberá ser operado",
-            "link": "https://www.lanacion.com.ar/espectaculos/television/fue-un-susto-grande-el-actor-fabian-gianola-fueron-atropellado-y-debera-ser-operado-nid20102026/"
+            "medio": "Clarín",
+            "titulo": "Javier Milei y medidas en vivo: el Gobierno declaró organizaciones terroristas al Cártel de Sinaloa y grupos narco paramilitares",
+            "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-declaro-organizaciones-terroristas-cartel-sinaloa-grupos-narco-paramilitares_0_KpzSFarmsR.html"
           },
           {
-            "medio": "Infobae",
-            "titulo": "El testimonio de Fabián Gianola luego de ser atropellado: El conductor dijo que no estaba atento",
-            "link": "https://www.infobae.com/teleshow/2026/10/21/el-testimonio-de-fabian-gianola-luego-de-ser-atropellado-el-conductor-dijo-que-no-estaba-atento/"
+            "medio": "TN",
+            "titulo": "Javier Milei declaró terroristas a cinco organizaciones criminales y guerrilleras de México, Colombia y Ecuador",
+            "link": "https://tn.com.ar/politica/2026/10/22/javier-milei-declaro-terroristas-a-cinco-organizaciones-criminales-y-guerrilleras-de-mexico-colombia-y-ecuador/"
           }
         ],
         "medios_que_mas_publicaron": [],
         "medios_que_cubrieron": [],
         "cantidad_medios_competencia": 3
-      }
-    ],
-    "sin_cobertura_perfil": [
-      {
-        "tema": "Elecciones y balotaje presidencial en Brasil 2026: sondeos y recta final",
-        "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
-        "tipo_de_oportunidad": "",
-        "total_notas": 9,
-        "cantidad_medios": 4,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 9,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 6,
-        "brecha": 6,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 6,
-          "Clarín": 1,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 1,
-          "Página 12": 1,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Los comicios en el país vecino son clave para la geopolítica regional y el comercio exterior argentino.",
-        "insight": "Perfil registra una ausencia total de notas, desaprovechando el interés internacional que despierta la definición electoral brasileña.",
-        "motivo": "",
-        "motivo_oportunidad": "",
-        "accion_sugerida": "Establecer una sección de cobertura especial sobre el balotaje y las encuestas de última hora en Brasil.",
-        "enfoques_sugeridos": [
-          "El impacto económico y político de la contienda para el Mercosur.",
-          "La estrategia de los candidatos para captar al votante indeciso en los estados clave."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Elecciones Brasil 2026 en vivo: encuestas, final de las campañas para el balotaje y el minuto a minuto",
-            "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid21102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Elecciones Brasil vivo: quién ganó el debate, Lula, Bolsonaro, últimas encuestas y cuenta regresiva al balotaje",
-            "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-gano-debate-lula-bolsonaro-ultimas-encuestas-cuenta-regresiva-balotaje_0_EquQXd8YqM.html"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Balotaje Brasil: Lula da Silva y Flávio Bolsonaro buscan captar el voto indeciso en estados clave",
-            "link": "https://www.ambito.com/mundo/balotaje-brasil-lula-da-silva-y-flavio-bolsonaro-buscan-captar-el-voto-indeciso-estados-clave-n6336143"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 4
       },
       {
-        "tema": "Aumento del costo de la canasta básica y supermercados en provincias argentinas",
+        "tema": "Adjudicación de la venta de acciones de AySA",
         "prioridad": 0,
-        "tipo": "sin_cobertura_perfil",
+        "tipo": "hipercompetencia",
         "tipo_de_oportunidad": "",
         "total_notas": 3,
         "cantidad_medios": 3,
@@ -1657,30 +1257,30 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Refleja la realidad inflacionaria y el poder adquisitivo de los hogares en el interior del país.",
-        "insight": "La competencia aborda el tema desde enfoques económicos y de consumo, un segmento donde Perfil no aportó contenido.",
+        "por_que_importa": "Es la privatización y venta de activos estatales más relevante del plan económico actual.",
+        "insight": "La cobertura económica de este hito acaparó la atención de los principales portales de noticias y diarios económicos.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Publicar informes especiales sobre el costo de vida comparativo entre el AMBA y las distintas regiones.",
+        "accion_sugerida": "Analizar los plazos de firma, el perfil del grupo comprador y el impacto fiscal de la operación.",
         "enfoques_sugeridos": [
-          "Cuáles son las provincias donde más caro resulta llenar el changuito de compras.",
-          "El impacto de la retracción del consumo en los comercios locales."
+          "El detalle de la oferta ganadora y los próximos pasos de las privatizaciones.",
+          "El impacto en las tarifas y la prestación del servicio sanitario."
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Inflación y costo de vida en el interior",
-            "link": "https://www.lanacion.com.ar"
+            "titulo": "El Gobierno fijó la fecha para firmar la venta del 90% de las acciones de AySA por 340 millones",
+            "link": "https://www.lanacion.com.ar/economia/el-gobierno-fijo-la-fecha-para-firmar-la-venta-del-90-de-las-acciones-de-aysa-por-340-millones-de-nid22102026/"
           },
           {
             "medio": "TN",
-            "titulo": "Llenar el changuito ya cuesta más de 1 millón en cinco provincias: cómo quedó el ranking en septiembre",
-            "link": "https://tn.com.ar/economia/2026/10/21/llenar-el-changuito-ya-cuesta-mais-de-1-millon-en-cinco-provincias-como-quedo-el-ranking-en-septiembre/"
+            "titulo": "El Gobierno adjudicó el 90% de las acciones de AySA al grupo que ofertó US$340 millones y fijó cuándo se firmará el contrato",
+            "link": "https://tn.com.ar/economia/2026/10/22/el-gobierno-adjudico-el-90-de-las-acciones-de-aysa-al-grupo-que-oferto-us340-millones-y-fijo-cuando-se-firmara-el-contrato/"
           },
           {
             "medio": "Ámbito",
-            "titulo": "Inflación: qué provincias cuesta más llenar el changuito y cuáles hubo mayores aumentos mensuales",
-            "link": "https://www.ambito.com/economia/inflacion-que-provincias-cuesta-mais-llenar-el-changuito-y-cuales-hubo-mayores-aumentos-mensuales-n6336188"
+            "titulo": "Avanzan las privatizaciones: el gobierno de Javier Milei adjudicó la venta de AySA por US$340 millones",
+            "link": "https://www.ambito.com/economia/avanzan-las-privatizaciones-el-gobierno-javier-milei-adjudico-la-venta-aysa-us340-millones-n6336599"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1688,7 +1288,329 @@
         "cantidad_medios_competencia": 3
       },
       {
-        "tema": "Anuncio de preventa y llegada de la banda U2 a la Argentina",
+        "tema": "Inversión de Toyota bajo el RIGI para vehículo electrificado",
+        "prioridad": 0,
+        "tipo": "hipercompetencia",
+        "tipo_de_oportunidad": "",
+        "total_notas": 3,
+        "cantidad_medios": 3,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 2,
+        "medio_lider": "Ámbito",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 1
+        },
+        "por_que_importa": "Representa una de las inversiones industriales más importantes bajo el régimen de incentivos para grandes inversiones.",
+        "insight": "Medios económicos y generales destacaron la apuesta automotriz por su magnitud y el impacto tecnológico.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Seguir de cerca la reconversión de la planta de Zárate y el impacto en exportaciones.",
+        "enfoques_sugeridos": [
+          "El rol del RIGI como imán para la industria automotriz y la transición energética.",
+          "Los plazos de producción del nuevo vehículo electrificado en el país."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Nuevo RIGI oficializado: Toyota invertirá US$ 1.341 millones en un vehículo electrificado",
+            "link": "https://www.perfil.com/noticias/economia/nuevo-rigi-oficializado-toyota-invertira-us-1341-millones-en-un-vehiculo-electrificado-que-todavia-no-se-fabrica-en-argentina.phtml"
+          },
+          {
+            "medio": "Ámbito",
+            "titulo": "El Gobierno aprobó el ingreso de Toyota al RIGI para fabricar una pick-up híbrida en Zárate",
+            "link": "https://www.ambito.com/economia/el-gobierno-aprobo-el-ingreso-toyota-al-rigi-fabricar-una-pick-up-hibrida-zarate-n6336597"
+          },
+          {
+            "medio": "El Cronista",
+            "titulo": "El RIGI se anota otro récord: la mayor inversión en la industria automotriz y en los vehículos del futuro",
+            "link": "https://www.cronista.com/negocios/el-rigi-se-anota-otra-regla-de-inversion-en-la-industria-automotriz"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 2
+      }
+    ],
+    "perfil_pierde": [
+      {
+        "tema": "Alertas meteorológicas y tormentas severas en AMBA y provincias",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 14,
+        "cantidad_medios": 7,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 13,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 4,
+        "brecha": 3,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 4,
+          "Clarín": 2,
+          "Infobae": 2,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 3,
+          "El Cronista": 1
+        },
+        "por_que_importa": "Es un tema de servicio público esencial con altísimo tráfico orgánico y rendimiento en Google Discover.",
+        "insight": "Perfil tiene cobertura básica, mientras que la competencia despliega múltiples notas de servicio, horarios y zonas afectadas.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Ampliar la cobertura de alertas climáticas con actualizaciones constantes de servicio y mapas interactivos.",
+        "enfoques_sugeridos": [
+          "Minuto a minuto de la llegada de tormentas fuertes y caída de granizo.",
+          "Recomendaciones de seguridad y zonas bajo alerta naranja y amarilla."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Cuándo vuelven las lluvias a la Ciudad de Buenos Aires y cómo estará el clima este 22 de octubre",
+            "link": "https://www.perfil.com/noticias/clima/cuando-vuelven-las-lluvias-a-la-ciudad-de-buenos-aires-como-estara-el-clima-este-22-de-octubre.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este jueves 22 de octubre",
+            "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-jueves-22-de-octubre-las-provincias-afectadas-nid22102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Advertencia AMBA: continúan tormentas el jueves con alerta naranja en 10 provincias",
+            "link": "https://www.clarin.com/sociedad/advertencia-amba-continuan-tormentas-jueves-alerta-naranja-10-provincias-posible-caida-granizo_0_xlhbTrQWjz.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 6
+      },
+      {
+        "tema": "Gira internacional de Javier Milei en Madrid y repercusiones políticas",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 11,
+        "cantidad_medios": 6,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 10,
+        "medio_lider": "Página 12",
+        "cobertura_medio_lider": 3,
+        "brecha": 2,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 2,
+          "Clarín": 0,
+          "Infobae": 2,
+          "TN": 2,
+          "Ámbito": 1,
+          "Página 12": 3,
+          "El Cronista": 0
+        },
+        "por_que_importa": "La agenda exterior del Presidente genera polarización y alto interés en la audiencia política.",
+        "insight": "La competencia aborda la gira desde múltiples ángulos críticos y de repercusión internacional, superando la única nota de Perfil.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Monitorear con corresponsalías en Europa y sumar análisis sobre el impacto diplomático de los cruces verbales.",
+        "enfoques_sugeridos": [
+          "Las reacciones de la política española ante las declaraciones del mandatario argentino.",
+          "El balance económico y político de los encuentros bilaterales en Madrid."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Negocios, diplomacia y anticomunismo: quiénes son los enviados de Trump que se reúnen con Quirno",
+            "link": "https://www.perfil.com/noticias/politica/negocios-diplomacia-y-anticomunismo-quienes-saben-de-los-enviados-de-trump.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Javier Milei y sus medidas en vivo durante su gira en Madrid: el mandatario acusó al presidente...",
+            "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/"
+          },
+          {
+            "medio": "Página 12",
+            "titulo": "Milei mendiga fotos en Madrid y hasta los candidatos de la derecha lo desairaron",
+            "link": "https://www.pagina12.com.ar/2026/10/22/milei-mendiga-fotos-en-madrid-y-hasta-los-candidatos-de-la-derecha-lo-desairaron/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 5
+      },
+      {
+        "tema": "Avances en la investigación por el femicidio de la docente en Corrientes",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 6,
+        "cantidad_medios": 6,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 5,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 1,
+        "brecha": 0,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 1,
+          "Clarín": 1,
+          "Infobae": 1,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 1,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Los casos policiales de alto impacto con detenciones recientes traccionan masivamente en la audiencia digital.",
+        "insight": "Mientras Perfil mantiene una cobertura mínima, medios como Clarín, Infobae y TN actualizan constantemente los detalles de los operativos.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Reforzar la sección de Policiales con seguimientos en tiempo real de los avances judiciales.",
+        "enfoques_sugeridos": [
+          "El rol del capataz detenido y las pruebas recolectadas en la escena.",
+          "El reclamo de justicia de la comunidad educativa y los familiares."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Detuvieron a un capataz vinculado al femicidio de docente en Corrientes",
+            "link": "https://www.perfil.com/noticias/policia/corrientes-detencion.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Detuvieron a un capataz de estancia por el femicidio de la docente desaparecida en Corrientes",
+            "link": "https://www.lanacion.com.ar/seguridad/detuvieron-a-un-capataz-de-estancia-por-el-femicidio-de-la-docente-desaparecida-en-corrientes-nid22102026/"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Corrientes: ordenaron dos nuevas detenciones en la causa por la desaparición de la docente Nancy Godoy",
+            "link": "https://www.infobae.com/sociedad/policiales/2026/10/21/corrientes-ordenaron-dos-nuevas-detenciones-en-la-causa-por-la-desaparicion-de-la-docente-nancy-godoy/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 5
+      },
+      {
+        "tema": "Evolución y pico del fenómeno climático El Niño en Argentina",
+        "prioridad": 0,
+        "tipo": "perfil_pierde",
+        "tipo_de_oportunidad": "",
+        "total_notas": 8,
+        "cantidad_medios": 3,
+        "cobertura_perfil": 1,
+        "perfil": 1,
+        "competencia_total": 7,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 6,
+        "brecha": 5,
+        "cobertura": {
+          "Perfil": 1,
+          "La Nación": 6,
+          "Clarín": 1,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Interesa fuertemente al sector agropecuario y a la sociedad ante proyecciones de lluvias y temperaturas extremas.",
+        "insight": "La Nación y Clarín lideran la cobertura científica y de impacto regional con múltiples notas de especialistas, superando a Perfil.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Desarrollar informes especiales con referentes en climatología sobre el impacto en las distintas regiones productivas.",
+        "enfoques_sugeridos": [
+          "Cronograma de intensificación del fenómeno y alertas para el sector agropecuario.",
+          "Impacto de la nubosidad y anomalías térmicas en la primavera-verano."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Perfil",
+            "titulo": "Clima y perspectivas ante la llegada de nuevas condiciones meteorológicas",
+            "link": "https://www.perfil.com/noticias/clima/perspectivas.phtml"
+          },
+          {
+            "medio": "La Nación",
+            "titulo": "Inti Bonomo, especialista en ciencias ambientales, sobre la evolución del Súper Niño",
+            "link": "https://www.lanacion.com.ar/sociedad/inti-bonomo-especialista-en-ciencias-ambientales-sobre-la-evolucion-del-super-nino-va-a-seguir-creciendo-y-el-pico-va-a-ser-en-diciembre-nid21102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Súper Niño 2026 en Argentina en vivo: pico de fuertes lluvias y provincias afectadas",
+            "link": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-pico-fuertes-lluvias-provincias-afectadas_0_O8voSAqVpS.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 2
+      }
+    ],
+    "sin_cobertura_perfil": [
+      {
+        "tema": "Seguimiento y sondeos del balotaje presidencial en Brasil",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 11,
+        "cantidad_medios": 5,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 11,
+        "medio_lider": "La Nación",
+        "cobertura_medio_lider": 5,
+        "brecha": 5,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 5,
+          "Clarín": 1,
+          "Infobae": 3,
+          "TN": 0,
+          "Ámbito": 1,
+          "Página 12": 0,
+          "El Cronista": 1
+        },
+        "por_que_importa": "Las elecciones en el principal socio comercial de Argentina son de máxima relevancia geopolítica regional.",
+        "insight": "La Nación, Clarín e Infobae cubren exhaustivamente las encuestas y la estrategia digital, mientras Perfil está totalmente ausente.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Establecer una cobertura permanente de la coyuntura política brasileña de cara al balotaje.",
+        "enfoques_sugeridos": [
+          "El impacto de la polarización entre Lula y Flavio Bolsonaro en el Mercosur.",
+          "El rol de las redes sociales y los algoritmos en la recta final de la campaña."
+        ],
+        "ejemplos": [
+          {
+            "medio": "La Nación",
+            "titulo": "Elecciones Brasil 2026 en vivo: Lula vs. Flavio Bolsonaro camino al balotaje",
+            "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-camino-al-balotaje-hoy-jueves-22-de-octubre-nid22102026/"
+          },
+          {
+            "medio": "Clarín",
+            "titulo": "Elecciones Brasil en vivo: últimas encuestas y cuenta regresiva al balotaje",
+            "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-ultimas-encuestas-cuenta-regresiva-balotaje-lula-flavio-bolsonaro_0_j4JKRICgRe.html"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Lula afirma que Bolsonaro se tiró un farol para evitar revelar su secreto bancario",
+            "link": "https://www.infobae.com/america/agencias/2026/10/22/lula-afirma-que-bolsonaro-se-tiro-un-farol-para-evitar-revelar-su-secreto-bancario-y-acepta-sus-condiciones-nid22102026/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 5
+      },
+      {
+        "tema": "Apertura de sesiones y restricciones parciales en el Aeropuerto de Ezeiza",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
@@ -1697,43 +1619,38 @@
         "cobertura_perfil": 0,
         "perfil": 0,
         "competencia_total": 2,
-        "medio_lider": "TN",
+        "medio_lider": "La Nación",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 0,
+          "La Nación": 1,
           "Clarín": 0,
           "Infobae": 0,
           "TN": 1,
-          "Ámbito": 1,
+          "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Los grandes recitales internacionales movilizan a una enorme masa de lectores y generan altas expectativas de consumo.",
-        "insight": "Es un tema de alto rendimiento en redes sociales y buscadores que la competencia cubre activamente mientras Perfil está ausente.",
+        "por_que_importa": "Afecta directamente planes de viaje, turismo y logística de miles de pasajeros nacionales e internacionales.",
+        "insight": "La Nación y TN publicaron guías detalladas sobre los vuelos afectados por obras, un contenido muy buscado en SEO.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Desarrollar una guía útil con precios, ubicaciones y métodos de pago para los fanáticos.",
+        "accion_sugerida": "Incorporar notas de servicio sobre infraestructura aeroportuaria y reprogramación de vuelos.",
         "enfoques_sugeridos": [
-          "El impacto económico y la cotización de los tickets para shows internacionales.",
-          "Los detalles técnicos y de producción del esperado regreso de la banda."
+          "El cronograma de reducción de la pista principal y qué deben saber los pasajeros.",
+          "Demoras y alternativas para los vuelos durante los 18 días de obras."
         ],
         "ejemplos": [
           {
             "medio": "La Nación",
-            "titulo": "Conciertos internacionales en Argentina",
-            "link": "https://www.lanacion.com.ar"
+            "titulo": "Reducen la pista principal de Ezeiza por obras; los salarios registrados le ganaron a la inflación",
+            "link": "https://www.lanacion.com.ar/sociedad/reducen-la-pista-principal-de-ezeiza-por-obras-los-salarios-registrados-le-ganaron-a-la-inflacion-nid22102026/"
           },
           {
             "medio": "TN",
-            "titulo": "U2 actuará en el descanso del partido de la NFL en la víspera de Acción de Gracias",
-            "link": "https://tn.com.ar/musica/noticias/2026/10/21/u2-actuara-en-el-descanso-del-partido-de-la-nfl-en-la-víspera-de-accion-de-gracias/"
-          },
-          {
-            "medio": "Ámbito",
-            "titulo": "Preventa entradas U2 Argentina: precios, ubicaciones y cómo y dónde comprar",
-            "link": "https://www.ambito.com/espectaculos/preventa-entradas-u2-argentina-precios-ubicaciones-y-como-y-donde-comprar-n6336174"
+            "titulo": "Cierre parcial de Ezeiza por obras durante 18 días: qué vuelos se verán afectados y qué deben saber los pasajeros",
+            "link": "https://tn.com.ar/economia/2026/10/22/cierre-parcial-de-ezeiza-por-obras-durante-18-dias-que-vuelos-se-veran-afectados-y-que-deben-saber-los-pasajeros/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1741,52 +1658,95 @@
         "cantidad_medios_competencia": 2
       },
       {
-        "tema": "Actualización de montos y haberes de ANSES para jubilaciones y asignaciones de noviembre",
+        "tema": "Alerta sanitaria europea por el primer caso mortal del virus Shamonda",
         "prioridad": 0,
         "tipo": "sin_cobertura_perfil",
         "tipo_de_oportunidad": "",
-        "total_notas": 7,
+        "total_notas": 2,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
         "perfil": 0,
-        "competencia_total": 7,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 7,
-        "brecha": 7,
+        "competencia_total": 2,
+        "medio_lider": "Infobae",
+        "cobertura_medio_lider": 2,
+        "brecha": 2,
         "cobertura": {
           "Perfil": 0,
-          "La Nación": 7,
+          "La Nación": 0,
           "Clarín": 0,
-          "Infobae": 0,
+          "Infobae": 2,
           "TN": 0,
           "Ámbito": 0,
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Es información previsional de estricta utilidad práctica para millones de jubilados y beneficiarios de planes sociales.",
-        "insight": "Contenido de altísimo tráfico orgánico y rendimiento en Google Discover que Perfil dejó vacante frente a la competencia.",
+        "por_que_importa": "Los temas de salud global y nuevos virus generan gran curiosidad y tráfico en portales de noticias.",
+        "insight": "Infobae y medios internacionales cubrieron el caso registrado en Francia y el monitoreo del ECDC, sin eco en Perfil.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Crear notas de servicio estructuradas con tablas claras de montos, bonos y fechas de cobro.",
+        "accion_sugerida": "Mantener un radar activo sobre alertas sanitarias internacionales emitidas por organismos globales.",
         "enfoques_sugeridos": [
-          "El impacto del bono extraordinario frente a la evolución de la inflación.",
-          "El calendario de pagos detallado para jubilados, AUH y pensiones."
+          "Qué es el virus Shamonda y cuáles son los insectos vectores.",
+          "El grado de preocupación de las autoridades sanitarias europeas."
         ],
         "ejemplos": [
           {
-            "medio": "La Nación",
-            "titulo": "SUAF de Anses: el monto de las asignaciones familiares en noviembre de 2026",
-            "link": "https://www.lanacion.com.ar/economia/suaf-de-anses-el-monto-de-las-asignaciones-familiares-en-noviembre-de-2026-nid21102026/"
-          },
-          {
-            "medio": "Clarín",
-            "titulo": "Calendario y aumentos de ANSES",
-            "link": "https://www.clarin.com"
+            "medio": "Infobae",
+            "titulo": "El ECDC vigila la situación tras la muerte en Francia de un hombre con el virus Shamonda",
+            "link": "https://www.infobae.com/america/agencias/2026/10/22/el-ecdc-vigila-la-situacion-tras-la-muerte-en-francia-de-un-hombre-con-el-virus-shamonda-nid22102026/"
           },
           {
             "medio": "Infobae",
-            "titulo": "Actualización previsional y bonos",
-            "link": "https://www.infobae.com"
+            "titulo": "Qué se sabe del virus Shamonda tras el primer caso en humanos registrado en Francia",
+            "link": "https://www.infobae.com/salud/ciencia/2026/10/22/que-se-sabe-del-virus-shamonda-tras-el-primer-caso-en-humanos-registrado-en-francia-cuales-sonda-los-mosquitos-que-actuan-como-vectores-nid22102026/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Crisis política y destitución exprés en el gabinete de Colombia",
+        "prioridad": 0,
+        "tipo": "sin_cobertura_perfil",
+        "tipo_de_oportunidad": "",
+        "total_notas": 4,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 4,
+        "medio_lider": "Infobae",
+        "cobertura_medio_lider": 4,
+        "brecha": 4,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 4,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Muestra las tensiones institucionales y caídas de gabinetes en gobiernos latinoamericanos.",
+        "insight": "Infobae dedicó múltiples coberturas detallando la salida de Rodrigo Lara del Ministerio del Interior, un tema desatendido en Perfil.",
+        "motivo": "",
+        "motivo_oportunidad": "",
+        "accion_sugerida": "Ampliar el corredor informativo de política latinoamericana más allá de Brasil.",
+        "enfoques_sugeridos": [
+          "Los motivos detrás de la salida récord de ministros en el gobierno colombiano.",
+          "Repercusiones en el arco político y legislativo."
+        ],
+        "ejemplos": [
+          {
+            "medio": "Infobae",
+            "titulo": "Abelardo de la Espriella anunció la salida de Rodrigo Lara del Ministerio del Interior",
+            "link": "https://www.infobae.com/colombia/2026/10/22/abelardo-de-la-espriella-anuncio-la-salida-de-rodrigo-lara-del-ministerio-del-interior-y-desato-reacciones-en-los-politicos-se-dejo-utilizar-y-termino-cumpliendo-el-papel-de-titere-politico-nid22102026/"
+          },
+          {
+            "medio": "Infobae",
+            "titulo": "Rodrigo Lara salió del Ministerio del Interior y le produjo otro récord al Gobierno",
+            "link": "https://www.infobae.com/colombia/2026/10/22/rodrigo-lara-salio-del-ministerio-del-interior-y-le-produjo-otro-record-al-gobierno-de-abelardo-de-la-espriella-el-que-menos-tiempo-duro-en-el-cargo-en-la-historia-nid22102026/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1796,102 +1756,16 @@
     ],
     "oportunidades": [
       {
-        "tema": "Estrategia de inversión y rentabilidad en alquileres de verano en la Costa Atlántica",
+        "tema": "Guía útil sobre validez de licencias de conducir digitales en Mi Argentina",
         "prioridad": 0,
         "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Tendencia de consumo y turismo",
+        "tipo_de_oportunidad": "SEO Evergreen / Servicio",
         "total_notas": 1,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
         "perfil": 0,
         "competencia_total": 1,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Interesa tanto a propietarios como a turistas que planean sus vacaciones con anticipación frente a un contexto económico complejo.",
-        "insight": "Permite captar tráfico anticipado de SEO mediante guías prácticas y análisis de rentabilidad inmobiliaria.",
-        "motivo": "",
-        "motivo_oportunidad": "La temporada estival se acerca y genera un pico de búsquedas sobre inversiones inmobiliarias que ningún otro medio explotó masivamente hoy, salvo La Nación.",
-        "accion_sugerida": "Redactar un informe con consultas a martilleros sobre los destinos más rentables de la costa este año.",
-        "enfoques_sugeridos": [
-          "Qué balnearios ofrecen mayor margen de ganancia para inversores inmobiliarios.",
-          "Los precios estimados de alquileres temporarios para el próximo verano."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Alquileres de verano: qué localidades de la costa ofrecen mejor margen de ganancia para invertir",
-            "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/alquileres-de-verano-que-localidades-de-la-costa-ofrecen-mejor-margen-de-ganancia-para-invertir-nid21102026/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 1
-      },
-      {
-        "tema": "Análisis de la economía del comportamiento y psicología del contacto visual al hablar",
-        "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Bienestar y contenidos virales",
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 1,
-        "medio_lider": "La Nación",
-        "cobertura_medio_lider": 1,
-        "brecha": 1,
-        "cobertura": {
-          "Perfil": 0,
-          "La Nación": 1,
-          "Clarín": 0,
-          "Infobae": 0,
-          "TN": 0,
-          "Ámbito": 0,
-          "Página 12": 0,
-          "El Cronista": 0
-        },
-        "por_que_importa": "Apunta a nichos de lectores ávidos de autoconocimiento y análisis de vínculos personales.",
-        "insight": "Es una veta de contenido blando que fideliza lectores y genera alto tiempo de permanencia en la página.",
-        "motivo": "",
-        "motivo_oportunidad": "Los artículos de psicología cotidiana y lenguaje no verbal tienen un excelente rendimiento orgánico en redes sociales y Discover.",
-        "accion_sugerida": "Publicar una nota consultando a especialistas en psicología sobre el significado de evitar la mirada.",
-        "enfoques_sugeridos": [
-          "Qué dice la psicología sobre las personas que evitan mirar a los ojos durante una conversación.",
-          "Claves para interpretar la comunicación no verbal en las relaciones de pareja."
-        ],
-        "ejemplos": [
-          {
-            "medio": "La Nación",
-            "titulo": "Qué significa que una persona nunca te mire a los ojos cuando habla, según la psicología",
-            "link": "https://www.lanacion.com.ar/lifestyle/que-significa-que-una-persona-nunca-te-mire-a-los-ojos-cuando-habla-segun-la-psicologia-nid21102026/"
-          }
-        ],
-        "medios_que_mas_publicaron": [],
-        "medios_que_cubrieron": [],
-        "cantidad_medios_competencia": 1
-      },
-      {
-        "tema": "Apertura de nuevas rutas gastronómicas y ley de turismo en la provincia de Buenos Aires",
-        "prioridad": 0,
-        "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Turismo y economía regional",
-        "total_notas": 1,
-        "cantidad_medios": 1,
-        "cobertura_perfil": 0,
-        "perfil": 0,
-        "competencia_total": 1,
-        "medio_lider": "Ámbito",
+        "medio_lider": "El Cronista",
         "cobertura_medio_lider": 1,
         "brecha": 1,
         "cobertura": {
@@ -1900,24 +1774,24 @@
           "Clarín": 0,
           "Infobae": 0,
           "TN": 0,
-          "Ámbito": 1,
+          "Ámbito": 0,
           "Página 12": 0,
-          "El Cronista": 0
+          "El Cronista": 1
         },
-        "por_que_importa": "Impacta en pequeños emprendedores, municipios y propuestas de escapadas de fin de semana.",
-        "insight": "Ofrece la oportunidad de posicionarse en búsquedas de turismo de cercanía y gastronomía regional.",
+        "por_que_importa": "Es un contenido evergreen de alto valor práctico para conductores, excelente para posicionamiento SEO y Discover.",
+        "insight": "El Cronista cubrió la guía paso a paso para circular sin internet, un nicho de servicio que Perfil no abordó en esta jornada.",
         "motivo": "",
-        "motivo_oportunidad": "La sanción de marcos normativos para el turismo gastronómico moviliza interés local y regional en el territorio bonaerense.",
-        "accion_sugerida": "Desarrollar una nota explicativa sobre cómo funcionarán las nuevas rutas culinarias y el sello bonaerense.",
+        "motivo_oportunidad": "Contenido de utilidad práctica permanente que genera tráfico constante desde buscadores.",
+        "accion_sugerida": "Publicar manuales de servicio y preguntas frecuentes sobre trámites digitales cotidianos.",
         "enfoques_sugeridos": [
-          "El mapa de los nuevos circuitos gastronómicos impulsados por la Provincia.",
-          "El impacto económico para pymes y prestadores turísticos locales."
+          "Paso a paso para acceder a la licencia digital sin conexión a internet.",
+          "Qué documentación exige la ley en controles de tránsito para evitar multas."
         ],
         "ejemplos": [
           {
-            "medio": "Ámbito",
-            "titulo": "Rige la ley de turismo gastronómico en la Provincia: rutas culinarias y un sello de gastronomía bonaerense",
-            "link": "https://www.ambito.com/politica/rige-la-ley-turismo-gastronomico-la-provincia-rutas-culinarias-y-un-sello-gastronomia-bonaerense-n6336104"
+            "medio": "El Cronista",
+            "titulo": "Licencia de conducir en Mi Argentina: cómo mostrarla sin internet y qué tener en cuenta en controles",
+            "link": "https://www.cronista.com/informacion-gral/licencia-de-conducir-en-mi-argentina-como-mostrarla-sin-internet-y-que-tener-en-cuenta-si-te-paran-en-un-control-de-transito/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1925,10 +1799,53 @@
         "cantidad_medios_competencia": 1
       },
       {
-        "tema": "Impacto de la inteligencia artificial en el mercado de celulares económicos y gama baja",
+        "tema": "Récord de importaciones por compras vía courier en Argentina",
         "prioridad": 0,
         "tipo": "oportunidades",
-        "tipo_de_oportunidad": "Tecnología y consumo masivo",
+        "tipo_de_oportunidad": "Economía de consumo / Exclusiva",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "TN",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 1,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 0
+        },
+        "por_que_importa": "Refleja los cambios en los hábitos de consumo y comercio exterior del sector minorista.",
+        "insight": "TN reportó cifras millonarias superando registros anteriores, un dato económico relevante desatendido en Perfil.",
+        "motivo": "",
+        "motivo_oportunidad": "Permite conectar una tendencia macroeconómica con el bolsillo y las decisiones de compra del lector.",
+        "accion_sugerida": "Analizar el fenómeno del e-commerce internacional y su impacto en la balanza comercial y el consumo local.",
+        "enfoques_sugeridos": [
+          "Por qué se dispararon las compras puerta a puerta en lo que va del año.",
+          "Límites, franquicias vigentes y costos para traer productos del exterior."
+        ],
+        "ejemplos": [
+          {
+            "medio": "TN",
+            "titulo": "Las compras vía courier acumularon US$960 millones en nueve meses y superaron todo lo importado durante 2025",
+            "link": "https://tn.com.ar/economia/2026/10/22/las-compras-via-courier-acumularon-us960-millones-en-nueve-meses-y-superaron-todo-lo-importado-durante-2025/"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Estudio internacional sobre calidad de sistemas de salud y la paradoja argentina",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Sociedad y Salud / Análisis",
         "total_notas": 1,
         "cantidad_medios": 1,
         "cobertura_perfil": 0,
@@ -1947,20 +1864,63 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "",
-        "insight": "Atrae a un público tecnológico y general que busca renovar sus equipos con presupuestos acotados.",
+        "por_que_importa": "Los rankings internacionales sobre salud pública generan debate y alto engagement en la audiencia.",
+        "insight": "Clarín publicó un análisis sobre el lugar que ocupa el país en el ranking de 32 naciones, tema ausente en Perfil.",
         "motivo": "",
-        "motivo_oportunidad": "La irrupción de funciones de IA en dispositivos móviles económicos abre un debate sobre la obsolescencia y los precios.",
-        "accion_sugerida": "Analizar cómo los procesadores modernos adaptan la inteligencia artificial a teléfonos accesibles.",
+        "motivo_oportunidad": "Combina datos duros internacionales con el interés local en cuestiones de bienestar.",
+        "accion_sugerida": "Desarrollar informes de salud con infografías comparativas sobre prestaciones y eficiencia sanitaria.",
         "enfoques_sugeridos": [
-          "La crisis inesperada en la gama baja por la exigencia de hardware para IA.",
-          "Qué modelos económicos ya incorporan herramientas avanzadas de asistencia virtual."
+          "Dónde se ubica la Argentina frente a otros países en materia de calidad médica.",
+          "La paradoja entre recursos profesionales y accesibilidad al sistema."
         ],
         "ejemplos": [
           {
             "medio": "Clarín",
-            "titulo": "Celulares baratos en peligro: la crisis inesperada que desató el boom de inteligencia artificial",
-            "link": "https://www.clarin.com/tecnologia/celulares-baratos-peligro-crisis-inesperada-desato-boom-inteligencia-artificial_0_RBggzG8ezX.html"
+            "titulo": "Ranking calidad salud en 32 países: en qué lugar quedó la Argentina y la paradoja que sorprende",
+            "link": "https://www.clarin.com/sociedad/ranking-calidad-salud-32-paises-lugar-quedo-argentina-paradoja-sorprende_0_EHxmvy2642.html"
+          }
+        ],
+        "medios_que_mas_publicaron": [],
+        "medios_que_cubrieron": [],
+        "cantidad_medios_competencia": 1
+      },
+      {
+        "tema": "Aumento en la demanda de Cedear como cobertura preelectoral",
+        "prioridad": 0,
+        "tipo": "oportunidades",
+        "tipo_de_oportunidad": "Finanzas / Inversiones",
+        "total_notas": 1,
+        "cantidad_medios": 1,
+        "cobertura_perfil": 0,
+        "perfil": 0,
+        "competencia_total": 1,
+        "medio_lider": "El Cronista",
+        "cobertura_medio_lider": 1,
+        "brecha": 1,
+        "cobertura": {
+          "Perfil": 0,
+          "La Nación": 0,
+          "Clarín": 0,
+          "Infobae": 0,
+          "TN": 0,
+          "Ámbito": 0,
+          "Página 12": 0,
+          "El Cronista": 1
+        },
+        "por_que_importa": "Interesa directamente a inversores minoristas y corporativos que buscan proteger ahorros en la plaza bursátil.",
+        "insight": "El Cronista destacó el salto en la operativa bursátil, un ángulo financiero que Perfil no profundizó hoy.",
+        "motivo": "",
+        "motivo_oportunidad": "Atrae a una audiencia de alto valor comercial interesada en el manejo de carteras financieras.",
+        "accion_sugerida": "Ofrecer secciones de finanzas personales con recomendaciones de analistas de mercado.",
+        "enfoques_sugeridos": [
+          "Cómo operan los inversores locales para dolarizarse a través de la bolsa.",
+          "Los Cedear más líquidos y elegidos frente a la volatilidad."
+        ],
+        "ejemplos": [
+          {
+            "medio": "El Cronista",
+            "titulo": "La cobertura preelectoral se disparó en la Bolsa: la demanda de Cedear crece al 109%",
+            "link": "https://www.cronista.com/finanzas-mercados/la-cobertura-preelectoral-se-disparo-en-la-bolsa-la-demanda-de-cedear-crece-al-109/"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -1970,7 +1930,7 @@
     ],
     "fortalezas_perfil": [
       {
-        "tema": "Fallo judicial en Córdoba sobre la causa de Oscar González",
+        "tema": "Organización de patrimonios, herencias y testamentos",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -1992,20 +1952,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Es una causa de alto impacto político e institucional en la provincia de Córdoba que marca agenda local y nacional.",
-        "insight": "Perfil demuestra liderazgo regional absoluto al cubrir en exclusiva un tema judicial de gran sensibilidad pública.",
+        "por_que_importa": "Es un contenido de interés práctico sobre cuestiones legales y familiares que genera retención y lectura profunda.",
+        "insight": "Perfil lidera con una pieza dedicada en su edición de Córdoba, marcando agenda en contenidos de asesoramiento legal.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Sustentar la cobertura con análisis jurídicos sobre los fundamentos del fallo y las reacciones de los familiares de las víctimas.",
+        "accion_sugerida": "Ampliar este tipo de guías legales con casos prácticos y consultas a especialistas en derecho civil.",
         "enfoques_sugeridos": [
-          "Las repercusiones políticas del fallo salomónico que dictó culpabilidad sin prisión efectiva.",
-          "El reclamo de revisión por parte de la querella y el impacto en la Legislatura cordobesa."
+          "Cómo estructurar un testamento legalmente válido en la legislación argentina.",
+          "Estrategias para la planificación patrimonial familiar y prevención de litigios."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Oscar González y un fallo salomónico: culpable, pero sin cárcel",
-            "link": "https://www.perfil.com/noticias/cordoba/oscar-gonzalez-y-un-fallo-salomonico-culpable-pero-sin-carcel.phtml"
+            "titulo": "Herencias y testamentos: cómo organizar el patrimonio y decidir quién recibirá los bienes",
+            "link": "https://www.perfil.com/noticias/cordoba/herencias-y-testamentos-como-organizar-el-patrimonio-y-decidir-quien-recibira-los-bienes.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2013,7 +1973,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Designación de Itatí Demarchi en el Consejo de la Magistratura de Córdoba",
+        "tema": "Paritarias y sueldos de mecánicos para octubre de 2026",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2035,20 +1995,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Involucra nombramientos clave en la estructura judicial provincial con fuertes ramificaciones políticas.",
-        "insight": "Perfil mantiene un monitoreo institucional riguroso en Córdoba que no es replicado por el resto de los grandes medios.",
+        "por_que_importa": "Información salarial de utilidad directa para trabajadores de un sector clave, con gran tracción en búsquedas.",
+        "insight": "Perfil cubrió en exclusiva la grilla salarial y sumas no remunerativas, superando a la competencia en inmediatez de servicio.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Profundizar en los antecedentes de los nuevos magistrados y los equilibrios de poder en el Consejo.",
+        "accion_sugerida": "Mantener actualizadas las tablas paritarias de los principales gremios mes a mes.",
         "enfoques_sugeridos": [
-          "El posicionamiento político detrás de la designación celebrada por el arco municipal.",
-          "Los desafíos institucionales que deberá afrontar el organismo."
+          "Escalas salariales completas y categorías actualizadas para mecánicos.",
+          "Impacto de las sumas no remunerativas en el bolsillo de los trabajadores."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Accastello celebró que Itatí Demarchi Arballo llegue al Consejo de la Magistratura: Un orgullo para nuestra ciudad",
-            "link": "https://www.perfil.com/noticias/cordoba/accastello-celebro-que-itati-demarchi-arballo-llegue-al-consejo-de-la-magistratura-un-orgullo-para-nuestra-ciudad.phtml"
+            "titulo": "Sueldos mecánicos octubre 2026: grilla completa, básicos y sumas no remunerativas",
+            "link": "https://www.perfil.com/noticias/economia/sueldos-mecanicos-octubre-2026-grilla-completa-basicos-sumas-no-remunerativas-a40.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2056,7 +2016,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Elevación a juicio por tortura y muerte de un detenido en la cárcel de Bouwer",
+        "tema": "Renovación de la cartilla médica digital de PAMI",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2078,20 +2038,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Expone graves violaciones a los derechos humanos dentro del sistema penitenciario provincial.",
-        "insight": "La cobertura en solitario de Perfil subraya su compromiso con la crónica policial y judicial de investigación en el interior.",
+        "por_que_importa": "Afecta directamente a jubilados y pensionados, un segmento demográfico muy fiel en consumo digital.",
+        "insight": "Perfil se adelantó al publicar los detalles sobre el uso de la nueva cartilla digital, marcando una ventaja en servicio.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Seguir de cerca el proceso oral y las responsabilidades funcionales de los agentes implicados.",
+        "accion_sugerida": "Desarrollar instructivos visuales sencillos para facilitar trámites digitales a adultos mayores.",
         "enfoques_sugeridos": [
-          "Los detalles de la instrucción fiscal que determinaron la elevación a juicio por torturas seguidas de muerte.",
-          "Las condiciones de encierro y los reiterados cuestionamientos al Servicio Penitenciario."
+          "Paso a paso para buscar profesionales y centros de salud en la nueva cartilla.",
+          "Ventajas y dificultades de la digitalización de prestaciones para afiliados."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "Córdoba: elevan a juicio una causa por tortura y muerte de un detenido en la cárcel de Bouwer",
-            "link": "https://www.perfil.com/noticias/cordoba/cordoba-elevan-a-juicio-una-causa-por-tortura-y-muerte-de-un-detenido-en-la-carcel-de-bouwer.phtml"
+            "titulo": "PAMI renovó cartilla médica digital: cuáles son las nuevas opciones para buscar profesionales",
+            "link": "https://www.perfil.com/noticias/economia/pami-renovo-cartilla-medica-digital-cuales-nuevas-opciones-buscar-profesionales-centros-salud-a40.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
@@ -2099,7 +2059,7 @@
         "cantidad_medios_competencia": 0
       },
       {
-        "tema": "Análisis de la industria del espectáculo en Córdoba ante costos en alza y consumo retraído",
+        "tema": "Absolución por legítima defensa en discusión de tránsito en Córdoba",
         "prioridad": 0,
         "tipo": "fortalezas_perfil",
         "tipo_de_oportunidad": "",
@@ -2121,20 +2081,20 @@
           "Página 12": 0,
           "El Cronista": 0
         },
-        "por_que_importa": "Refleja el impacto directo de la crisis económica sobre el sector cultural y del entretenimiento en el interior productivo.",
-        "insight": "Muestra la capacidad de Perfil para generar contenidos económicos y culturales con mirada federal y propia.",
+        "por_que_importa": "Trata un fallo judicial de alto impacto social y mediático que genera debate en la opinión pública.",
+        "insight": "Perfil cubrió en exclusividad los fundamentos de la absolución del automovilista, destacándose en cobertura judicial regional.",
         "motivo": "",
         "motivo_oportunidad": "",
-        "accion_sugerida": "Ampliar el informe con testimonios de productores teatrales, músicos y gestores culturales locales.",
+        "accion_sugerida": "Profundizar en la jurisprudencia sobre legítima defensa en conflictos urbanos.",
         "enfoques_sugeridos": [
-          "Cómo se reconfigura la cartelera de espectáculos frente a la caída del poder adquisitivo.",
-          "Las estrategias de los productores para sostener la rentabilidad con costos dolarizados."
+          "Los argumentos del tribunal para dictar la absolución tras el homicidio vial.",
+          "El impacto del fallo en la discusión sobre la violencia urbana y vial."
         ],
         "ejemplos": [
           {
             "medio": "Perfil",
-            "titulo": "La industria del espectáculo en Córdoba: cómo se combinan más proyectos con costos en alza y consumo retraído",
-            "link": "https://www.perfil.com/noticias/cordoba/la-industria-del-espectaculo-en-cordoba-como-se-combinan-mas-proyectos-con-costos-en-alza-y-consumo-retraido.phtml"
+            "titulo": "Por legítima defensa absolvieron a un automovilista que mató a otro tras una discusión de tránsito",
+            "link": "https://www.perfil.com/noticias/cordoba/por-legitima-defensa-absolvieron-a-un-automovilista-que-mato-a-otro-tras-una-discusion-de-transito.phtml"
           }
         ],
         "medios_que_mas_publicaron": [],
